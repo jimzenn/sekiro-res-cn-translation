@@ -2679,8 +2679,8 @@
     },
     {
       "id": 110000,
-      "status": "from_improved",
-      "cn": "战场",
+      "status": "done",
+      "cn": "平田家年轻众收受之文\n\n　致平田家诸君\n\n　纵于何处瞥见那名忍者\n　亦不可与之过多牵连\n\n　前番城战一役，平田已陷困境\n　命在则万事在，切莫忘怀",
       "en": "A letter written by unknown Hirata member\n\n　\"To Hirata clan members,\n\n　If you see the young master's shinobi, \n　do not risk your own life.\n\n　After the castle siege, Hirata is in dire straits.\n　To salvage the clan, we must survive.\"",
       "jp": "平田の若人衆宛てに書かれた文\n\n　平田家の者へ\n\n　件の忍びを何処かで見かけても\n　あまり、関わりを持ってはならぬ\n\n　先の城攻めで、平田は窮地にある\n　命あっての物種、忘れるべからず",
       "cn_improved": "战场",
