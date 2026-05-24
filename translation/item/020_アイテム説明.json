@@ -61,7 +61,7 @@
     {
       "id": 2000,
       "status": "from_improved",
-      "cn": "龙胤御子所赐\n可死后复生之能力\n\n消耗［回生之力］，便可以使用\n\n然死之愈累，则龙胤之力愈积\n积淀，则必有所求之代价",
+      "cn": "龙胤御子所赐\n可死后复生之能力\n\n消耗【回生之力】，便可以使用\n\n然死之愈累，则龙胤之力愈积\n积淀，则必有所求之代价",
       "en": "The power to return from the dead,\ngranted by the Divine Heir\nof the Dragon's Heritage.\n\nUsed at the cost of Resurrective Power.\n\nRepeated deaths may cause the power \nof the dragon's blood to stagnate.\n\nStagnation is likely to have consequences.",
       "jp": "竜胤の御子に与えられた、\n死してなお蘇る力\n\n「回生の力」を消費することで、使用できる\n\nだが、死を重ねれば、竜胤の力は淀む\n淀みは、きっと代償を求めるだろう",
       "cn_improved": "龙胤御子所赐\n可死后复生之能力\n\n消耗【回生之力】，便可以使用\n\n然死之愈累，则龙胤之力愈积\n积淀，则必有所求之代价",
@@ -106,7 +106,7 @@
     {
       "id": 2301,
       "status": "done",
-      "cn": "出处不明，通体赤红的短刀\nＨＰ与形代为代价，将血缠于刀上\n\n为求力量而舍己之悲怆觉悟\n非有此觉悟者，无法驾驭此刀\n\n所刻之铭，曰［御赞］\n乃此短刀之真名",
+      "cn": "出处不明，通体赤红的短刀\nＨＰ与形代为代价，将血缠于刀上\n\n为求力量而舍己之悲怆觉悟\n非有此觉悟者，无法驾驭此刀\n\n所刻之铭，曰【御赞】\n乃此短刀之真名",
       "en": "A Ceremonial Tanto of unknown origin. Costs Spirit Emblems to use. \nCut into one's own flesh to acquire Bestowal effect on the Sword.\nEerily similar to the Red Mortal Blade. \nThe blade is inscribed with its true name: \"Devoted Flesh\". \nOne needs to be careful when using this item, as abandoning oneself in search of strength is a tragic thing, indeed.\n",
       "jp": "出処の知れぬ、真っ赤な短刀\nＨＰと形代を代償に、血を刀に纏わせる\n\n力のために己を捨てる哀れな覚悟\nそれを持たねば、この短刀は扱えぬ\n\n刻まれた銘は「御贄」\nそれがこの短刀の真の名",
       "cn_improved": null,
@@ -115,7 +115,7 @@
     {
       "id": 2302,
       "status": "done",
-      "cn": "出处不明，通体赤红的短刀\nＨＰ与形代为代价，将血缠于刀上\n\n为求力量而舍己之悲怆觉悟\n非有此觉悟者，无法驾驭此刀\n\n所刻之铭，曰［御赞］\n乃此短刀之真名",
+      "cn": "出处不明，通体赤红的短刀\nＨＰ与形代为代价，将血缠于刀上\n\n为求力量而舍己之悲怆觉悟\n非有此觉悟者，无法驾驭此刀\n\n所刻之铭，曰【御赞】\n乃此短刀之真名",
       "en": "A Ceremonial Tanto of unknown origin. Costs Spirit Emblems to use. \nCut into one's own flesh to acquire Bestowal effect on the Sword.\nEerily similar to the Red Mortal Blade. \nThe blade is inscribed with its true name: \"Devoted Flesh\". \nOne needs to be careful when using this item, as abandoning oneself in search of strength is a tragic thing, indeed.",
       "jp": "出処の知れぬ、真っ赤な短刀\nＨＰと形代を代償に、血を刀に纏わせる\n\n力のために己を捨てる哀れな覚悟\nそれを持たねば、この短刀は扱えぬ\n\n刻まれた銘は「御贄」\nそれがこの短刀の真の名",
       "cn_improved": null,
@@ -142,7 +142,7 @@
     {
       "id": 2400,
       "status": "from_improved",
-      "cn": "可以杀死不死之物的大太刀\n其赤色刀刃，会将拔刀者杀死一次\n无回生之力，则无法成为不死斩之主\n\n凭此不死斩\n可忍杀并断绝虫附者之性命\n\n此刀，于仙峯寺中藏匿已久\n所刻之铭，曰［拜泪］\n乃此刀真名",
+      "cn": "可以杀死不死之物的大太刀\n其赤色刀刃，会将拔刀者杀死一次\n无回生之力，则无法成为不死斩之主\n\n凭此不死斩\n可忍杀并断绝虫附者之性命\n\n此刀，于仙峯寺中藏匿已久\n所刻之铭，曰【拜泪】\n乃此刀真名",
       "en": "An odachi capable of slaying the undying.\nIts crimson blade will take the life of\nany who dares draw it.\nWithout the power of Resurrection, one\ncould not hope to wield this weapon, which\nallows one to defeat even infested beings.\n\nLong concealed within Senpou Temple,\nthe blade is inscribed with its true name:\n\"Gracious Gift of Tears.\"",
       "jp": "死なぬ者さえ殺す大太刀\nその赤き刃は、刀を抜いた者を一度殺す\n回生の力なくば、不死斬りの主とはなれぬ\n\n不死斬りならば、\n蟲憑きにとどめ忍殺をすることができる\n\nこの刀は、長く仙峯寺に秘匿されていた\n刻まれた銘は、「拝涙」\nそれがこの刀の真の名だ",
       "cn_improved": "可以杀死不死之物的大太刀\n其赤色刀刃，会将拔刀者杀死一次\n无回生之力，则无法成为不死斩之主\n\n凭此不死斩\n可忍杀并断绝虫附者之性命\n\n此刀，于仙峯寺中藏匿已久\n所刻之铭，曰【拜泪】\n乃此刀真名",
@@ -151,7 +151,7 @@
     {
       "id": 2420,
       "status": "from_improved",
-      "cn": "被称为［水生之息］\n记载着可于水中呼吸之秘术的卷轴\n可以让人潜入水中\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
+      "cn": "被称为【水生之息】\n记载着可于水中呼吸之秘术的卷轴\n可以让人潜入水中\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
       "en": "Scroll on \"Mibu Breathing\", a hidden art\nthat allows one to dive deep as well as breathe underwater.\n\nThe secret of underwater breath was taught\nby Mibu founders to those deemed worthy\nof the Fountainhead procession.\n\"Without the breath of Mibu, one who\nseeks to join the procession shall ne'er\nlay eyes upon the Divine Dragon.\"",
       "jp": "「水生の息」と呼ばれる\n水の中で呼吸する秘術を記した巻物\n水中に潜ることができるようになる\n\n水生の御初代は、\n輿入れが決まった者にのみ、\n密かにこの秘術を授けた\n\n　輿入れ望まば、水生の息\n　これ無くば、神なる竜とは見えられぬ",
       "cn_improved": "被称为【水生之息】\n记载着可于水中呼吸之秘术的卷轴\n可以让人潜入水中\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
@@ -160,7 +160,7 @@
     {
       "id": 2450,
       "status": "from_improved",
-      "cn": "忍者体术［对空忍杀］\n记载着此忍术的技书\n\n得此书，便可习得忍技\n\n    此为足不踏地之忍者，所用交战技巧之一\n    \n    对空中显露破绽者\n    跃近忍杀之术",
+      "cn": "忍者体术【对空忍杀】\n记载着此忍术的技书\n\n得此书，便可习得忍技\n\n    此为足不踏地之忍者，所用交战技巧之一\n    \n    对空中显露破绽者\n    跃近忍杀之术",
       "en": "Compendium on the Shinobi Martial Art,\n\"Anti-air Deathblow\".\nSkill unlocked upon acquiring this item.\n\n\"A technique which serves the shinobi\nwho is not bound by the earth in battle.\n\nLeap towards an opponent who has\nexposed himself in mid-air, and strike,\nkilling him before he hits the ground.\"",
       "jp": "忍びの体術「対空忍殺」について\n記された技書\n\n入手することで、スキルを習得する\n\n　これは地に足つけぬ、忍びの戦う技の一つ\n\n　中空にて隙をさらす者を、\n　飛びかかり忍殺する術だ",
       "cn_improved": "忍者体术【对空忍杀】\n记载着此忍术的技书\n\n得此书，便可习得忍技\n\n    此为足不踏地之忍者，所用交战技巧之一\n    \n    对空中显露破绽者\n    跃近忍杀之术",
@@ -178,7 +178,7 @@
     {
       "id": 2461,
       "status": "from_improved",
-      "cn": "流派技［浮舟渡］\n记载着此技的技书\n\n获得此书，便可习得武技\n\n    此流派技，连而击之如舞\n    数招压敌，其势如川流\n    \n    虽属苇名流剑技，却是异端\n    以其为外来者所传之故",
+      "cn": "流派技【浮舟渡】\n记载着此技的技书\n\n获得此书，便可习得武技\n\n    此流派技，连而击之如舞\n    数招压敌，其势如川流\n    \n    虽属苇名流剑技，却是异端\n    以其为外来者所传之故",
       "en": "Compendium on the Combat Art,\n\"Floating Passage\".\nSkill unlocked upon acquiring this item.\n\n\"Unleash attacks in a flowing, dancelike\nform, overwhelming enemies in a furor\nof graceful aggression.\nThis technique belongs to the Ashina\nsword school, though it has been deemed\nheretical due to its foreign origin.\"",
       "jp": "流派技「浮き舟渡り」について\n記された技書\n\n入手することで、スキルを習得する\n\n　これは、舞うように連撃を繰り出す流派技\n　流れるような動きと手数により敵を圧倒する\n\n　葦名流の剣技ではあるが、異端にあたる\n　外から来た者が、伝えた技ゆえに",
       "cn_improved": "流派技【浮舟渡】\n记载着此技的技书\n\n获得此书，便可习得武技\n\n    此流派技，连而击之如舞\n    数招压敌，其势如川流\n    \n    虽属苇名流剑技，却是异端\n    以其为外来者所传之故",
@@ -286,7 +286,7 @@
     {
       "id": 2503,
       "status": "from_improved",
-      "cn": "昔日记忆中盛开的常樱之花\n作为信物，丈从仙乡带回\n嫁接后盛开之樱花\n\n若欲使其归复为人，则将龙之泪与常樱之花\n喂予龙胤御子服下\n\n然尚有一事须知\n［受龙胤之血，其不死从者，将束缚其主］\n故必断绝之",
+      "cn": "昔日记忆中盛开的常樱之花\n作为信物，丈从仙乡带回\n嫁接后盛开之樱花\n\n若欲使其归复为人，则将龙之泪与常樱之花\n喂予龙胤御子服下\n\n然尚有一事须知\n【受龙胤之血，其不死从者，将束缚其主】\n故必断绝之",
       "en": "Flowers of the Everblossom that bloomed\nin an old memory.\nGrafted by Takeru, who took the branch\nfrom the Divine Realm as a parting relic.\n\nOne who seeks Purification may impart the\nDragon Tears and these flowers to the\nDivine Heir of the Dragon's Heritage,\nthus severing the shackles that bind the\nimmortal bearer of Dragon's Blood.",
       "jp": "古い記憶の中で咲いていた、常桜の花\n丈が仙郷の名残として持ち帰り、\n接いで咲かせた花である\n\n人返りを望むならば、竜の涙と常桜の花を\n竜胤の御子に飲ませれば良い\n\nそして、もう一つ\n「竜胤の血を受けた不死は、その主を縛る」\nゆえにそれを断つことだ",
       "cn_improved": "昔日记忆中盛开的常樱之花\n作为信物，丈从仙乡带回\n嫁接后盛开之樱花\n\n若欲使其归复为人，则将龙之泪与常樱之花\n喂予龙胤御子服下\n\n然尚有一事须知\n【受龙胤之血，其不死从者，将束缚其主】\n故必断绝之",
@@ -304,7 +304,7 @@
     {
       "id": 2920,
       "status": "from_improved",
-      "cn": "记载着忍者战法的传书\n\n可以习得［忍技］之诸般技能\n\n武士所不为\n足不踏地之战技、\n或是攻敌不备之隐密身法\n此乃忍技之极意",
+      "cn": "记载着忍者战法的传书\n\n可以习得【忍技】之诸般技能\n\n武士所不为\n足不踏地之战技、\n或是攻敌不备之隐密身法\n此乃忍技之极意",
       "en": "A book of secrets that details a variety of techniques employed by Shinobi.\nGrants the ability to learn \"Shinobi Style\" Skills.\n\nWithin this text are the innermost secrets of the Shinobi Arts, such as attacks performed in the air and hiding one's body to avoid detection.  Such moves could never be practiced by samurai.  \n",
       "jp": "忍びの戦う術が書かれた伝書\n\n「忍び技」のスキルを、習得できるようになる\n\n侍には真似できぬ\n地に足を付けぬ戦いの技や、\n敵に気づかれぬ隠密の身のこなしこそ、\n忍び技の極意である",
       "cn_improved": "记载着忍者战法的传书\n\n可以习得【忍技】之诸般技能\n\n武士所不为\n足不踏地之战技、\n或是攻敌不备之隐密身法\n此乃忍技之极意",
@@ -313,7 +313,7 @@
     {
       "id": 2921,
       "status": "from_improved",
-      "cn": "记载着使用忍义手之战法的传书\n\n可以习得［忍义手技］之诸般技能\n\n并非可以称为流派之物\n先有忍义手，而后方显其意之战法及体术\n\n舍弃忍者之名\n却留下难以舍弃此专研记录\n更不曾想，尚有后继之人",
+      "cn": "记载着使用忍义手之战法的传书\n\n可以习得【忍义手技】之诸般技能\n\n并非可以称为流派之物\n先有忍义手，而后方显其意之战法及体术\n\n舍弃忍者之名\n却留下难以舍弃此专研记录\n更不曾想，尚有后继之人",
       "en": "A book of secrets that details a variety of techniques for use with Shinobi Prosthetic.\nGrants the ability to learn \"Prosthetic Style\" Skills.\n\nWritten by a man who abandoned the path of the Shinobi, but could not bring himself to discard his painstaking research.  \nHe never expected to pass these on to anyone else.",
       "jp": "忍義手を使った戦いの術が書かれた伝書\n「忍び義手技」のスキルを、\n習得できるようになる\n\nこれは流派と呼べるものではない\n忍義手あればこそ意味を持つ、技や体術だ\n\n忍びを捨てた男が、\nだが捨てがたく残しておいた研鑽の記録\n受け継ぐ者など、よもやあろうとは",
       "cn_improved": "记载着使用忍义手之战法的传书\n\n可以习得【忍义手技】之诸般技能\n\n并非可以称为流派之物\n先有忍义手，而后方显其意之战法及体术\n\n舍弃忍者之名\n却留下难以舍弃此专研记录\n更不曾想，尚有后继之人",
@@ -322,7 +322,7 @@
     {
       "id": 2922,
       "status": "from_improved",
-      "cn": "苇名流的传书\n\n可以习得［苇名流］之诸般技法\n\n苇名流，乃苇名一心之交战历史\n年少一心，历经死斗\n于生死一线间磨砺剑技\n\n其后，一心将一己之技精炼整束\n称苇名流，传予苇名众",
+      "cn": "苇名流的传书\n\n可以习得【苇名流】之诸般技法\n\n苇名流，乃苇名一心之交战历史\n年少一心，历经死斗\n于生死一线间磨砺剑技\n\n其后，一心将一己之技精炼整束\n称苇名流，传予苇名众",
       "en": "A compendium of the Ashina Sword Style.\nAllows one to learn \"Ashina Style\" Skills.\n\nThe text reads like a history of Isshin Ashina's battles; when young, Isshin fought desperately time and time again, polishing his technique in the blood of his enemies.\nHe consolidated his learnings under the \"Ashina Style\" name for the sake of his clan's dominance.",
       "jp": "葦名流の伝書\n「葦名流」のスキルを、習得できるようになる\n\n葦名流は、葦名一心の戦いの歴史である\n若き一心は、ひたすらに死闘を重ね、\n命の鍔際に立つことで剣技を磨いた\n\nその後、一心は、葦名衆の為に\n己の技を研ぎ澄まし、束ね、葦名流と名付けた",
       "cn_improved": "苇名流的传书\n\n可以习得【苇名流】之诸般技法\n\n苇名流，乃苇名一心之交战历史\n年少一心，历经死斗\n于生死一线间磨砺剑技\n\n其后，一心将一己之技精炼整束\n称苇名流，传予苇名众",
@@ -331,7 +331,7 @@
     {
       "id": 2923,
       "status": "from_improved",
-      "cn": "可以习得［仙峯寺拳法］中\n诸般技能的传书\n\n仙峯寺之人，修拳法以积功德\n法者，传道解惑也\n欲以一己之身灭却佛敌\n拳与法，二者皆不可疏\n\n然，今时仙峯寺为不死所困\n法已无存，拳亦已歪曲",
+      "cn": "可以习得【仙峯寺拳法】中\n诸般技能的传书\n\n仙峯寺之人，修拳法以积功德\n法者，传道解惑也\n欲以一己之身灭却佛敌\n拳与法，二者皆不可疏\n\n然，今时仙峯寺为不死所困\n法已无存，拳亦已歪曲",
       "en": "A book of secrets that grants the ability\nto learn \"Senpou Style\" Skills.\n\nThose of the Senpou Temple mastered martial arts in the pursuit of virtue.  They considered strong fists and strict discipline essential against Buddha's enemies.  However, Senpou Temple was seized by an obsession for the Undying, which corrupted their teachings and style.",
       "jp": "「仙峯寺拳法」のスキルを、\n習得できるようになる伝書\n\n仙峯寺の者は、拳法を修めて功徳を積む\n法とは、教えのことである\n己の身一つで仏敵を打ち倒すためには、\n拳と法、どちらも欠けてはならぬ\n\nだが今や、仙峯寺は死なずに囚われた\n法は失われ、その拳もまた歪んでいる",
       "cn_improved": "可以习得【仙峯寺拳法】中\n诸般技能的传书\n\n仙峯寺之人，修拳法以积功德\n法者，传道解惑也\n欲以一己之身灭却佛敌\n拳与法，二者皆不可疏\n\n然，今时仙峯寺为不死所困\n法已无存，拳亦已歪曲",
@@ -340,7 +340,7 @@
     {
       "id": 2924,
       "status": "from_improved",
-      "cn": "秘传·苇名无心流的传书\n可以习得［秘传］之诸般技能\n\n年少一心，实乃不知止步之人\n贪婪追求愈高愈强之境界\n终成盗国霸业\n\n以其无心，是以万般流派无不容纳\n此种心境，方才是真正的一心\n是以此传书，终其一生亦不能完结",
+      "cn": "秘传·苇名无心流的传书\n可以习得【秘传】之诸般技能\n\n年少一心，实乃不知止步之人\n贪婪追求愈高愈强之境界\n终成盗国霸业\n\n以其无心，是以万般流派无不容纳\n此种心境，方才是真正的一心\n是以此传书，终其一生亦不能完结",
       "en": "A unique text of the legendary Ashina Mushin Compound Style.\nYoung Isshin would stop at nothing in his lust for power, and this single-minded search for strength ended in him taking Ashina for his own.  This is the result of combining techniques from the styles he encountered.  This drive defined Isshin's achievements and as such, this text will never be finished.",
       "jp": "秘伝・葦名無心流の伝書\n「秘伝」のスキルを習得できる\n\n若き一心は、留まることを知らぬ男であった\n貪欲に、より強さを、より高みを目指し続け\nその果てに国を盗ったのだ\n\n無心に、あらゆる流派を飲みこみ続ける\nその心持ちこそが、元来の一心である\nゆえにこの伝書、生涯未完なり",
       "cn_improved": "秘传·苇名无心流的传书\n可以习得【秘传】之诸般技能\n\n年少一心，实乃不知止步之人\n贪婪追求愈高愈强之境界\n终成盗国霸业\n\n以其无心，是以万般流派无不容纳\n此种心境，方才是真正的一心\n是以此传书，终其一生亦不能完结",
@@ -349,7 +349,7 @@
     {
       "id": 2930,
       "status": "from_improved",
-      "cn": "爱麻制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉［龙胤露滴］\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n爱麻以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
+      "cn": "爱麻制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉【龙胤露滴】\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n爱麻以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
       "en": "A Dragonrot Recovery Charm created by Emma.\n\nWith this charm, one can offer a \"Dragon's Blood Droplet\" at a Sculptor's Idol to restore all afflicted with Dragonrot back to health.\nThe charm contains a Dragonrot victim's blood, which Emma managed to purify and solidify into a bloodstone.",
       "jp": "エマが作った竜咳快復の御守り\n\nこれを持って、\n鬼仏に「竜胤の雫」を供え祈れば、\n生の力を、それを奪った者たちに返せる\nそして、竜咳に罹った者たちを快復させるのだ\n\n御守りの中には、竜咳患者の血から\nエマが精製した血石が納められている\nこの血石は、治すべき者たちを定める道標だ",
       "cn_improved": "爱麻制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉【龙胤露滴】\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n爱麻以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
@@ -502,7 +502,7 @@
     {
       "id": 3200,
       "status": "from_improved",
-      "cn": "坠落谷住民煎制的解毒药粉\n\n可以减轻并治愈异常状态［中毒］\n并一定时间内提高其耐性\n\n坠落谷底部有磁铁矿脉\n但那里亦是毒沼\n是以为了挖掘矿脉，解毒粉必不可少",
+      "cn": "坠落谷住民煎制的解毒药粉\n\n可以减轻并治愈异常状态【中毒】\n并一定时间内提高其耐性\n\n坠落谷底部有磁铁矿脉\n但那里亦是毒沼\n是以为了挖掘矿脉，解毒粉必不可少",
       "en": "A powerful antidote concocted by the \nSunken Valley clan.\n\nHeals status abnormality \"Poison\", and temporarily  increases Poison resistance.\n\nMagnetite deposits are found in the Sunken Valley, but the place is dangerously toxic.  Antidote powder is essential for anyone attempting to mine the ore.",
       "jp": "落ち谷の衆が煎じた毒消しの粉薬\n\n状態異常「中毒」の蓄積を減らして治癒し、\n一定時間、その耐性を高める\n\n落ち谷の底には磁鉄の鉱脈があるが、\nあたりは毒だまりである\nゆえに鉱脈掘りのため、毒消し粉は欠かせない",
       "cn_improved": "坠落谷住民煎制的解毒药粉\n\n可以减轻并治愈异常状态【中毒】\n并一定时间内提高其耐性\n\n坠落谷底部有磁铁矿脉\n但那里亦是毒沼\n是以为了挖掘矿脉，解毒粉必不可少",
@@ -511,7 +511,7 @@
     {
       "id": 3210,
       "status": "from_improved",
-      "cn": "治疗火伤的药粉\n\n可以减轻并治疗异常状态［炎上］\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n\n战时，作为火攻之对策\n消火粉乃是不可或缺之物",
+      "cn": "治疗火伤的药粉\n\n可以减轻并治疗异常状态【炎上】\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n\n战时，作为火攻之对策\n消火粉乃是不可或缺之物",
       "en": "Medicine for treating burns.\n\nHeals the \"Burn\" status abnormality, and for a time decreases Burn buildup, increases Burn resistance, and reduces damage from incoming Burn attacks.\n\nWhen fire is used on the battlefield,\nDousing Powder is crucial for survival.",
       "jp": "火傷治しの粉薬\n\n状態異常「炎上」の蓄積を減らして治癒し、\n一定時間、その耐性を高める\nまた、炎攻撃によるダメージを軽減する\n\n戦時には、火攻めへの備えとして、\n火消し粉は欠かせぬものである",
       "cn_improved": "治疗火伤的药粉\n\n可以减轻并治疗异常状态【炎上】\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n\n战时，作为火攻之对策\n消火粉乃是不可或缺之物",
@@ -520,7 +520,7 @@
     {
       "id": 3211,
       "status": "from_improved",
-      "cn": "内府军配备的，治疗火伤的药粉\n\n可以减轻并治疗异常状态［炎上］\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n其效果，比通常的消火粉略微高一点\n\n以变若水制造的苇名赤目\n或是因其惧怕此物，是以内府军采用火攻之法\n此药粉乃是防止烧及自身之必备药物",
+      "cn": "内府军配备的，治疗火伤的药粉\n\n可以减轻并治疗异常状态【炎上】\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n其效果，比通常的消火粉略微高一点\n\n以变若水制造的苇名赤目\n或是因其惧怕此物，是以内府军采用火攻之法\n此药粉乃是防止烧及自身之必备药物",
       "en": "Powdered medicine for treating burns,\ncarried by Interior Ministry guards.\nSlightly more effective than regular dousing powder, it heals \"Burn\" status, reduces Burn buildup, and reduces damage from incoming Burn attacks.  \nThe Ministry feared Ashina, her eyes\nbloodshot with the waters of Rejuvenation.\nThis powder acted as a ward for when the\ntime came to turn flame to her walls.",
       "jp": "内府方が備え持つ、火傷治しの粉薬\n\n状態異常「炎上」の蓄積を減らして治癒し、\n一定時間、その耐性を高める\nまた、炎攻撃によるダメージを軽減する\nその効果は、通常の火消し粉よりわずかに高い\n\n変若水で生まれる、葦名の赤目\nそれを恐れたか、内府方は火で攻め寄せた\nこれは自ら焼かれぬための備えである",
       "cn_improved": "内府军配备的，治疗火伤的药粉\n\n可以减轻并治疗异常状态【炎上】\n一定时间内提升其耐性\n并减少火炎攻击造成之伤害\n其效果，比通常的消火粉略微高一点\n\n以变若水制造的苇名赤目\n或是因其惧怕此物，是以内府军采用火攻之法\n此药粉乃是防止烧及自身之必备药物",
@@ -529,7 +529,7 @@
     {
       "id": 3220,
       "status": "from_improved",
-      "cn": "在有忌讳的工作中使用的，抑制恐惧的药粉\n\n可以减少异常状态［怖气］之积蓄\n并在一定时间内提升其耐性\n\n守墓人，介错人，或是供养众...\n从事忌讳工作之人\n皆需持有此物以防备恐惧\n\n然所谓防备，只是聊胜于无\n若当真感到恐惧，还是先将屁股藏好吧",
+      "cn": "在有忌讳的工作中使用的，抑制恐惧的药粉\n\n可以减少异常状态【怖气】之积蓄\n并在一定时间内提升其耐性\n\n守墓人，介错人，或是供养众...\n从事忌讳工作之人\n皆需持有此物以防备恐惧\n\n然所谓防备，只是聊胜于无\n若当真感到恐惧，还是先将屁股藏好吧",
       "en": "Powdered medicine for calming nerves, used by those who deal in unspeakable deeds.\nReduces \"Terror\" buildup and increases\nTerror resistance for a time.\n\nGrave keepers, executioners, the Memorial\nMob...  all who keep death close keep this\npowder closer, adhering to a simple rule:\nIf seized with fear, cover your rear.",
       "jp": "忌み仕事の者が用いる、怖気を抑える粉薬\n\n状態異常「怖気」の蓄積を減らし、\n一定時間、その耐性を高める\n\n墓守や、介錯人、あるいは供養衆…\n忌み仕事の者たちは、\n怖気への備えにこれを持つ\n\nそして備えは、今一つ。怖気したなら、尻隠せ",
       "cn_improved": "在有忌讳的工作中使用的，抑制恐惧的药粉\n\n可以减少异常状态【怖气】之积蓄\n并在一定时间内提升其耐性\n\n守墓人，介错人，或是供养众...\n从事忌讳工作之人\n皆需持有此物以防备恐惧\n\n然所谓防备，只是聊胜于无\n若当真感到恐惧，还是先将屁股藏好吧",
@@ -538,7 +538,7 @@
     {
       "id": 3230,
       "status": "from_improved",
-      "cn": "苇名众供奉于神龛的驱雷妙药\n\n一定时间内，可以减轻雷攻击所造成之伤害\n并减轻异常状态［打雷］时所受伤害\n\n雷，乃源之神鸣\n鳗虽短小，仍为龙之眷属\n是以可暂时忍耐神鸣",
+      "cn": "苇名众供奉于神龛的驱雷妙药\n\n一定时间内，可以减轻雷攻击所造成之伤害\n并减轻异常状态【打雷】时所受伤害\n\n雷，乃源之神鸣\n鳗虽短小，仍为龙之眷属\n是以可暂时忍耐神鸣",
       "en": "A miraculous drug capable of banishing lightning, offered at the Ashina Clan altar.\n\nGreatly reduces the amount of damage\nreceived from lightning attacks, as\nwell as the \"Shock\" status abnormality.\nLightning is a force of the gods.  Eels, while small, are relatives of dragons.  \nEven a god's force can be suppressed, though probably not for long.  ",
       "jp": "葦名衆が神棚に供える、雷払いの妙薬\n\n一定時間、雷攻撃によるダメージと\n状態異常「打雷」になったときの\nダメージを軽減する\n\n雷とは、源の神鳴りだ\nうなぎは、矮小なれど竜の眷属\n神鳴りも、しばらくならば抑えられよう",
       "cn_improved": "苇名众供奉于神龛的驱雷妙药\n\n一定时间内，可以减轻雷攻击所造成之伤害\n并减轻异常状态【打雷】时所受伤害\n\n雷，乃源之神鸣\n鳗虽短小，仍为龙之眷属\n是以可暂时忍耐神鸣",
@@ -547,7 +547,7 @@
     {
       "id": 3250,
       "status": "from_improved",
-      "cn": "使人中毒的药粉\n苇名忍者，自古所用之物\n\n置入口中，便可微弱［中毒］\n自身摄入毒素\n便可使其他毒素无效\n\n亦有忍者为发动某种忍术而用此药\n以其深谙用毒之心得",
+      "cn": "使人中毒的药粉\n苇名忍者，自古所用之物\n\n置入口中，便可微弱【中毒】\n自身摄入毒素\n便可使其他毒素无效\n\n亦有忍者为发动某种忍术而用此药\n以其深谙用毒之心得",
       "en": "Powdered medicine with poisonous effects used through the ages by Ashina shinobi.\n\nA weak \"Poison\" status abnormality is inflicted upon consumption.\nBy inflicting a weak poison on oneself, all other forms of poison become ineffective.  Some shinobi also use this medicine for a specific technique.  \nPoison is said to expand the mind.",
       "jp": "毒に中る粉薬\n葦名の忍びが、古くから用いたもの\n\n口にすると、弱い「中毒」にかかる\n自らの身体に毒を取り入れることで、\n他の毒を全て無効化できる\n\nある類の術のため、この薬を用いる忍びもいる\n毒も使いようと心得るゆえに",
       "cn_improved": "使人中毒的药粉\n苇名忍者，自古所用之物\n\n置入口中，便可微弱【中毒】\n自身摄入毒素\n便可使其他毒素无效\n\n亦有忍者为发动某种忍术而用此药\n以其深谙用毒之心得",
@@ -583,7 +583,7 @@
     {
       "id": 3300,
       "status": "from_improved",
-      "cn": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［中毒］积蓄值，并提高其耐性\n但无法治愈［中毒］状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
+      "cn": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【中毒】积蓄值，并提高其耐性\n但无法治愈【中毒】状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
       "en": "A curved, moss-covered gourd filled with\nmedicinal water.  Refills upon rest.\nWhile it does not heal \"Poison\" status, \nit reduces Poison buildup, and increases \nPoison resistance.  \nThis gourd was made out of necessity by \nthose that made poisonous lands their home.\nIt's said if you live there long enough,\neventually poison won't affect you at all.",
       "jp": "薬水の入った、苔むした曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「中毒」の蓄積を減らし、その耐性を高める\nただし、「中毒」状態の治癒はできない\n\n緑苔の瓢箪は、毒地に生え、毒に抗い育つ\n同じように、毒地で生まれ育つ生き物は、\n毒の影響を受けぬようになるという",
       "cn_improved": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【中毒】积蓄值，并提高其耐性\n但无法治愈【中毒】状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
@@ -592,7 +592,7 @@
     {
       "id": 3301,
       "status": "from_improved",
-      "cn": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［中毒］积蓄值，并提高其耐性\n但无法治愈［中毒］状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
+      "cn": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【中毒】积蓄值，并提高其耐性\n但无法治愈【中毒】状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
       "en": "A curved, moss-covered gourd filled with\nmedicinal water.  Refills upon rest.\nWhile it does not heal \"Poison\" status, \nit reduces Poison buildup, and increases \nPoison resistance.  \nThis gourd was made out of necessity by \nthose that made poisonous lands their home.\nIt's said if you live there long enough,\neventually poison won't affect you at all.",
       "jp": "薬水の入った、苔むした曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「中毒」の蓄積を減らし、その耐性を高める\nただし、「中毒」状態の治癒はできない\n\n緑苔の瓢箪は、毒地に生え、毒に抗い育つ\n同じように、毒地で生まれ育つ生き物は、\n毒の影響を受けぬようになるという",
       "cn_improved": "装有药水，长满绿苔的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【中毒】积蓄值，并提高其耐性\n但无法治愈【中毒】状态\n\n绿苔葫芦，生于毒地，是以可以抗毒成长\n据说，同样生长于毒地之物\n亦不会被毒所伤",
@@ -601,7 +601,7 @@
     {
       "id": 3310,
       "status": "from_improved",
-      "cn": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［炎上］积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈［炎上］状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
+      "cn": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【炎上】积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈【炎上】状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
       "en": "A curved, withered red gourd filled with medicinal water.\nThe gourd's medicine refills upon rest.\n\nReduces Burn buildup, and slightly increases Burn resistance.  It cannot heal the Burn status abnormality, however.",
       "jp": "薬水の入った、赤く枯れた曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「炎上」の蓄積を減らし、その耐性を高める\nまた、炎によるダメージを軽減する\nただし、「炎上」状態の治癒はできない\n\nこの瓢箪は、焦土より芽を出し、曲がり育つ\n故にその薬水は、炎に抗う力を持つのだろう",
       "cn_improved": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【炎上】积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈【炎上】状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
@@ -610,7 +610,7 @@
     {
       "id": 3311,
       "status": "from_improved",
-      "cn": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［炎上］积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈［炎上］状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
+      "cn": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【炎上】积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈【炎上】状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
       "en": "A curved, withered red gourd filled with medicinal water.\nThe gourd's medicine refills upon rest.\n\nReduces Burn buildup, and slightly increases Burn resistance.  It cannot heal the Burn status abnormality, however.",
       "jp": "薬水の入った、赤く枯れた曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「炎上」の蓄積を減らし、その耐性を高める\nまた、炎によるダメージを軽減する\nただし、「炎上」状態の治癒はできない\n\nこの瓢箪は、焦土より芽を出し、曲がり育つ\n故にその薬水は、炎に抗う力を持つのだろう",
       "cn_improved": "装有药水，赤色干枯的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【炎上】积蓄值，提高其耐性\n并可以减少因火炎攻击所受伤害\n但无法治愈【炎上】状态\n\n此葫芦，生于焦土，弯曲成长\n或是此故，其中药水有抗炎之功效",
@@ -619,7 +619,7 @@
     {
       "id": 3320,
       "status": "from_improved",
-      "cn": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［怖气］积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
+      "cn": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【怖气】积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
       "en": "A curved, mottled purple gourd filled with medicinal water.  Refills upon rest.\nReduces \"Terror\" status buildup, and \nincreases Terror resistance.\n\nThis gourd's twisted form was formed with\nuse in graveyards, corpse-strewn battlefields,\nand other forlorn places of death.\nIt follows then that drinking its waters can help prevent the onset of Terror.\n",
       "jp": "薬水の入った、まだらな紫の曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「怖気」の蓄積を減らし、その耐性を高める\n\nこの瓢箪は、墓場や戦場跡といった\n忌み場で芽吹き、曲がり育つ\n故にその薬水は、怖気に抗う力を持つのだろう",
       "cn_improved": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【怖气】积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
@@ -628,7 +628,7 @@
     {
       "id": 3321,
       "status": "from_improved",
-      "cn": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻［怖气］积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
+      "cn": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【怖气】积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
       "en": "A curved, mottled purple gourd filled with medicinal water.  Refills upon rest.\nReduces \"Terror\" status buildup, and \nincreases Terror resistance.\n\nThis gourd's twisted form was formed with\nuse in graveyards, corpse-strewn battlefields,\nand other forlorn places of death.\nIt follows then that drinking its waters can help prevent the onset of Terror.\n",
       "jp": "薬水の入った、まだらな紫の曲がり瓢箪\n休息することで、瓢箪の薬水は再び満たされる\n\n「怖気」の蓄積を減らし、その耐性を高める\n\nこの瓢箪は、墓場や戦場跡といった\n忌み場で芽吹き、曲がり育つ\n故にその薬水は、怖気に抗う力を持つのだろう",
       "cn_improved": "装有药水，紫色斑驳的歪嘴葫芦\n通过休息，就可以再次填满葫芦中的药水\n\n可以减轻【怖气】积蓄值，并提高其耐性\n\n此葫芦，据说生于墓地或是战场遗迹\n在此等禁忌之地发芽，弯曲成长\n或是此故，其中药水有抑制恐惧之功效",
@@ -637,7 +637,7 @@
     {
       "id": 3350,
       "status": "from_improved",
-      "cn": "将［阿攻］降灵于己身者，其无首之遗魂\n短时间内，强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n降灵，虽可暂借非人御灵之力\n然若无凭代之物，则终将堕入疯狂",
+      "cn": "将【阿攻】降灵于己身者，其无首之遗魂\n短时间内，强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n降灵，虽可暂借非人御灵之力\n然若无凭代之物，则终将堕入疯狂",
       "en": "Fallen, headless spirit of Ako that increases\nVitality and Posture damage for a time.\nConsume Spirit Emblems to use repeatedly.\n\nHeadless are the ruined form of corrupted\nheroes who once fought for their country.\n\nSeize the power of an inhuman spirit by\nlaying it to rest, but risk going quite\nmad unless something is offered in return.",
       "jp": "「阿攻」を身に降ろす、首無しの遺魂\n一時、攻撃力と体幹攻撃力を強化する\n形代を消費すれば、何度でも使用できる\n\n首無しは、かつて護国のため、\n道を踏み外した勇者の成れの果て\n\n人ならぬ御霊は、降ろせば力となるが、\n代わりに差し出すものなくば、やがて狂う",
       "cn_improved": "将【阿攻】降灵于己身者，其无首之遗魂\n短时间内，强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n降灵，虽可暂借非人御灵之力\n然若无凭代之物，则终将堕入疯狂",
@@ -646,7 +646,7 @@
     {
       "id": 3360,
       "status": "from_improved",
-      "cn": "将［夜叉戮］降灵于己身者，其无首之遗魂\n短时间内，会大幅度减少ＨＰ和体干\n但亦会大幅度强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n此勇者，本应作为双子出生\n若是二人皆在，想必不会败于宫之贵族...",
+      "cn": "将【夜叉戮】降灵于己身者，其无首之遗魂\n短时间内，会大幅度减少ＨＰ和体干\n但亦会大幅度强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n此勇者，本应作为双子出生\n若是二人皆在，想必不会败于宫之贵族...",
       "en": "Fallen, headless spirit of Yashariku.\nBriefly sacrifice max Vitality and Posture\nwhile gaining a large Attack Power boost.\nConsume Spirit Emblems to use repeatedly.\n\nHeadless are the ruined form of corrupted\nheroes who once fought for their country.\nThis brave soul's twin was lost in utero.\nHe may not have fallen to the palace\nnobles had his sibling been at his side...",
       "jp": "「夜叉戮」を身に降ろす、首無しの遺魂\n一時、最大ＨＰと体幹が大きく減少するが、\n攻撃力と体幹攻撃力を大きく強化する\n形代を消費すれば、何度でも使用できる\n\n首無しは、かつて護国のため、\n道を踏み外した勇者の成れの果て\n\nこの勇者は、双子として生まれるはずだった\n二人いたならば、宮の貴族に敗れるなどは…",
       "cn_improved": "将【夜叉戮】降灵于己身者，其无首之遗魂\n短时间内，会大幅度减少ＨＰ和体干\n但亦会大幅度强化攻击力和体干攻击力\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n此勇者，本应作为双子出生\n若是二人皆在，想必不会败于宫之贵族...",
@@ -655,7 +655,7 @@
     {
       "id": 3370,
       "status": "from_improved",
-      "cn": "将［吽护］降灵于己身者，其无首之遗魂\n短时间内，减轻因物理攻击受到的伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n因护国而疯狂之勇者\n意图叛乱而被斩首，其身沉于护城河中",
+      "cn": "将【吽护】降灵于己身者，其无首之遗魂\n短时间内，减轻因物理攻击受到的伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n因护国而疯狂之勇者\n意图叛乱而被斩首，其身沉于护城河中",
       "en": "Fallen, headless spirit of Ungo that \nreduces Vitality damage taken from \nphysical attacks.\nConsume Spirit Emblems to use repeatedly.\nHeadless are the ruined form of corrupted\nheroes who once fought for their country.\nThis warrior lost his mind in defense of\nthe state.  His attempted mutiny was met\nwith a swift beheading, and the lifeless\nbody sunk to the bottom of the moat.",
       "jp": "「吽護」を身に降ろす、首無しの遺魂\n一時、物理攻撃によるＨＰダメージを軽減する\n形代を消費すれば、何度でも使用できる\n\n首無しは、かつて護国のため、\n道を踏み外した勇者の成れの果て\n\n護国に狂った武者は、\n乱を企て首を刎ねられ、その身は堀に沈んだ",
       "cn_improved": "将【吽护】降灵于己身者，其无首之遗魂\n短时间内，减轻因物理攻击受到的伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n因护国而疯狂之勇者\n意图叛乱而被斩首，其身沉于护城河中",
@@ -664,7 +664,7 @@
     {
       "id": 3380,
       "status": "from_improved",
-      "cn": "将［刚干］降灵于己身者，其无首之遗魂\n短时间内，减轻受到的体干伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n镇魂之首冢虽在，却已久疏参拜",
+      "cn": "将【刚干】降灵于己身者，其无首之遗魂\n短时间内，减轻受到的体干伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n镇魂之首冢虽在，却已久疏参拜",
       "en": "Fallen, headless spirit of Gokan.\nReduces Posture damage taken for a time.\nConsume Spirit Emblems to use repeatedly.\n\nHeadless are the ruined form of corrupted\nheroes who once fought for their country.\n\nDedicated burial mounds quietly appease\nthe spirits with severed heads, though\nnone call upon them for long.",
       "jp": "「剛幹」を身に降ろす、首無しの遺魂\n一時、体幹ダメージを軽減する\n形代を消費すれば、何度でも使用できる\n\n首無しは、かつて護国のため、\n道を踏み外した勇者の成れの果て\n\n鎮めの首塚はあるが、長く参るものはいない",
       "cn_improved": "将【刚干】降灵于己身者，其无首之遗魂\n短时间内，减轻受到的体干伤害\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n镇魂之首冢虽在，却已久疏参拜",
@@ -673,7 +673,7 @@
     {
       "id": 3390,
       "status": "from_improved",
-      "cn": "将［月隐］降灵于己身者，其无首之遗魂\n短时间内，隐藏声音及气息\n变得不易被敌人发现\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n吾已狂矣\n勇者自悟，遂隐于林野深处",
+      "cn": "将【月隐】降灵于己身者，其无首之遗魂\n短时间内，隐藏声音及气息\n变得不易被敌人发现\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n吾已狂矣\n勇者自悟，遂隐于林野深处",
       "en": "Fallen, headless spirit of Gachiin.\nSuppresses sound and presence,\nmaking the user harder to detect.\nConsume Spirit Emblems to use repeatedly.\n\nHeadless are the ruined form of corrupted\nheroes who once fought for their country.\n\n\"I'm falling to pieces,\" said the man to\nhimself, drifting deep into the forest.",
       "jp": "「月隠」を身に降ろす、首無しの遺魂\n一時、音と気配を殺し、\n敵に見つかりにくくなる\n形代を消費すれば、何度でも使用できる\n\n首無しは、かつて護国のため、\n道を踏み外した勇者の成れの果て\n\n己がもう狂っている\nそれを悟り、男は一人、森奥へ消えた",
       "cn_improved": "将【月隐】降灵于己身者，其无首之遗魂\n短时间内，隐藏声音及气息\n变得不易被敌人发现\n消耗形代，即可无限使用\n\n无首，乃彼时护国之勇者\n却误入歧途，而致如此惨状\n\n吾已狂矣\n勇者自悟，遂隐于林野深处",
@@ -682,7 +682,7 @@
     {
       "id": 3400,
       "status": "from_improved",
-      "cn": "仙峯寺所制，可受到［阿攻］加护的糖\n短时间内，强化攻击力和体干攻击力\n\n紧咬此糖，并摆出［阿攻］之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐",
+      "cn": "仙峯寺所制，可受到【阿攻】加护的糖\n短时间内，强化攻击力和体干攻击力\n\n紧咬此糖，并摆出【阿攻】之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐",
       "en": "Sugar candy made in Senpou Temple,\nsustaining Ako's blessing.\nBoosts Attack Power for a time.\n\nBite the candy and take the Ako stance\nto impart its inhuman benediction.\n\nThe spirits embody excess karma.\nOne must bite down hard on the candy\nand endure what has been brought to pass.",
       "jp": "仙峯寺が作る「阿攻」の加護を受ける飴\n一時、攻撃力と体幹攻撃力を強化する\n\n飴を噛みしめ、「阿攻」に構えることで\n人ならぬ御霊の加護を自らに降ろす\n\n御霊降ろしは、人の身に余る御業\nゆえに飴を噛み締め、こらえるのだ",
       "cn_improved": "仙峯寺所制，可受到【阿攻】加护的糖\n短时间内，强化攻击力和体干攻击力\n\n紧咬此糖，并摆出【阿攻】之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐",
@@ -691,7 +691,7 @@
     {
       "id": 3410,
       "status": "from_improved",
-      "cn": "仙峯寺所制，可受到［夜叉戮］加护的糖\n短时间内，会大幅度减少最大ＨＰ和体干\n但也会大幅度强化攻击力和体干攻击力\n\n紧咬此糖，并摆出［夜叉戮］之架势\n如此，可使非人御灵之加护降临己身\n\n夜叉戮糖，乃是仙峯寺禁制之物\n然探求不死耗资甚重\n此物亦流传寺外，以换取善款",
+      "cn": "仙峯寺所制，可受到【夜叉戮】加护的糖\n短时间内，会大幅度减少最大ＨＰ和体干\n但也会大幅度强化攻击力和体干攻击力\n\n紧咬此糖，并摆出【夜叉戮】之架势\n如此，可使非人御灵之加护降临己身\n\n夜叉戮糖，乃是仙峯寺禁制之物\n然探求不死耗资甚重\n此物亦流传寺外，以换取善款",
       "en": "Sugar candy made in Senpou Temple,\nsustaining Yashariku's blessing.\nHalves max Vitality and Posture,\nwhile granting a large Attack Power boost.\n\nBite the candy and take the Yashariku\nstance to impart its inhuman benediction.\nForbidden at the temple, this candy was\ndistributed far and wide in exchange for\ndonations towards costly undying research.",
       "jp": "仙峯寺が作る「夜叉戮」の加護を受ける飴\n一時、最大ＨＰと体幹が大きく減少するが、\n攻撃力と体幹攻撃力を大きく強化する\n\n飴を噛みしめ、「夜叉戮」に構えることで\n人ならぬ御霊の加護を自らに降ろす\n\n夜叉戮の飴は、仙峯寺で禁制とされる\nだが、死なずの探求は金を食う\n寄進と引き換えに、寺外にもばらまかれた",
       "cn_improved": "仙峯寺所制，可受到【夜叉戮】加护的糖\n短时间内，会大幅度减少最大ＨＰ和体干\n但也会大幅度强化攻击力和体干攻击力\n\n紧咬此糖，并摆出【夜叉戮】之架势\n如此，可使非人御灵之加护降临己身\n\n夜叉戮糖，乃是仙峯寺禁制之物\n然探求不死耗资甚重\n此物亦流传寺外，以换取善款",
@@ -700,7 +700,7 @@
     {
       "id": 3420,
       "status": "from_improved",
-      "cn": "仙峯寺所制，可受到［吽护］加护的糖\n短时间内，减轻因物理攻击受到的伤害\n\n紧咬此糖，并摆出［吽护］之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐\n仙峯寺，赐予护国勇者之物\n是以此糖广传于苇名",
+      "cn": "仙峯寺所制，可受到【吽护】加护的糖\n短时间内，减轻因物理攻击受到的伤害\n\n紧咬此糖，并摆出【吽护】之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐\n仙峯寺，赐予护国勇者之物\n是以此糖广传于苇名",
       "en": "Sugar candy made in Senpou Temple,\nsustaining Ungo's blessing.\nTemporarily reduces Vitality damage \ntaken from physical attacks.\nBite the candy and take the Ungo stance\nto impart its inhuman benediction.\nBy doing so, you endure the excess karma\nof man from the spirits within.\nSenpou monks spread this candy across\nAshina in honor of her military heroes.",
       "jp": "「吽護」の加護を受ける飴\n一時、物理攻撃によるＨＰダメージを軽減する\n\n飴を噛みしめ、「吽護」に構えることで\nその加護を自らに降ろす\n\n御霊降ろしは、人の身に余る御業\nゆえに飴を噛み締め、こらえるのだ\n仙峯寺は護国の勇者たちのため、\nこれを葦名に広めた",
       "cn_improved": "仙峯寺所制，可受到【吽护】加护的糖\n短时间内，减轻因物理攻击受到的伤害\n\n紧咬此糖，并摆出【吽护】之架势\n如此，可使非人御灵之加护降临己身\n\n所谓降灵，乃是凡体不应承受之业\n是以须紧咬此糖，方可忍耐\n仙峯寺，赐予护国勇者之物\n是以此糖广传于苇名",
@@ -709,7 +709,7 @@
     {
       "id": 3430,
       "status": "from_improved",
-      "cn": "猎忍之弥山院所制，并贩卖之物\n可受到［刚干］加护的糖\n短时间内，减轻所受的体干伤害\n\n紧咬此糖，并摆出［刚干］之架势\n如此，可使非人御灵之加护降临己身\n\n弥山院僧人，深得猎忍之精髓\n若与忍者交战\n其要，断不可倾自身之轴",
+      "cn": "猎忍之弥山院所制，并贩卖之物\n可受到【刚干】加护的糖\n短时间内，减轻所受的体干伤害\n\n紧咬此糖，并摆出【刚干】之架势\n如此，可使非人御灵之加护降临己身\n\n弥山院僧人，深得猎忍之精髓\n若与忍者交战\n其要，断不可倾自身之轴",
       "en": "Sugar candy made by Shinobi Hunters of\nMisen Temple, sustaining Gokan's blessing.\nReduces Posture damage taken for a time.\n\nBite the candy and take the Gokan stance\nto impart its inhuman benediction.\n\nMisen monks are well-versed in the art of\nkilling shinobi; an undertaking that\ndemands a body with an unshakable core.",
       "jp": "忍び狩りの弥山院が作り、卸している\n「剛幹」の加護を受ける飴\n一時、体幹ダメージを軽減する\n\n飴を噛みしめ、「剛幹」に構えることで\nその加護を自らに降ろす\n\n弥山院の者は、忍び狩りの術を心得る\n忍びと戦うならば、\n体の軸をぶらさぬのが肝要だ",
       "cn_improved": "猎忍之弥山院所制，并贩卖之物\n可受到【刚干】加护的糖\n短时间内，减轻所受的体干伤害\n\n紧咬此糖，并摆出【刚干】之架势\n如此，可使非人御灵之加护降临己身\n\n弥山院僧人，深得猎忍之精髓\n若与忍者交战\n其要，断不可倾自身之轴",
@@ -718,7 +718,7 @@
     {
       "id": 3440,
       "status": "from_improved",
-      "cn": "仙峯上人授予乱波众的糖\n短时间内，可以消除声音和气息\n变得不易被敌人发现\n\n紧咬此糖，并摆出［月隐］之架势\n如此，可使非人御灵之加护降临己身\n\n乱波众，担任仙峯寺暗中诸事之责\n原本是守护寺院之忍者\n如今却是探求不死之爪牙",
+      "cn": "仙峯上人授予乱波众的糖\n短时间内，可以消除声音和气息\n变得不易被敌人发现\n\n紧咬此糖，并摆出【月隐】之架势\n如此，可使非人御灵之加护降临己身\n\n乱波众，担任仙峯寺暗中诸事之责\n原本是守护寺院之忍者\n如今却是探求不死之爪牙",
       "en": "The High Senpou priest gave this candy\nto a band of short but adept assassins.\nSuppresses sound and presence for a time,\nmaking the user harder to detect.\n\nBite the candy and take the Gachiin stance\nto impart its inhuman benediction.\nThe assassins do Senpou's dirty work.\nOnce hired guards, now extensions of the\nmonks' will in their quest for undeath.",
       "jp": "仙峯上人が、らっぱ衆に授けた飴\n一時、音と気配を殺し、\n敵に見つかりにくくなる\n\n飴を噛みしめ、「月隠」の構えを取ることで\nその加護を自らに降ろす\n\nらっぱの衆は、仙峯寺の裏の仕事を担う\n元は寺を護るための忍びであったが、\n今は、死なずの探求の手足である",
       "cn_improved": "仙峯上人授予乱波众的糖\n短时间内，可以消除声音和气息\n变得不易被敌人发现\n\n紧咬此糖，并摆出【月隐】之架势\n如此，可使非人御灵之加护降临己身\n\n乱波众，担任仙峯寺暗中诸事之责\n原本是守护寺院之忍者\n如今却是探求不死之爪牙",
@@ -754,7 +754,7 @@
     {
       "id": 3520,
       "status": "from_improved",
-      "cn": "普通的油\n盛放的瓦罐若破裂，便会向四周飞溅\n\n泼到敌人身上可使对方更易燃\n能提升火焰所造成的ＨＰ伤害\n并同时削弱［炎上］抗性",
+      "cn": "普通的油\n盛放的瓦罐若破裂，便会向四周飞溅\n\n泼到敌人身上可使对方更易燃\n能提升火焰所造成的ＨＰ伤害\n并同时削弱【炎上】抗性",
       "en": "Plain oil.\nWhen the jar breaks,\nthe oil covers everything nearby.\n\nEnemies doused in oil are easily\nset alight, causing them to take additional Vitality damage from fire attacks and \nmaking them more vulnerable to \nthe Burn status abnormality.",
       "jp": "ただの油\n壺が割れたら、あたりに飛び散る\n\n敵の身体にかけることで燃えやすくし、\n炎によるＨＰダメージを上昇させるとともに\n「炎上」耐性を弱める",
       "cn_improved": "普通的油\n盛放的瓦罐若破裂，便会向四周飞溅\n\n泼到敌人身上可使对方更易燃\n能提升火焰所造成的ＨＰ伤害\n并同时削弱【炎上】抗性",
@@ -853,7 +853,7 @@
     {
       "id": 3635,
       "status": "done",
-      "cn": "使用即可承受义父之加护于身\n\n加护期间使用［雾鸦］\n可多耗一份形代，于短时间内召唤义父之幻影\n\n然而，于鬼佛处休息，加护即消",
+      "cn": "使用即可承受义父之加护于身\n\n加护期间使用【雾鸦】\n可多耗一份形代，于短时间内召唤义父之幻影\n\n然而，于鬼佛处休息，加护即消",
       "en": "Using this item will activate the blessing.\n\nWith the blessing active, every mist raven occurance will summon Owl briefly as a memory.\n\nCosts 2 spirit emblems per cast.\n\nTo disable the blessing, rest at a Sculptor's Idol.\n",
       "jp": "使えば、義父の加護をその身に受けられる\n\n加護を受けているときに「霧がらす」を使用すると、\n形代を余分に消費する代わりに、短時間だけ義父のまぼろしを召喚できる\n\nただし、鬼仏で休息すると加護は消えてしまう",
       "cn_improved": null,
@@ -862,7 +862,7 @@
     {
       "id": 3640,
       "status": "from_improved",
-      "cn": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生纸气球\n\n割破并叩拜此白色水生纸气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n［貉，给天吉］",
+      "cn": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生纸气球\n\n割破并叩拜此白色水生纸气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n【貉，给天吉】",
       "en": "Mibu balloon made in the year of the\nDragonspring pilgrimage, sealed with\na prayer for healthy upbringing.\n\nBurst the white Mibu balloon\nwhile clasping one's hands in prayer.\nThose splashed with the water will enjoy\nincreased gains of all sorts for a time.\nOn it is crudely scrawled:\n\"To Tenkichi, from Badger\".",
       "jp": "竜泉詣での年に、\n子の健やかな成長を願って作るミブ風船\n\nこの白いミブ風船を割り拝み、\nその水を浴びたものは、\n一時的にすべての入手量と入手確率が上昇する\n\n下手な字で、何か書かれている\n「ムジナから、テン吉へ」と読める",
       "cn_improved": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生气球\n\n割破并叩拜此白色水生气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n【貉，给天吉】",
@@ -916,7 +916,7 @@
     {
       "id": 3722,
       "status": "done",
-      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与［武士大将  山内典膳］无限次再战\n\n正合修习与试玩之用",
+      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与【武士大将  山内典膳】无限次再战\n\n正合修习与试玩之用",
       "en": "Use this item next to Hanbei at the Dilapidated Temple.\n\nThis will summon Tenzen Yamauchi to refight as many times as the Wolf wishes.\n\nUsed for feedback and practice.",
       "jp": "このアイテムは、荒れ寺の賽銭箱近くでのみ使用できる\n\n使えば、何度でも「侍大将　山内典膳」と再戦できる\n\n修練やＭＯＤの評価にうってつけだろう",
       "cn_improved": null,
@@ -925,7 +925,7 @@
     {
       "id": 3723,
       "status": "done",
-      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与［赤鬼］无限次再战\n\n正合修习与试玩之用",
+      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与【赤鬼】无限次再战\n\n正合修习与试玩之用",
       "en": "Use this item next to Hanbei at the Dilapidated Temple.\n\nThis will summon Chained Ogre to refight as many times as the Wolf wishes.\n\nUsed for feedback and practice.",
       "jp": "このアイテムは、荒れ寺の賽銭箱近くでのみ使用できる\n\n使えば、何度でも「赤鬼」と再戦できる\n\n修練やＭＯＤの評価にうってつけだろう",
       "cn_improved": null,
@@ -934,7 +934,7 @@
     {
       "id": 3724,
       "status": "done",
-      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与［蛇目  白藤］无限次再战\n\n正合修习与试玩之用",
+      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与【蛇目  白藤】无限次再战\n\n正合修习与试玩之用",
       "en": "Use this item next to Hanbei at the Dilapidated Temple.\n\nThis will summon Snake Eyes Shirafuji to refight as many times as the Wolf wishes.\n\nUsed for feedback and practice.",
       "jp": "このアイテムは、荒れ寺の賽銭箱近くでのみ使用できる\n\n使えば、何度でも「蛇の目　シラフジ」と再戦できる\n\n修練やＭＯＤの評価にうってつけだろう",
       "cn_improved": null,
@@ -952,7 +952,7 @@
     {
       "id": 3800,
       "status": "from_improved",
-      "cn": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰［奉魂］\n乃此短刀真名",
+      "cn": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰【奉魂】\n乃此短刀真名",
       "en": "Dagger with a stark white blade and hilt.\nConverts Vitality into Spirit Emblems.\nResting replenishes its charges.\nOriginally this tanto was used in a ritual\noffering to the dragon, in which an emblem\nwould be cut from one's own life force\nand set adrift on the Fountainhead waters.\n\nThe blade is inscribed with its true name:\n\"Devoted Soul.\"",
       "jp": "刃も柄も真白い短刀\nＨＰを<?gdsparam@1000?>に変換する\n休息することで、再び使用することができる\n\n本来、この短刀は形代流しに使われる\n白い刃で削り出した己の形代を、\n源の水に流し、竜に奉る儀式だ\n\n刻まれた銘は、「奉魂」\nそれがこの短刀の真の名",
       "cn_improved": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰【奉魂】\n乃此短刀真名",
@@ -961,7 +961,7 @@
     {
       "id": 3801,
       "status": "from_improved",
-      "cn": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰［奉魂］\n乃此短刀真名",
+      "cn": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰【奉魂】\n乃此短刀真名",
       "en": "Dagger with a stark white blade and hilt.\nConverts Vitality into Spirit Emblems.\nResting replenishes its charges.\nOriginally this tanto was used in a ritual\noffering to the dragon, in which an emblem\nwould be cut from one's own life force\nand set adrift on the Fountainhead waters.\n\nThe blade is inscribed with its true name:\n\"Devoted Soul.\"",
       "jp": "刃も柄も真白い短刀\nＨＰを<?gdsparam@1000?>に変換する\n休息することで、再び使用することができる\n\n本来、この短刀は形代流しに使われる\n白い刃で削り出した己の形代を、\n源の水に流し、竜に奉る儀式だ\n\n刻まれた銘は、「奉魂」\nそれがこの短刀の真の名",
       "cn_improved": "刃柄皆是纯白的短刀\n可将ＨＰ变换为形代\n休息之后，就可以再次使用\n\n此短刀原本用于形代漂流\n以白刃削出自身形代\n漂流于源之水中，乃是供奉神龙之仪式\n\n所刻之铭，曰【奉魂】\n乃此短刀真名",
@@ -1051,7 +1051,7 @@
     {
       "id": 4105,
       "status": "from_improved",
-      "cn": "将散落的念珠玉，在鬼佛处供奉并串成的念珠\n获得此物，可提升体之力\n提升ＨＰ与体干之最大值\n\n念珠玉串成之念珠\n强者持之，方不负其名\n\n百足众，乃寻［星］之人\n若寻得，奉为主，或易己名\n百足众之长，曰［长手］，佩钩爪",
+      "cn": "将散落的念珠玉，在鬼佛处供奉并串成的念珠\n获得此物，可提升体之力\n提升ＨＰ与体干之最大值\n\n念珠玉串成之念珠\n强者持之，方不负其名\n\n百足众，乃寻【星】之人\n若寻得，奉为主，或易己名\n百足众之长，曰【长手】，佩钩爪",
       "en": "Loose prayer beads strung together\nin offering to a Sculptor's Idol.\nIncreases maximum Vitality and Posture.\n\nA prayer bead necklace befits the strong.\n\nThe Centipedes will seek out a leader,\noften changing names out of loyalty.\nCentipede chiefs are known as \"Long-arms,\" for their large talon-like weapons.",
       "jp": "ちぎれた数珠の玉を、鬼仏に供えて束ねた念珠\n手に入れると、身体力が成長し、\nＨＰと体幹の最大値が上昇する\n\n念珠を成す数珠玉は、それを持つにふさわしい\n強者たちが持っている\n\n百足衆は、己の「星」を探す者たちだ\n星を見出せば、それに仕え、時に名すら変える\n百足衆の長は「長手」と呼ばれ、鉤爪を持つ",
       "cn_improved": "将散落的念珠玉，在鬼佛处供奉并串成的念珠\n获得此物，可提升体之力\n提升ＨＰ与体干之最大值\n\n念珠玉串成之念珠\n强者持之，方不负其名\n\n百足众，乃寻【星】之人\n若寻得，奉为主，或易己名\n百足众之长，曰【长手】，佩钩爪",
@@ -1456,7 +1456,7 @@
     {
       "id": 5600,
       "status": "from_improved",
-      "cn": "龙胤御子之身体，偶有此物零落\n使用此物，可些微增加回生之力\n\n若有［快复之护符］\n并于鬼佛处供奉此物\n便可将生之力，归还给被夺取之人\n如此，可使所有罹患龙咳者快复痊愈\n\n不止之咳声，遂止",
+      "cn": "龙胤御子之身体，偶有此物零落\n使用此物，可些微增加回生之力\n\n若有【快复之护符】\n并于鬼佛处供奉此物\n便可将生之力，归还给被夺取之人\n如此，可使所有罹患龙咳者快复痊愈\n\n不止之咳声，遂止",
       "en": "An item that is rarely dropped by a Divine Heir of the Dragon's Heritage.\nUsing it will slightly increase Resurrective Power.\nRestore the power of life to those who have been drained of it by offering this drop to the Sculptor's Idol with the Recovery Charm in hand.  In turn, all afflicted with the Dragonrot will be healed.\nThe incessant coughing must cease.",
       "jp": "竜胤の御子から、稀に零れ落ちるもの\n使用すると、回生の力をわずかに増やす\n\n「快復の御守り」があれば\nこの雫を鬼仏に供えることで、\n生の力を、それを奪った者たちに返せる\nそうして、竜咳に罹った全ての者を快復させる\n\n止まぬ咳が、止まるのだ",
       "cn_improved": "龙胤御子之身体，偶有此物零落\n使用此物，可些微增加回生之力\n\n若有【快复之护符】\n并于鬼佛处供奉此物\n便可将生之力，归还给被夺取之人\n如此，可使所有罹患龙咳者快复痊愈\n\n不止之咳声，遂止",
@@ -1600,7 +1600,7 @@
     {
       "id": 9052,
       "status": "from_improved",
-      "cn": "水生村池底所栖之鲤鱼\n其赤红鱼目一双\n\n仅目成赤色之鲤，乃未能化［主］之物\n    \n    鳞之不足，半成者也，其身虽未能染锦华\n    然目已赤红，常存不腐\n    \n此乃弃牢之施术者·道顺\n欲行变若水施术而所求之物",
+      "cn": "水生村池底所栖之鲤鱼\n其赤红鱼目一双\n\n仅目成赤色之鲤，乃未能化【主】之物\n    \n    鳞之不足，半成者也，其身虽未能染锦华\n    然目已赤红，常存不腐\n    \n此乃弃牢之施术者·道顺\n欲行变若水施术而所求之物",
       "en": "A carp that lived in the Mibu Village Pond.  \nIt has two red eyes.\nCarp with only eyes that are red cannot become \"masters\".\nThough they're considered incomplete creatures that lack the ideal number of scales, their eyes are said to be everlasting.\nThe researcher Dojun in the Abandoned Dungeon wants these eyes to improve his \"procedure\".",
       "jp": "水生村の池の底に棲む鯉\nその赤い目玉二つ\n\n目だけ赤い鯉は、「ぬし」の成りそこないだ\n\n　鱗が足りぬ半端者。その身は錦に染まらぬが\n　目玉は赤く、常しえに朽ちぬ\n\nこれは捨て牢にいる施術師・道順が、\n変若水の施術のため求めているものだ",
       "cn_improved": "水生村池底所栖之鲤鱼\n其赤红鱼目一双\n\n仅目成赤色之鲤，乃未能化【主】之物\n    \n    鳞之不足，半成者也，其身虽未能染锦华\n    然目已赤红，常存不腐\n    \n此乃弃牢之施术者·道顺\n欲行变若水施术而所求之物",
@@ -1627,7 +1627,7 @@
     {
       "id": 9062,
       "status": "done",
-      "cn": "忍杀成功后，数秒内\nＨＰ伤害提升之常在效果\n\n孤影众之正宗，手练之忍者\n以赤色闪光之姿斩敌\n由此得名［红牙］\n\n    每每血雨飞溅冲天\n    血液沸腾，醉于血中",
+      "cn": "忍杀成功后，数秒内\nＨＰ伤害提升之常在效果\n\n孤影众之正宗，手练之忍者\n以赤色闪光之姿斩敌\n由此得名【红牙】\n\n    每每血雨飞溅冲天\n    血液沸腾，醉于血中",
       "en": "Masamune, an elite among the Interior Ministry ranks. Labelled the \"Crimson-Fang\" for his red streaks among the battle field. \n\n\"The sprays of blood grew larger as the scarlet stimulants sank in.\"\n\nBesting this shadow has bestowed the Wolf with additional attack power after deathblows.",
       "jp": "忍殺を成功させた後、数秒間\nＨＰへのダメージが上昇する常在効果\n\n孤影の衆が一人、正宗は手練れの忍びである\n赤い閃光の如く敵を仕留める様子から、\nおのずと「紅牙」の名がついた\n\n　天高く血飛沫が噴き上がるたび、\n　血は滾り、血に酔えるのだ",
       "cn_improved": null,
@@ -1654,7 +1654,7 @@
     {
       "id": 9066,
       "status": "done",
-      "cn": "［血缠术］生效期间内\n忍杀成功时\n延长效果时间之常在效果",
+      "cn": "【血缠术】生效期间内\n忍杀成功时\n延长效果时间之常在效果",
       "en": "If Bestowal is active, deathblowing another enemy will refresh the duration.",
       "jp": "「血纏い術」の効果中に忍殺に成功したときに\n効果時間を延長する常在効果",
       "cn_improved": null,
@@ -1681,7 +1681,7 @@
     {
       "id": 9071,
       "status": "from_improved",
-      "cn": "［主］之彩鲤，其尊贵白髭\n\n［主］乃常存之物，然身死则髭落\n此髭须断裂之声\n想必令某些人满心期盼\n\n或，使命达成后安心之人\n或，大愿得成后欢喜之人",
+      "cn": "【主】之彩鲤，其尊贵白髭\n\n【主】乃常存之物，然身死则髭落\n此髭须断裂之声\n想必令某些人满心期盼\n\n或，使命达成后安心之人\n或，大愿得成后欢喜之人",
       "en": "A priceless white whisker taken from the Great Colored Carp.\nWhile the Great Carp is naturally immortal, if killed, its whiskers can be plucked.\nThe sound of the whisker being removed\nis surely music to the ears of certain people.\nSome would feel relief at the sound of their mission being completed, others, the joy of having their heart's desire granted.",
       "jp": "ぬしの色鯉の貴く白い髭\n\nぬしは常しえなれど、死ねば髭が抜ける\nその髭が抜ける音を、\n心待ちにする者もいるだろう\n\nある者には、役目の成就の安堵であり、\nある者には、大願の成就の歓喜なのだ",
       "cn_improved": "【主】之彩鲤，其尊贵白髭\n\n【主】乃常存之物，然身死则髭落\n此髭须断裂之声\n想必令某些人满心期盼\n\n或，使命达成后安心之人\n或，大愿得成后欢喜之人",
@@ -1789,7 +1789,7 @@
     {
       "id": 9180,
       "status": "from_improved",
-      "cn": "此乃尊贵饵食\n\n似此等黏滑、生角之物\n乃［主］之所好\n\n    鸣其钟，饲其饵",
+      "cn": "此乃尊贵饵食\n\n似此等黏滑、生角之物\n乃【主】之所好\n\n    鸣其钟，饲其饵",
       "en": "This is precious bait.\n\nThe texture is slimy, and something resembling horns seem to jut out of it.  \nJust the kind of bait the \"master\" loves.\n\n\"Ring the bell, drop the bait.\"",
       "jp": "これは、貴き餌なり\n\nこういった、ぬめりがあり\n角が生えたるものを、ぬしは好んで食す\n\n　鐘鳴らし、餌あげたもれ",
       "cn_improved": "此乃尊贵饵食\n\n似此等黏滑、生角之物\n乃【主】之所好\n\n    鸣其钟，饲其饵",
@@ -1798,7 +1798,7 @@
     {
       "id": 9181,
       "status": "from_improved",
-      "cn": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n平田庄，壶之贵人，欲成［主］\n\n    将此饵喂与仙乡［主］鲤\n    如此，吾可化鲤...\n    若成事，必有秘宝相赠...",
+      "cn": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n平田庄，壶之贵人，欲成【主】\n\n    将此饵喂与仙乡【主】鲤\n    如此，吾可化鲤...\n    若成事，必有秘宝相赠...",
       "en": "This is truly precious bait.\n\nIf bait has hair, you know it's something truly special.  \nThe Hirata noble in the pot is obsessed with thoughts of becoming a \"master\".\n\n\"He who receives the scales of the carp becomes closer to a carp himself...  \nI bestow unto you my secret treasure.\"",
       "jp": "これは、まこと貴き餌なり\n\n毛など生えていれば、なおさら貴い\n生きた心地もせぬほどに\n\n平田屋敷の壷の貴人は、ぬしになりたい\n\n　仙郷の、ぬしの鯉に与えてたもれ\n　さすれば、我は鯉となり…\n　お主に、秘なる宝を授けようぞ…",
       "cn_improved": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n平田庄，壶之贵人，欲成【主】\n\n    将此饵喂与仙乡【主】鲤\n    如此，吾可化鲤...\n    若成事，必有秘宝相赠...",
@@ -1807,7 +1807,7 @@
     {
       "id": 9182,
       "status": "from_improved",
-      "cn": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n源之宫中，壶之贵人，实乃奉［主］之人\n\n    将此饵献与［主］鲤大人\n    谨记谨记...\n    此事隐密，不可为他人知...",
+      "cn": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n源之宫中，壶之贵人，实乃奉【主】之人\n\n    将此饵献与【主】鲤大人\n    谨记谨记...\n    此事隐密，不可为他人知...",
       "en": "This is truly precious bait.\n\nIf bait has hair, you know it's something truly special.  \nThe Fountainhead Palace noble in the pot is obsessed with becoming one with the \"master.\"\n\"Present this bait to the master, the Great Carp.  Offer it earnestly, but quietly, so no one knows...\"",
       "jp": "これは、まこと貴き餌なり\n\n毛など生えていれば、なおさら貴い\n生きた心地もせぬほどに\n\n源の宮の壷の貴人は、実にぬし思いである\n\n　この餌を、ぬしの鯉様に献上しておくれ\n　くれぐれも…\n　誰にも知られず、ひそひそとな…",
       "cn_improved": "此乃千真万确之尊贵饵食\n\n若是生有毛发，则格外尊贵\n直叫人飘然忘生\n\n源之宫中，壶之贵人，实乃奉【主】之人\n\n    将此饵献与【主】鲤大人\n    谨记谨记...\n    此事隐密，不可为他人知...",
@@ -1816,7 +1816,7 @@
     {
       "id": 9192,
       "status": "from_improved",
-      "cn": "赤染如柿，［主］之白蛇的心包\n\n所谓［主］，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n噬神之事\n于凡人而言乃是剧毒",
+      "cn": "赤染如柿，【主】之白蛇的心包\n\n所谓【主】，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n噬神之事\n于凡人而言乃是剧毒",
       "en": "The persimmon-like heart of a Great Serpent.\n\nThe Great Serpent is considered to be \na god of the land, and the heart is believed\nto be where one's spirit resides.\nWhile its shape bears similarity to a persimmon, in fact this is the red viscera\nof a god.  It is safe to assume that eating\nit would be poisonous to one's health.",
       "jp": "柿の様に赤く染まった、ぬしの白蛇の心包\n\nぬしとは、土地神\n心包とは、神たる御魂を宿す臓である\n\n姿かたちこそ柿によく似るが、\n蛇柿は、赤く実った神の臓だ\n神を食らうなど、\n人の身にとっては毒となろう",
       "cn_improved": "赤染如柿，【主】之白蛇的心包\n\n所谓【主】，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n噬神之事\n于凡人而言乃是剧毒",
@@ -1825,7 +1825,7 @@
     {
       "id": 9193,
       "status": "from_improved",
-      "cn": "赤染如柿，［主］之白蛇的心包\n其风干之物\n\n所谓［主］，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n坠落谷之众，奉［主］之白蛇\n遂有以干蛇柿为神体，供奉祭祀之举",
+      "cn": "赤染如柿，【主】之白蛇的心包\n其风干之物\n\n所谓【主】，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n坠落谷之众，奉【主】之白蛇\n遂有以干蛇柿为神体，供奉祭祀之举",
       "en": "A dried, persimmon-like heart of a Great Serpent.\nThe Great Serpent is a god of the land, and the heart is believed to be where one's spirit resides.\nWhile it looks much like a persimmon, in fact this is the red viscera of a god.\nApparently, denizens of the Sunken Valley worship the organs believing they represent the deity itself.",
       "jp": "柿の様に赤く染まった、ぬしの白蛇の心包\nその乾いたもの\n\nぬしとは、土地神\n心包とは、神たる御魂を宿す臓である\n\n姿かたちこそ柿によく似るが、\n蛇柿は、赤く実った神の臓だ\n落ち谷の衆は、ぬしの白蛇を崇め、\n乾いた蛇柿を御神体として祀ったという",
       "cn_improved": "赤染如柿，【主】之白蛇的心包\n其风干之物\n\n所谓【主】，土地神是也\n所谓心包，神魂所宿之脏器也\n\n其形虽如柿\n然蛇柿，乃赤熟之神宿脏器\n坠落谷之众，奉【主】之白蛇\n遂有以干蛇柿为神体，供奉祭祀之举",
@@ -1843,7 +1843,7 @@
     {
       "id": 9200,
       "status": "from_improved",
-      "cn": "抄有苇名药种的纸片\n兹有一书，记载奇特花草之功效\n此乃书中撕下一页\n\n    鸣种，生于深谷\n\n    对坠落谷之人而言，此等山谷\n    实乃入娇奉［主］，嫁与白蛇之绝佳所在\n\n    深谷之中，白蛇之腹，嫁而入之",
+      "cn": "抄有苇名药种的纸片\n兹有一书，记载奇特花草之功效\n此乃书中撕下一页\n\n    鸣种，生于深谷\n\n    对坠落谷之人而言，此等山谷\n    实乃入娇奉【主】，嫁与白蛇之绝佳所在\n\n    深谷之中，白蛇之腹，嫁而入之",
       "en": "A page torn from the Ashina Herb Catalogue, a compendium of flowers and herbs.\n\"The 'Snap Seed' naturally grows in ravines and deep valleys.\nAccording to denizens of the Sunken Valley, such places are appropriate for offering oneself in marriage to the Great Serpent.\nIf one wishes to become a bride, they must enter the belly of the Serpent in the valley.\"",
       "jp": "葦名薬種抄の紙片\n特別な効能のある草花について記した書の\n一枚を破り取ったもの\n\n　「種鳴らし」は、深い谷あいに生える\n\n　落ち谷の者にとって、そういった谷こそが、\n　ぬしの白蛇への輿入れに相応しいとされる\n\n　深い谷で、白蛇の腹の中へ、嫁に行くのだ",
       "cn_improved": "抄有苇名药种的纸片\n兹有一书，记载奇特花草之功效\n此乃书中撕下一页\n\n    鸣种，生于深谷\n\n    对坠落谷之人而言，此等山谷\n    实乃入娇奉【主】，嫁与白蛇之绝佳所在\n\n    深谷之中，白蛇之腹，嫁而入之",
@@ -1969,7 +1969,7 @@
     {
       "id": 9214,
       "status": "from_improved",
-      "cn": "丈之侍童所书之古旧日记\n\n    香炉之上，丈大人以刀拭腕\n    然刀伤转瞬即愈，更无半滴血露滴下\n    世间竟有如此不可思议之事\n\n    “如无其物，则御血不可流也”\n\n    巴殿下所言［其物］\n    究竟是何物呢...",
+      "cn": "丈之侍童所书之古旧日记\n\n    香炉之上，丈大人以刀拭腕\n    然刀伤转瞬即愈，更无半滴血露滴下\n    世间竟有如此不可思议之事\n\n    “如无其物，则御血不可流也”\n\n    巴殿下所言【其物】\n    究竟是何物呢...",
       "en": "An old diary entry written by Takeru's page.\n\n\"Lord Takeru held his arm over the incense burner, and attempted to cut it with a sword.  But incredibly, his wound healed instantly, and not a drop of blood was shed.\nLady Tomoe said,\n'Without it, your blood cannot be spilled.'\n\nWhat could she be referring to, I wonder?\"",
       "jp": "丈の小姓が書いた古びた日記\n\n　香炉の上で、丈様が刀で腕を斬っておられた\n　だが、不思議なことに、傷は瞬く間に癒え、\n　血は露ほども流れぬご様子\n\n　「あれ無くば、御血は流れませぬ」\n\n　巴殿が言われた\n　「あれ」とは一体、何のことであろうか…",
       "cn_improved": "丈之侍童所书之古旧日记\n\n    香炉之上，丈大人以刀拭腕\n    然刀伤转瞬即愈，更无半滴血露滴下\n    世间竟有如此不可思议之事\n\n    “如无其物，则御血不可流也”\n\n    巴殿下所言【其物】\n    究竟是何物呢...",
@@ -2023,7 +2023,7 @@
     {
       "id": 9220,
       "status": "from_improved",
-      "cn": "弃牢中腐尸的手记\n\n    香气之石，相传祭祀于苇名谷底村中\n    然何为［非投其身，不可至也］...\n\n    吾追寻淤加美一族之传承至此\n    却不知其可曾到达源之宫\n    吾欲查明此事，却终究无果\n\n    小太郎啊，小太郎，对不住...",
+      "cn": "弃牢中腐尸的手记\n\n    香气之石，相传祭祀于苇名谷底村中\n    然何为【非投其身，不可至也】...\n\n    吾追寻淤加美一族之传承至此\n    却不知其可曾到达源之宫\n    吾欲查明此事，却终究无果\n\n    小太郎啊，小太郎，对不住...",
       "en": "A note left by a dead and rotting man in the Abandoned Dungeon.\n\n\"Supposedly the fragrant stone is enshrined in a village in the Ashina Depths.  But how to interpet 'throw oneself'?\nThis is as far as that old Okami tome could take me. But did they truly reach the Fountainhead Palace?  I'd like to know, but it seems I never will.  Kotaro... forgive me...\"\n",
       "jp": "捨て牢の中で朽ち果てていた男の手記\n\n　香気の石、葦名の底の村に祀られておるとか\n　じゃが「身を投げねば、辿り着けぬ」とは…\n\n　淤加美一族の伝承を辿り、ここまで来た\n　彼の女たち、まこと源の宮に辿り着けたのか\n　それが知りたいが、どうやら叶わぬようじゃ\n\n　小太郎や、小太郎や、すまねえなぁ…",
       "cn_improved": "弃牢中腐尸的手记\n\n    香气之石，相传祭祀于苇名谷底村中\n    然何为【若无投身之觉悟，不可往也】...\n\n    吾追寻淤加美一族之传承至此\n    却不知其可曾到达源之宫\n    吾欲查明此事，却终究无果\n\n    小太郎啊，小太郎，对不住...",
@@ -2032,7 +2032,7 @@
     {
       "id": 9221,
       "status": "from_improved",
-      "cn": "关于小太刀［锈丸］所在的记录\n\n    若是不购买此情报，则无法得知内容",
+      "cn": "关于小太刀【锈丸】所在的记录\n\n    若是不购买此情报，则无法得知内容",
       "en": "A memo detailing the whereabouts of a kodachi short sword known as Sabimaru.\n\nMust be purchased to read the content.",
       "jp": "小太刀「錆び丸」の在り処についての覚書\n\n　情報を買わないと、内容は分からない",
       "cn_improved": "关于小太刀【锈丸】所在的记录\n\n    若是不购买此情报，则无法得知内容",
@@ -2041,7 +2041,7 @@
     {
       "id": 9222,
       "status": "from_improved",
-      "cn": "关于小太刀［锈丸］所在的记录\n\n    苇名城中，有一上古小太刀\n    名曰［锈丸］\n    相传安置于天守阁最下层\n\n    锈丸，乃上古之战中所用\n    苇名之宝刀\n    其刃含青锈之毒\n    相传曾退淤加美非人之女武者",
+      "cn": "关于小太刀【锈丸】所在的记录\n\n    苇名城中，有一上古小太刀\n    名曰【锈丸】\n    相传安置于天守阁最下层\n\n    锈丸，乃上古之战中所用\n    苇名之宝刀\n    其刃含青锈之毒\n    相传曾退淤加美非人之女武者",
       "en": "A memo detailing the whereabouts of a kodachi short sword known as Sabimaru.\nThe ancient kodachi Sabimaru can be found within Ashina Castle, enshrined in the bottom floor of the keep.\nSabimaru was wielded in wars of old,\nand is a national treasure of Ashina.  \nSupposedly the blade's poisonous blue rust could drive off even the inhuman Okami warrior women.",
       "jp": "小太刀「錆び丸」の在り処についての覚書\n\n　葦名の城には、「錆び丸」という名の\n　とても古い小太刀がある\n　天守の一番下の階に、安置されていると言う\n\n　錆び丸は、いにしえの戦で用いられた、\n　葦名の宝刀\n　その刃の青錆びの毒が、\n　人ならぬ、淤加美の女武者らを退けたという",
       "cn_improved": "关于小太刀【锈丸】所在的记录\n\n    苇名城中，有一上古小太刀\n    名曰【锈丸】\n    相传安置于天守阁最下层\n\n    锈丸，乃上古之战中所用\n    苇名之宝刀\n    其刃含青锈之毒\n    相传曾退淤加美非人之女武者",
@@ -2086,7 +2086,7 @@
     {
       "id": 9227,
       "status": "from_improved",
-      "cn": "记载着关于黑色不死斩的古卷\n\n    不死斩，除却赤红，尚有一柄\n    \n    即黑色不死斩。其铭［开门］\n    黄泉开门之刃是也\n\n    黑，流转而为生\n    乞龙胤以为供奉之物...",
+      "cn": "记载着关于黑色不死斩的古卷\n\n    不死斩，除却赤红，尚有一柄\n    \n    即黑色不死斩。其铭【开门】\n    黄泉开门之刃是也\n\n    黑，流转而为生\n    乞龙胤以为供奉之物...",
       "en": "An old text describing a black Mortal Blade.\n\n\"In addition to the red Mortal Blade, there exists one that is black in color.\nThe blade's name is \"Open Gate\", and is said to hold the power to open a gate to the underworld.\nIt is through this power that it creates life.\nI beseech you, make offerings for the Dragon's Blood...\"",
       "jp": "黒の不死斬りについて記された古い巻物\n\n　不死斬りには、赤の他に、もう一振りがある\n\n　即ち、黒の不死斬り。その銘は「開門」\n　黄泉への門を開く刀なり\n\n　黒は転じて生を成す\n　竜胤を供物に乞い給え…",
       "cn_improved": "记载着关于黑色不死斩的古卷\n\n    不死斩，除却赤红，尚有一柄\n    \n    即黑色不死斩。其铭【开门】\n    黄泉开门之刃是也\n\n    黑，流转而为生\n    乞龙胤以为供奉之物...",
@@ -2311,7 +2311,7 @@
     {
       "id": 9701,
       "status": "from_improved",
-      "cn": "幻之蝶所用的苦无\n可用于制作［手里剑］之强化义手忍具\n\n投之则音鸣\n又有幻蝶相随\n\n年少时，蝶曾于苇名北方\n薄井之森中修行\n彼之森，为迷雾幻象萦绕\n乃是幻术修行，不二之所在",
+      "cn": "幻之蝶所用的苦无\n可用于制作【手里剑】之强化义手忍具\n\n投之则音鸣\n又有幻蝶相随\n\n年少时，蝶曾于苇名北方\n薄井之森中修行\n彼之森，为迷雾幻象萦绕\n乃是幻术修行，不二之所在",
       "en": "A kunai used by Lady Butterfly that can be used to upgrade the Loaded Shuriken.\nA ringing sound is heard when the kunai is thrown, and phantom butterflies appear in the kunai's trail. Since childhood, Lady Butterfly had accumulated much experience in Usui's forest, far from civilization along Tozan Trail.  His forest is filled with mist and mystifications, making it ideal for training in illusion techniques.",
       "jp": "まぼろしお蝶の使ったクナイ\n「手裏剣」の強化義手忍具の作成に使える\n\n投げると音が鳴り、\nクナイを追ってまぼろしの蝶々が飛ぶ\n\nうら若き頃、お蝶は、葦名より北に離れた\n薄井の森にて修行を積んだ\n彼の森は、霧とまぼろしで満ちている\n幻術を修めるには、またとない場所だ",
       "cn_improved": "幻之蝶所用的苦无\n可用于制作【手里剑】之强化义手忍具\n\n投之则音鸣\n又有幻蝶相随\n\n年少时，蝶曾于苇名北方\n薄井之森中修行\n彼之森，为迷雾幻象萦绕\n乃是幻术修行，不二之所在",
@@ -2338,7 +2338,7 @@
     {
       "id": 9721,
       "status": "from_improved",
-      "cn": "引火而不灭，发烟而不泄之松脂\n可用于制作［吹火筒］之强化义手忍具\n\n覆盖水生村之森林\n旧时曾有黑松，产此松脂\n发烟之火，乃入村通路之道标\n\n然不知何时起，水生之人渐忌灯火\n是以黑松渐失\n其看守人亦被村人所恶",
+      "cn": "引火而不灭，发烟而不泄之松脂\n可用于制作【吹火筒】之强化义手忍具\n\n覆盖水生村之森林\n旧时曾有黑松，产此松脂\n发烟之火，乃入村通路之道标\n\n然不知何时起，水生之人渐忌灯火\n是以黑松渐失\n其看守人亦被村人所恶",
       "en": "A piece of resin that contains a continuously smoldering flame.  Can be used to upgrade the Flame Vent.\nThe resin was found in a black pine within the forests of Mibu Village.  The ever-smoldering flames acted as a landmark to find one's way to the village.  In time the villagers came to loathe the flames, and the black pines were lost.  Those who defended the flame were equally loathed.",
       "jp": "消えぬ火が、くすぶり続ける松脂\n「火吹き筒」の強化義手忍具の作成に使える\n\n水生村を覆う森には、\nかつてこの松脂が取れる黒い松があり、\nくすぶる火は、村への道しるべであった\n\nだが、いつしか水生の者は火を忌み始めた\nゆえに黒松は失われ、\nその守り人もまた、嫌われ者である",
       "cn_improved": "引火而不灭，发烟而不泄之松脂\n可用于制作【吹火筒】之强化义手忍具\n\n覆盖水生村之森林\n旧时曾有黑松，产此松脂\n发烟之火，乃入村通路之道标\n\n然不知何时起，水生之人渐忌灯火\n是以黑松渐失\n其看守人亦被村人所恶",
@@ -2410,7 +2410,7 @@
     {
       "id": 9791,
       "status": "from_improved",
-      "cn": "合细指尺寸之古旧指环\n指环里侧刻有［川蝉］字样\n可用于制作［指笛］之强化义手忍具\n\n佩此指环所吹指笛\n其音悲怆，荡彻远山\n\n哭声凄美\n便连怨嗟之炎，也可一时忘却",
+      "cn": "合细指尺寸之古旧指环\n指环里侧刻有【川蝉】字样\n可用于制作【指笛】之强化义手忍具\n\n佩此指环所吹指笛\n其音悲怆，荡彻远山\n\n哭声凄美\n便连怨嗟之炎，也可一时忘却",
       "en": "An old ring well-suited for slender fingers.\n\"Kingfisher\" is engraved on the underside.\nCan be used to upgrade the Finger Whistle Prosthetic Tool.\n\nWearing this ring as you blow the finger whistle will create a somber tune.\nThe weeping voice is full of solitude and beauty.  Possibly somber enough to temporarily quell a voice of rage.",
       "jp": "ほそ指に似合う、古い指輪\n指輪の裏には「川蝉」と彫られている\n「指笛」の強化義手忍具の作成に使える\n\nこの指輪をはめて、指笛を吹くと\n悲しげな音が、響き渡る\n\n泣き声は、寂しく美しい\n燃える怨嗟を、ほんの一時、忘れるほどに",
       "cn_improved": "合细指尺寸之古旧指环\n指环里侧刻有【川蝉】字样\n可用于制作【指笛】之强化义手忍具\n\n佩此指环所吹指笛\n其音悲怆，荡彻远山\n\n哭声凄美\n便连怨嗟之炎，也可一时忘却",
@@ -2455,7 +2455,7 @@
     {
       "id": 10000,
       "status": "from_improved",
-      "cn": "金光闪烁，宝鲤之鳞片也\n\n于常人而言，不过美艳鳞片\n\n然而亦有贪恋此物之人\n于奉［主］之人而言，鳞实乃尊贵之物\n\n欲求褒奖，则集此物相换",
+      "cn": "金光闪烁，宝鲤之鳞片也\n\n于常人而言，不过美艳鳞片\n\n然而亦有贪恋此物之人\n于奉【主】之人而言，鳞实乃尊贵之物\n\n欲求褒奖，则集此物相换",
       "en": "A sparkling scale from a Treasure Carp.\n\nTo the average person it is just a beautiful scale.\n\nBut there are some who exalt a certain \"master\", who consider these scales among the most precious things in the world.\nFor this reason, collecting them could be worthwhile.",
       "jp": "きらきら光る、宝鯉の鱗\n\n普通の人にとっては、ただの美しい鱗\n\nだが、これを欲しがる者もいるだろう\n「ぬし」を貴ぶ者にとり、何しろ鱗は貴いのだ\n\n褒美を求めるなら、集めてみると良い",
       "cn_improved": "金光闪烁，宝鲤之鳞片也\n\n于常人而言，不过美艳鳞片\n\n然而亦有贪恋此物之人\n于奉【主】之人而言，鳞实乃尊贵之物\n\n欲求褒奖，则集此物相换",
@@ -2626,7 +2626,7 @@
     {
       "id": 11171,
       "status": "done",
-      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与［武士大将  山内典膳］无限次再战\n\n其因勿问...",
+      "cn": "此物，仅可于荒寺之功德箱旁使用\n\n使之，则可与【武士大将  山内典膳】无限次再战\n\n其因勿问...",
       "en": "Use this item near Hanbei at the Dilapidated Temple.\n\nThis will summon a refightable memory of Samurai General, Tenzen Yamauchi\n\nDon't ask why.",
       "jp": "このアイテムは、荒れ寺の賽銭箱近くでのみ使用できる\n\n使えば、「侍大将　山内典膳」と何度でも戦える\n\n訳は聞くべからず…",
       "cn_improved": null,

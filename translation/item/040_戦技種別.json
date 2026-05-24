@@ -7,7 +7,7 @@
     {
       "id": 200000,
       "status": "from_improved",
-      "cn": "习得忍者体术［钩绳攻击］\n以钩绳飞身跃起\n顺势劈砍之忍者体术\n\n兼移动与攻击之能\n无一多余动作\n乃是忍义手之精髓",
+      "cn": "习得忍者体术【钩绳攻击】\n以钩绳飞身跃起\n顺势劈砍之忍者体术\n\n兼移动与攻击之能\n无一多余动作\n乃是忍义手之精髓",
       "en": "Acquires \"Grappling Hook Attack\" Shinobi Martial Art.\n\nUses the Grappling Hook to launch oneself at an enemy, and use that momentum to perform a rolling sword attack.\n\nThe Shinobi Prosthetic is the perfect tool\nfor combining movement and attack into one, ensuring no movement is wasted.",
       "jp": "忍びの体術「鉤縄攻撃」を習得する\n鉤縄で飛び、\nその勢いで斬りつける、忍びの体術\n\n移動と攻撃を兼ねた\n無駄を削ぎ落とした動きには、\n忍義手の粋がある",
       "cn_improved": "习得忍者体术【钩绳攻击】\n以钩绳飞身跃起\n顺势劈砍之忍者体术\n\n兼移动与攻击之能\n无一多余动作\n乃是忍义手之精髓",
@@ -16,7 +16,7 @@
     {
       "id": 200100,
       "status": "from_improved",
-      "cn": "习得忍者体术［空中弹开］\n可于空中防御\n或弹开敌人攻击之忍者体术\n\n在空中，若是被铁炮等飞行道具击中\n则所受伤害恐加重\n\n若有此体术，\n则可于空中防御\n忍者，不可轻易陨落",
+      "cn": "习得忍者体术【空中弹开】\n可于空中防御\n或弹开敌人攻击之忍者体术\n\n在空中，若是被铁炮等飞行道具击中\n则所受伤害恐加重\n\n若有此体术，\n则可于空中防御\n忍者，不可轻易陨落",
       "en": "Acquires Shinobi Martial Art \n\"Mid-air Deflection\".\nAllows one to guard against or deflect enemy attacks in mid-air.\nGuns and other projectile weapons deal additional damage to airborne targets, and this technique can serve to prevent that damage.\nA shinobi is not shot down so easily.",
       "jp": "忍びの体術「空中弾き」を習得する\n空中で敵の攻撃への\nガードと弾きを行う忍びの体術\n\n鉄砲などの飛び道具は、\n空中で攻撃を受けるとダメージが増加する\n\nだが、この体術があれば、\n空中で攻撃を防ぐことができる\n忍びならば、たやすく撃ち落とされぬ",
       "cn_improved": "习得忍者体术【空中弹开】\n可于空中防御\n或弹开敌人攻击之忍者体术\n\n在空中，若是被铁炮等飞行道具击中\n则所受伤害恐加重\n\n若有此体术，\n则可于空中防御\n忍者，不可轻易陨落",
@@ -25,7 +25,7 @@
     {
       "id": 200200,
       "status": "from_improved",
-      "cn": "习得忍者体术［空中义手忍具］\n于空中使用义手忍具之体术\n\n忍义手，铁制机关之物，是以沉重\n然高手经由修练\n加以道玄之精巧工艺\n亦可于空中驱动\n\n果然使用时足不踏地，方为忍具",
+      "cn": "习得忍者体术【空中义手忍具】\n于空中使用义手忍具之体术\n\n忍义手，铁制机关之物，是以沉重\n然高手经由修练\n加以道玄之精巧工艺\n亦可于空中驱动\n\n果然使用时足不踏地，方为忍具",
       "en": "Acquires Shinobi Martial Art\n\"Mid-air Prosthetic Tool\".\nEnables the use of Prosthetic Tools while in mid-air.\nThe Shinobi Prosthetic is heavy as it is made from iron machinery.  Despite that, it can be used in the air thanks to the techniques of its creator Dogen, and the training of its owner.  ",
       "jp": "忍びの体術「空中義手忍具」を習得する\n空中で義手忍具を使う、忍びの体術\n\n忍義手は、鉄と絡繰りの塊ゆえに重い\nだが遣い手の修練と、\n作り手たる道玄の技巧が\n空中で扱うことを可能にした\n\nやはり地に足つけずに使ってこそ、忍具である",
       "cn_improved": "习得忍者体术【空中义手忍具】\n于空中使用义手忍具之体术\n\n忍义手，铁制机关之物，是以沉重\n然高手经由修练\n加以道玄之精巧工艺\n亦可于空中驱动\n\n果然使用时足不踏地，方为忍具",
@@ -34,7 +34,7 @@
     {
       "id": 200300,
       "status": "from_improved",
-      "cn": "习得忍者体术［看破］\n看破敌人突刺攻击\n进而大幅度削减其体干之忍者体术\n\n忍者之目，可分辨突进动作\n踏其刃，以为反击之机\n\n若有失手，恐陷于死地\n然而若能看破，或可瞬杀之\n此忍者之见地也",
+      "cn": "习得忍者体术【看破】\n看破敌人突刺攻击\n进而大幅度削减其体干之忍者体术\n\n忍者之目，可分辨突进动作\n踏其刃，以为反击之机\n\n若有失手，恐陷于死地\n然而若能看破，或可瞬杀之\n此忍者之见地也",
       "en": "Acquires Shinobi Martial Art \n\"Mikiri Counter\".\nEnables one to counter enemy thrust attacks by stomping down on an enemy's weapon, dealing a large amount of damage to Posture.\n\nIt is nearly impossible to perceive the speed of a thrust, but not for sharp eyes of a Shinobi.  ",
       "jp": "忍びの体術「見切り」を習得する\n敵の突き攻撃を見切り、\n体幹に大きなダメージを与える忍びの体術\n\n忍びの目ならば、突きの動きを捉え\n刃を踏みつけ、そこから反撃に転じられる\n\n誤れば死地に至るだろう\nだが、見切ればすぐにも殺せるではないか\n忍びは、そう考える",
       "cn_improved": "习得忍者体术【看破】\n看破敌人突刺攻击\n进而大幅度削减其体干之忍者体术\n\n忍者之目，可分辨突进动作\n踏其刃，以为反击之机\n\n若有失手，恐陷于死地\n然而若能看破，或可瞬杀之\n此忍者之见地也",
@@ -43,7 +43,7 @@
     {
       "id": 200400,
       "status": "from_improved",
-      "cn": "习得忍者体术［冲刺隐蔽］\n奔跑中，以滑步下蹲\n乃是欲行隐密之忍者体术\n\n奔跑，顺势突入草木或暗处\n避敌耳目之体术",
+      "cn": "习得忍者体术【冲刺隐蔽】\n奔跑中，以滑步下蹲\n乃是欲行隐密之忍者体术\n\n奔跑，顺势突入草木或暗处\n避敌耳目之体术",
       "en": "Acquires the Shinobi Martial Art\n\"Run and Slide\".\n\nAllows one to slide into a crouched position while sprinting.\n\nSprint through an area and slide into cover or otherwise out of view.\n\nThis maneuver easily deceives an enemy's eyes.",
       "jp": "忍びの体術「駆け伏せ」を習得する\nダッシュ中に、スライディングでしゃがみ込む\n隠密のための忍びの体術\n\n駆け抜け、その勢いで茂みや物陰に入り込む\n敵の目を欺くための体術だ",
       "cn_improved": "习得忍者体术【冲刺隐蔽】\n奔跑中，以滑步下蹲\n乃是欲行隐密之忍者体术\n\n奔跑，顺势突入草木或暗处\n避敌耳目之体术",
@@ -52,7 +52,7 @@
     {
       "id": 200500,
       "status": "from_improved",
-      "cn": "习得忍者体术［空中流派技］\n于空中使用流派技之忍者体术\n\n以跳跃趋近\n或是回避下段攻击后\n可施展流派技\n\n此乃足不踏地之忍者\n交战所用之体术",
+      "cn": "习得忍者体术【空中流派技】\n于空中使用流派技之忍者体术\n\n以跳跃趋近\n或是回避下段攻击后\n可施展流派技\n\n此乃足不踏地之忍者\n交战所用之体术",
       "en": "Acquires the Shinobi Martial Art\n\"Mid-air Combat Art\".\n\nAllows one to perform Combat Arts while in mid-air.\n\nAllows one to use combat arts after jumping to close with an enemy, or immediately after jumping a sweep attack.",
       "jp": "忍びの体術「空中流派技」を習得する\n空中で流派技を使う、忍びの体術\n\nジャンプで距離をつめながら、\nあるいは下段攻撃を回避してから、\n流派技を繰り出せる\n\n地に足つけぬ忍びの戦い\nそのための体術だ",
       "cn_improved": "习得忍者体术【空中流派技】\n于空中使用流派技之忍者体术\n\n以跳跃趋近\n或是回避下段攻击后\n可施展流派技\n\n此乃足不踏地之忍者\n交战所用之体术",
@@ -61,7 +61,7 @@
     {
       "id": 200600,
       "status": "from_improved",
-      "cn": "习得忍者体术［崩势绕袭］\n崩破敌人体势后\n绕至其背后之体术\n\n若有此体术，非隐密之时\n交战之中\n亦可行忍杀忍术\n\n想必亦有以此为前提之忍术",
+      "cn": "习得忍者体术【崩势绕袭】\n崩破敌人体势后\n绕至其背后之体术\n\n若有此体术，非隐密之时\n交战之中\n亦可行忍杀忍术\n\n想必亦有以此为前提之忍术",
       "en": "Acquires the Shinobi Martial Art \n\"Vault Over\".\n\nA Shinobi Martial Art that allows one to leap over and behind a Posture-broken enemy.\n\nThis Martial Arts technique allows the use of backstab Deathblows in the middle of battle, even without using stealth.",
       "jp": "忍びの体術「崩し裏回り」を習得する\n体勢を崩した敵の後ろに回り込む\n忍びの体術\n\nこの体術があれば、隠密ではなく\n戦闘の流れの中からでも、\n背後忍殺を行うことができる\n\nそこから狙える、忍びの術もあるだろう",
       "cn_improved": "习得忍者体术【崩势绕袭】\n崩破敌人体势后\n绕至其背后之体术\n\n若有此体术，非隐密之时\n交战之中\n亦可行忍杀忍术\n\n想必亦有以此为前提之忍术",
@@ -70,7 +70,7 @@
     {
       "id": 210000,
       "status": "from_improved",
-      "cn": "习得流派技［旋风斩］\n回旋，同时斩击周遭之流派技\n\n锋锐斩击携回旋劲势\n可牵连数人\n防者亦伤\n\n困以一敌众之境地\n若有此忍技便可脱身",
+      "cn": "习得流派技【旋风斩】\n回旋，同时斩击周遭之流派技\n\n锋锐斩击携回旋劲势\n可牵连数人\n防者亦伤\n\n困以一敌众之境地\n若有此忍技便可脱身",
       "en": "Acquires Combat Art \"Whirlwind Slash\".\n\nA spinning attack that can hit several enemies at once.  The sharp cut combined with the force of the spin can strike multiple foes, and deal damage even when guarded.\n\nWhen surrounded by enemies, this shinobi technique can cut open a path to victory.",
       "jp": "流派技「旋風斬り」を習得する\n回転しながら周囲を斬りつける流派技\n\n回転の勢いをつけた鋭い斬撃は、\n複数の敵を巻き込みやすく、\n敵のガードの上からでもダメージを与える\n\n多勢に囲まれたとて、\nこの忍び技があれば切り抜けられよう",
       "cn_improved": "习得流派技【旋风斩】\n回旋，同时斩击周遭之流派技\n\n锋锐斩击携回旋劲势\n可牵连数人\n防者亦伤\n\n困以一敌众之境地\n若有此忍技便可脱身",
@@ -79,7 +79,7 @@
     {
       "id": 211000,
       "status": "from_improved",
-      "cn": "习得流派技［奥义·大忍突刺］\n大忍所创之流派技\n此乃忍技之奥义是也\n\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n\n穿其敌，继而腾跃之姿态\n一如枭之狩猎\n\n跃起时，会消耗形代",
+      "cn": "习得流派技【奥义·大忍突刺】\n大忍所创之流派技\n此乃忍技之奥义是也\n\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n\n穿其敌，继而腾跃之姿态\n一如枭之狩猎\n\n跃起时，会消耗形代",
       "en": "Acquires the Combat Art \"Shadowrush\".\nThe secret technique of the Shinobi style, \ndevised by the Great Shinobi himself.\nUnleash a long range, powerful thrust, then use the impaled opponent as a platform to vault into the skies.  \n\nBe as an owl on the hunt, and take to the skies after stabbing your prey.  \nSpirit Emblems are consumed when leaping.",
       "jp": "流派技「奥義・大忍び刺し」を習得する\n大忍びが編み出した流派技\nこれは、忍び技の奥義である\n\n遠距離から届く鋭い突きを繰り出し、\n刺さった敵を踏み台にして高く飛びあがる\n\n敵を穿ち、舞い上がる様は、\n梟の狩りの如し\n\n飛びあがるときに、形代を消費する\n",
       "cn_improved": "习得流派技【奥义·大忍突刺】\n大忍所创之流派技\n此乃忍技之奥义是也\n\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n\n穿其敌，继而腾跃之姿态\n一如枭之狩猎\n\n跃起时，会消耗形代",
@@ -88,7 +88,7 @@
     {
       "id": 301000,
       "status": "from_improved",
-      "cn": "习得忍者体术［派生攻击·追斩］\n使用一部分义手忍具后\n向身前长踏一步，并施斩击之忍者体术\n\n对远处敌人，掷出长距义手忍具\n再追以斩击\n于瞬息间逼近\n\n■对象义手忍具\n<?acquiredWeaponNameId@70000?>、<?acquiredWeaponNameId@71000?>、<?acquiredWeaponNameId@78000?>",
+      "cn": "习得忍者体术【派生攻击·追斩】\n使用一部分义手忍具后\n向身前长踏一步，并施斩击之忍者体术\n\n对远处敌人，掷出长距义手忍具\n再追以斩击\n于瞬息间逼近\n\n■对象义手忍具\n<?acquiredWeaponNameId@70000?>、<?acquiredWeaponNameId@71000?>、<?acquiredWeaponNameId@78000?>",
       "en": "Acquires Shinobi Martial Art \n\"Chasing Slice\".  \nA Shinobi Martial Art that allows one to perform a forward-dashing sword slice after using certain Prosthetic Tools, allowing one to close distance on enemies instantly.\nApplicable Prosthetic Tools:\n<?acquiredWeaponNameId@70000?>, <?acquiredWeaponNameId@71000?>, <?acquiredWeaponNameId@78000?>\n",
       "jp": "忍びの体術「派生攻撃・追い斬り」を習得する\n一部の義手忍具使用後に、\n前方に大きく踏み込む斬撃を放つ忍びの体術\n\n遠間の敵に、射程の長い義手忍具を放ち、\n追い斬りを重ねれば、\n瞬きする間に距離を詰められる\n\n■対象義手忍具\n<?acquiredWeaponNameId@70000?>、<?acquiredWeaponNameId@71000?>、<?acquiredWeaponNameId@78000?>",
       "cn_improved": "习得忍者体术【派生攻击·追斩】\n使用一部分义手忍具后\n向身前长踏一步，并施斩击之忍者体术\n\n对远处敌人，掷出长距义手忍具\n再追以斩击\n于瞬息间逼近\n\n■对象义手忍具\n<?acquiredWeaponNameId@70000?>、<?acquiredWeaponNameId@71000?>、<?acquiredWeaponNameId@78000?>",
@@ -97,7 +97,7 @@
     {
       "id": 301100,
       "status": "from_improved",
-      "cn": "习得忍者体术［派生攻击·连斩］\n使用一部分义手忍具后\n以义手忍具及楔丸\n同时或连续施展连击之忍者体术\n\n牙连其刃，斩之\n如此之技也\n\n■对象义手忍具\n<?acquiredWeaponNameId@73000?>、<?acquiredWeaponNameId@78000?>、<?acquiredWeaponNameId@74000?>",
+      "cn": "习得忍者体术【派生攻击·连斩】\n使用一部分义手忍具后\n以义手忍具及楔丸\n同时或连续施展连击之忍者体术\n\n牙连其刃，斩之\n如此之技也\n\n■对象义手忍具\n<?acquiredWeaponNameId@73000?>、<?acquiredWeaponNameId@78000?>、<?acquiredWeaponNameId@74000?>",
       "en": "Acquires Shinobi Martial Art\n\"Fang and Blade\".\nAfter using certain Prosthetic Tools, this move allows one to attack with the Tool and sword simultaneously, or it provides a follow-up attack for the Tool.\n\nApplicable Prosthetic Tools:\n<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@78000?>, <?acquiredWeaponNameId@74000?>",
       "jp": "忍びの体術「派生攻撃・連ね斬り」を習得する\n一部の義手忍具使用後、\n義手忍具と刀を同時か\nあるいは連続で繰り出す忍びの体術\n\n牙と刃を連ね、斬る\nこれはそうした技だ\n\n■対象義手忍具\n<?acquiredWeaponNameId@73000?>、<?acquiredWeaponNameId@78000?>、<?acquiredWeaponNameId@74000?>",
       "cn_improved": "习得忍者体术【派生攻击·连斩】\n使用一部分义手忍具后\n以义手忍具及楔丸\n同时或连续施展连击之忍者体术\n\n牙连其刃，斩之\n如此之技也\n\n■对象义手忍具\n<?acquiredWeaponNameId@73000?>、<?acquiredWeaponNameId@78000?>、<?acquiredWeaponNameId@74000?>",
@@ -106,7 +106,7 @@
     {
       "id": 301200,
       "status": "from_improved",
-      "cn": "习得忍者体术［派生攻击·释斩］\n使用一部分义手忍具后\n将义手忍具之力包裹刀身\n像身前释放之忍者体术\n\n所出攻击，因义手忍具而异\n刀染獠牙之色，则破敌之法亦有所不同\n\n■对象义手忍具\n<?acquiredWeaponNameId@76000?>、<?acquiredWeaponNameId@79000?>",
+      "cn": "习得忍者体术【派生攻击·释斩】\n使用一部分义手忍具后\n将义手忍具之力包裹刀身\n像身前释放之忍者体术\n\n所出攻击，因义手忍具而异\n刀染獠牙之色，则破敌之法亦有所不同\n\n■对象义手忍具\n<?acquiredWeaponNameId@76000?>、<?acquiredWeaponNameId@79000?>",
       "en": "Acquires Shinobi Martial Art\n\"Projected Force\".\nAfter using certain Prosthetic Tools, allows one to draw the power of that Tool into the sword and release it in a forward direction.\nThe specific attack changes depending on the tool used.  \nApplicable Prosthetic Tools:\n<?acquiredWeaponNameId@76000?>, <?acquiredWeaponNameId@79000?>",
       "jp": "忍びの体術「派生攻撃・放ち斬り」を習得する\n一部の義手忍具使用後、\nその義手忍具の力を刀に乗せて、\n前方に放つ忍びの体術\n\n放たれる攻撃は、使う義手忍具しだいで変わる\n刃に乗せた牙の色で、敵を穿ち方も変わる\n\n■対象義手忍具\n<?acquiredWeaponNameId@76000?>、<?acquiredWeaponNameId@79000?>",
       "cn_improved": "习得忍者体术【派生攻击·释斩】\n使用一部分义手忍具后\n将义手忍具之力包裹刀身\n像身前释放之忍者体术\n\n所出攻击，因义手忍具而异\n刀染獠牙之色，则破敌之法亦有所不同\n\n■对象义手忍具\n<?acquiredWeaponNameId@76000?>、<?acquiredWeaponNameId@79000?>",
@@ -115,7 +115,7 @@
     {
       "id": 301300,
       "status": "from_improved",
-      "cn": "习得忍者体术［奥义·缠斩］\n使用一部分义手忍具之后\n使刀身缠绕义手忍具效果之派生攻击\n\n刃牙一体，忍义手之奥义是也\n\n佛师舍弃忍义手前，最后所创之奥义\n专研过精，而杀业过重。以至怨嗟之炎几欲渗出\n\n■对象义手忍具\n<?acquiredWeaponNameId@72000?>、<?acquiredWeaponNameId@77000?>",
+      "cn": "习得忍者体术【奥义·缠斩】\n使用一部分义手忍具之后\n使刀身缠绕义手忍具效果之派生攻击\n\n刃牙一体，忍义手之奥义是也\n\n佛师舍弃忍义手前，最后所创之奥义\n专研过精，而杀业过重。以至怨嗟之炎几欲渗出\n\n■对象义手忍具\n<?acquiredWeaponNameId@72000?>、<?acquiredWeaponNameId@77000?>",
       "en": "Acquires Shinobi Martial Art \"Living Force\".\nAllows one to perform a follow-up attack with certain Tools that imbues the sword with the Tool's effect.  \nThe Sculptor retired the Shinobi Prosthetic after developing this technique.  He'd gone too far, killed too many.  The flames of hatred had begun to manifest...\nApplicable Prosthetic Tools:\n<?acquiredWeaponNameId@72000?>, <?acquiredWeaponNameId@77000?>",
       "jp": "忍びの体術「奥義・纏い斬り」を習得する\n一部の義手忍具使用後、\n刀に義手忍具の効果を、纏わせる派生攻撃\n\n牙と刃が一体となる、忍義手技の奥義である\nこの奥義を最後に、仏師は忍義手を捨てた\n極め、殺しすぎた。怨嗟の炎が漏れ出すほどに\n\n■対象義手忍具\n<?acquiredWeaponNameId@72000?>、<?acquiredWeaponNameId@77000?>",
       "cn_improved": "习得忍者体术【奥义·缠斩】\n使用一部分义手忍具之后\n使刀身缠绕义手忍具效果之派生攻击\n\n刃牙一体，忍义手之奥义是也\n\n佛师舍弃忍义手前，最后所创之奥义\n专研过精，而杀业过重。以至怨嗟之炎几欲渗出\n\n■对象义手忍具\n<?acquiredWeaponNameId@72000?>、<?acquiredWeaponNameId@77000?>",
@@ -124,7 +124,7 @@
     {
       "id": 310000,
       "status": "from_improved",
-      "cn": "习得流派技［寄鹰斩］\n回旋跃进，并施斩击之流派技\n可瞬间自远处拉近对敌距离\n\n此乃侍奉苇名之忍者\n寄鹰众之忍技\n\n寄鹰众，以其擅用之沉重大手里剑\n生回旋劲势，成寄鹰斩\n钢铸之忍义手，亦重\n以此为轴，亦可施展此技",
+      "cn": "习得流派技【寄鹰斩】\n回旋跃进，并施斩击之流派技\n可瞬间自远处拉近对敌距离\n\n此乃侍奉苇名之忍者\n寄鹰众之忍技\n\n寄鹰众，以其擅用之沉重大手里剑\n生回旋劲势，成寄鹰斩\n钢铸之忍义手，亦重\n以此为轴，亦可施展此技",
       "en": "Acquires the Combat Art \"Nightjar Slash\".\nA spinning leap attack that can quickly close or create distance from foes.  \nA technique of the Nightjar Clan, the Shinobi who serve Ashina.\nThe Nightjar use the weight of their massive shuriken to add force to the blow.  The Shinobi Prosthetic is made of heavy steel and can be used in a similar capacity.\n<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash",
       "jp": "流派技「寄鷹斬り」を習得する\n回転して飛び込みつつ、斬りつける流派技\n遠距離から瞬時に間合いを詰めることができる\nこれは、葦名に仕える忍び\n寄鷹衆の技である\n\n寄鷹衆は、得物である大手裏剣の重みで\n回転の勢いを生み、寄鷹斬りをなす\n鋼でできた忍義手も、また重い\nこれを回転の軸とすれば、同じことができる",
       "cn_improved": "习得流派技【寄鹰斩】\n回旋跃进，并施斩击之流派技\n可瞬间自远处拉近对敌距离\n\n此乃侍奉苇名之忍者\n寄鹰众之忍技\n\n寄鹰众，以其擅用之沉重大手里剑\n生回旋劲势，成寄鹰斩\n钢铸之忍义手，亦重\n以此为轴，亦可施展此技",
@@ -133,7 +133,7 @@
     {
       "id": 310100,
       "status": "from_improved",
-      "cn": "习得流派技［寄鹰斩·逆旋］\n回旋跃进，顺施斩击之流派技\n可瞬间自远处拉近对敌距离\n或拉开距离\n\n寄鹰斩多以顺旋之势跃进，但逆旋亦无不可\n顺旋与逆旋，并成攻防一体之技\n\n迫而袭，飞而退\n是战法冠以寄鹰之名，乃是此故",
+      "cn": "习得流派技【寄鹰斩·逆旋】\n回旋跃进，顺施斩击之流派技\n可瞬间自远处拉近对敌距离\n或拉开距离\n\n寄鹰斩多以顺旋之势跃进，但逆旋亦无不可\n顺旋与逆旋，并成攻防一体之技\n\n迫而袭，飞而退\n是战法冠以寄鹰之名，乃是此故",
       "en": "Acquires the Combat Art \n\"Nightjar Slash Reversal\"\nPerforms a spinning leap attack that can quickly close with or create distance from foes.  This technique allows one to decide which direction to rotate in when performing Nightjar Slash.  Making use of both directions makes this both an offensive and a defensive skill.\n",
       "jp": "流派技「寄鷹斬り・逆さ回し」を習得する\n回転して飛び込みつつ、斬りつける流派技\n遠距離から瞬時に間合いを詰めたり、\n距離を取ることができる\n\n寄鷹斬りは順回りで飛びこむが、逆さにも回る\n順回りと逆さ回りで、攻防一体の技となる\n\n迫り、襲い、飛び去る\n寄鷹の名を冠する戦いとは、そうしたものだ",
       "cn_improved": "习得流派技【寄鹰斩·逆旋】\n回旋跃进，顺施斩击之流派技\n可瞬间自远处拉近对敌距离\n或拉开距离\n\n寄鹰斩多以顺旋之势跃进，但逆旋亦无不可\n顺旋与逆旋，并成攻防一体之技\n\n迫而袭，飞而退\n是战法冠以寄鹰之名，乃是此故",
@@ -142,7 +142,7 @@
     {
       "id": 410000,
       "status": "from_improved",
-      "cn": "习得流派技［一文字］\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
+      "cn": "习得流派技【一文字】\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
       "en": "Acquires the Combat Art \"Ichimonji\".\nIchimonji delivers a heavy, one-hit overhead sword strike.  Deals high posture damage and also recovers one's own posture with a strong forward step.\n\nSingle-minded mastery of this technique is the heart of the Ashina style's strength.\nOnce mastered, it can likely be improved.",
       "jp": "流派技「一文字」を習得する\n上段から重い一撃で叩き斬る流派技\n体幹へのダメージに優れる\nまた、その強い踏み込みで己の体幹を回復する\n\n無骨に、正面から叩き斬る\nただ、それだけを一意に専心した技\nその専心ゆえに、葦名流は強い\n\nこの一文字、極めればさらに先があろう",
       "cn_improved": "习得流派技【一文字】\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
@@ -151,7 +151,7 @@
     {
       "id": 410100,
       "status": "from_improved",
-      "cn": "习得流派技［一文字·二连］\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
+      "cn": "习得流派技【一文字·二连】\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
       "en": "Acquires Combat Art \"Ichimonji: Double\" \nAdds a follow-up overhead sword strike to Ichimonji.  Deals high posture damage and also recovers one's own posture with a strong forward step.\n\nThe follow-up attack is especially useful for preventing enemy counterattacks.\nAshina's Ichimonji is perfected with this\nfollow-up strike.",
       "jp": "流派技「一文字・二連」を習得する\n一文字に加えて、追い面を放つ流派技\n体幹へのダメージに優れる\nまた、その強い踏み込みで己の体幹を回復する\n\n無骨に、正面から叩き斬る\n反撃が来るならば、もう一度叩き斬る\n\n葦名の一文字は、二連で完全となる",
       "cn_improved": "习得流派技【一文字·二连】\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
@@ -160,7 +160,7 @@
     {
       "id": 411000,
       "status": "from_improved",
-      "cn": "习得流派技［奥义·苇名十文字］\n以纳刀架势起手\n进而连出高速居合斩之流派技\n亦可维持纳刀架势，伺机迎敌\n消耗形代以发动\n\n一意穷极斩击之速\n乃是苇名流奥义\n\n“老夫之十文字，曾断修罗一臂”\n剑圣·苇名一心，自傲之言",
+      "cn": "习得流派技【奥义·苇名十文字】\n以纳刀架势起手\n进而连出高速居合斩之流派技\n亦可维持纳刀架势，伺机迎敌\n消耗形代以发动\n\n一意穷极斩击之速\n乃是苇名流奥义\n\n“老夫之十文字，曾断修罗一臂”\n剑圣·苇名一心，自傲之言",
       "en": "Acquires the Combat Art \"Ashina Cross\".\nFrom a sheathed stance, draw the blade at\nhigh speed.  Costs Spirit Emblems to use.\nHold the stance to intercept at will.\nA secret technique of the Ashina style,\ndevoted to the mastery of a swift kill.\nDraws a cruciform cut in the blink of an\neye; so fast it could sever the arm of\nShura, or so boasts Isshin Ashina.",
       "jp": "流派技「奥義・葦名十文字」を習得する\n納刀の構えから\n高速の居合いを繰り出す流派技\n構えを維持すれば、機を伺って迎撃できる\n形代を消費して、使用する\n\n疾く斬ることを一意に極めた\n葦名流の奥義である\n\n儂の十文字は、修羅の腕をも斬り落とす\n剣聖・葦名一心は、そう嘯いた",
       "cn_improved": "习得流派技【奥义·苇名十文字】\n以纳刀架势起手\n进而连出高速居合斩之流派技\n亦可维持纳刀架势，伺机迎敌\n消耗形代以发动\n\n一意穷极斩击之速\n乃是苇名流奥义\n\n“老夫之十文字，曾断修罗一臂”\n剑圣·苇名一心，自傲之言",
@@ -169,7 +169,7 @@
     {
       "id": 510000,
       "status": "from_improved",
-      "cn": "习得流派技［拜连拳］\n以肘击与掌根施展体术之流派技\n以迅猛连击\n挫敌先手，继以叠打\n\n连拳既是战法，亦是叩拜\n欲灭却佛敌，先当自强...\n\n昔日仙峯寺之人，常缄其口\n而以拜拳积功德",
+      "cn": "习得流派技【拜连拳】\n以肘击与掌根施展体术之流派技\n以迅猛连击\n挫敌先手，继以叠打\n\n连拳既是战法，亦是叩拜\n欲灭却佛敌，先当自强...\n\n昔日仙峯寺之人，常缄其口\n而以拜拳积功德",
       "en": "Acquires the Combat Art \"Praying Strikes\".\n\nUsing successive elbow and arm strikes, unleash a flurry of quick attacks that inflict damage while preventing counterattack.\nThe strikes are both a martial art and a form of prayer.  \n\n\"Without strength, one cannot defeat the enemies of Buddha...\"\n",
       "jp": "流派技「拝み連拳」を習得する\n肘打ちと掌底による体術の流派技\n出の速い連撃により、\n敵の攻撃の出鼻をくじき、畳み掛ける\n\n連拳は戦う術であり、拝むことでもある\n仏敵を打ち倒すため、強くあらんことを…\n\nかつて仙峯寺の者は、その口を硬く結び\n拝み打って功徳を積んでいた",
       "cn_improved": "习得流派技【拜连拳】\n以肘击与掌根施展体术之流派技\n以迅猛连击\n挫敌先手，继以叠打\n\n连拳既是战法，亦是叩拜\n欲灭却佛敌，先当自强...\n\n昔日仙峯寺之人，常缄其口\n而以拜拳积功德",
@@ -178,7 +178,7 @@
     {
       "id": 510100,
       "status": "from_improved",
-      "cn": "习得流派技［拜连拳·破魔之型］\n拜连拳中，再加入背击之流派技\n\n以迅猛连击\n挫敌先手，继以叠打\n其后，再以沉重背靠追击\n\n昔日仙峯寺之人，振此背击\n兼以抛却烦恼，然如今...",
+      "cn": "习得流派技【拜连拳·破魔之型】\n拜连拳中，再加入背击之流派技\n\n以迅猛连击\n挫敌先手，继以叠打\n其后，再以沉重背靠追击\n\n昔日仙峯寺之人，振此背击\n兼以抛却烦恼，然如今...",
       "en": "Acquires Combat Art \n\"Praying Strikes - Exorcism\"\nAdds a finishing attack to Praying Strikes.\nUnleash a flurry of quick attacks, inflicting damage while preventing counterattack.  Then, use a heavier blow using one's entire body to complete the combination.\nThe Senpou monks also used this technique as a way to purge themselves of worldly desires.  However...  ",
       "jp": "流派技「拝み連拳・破魔の型」を習得する\n拝み連拳に、背撃をさらに加えた流派技\n\n出の速い連撃により、\n敵の攻撃の出鼻をくじき、畳み掛ける\nその後、さらに重い背撃で敵を追撃する\n\nかつて仙峯寺の者は、この背撃を打ち、\n併せて煩悩を払ったものだが…",
       "cn_improved": "习得流派技【拜连拳·破魔之型】\n拜连拳中，再加入背击之流派技\n\n以迅猛连击\n挫敌先手，继以叠打\n其后，再以沉重背靠追击\n\n昔日仙峯寺之人，振此背击\n兼以抛却烦恼，然如今...",
@@ -187,7 +187,7 @@
     {
       "id": 511000,
       "status": "from_improved",
-      "cn": "习得流派技［仙峯脚］\n以飞身踢击为起势之连击流派技\n初段，兼对空迎击与回避下段攻击\n而后连踏数脚\n\n此踏击，冠以仙峯寺之名\n仙乃是开悟之意\n\n登此开悟之峯者\n始于踏。此乃修行之始",
+      "cn": "习得流派技【仙峯脚】\n以飞身踢击为起势之连击流派技\n初段，兼对空迎击与回避下段攻击\n而后连踏数脚\n\n此踏击，冠以仙峯寺之名\n仙乃是开悟之意\n\n登此开悟之峯者\n始于踏。此乃修行之始",
       "en": "Acquires the \"Senpou Leaping Kick\" Combat Art, where repeated attacks begin with a leaping kick.  A combined anti-air counter and sweep attack counter, followed up with a combination of kicks.\n\nA technique refined by the recluses of Senpou.  According to their practices, mastery of the Leaping Kick proves one has attained true enlightenment.  ",
       "jp": "流派技「仙峯脚」を習得する\n飛び込み蹴りを起点とした連撃の流派技\n対空迎撃と下段攻撃への回避を兼ねた初段から\n連続で蹴りを叩き込む\n\nこの蹴りは、仙峯寺の名を冠する\n仙とは悟りである\n\n悟りの峯に、登らんとする者よ\nまずは蹴るが良い。修行はそこから始まる",
       "cn_improved": "习得流派技【仙峯脚】\n以飞身踢击为起势之连击流派技\n初段，兼对空迎击与回避下段攻击\n而后连踏数脚\n\n此踏击，冠以仙峯寺之名\n仙乃是开悟之意\n\n登此开悟之峯者\n始于踏。此乃修行之始",
@@ -196,7 +196,7 @@
     {
       "id": 511100,
       "status": "from_improved",
-      "cn": "习得流派技［奥义·仙峯寺菩萨脚］\n仙峯脚中，进一步融入斩击与踢击之流派技\n乃是仙峯寺拳法之奥义\n\n登顶此开悟之峯者，得菩萨貌\n如此则心无所忌\n连而击之如川流，无招自通\n\n此乃无形之技，连击之形因人而异\n意之所至，招式自现\n而狼，自然也可凭楔丸施展此技",
+      "cn": "习得流派技【奥义·仙峯寺菩萨脚】\n仙峯脚中，进一步融入斩击与踢击之流派技\n乃是仙峯寺拳法之奥义\n\n登顶此开悟之峯者，得菩萨貌\n如此则心无所忌\n连而击之如川流，无招自通\n\n此乃无形之技，连击之形因人而异\n意之所至，招式自现\n而狼，自然也可凭楔丸施展此技",
       "en": "Acquires Combat Art \"High Monk\".\nThe Secret Technique of the Senpou Style, this adds sword slashes and additional kicks to the Senpou Leaping Kick.  \n\nThe technique has no form, and the attacks differ from person to person.  For Wolf, it's only natural that he'd rely on Kusabimaru when performing the technique.",
       "jp": "流派技「奥義・仙峯寺菩薩脚」を習得する\n仙峯脚に、さらに斬撃と蹴りを加えた流派技\n仙峯寺拳法の奥義である\n\n悟りの峯に登りきった者は、菩薩の貌となる\nそうすれば心囚われず、\n流れるような連撃が、自ずと繰り出される\n\n無形の技であり、連撃の形は人により異なる\n心の在りよう、拠り所とするものが現れる\n狼ならば、楔丸を用いるのも自然なことだ",
       "cn_improved": "习得流派技【奥义·仙峯寺菩萨脚】\n仙峯脚中，进一步融入斩击与踢击之流派技\n乃是仙峯寺拳法之奥义\n\n登顶此开悟之峯者，得菩萨貌\n如此则心无所忌\n连而击之如川流，无招自通\n\n此乃无形之技，连击之形因人而异\n意之所至，招式自现\n而狼，自然也可凭楔丸施展此技",
@@ -205,7 +205,7 @@
     {
       "id": 610100,
       "status": "from_improved",
-      "cn": "习得流派技［秘传·大忍落杀］\n自大忍突刺进化而成之流派技\n此技亦是苇名无心流之秘传\n\n借大忍突刺腾空之势\n接以下落回旋斩击\n\n穿敌，腾跃，复扑归\n可于空中自在飞舞，方才是枭\n跃起时，会消耗形代",
+      "cn": "习得流派技【秘传·大忍落杀】\n自大忍突刺进化而成之流派技\n此技亦是苇名无心流之秘传\n\n借大忍突刺腾空之势\n接以下落回旋斩击\n\n穿敌，腾跃，复扑归\n可于空中自在飞舞，方才是枭\n跃起时，会消耗形代",
       "en": "Acquires Combat Art \"Shadowfall\".\nAn evolution of Shadowrush, this is a Secret Technique of the Ashina Mushin Compound Style.  \nAfter leaping into the skies with Shadowrush, allows one to perform a spinning sword attack as they descend.\nPierce, fly, and then dive back down.  Jumping off the enemy costs Spirit Emblems.",
       "jp": "流派技「秘伝・大忍び落とし」を習得する\n大忍び刺しを進化させた流派技\nこれは、葦名無心流の秘伝である\n\n大忍び刺しで高く飛びあがったのち、\nさらに降下回転斬りにつなげることができる\n\n穿ち、舞い上がり、また飛びかかる\n中空を自在に舞ってこそ、梟なり\n飛びあがるときに、形代を消費する",
       "cn_improved": "习得流派技【秘传·大忍落杀】\n自大忍突刺进化而成之流派技\n此技亦是苇名无心流之秘传\n\n借大忍突刺腾空之势\n接以下落回旋斩击\n\n穿敌，腾跃，复扑归\n可于空中自在飞舞，方才是枭\n跃起时，会消耗形代",
@@ -214,7 +214,7 @@
     {
       "id": 611100,
       "status": "from_improved",
-      "cn": "习得流派技［秘传·涡云渡］\n浮舟渡时\n一并卷起真空波之流派技\n消耗形代以发动\n\n遥望远方，源之水流出之方位\n可见巨大涡云\n称源之涡。乃此技得名之缘由\n\n吾主，远眺源之涡\n其瘦小背影，乃是巴之全部",
+      "cn": "习得流派技【秘传·涡云渡】\n浮舟渡时\n一并卷起真空波之流派技\n消耗形代以发动\n\n遥望远方，源之水流出之方位\n可见巨大涡云\n称源之涡。乃此技得名之缘由\n\n吾主，远眺源之涡\n其瘦小背影，乃是巴之全部",
       "en": "Acquires Combat Art \n\"Spiral Cloud Passage\".\nA sword technique that unleashes powerful shockwaves.  Costs Spirit Emblems to use.\nIts namesake comes from a large eddy of\ndistant cloud forming near the headwaters;\nthe Fountainhead Spiral.\nTomoe would watch her young master as\nhe gazed longingly at the coiling clouds.\nThe sight meant everything to her.",
       "jp": "流派技「秘伝・渦雲渡り」を習得する\n浮き舟渡りが、\n真空波を巻き起こすようになった流派技\n形代を消費して、使用する\n\n遥か遠く、源の水の流れ出ずる方角\n大きな渦雲が見える\nそれは源の渦。この技の名の由縁でもある\n\n源の渦を望む、己が主\nその小さな背中が、巴にとっては全てだった",
       "cn_improved": "习得流派技【秘传·涡云渡】\n浮舟渡时\n一并卷起真空波之流派技\n消耗形代以发动\n\n遥望远方，源之水流出之方位\n可见巨大涡云\n称源之涡。乃此技得名之缘由\n\n吾主，远眺源之涡\n其瘦小背影，乃是巴之全部",
@@ -223,7 +223,7 @@
     {
       "id": 612100,
       "status": "from_improved",
-      "cn": "习得流派技［秘传·不死斩］\n使用不死斩秘传之流派技\n消耗形代以发动\n\n入念，引不死斩之力\n以更高威势，连出长距斩击\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可穷极之技也",
+      "cn": "习得流派技【秘传·不死斩】\n使用不死斩秘传之流派技\n消耗形代以发动\n\n入念，引不死斩之力\n以更高威势，连出长距斩击\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可穷极之技也",
       "en": "Acquires Combat Art \n\"Empowered Mortal Draw\".\nA secret technique using the Mortal Blade.  Costs Spirit Emblems to use.\nBy focusing one's mind before unsheathing the Mortal Blade, one can draw additional power, resulting in a longer-ranged, more powerful slash attack.  Draw the sword that cannot be drawn, and unleash its devastation.  ",
       "jp": "流派技「秘伝・不死斬り」を習得する\n不死斬りを用いた秘伝の流派技\n形代を消費して、使用する\n\n念を込め、不死斬りの力を引き出すことで\nさらに威力が高く、射程の長い斬撃を繰り出す\n\n抜けぬ刀を、抜いて斬る\n竜胤の御子の従者でなくば、極められぬ技",
       "cn_improved": "习得流派技【秘传·不死斩】\n使用不死斩秘传之流派技\n消耗形代以发动\n\n入念，引不死斩之力\n以更高威势，连出长距斩击\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可穷极之技也",
@@ -232,7 +232,7 @@
     {
       "id": 620000,
       "status": "from_improved",
-      "cn": "常在效果［屏息］\n可抑制隐密气息\n是以难以被敌人发觉之常在效果\n\n气亦可杀，方才是忍者",
+      "cn": "常在效果【屏息】\n可抑制隐密气息\n是以难以被敌人发觉之常在效果\n\n气亦可杀，方才是忍者",
       "en": "Acquires the Latent Skill \"Suppress Presence\".\nA Latent Skill that reduces an enemy's ability to perceive those who are in stealth.\n\nRemoving one's presence is part of what defines a shinobi.",
       "jp": "常在効果「気配殺し」を習得する\n隠密中の気配を抑え、\n敵から視認されにくくなる常在効果\n\n気配も殺してこそ、忍びなり",
       "cn_improved": "常在效果【屏息】\n可抑制隐密气息\n是以难以被敌人发觉之常在效果\n\n气亦可杀，方才是忍者",
@@ -241,7 +241,7 @@
     {
       "id": 620100,
       "status": "from_improved",
-      "cn": "常在效果［消音］\n抑制行动所伴声响\n是以难以被敌人发觉之常在效果\n\n音亦可杀，方才是忍者",
+      "cn": "常在效果【消音】\n抑制行动所伴声响\n是以难以被敌人发觉之常在效果\n\n音亦可杀，方才是忍者",
       "en": "Acquires the Latent Skill \"Suppress Sound\".\nA Latent Skill that suppresses movement noise by inhibiting an enemy's ability to hear it.\n\nMoving in silence is part of what defines a shinobi.",
       "jp": "常在効果「音殺し」を習得する\n行動に伴う音を抑え、\n敵に気付かれにくくなる常在効果\n\n音も殺してこそ、忍びなり",
       "cn_improved": "常在效果【消音】\n抑制行动所伴声响\n是以难以被敌人发觉之常在效果\n\n音亦可杀，方才是忍者",
@@ -250,7 +250,7 @@
     {
       "id": 630000,
       "status": "from_improved",
-      "cn": "常在效果［功德］\n击败敌人时\n金钱获取量与道具掉落概率\n上升之常在效果\n\n仙峯上人有言\n\n    广积功德\n    莫贪钱财",
+      "cn": "常在效果【功德】\n击败敌人时\n金钱获取量与道具掉落概率\n上升之常在效果\n\n仙峯上人有言\n\n    广积功德\n    莫贪钱财",
       "en": "Acquires the Latent Skill \"Virtuous Deed\".  \nImproves the amount of sen obtained from enemies and improves item drop rates.  \n\nIn the words of the High Priest of Senpou Temple...\n\n\"One should focus only on deeds of virtue and forego thoughts of attaining wealth.\"",
       "jp": "常在効果「功徳」を習得する\n敵を倒したときの、\nお金の入手量とアイテムドロップ率が\n上昇する常在効果\n\n仙峯上人、曰く\n\n　功徳を積むことだ\n　儲けようなどと考えてはならぬ",
       "cn_improved": "常在效果【功德】\n击败敌人时\n金钱获取量与道具掉落概率\n上升之常在效果\n\n仙峯上人有言\n\n    广积功德\n    莫贪钱财",
@@ -259,7 +259,7 @@
     {
       "id": 630100,
       "status": "from_improved",
-      "cn": "常在效果［大功德］\n击败敌人后\n金钱获取量与道具掉落概率\n进一步上升之常在效果\n\n仙峯上人有言\n\n    愈加积功德\n    切莫贪钱财",
+      "cn": "常在效果【大功德】\n击败敌人后\n金钱获取量与道具掉落概率\n进一步上升之常在效果\n\n仙峯上人有言\n\n    愈加积功德\n    切莫贪钱财",
       "en": "Acquires the Latent Skill \n\"Most Virtuous Deed\".\nIncreases the amount of sen obtained from enemies and improves item drop rates.\nIn the words of the High Priest of Senpou Temple...\n\"One should focus only on continued deeds of virtue and forego any thoughts of attaining wealth.\"",
       "jp": "常在効果「さらなる功徳」を習得する\n敵を倒したときの、\nお金の入手量とアイテムドロップ率が\nさらに上昇する常在効果\n\n仙峯上人、曰く\n\n　さらなる功徳を積むことだ\n　くれぐれも、儲けようなどと考えてはならぬ",
       "cn_improved": "常在效果【大功德】\n击败敌人后\n金钱获取量与道具掉落概率\n进一步上升之常在效果\n\n仙峯上人有言\n\n    愈加积功德\n    切莫贪钱财",
@@ -268,7 +268,7 @@
     {
       "id": 640000,
       "status": "from_improved",
-      "cn": "常在效果［爱麻之药识·利之药］\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品尝，以知药理滋味\n    以身记之，则药效亦增\n    \n然则谨记，苦口之物是为药也",
+      "cn": "常在效果【爱麻之药识·利之药】\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品尝，以知药理滋味\n    以身记之，则药效亦增\n    \n然则谨记，苦口之物是为药也",
       "en": "Acquires the Latent Skill \n\"Emma's Medicine: Potency\".\nIncreases the healing effects of recovery items.\nEmma taught this technique to the Sculptor long ago.\nMemorizing the flavor will enhance its effects.  However, knowing this technique doesn't make the medicine taste any better.",
       "jp": "常在効果「エマの薬識・利き薬」を習得する\n回復アイテムを使用したときの\n効果が上昇する常在効果\n\n昔、エマが仏師に教えた薬の知識\n\n　良く味わい、薬の味を知りましょう\n　体に覚え込ませることで、薬効が増します\n\nだが得てして、薬と言うものはひどく不味い",
       "cn_improved": "常在效果【爱麻之药识·利之药】\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品尝，以知药理滋味\n    以身记之，则药效亦增\n    \n然则谨记，苦口之物是为药也",
@@ -277,7 +277,7 @@
     {
       "id": 640100,
       "status": "from_improved",
-      "cn": "常在效果［爱麻之药识·嗅之药］\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品闻，以知药理气韵\n    以身记之，则药效亦增\n    \n然则谨记，刺鼻之物是为药也",
+      "cn": "常在效果【爱麻之药识·嗅之药】\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品闻，以知药理气韵\n    以身记之，则药效亦增\n    \n然则谨记，刺鼻之物是为药也",
       "en": "Acquires the Latent Skill \n\"Emma's Medicine: Aroma\".  \nIncreases the healing effects of recovery items.\n\nEmma taught this technique to the Sculptor long ago.\nSavoring and memorizing the aroma will enhance its effects.  Be warned that the medicine still smells just as bad.",
       "jp": "常在効果「エマの薬識・嗅ぎ薬」を習得する\n回復アイテムを使用したときの\n効果が上昇する常在効果\n\n昔、エマが仏師に教えた薬の知識\n\n　良く匂い、薬の香りを知りましょう\n　体に覚え込ませることで、薬効が増します\n\nだが得てして、薬と言うものはひどく臭い",
       "cn_improved": "常在效果【爱麻之药识·嗅之药】\n使用回复道具时\n提升其功效之常在效果\n\n昔日，爱麻教授佛师之药理知识\n\n    仔细品闻，以知药理气韵\n    以身记之，则药效亦增\n    \n然则谨记，刺鼻之物是为药也",
@@ -286,7 +286,7 @@
     {
       "id": 640200,
       "status": "from_improved",
-      "cn": "常在效果［忍者之药识·甲］\n使用回复道具时\n提升其功效的常在效果\n\n忍者，伤痛不断\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
+      "cn": "常在效果【忍者之药识·甲】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，伤痛不断\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
       "en": "Acquires Latent Skill \n\"Shinobi Medicine: Rank 1\".\nIncreases the healing effect of recovery items.\n\nMedicinal knowledge is vital for a shinobi's survival.  Receiving wounds in battle is inevitable.  \n\nThe only way to learn such techniques is to be gravely injured time and time again by worthy opponents.",
       "jp": "常在効果「忍びの薬識・甲」を習得する\n回復アイテムを使用したときの\n効果が上昇する常在効果\n\n忍びは傷が絶えぬ\nゆえに薬の知識は欠かせない\n\nそしてそれは\n強者と戦い、重く傷つくことでしか\n学ぶことはできぬものだ",
       "cn_improved": "常在效果【忍者之药识·甲】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，伤痛不断\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
@@ -295,7 +295,7 @@
     {
       "id": 640300,
       "status": "from_improved",
-      "cn": "常在效果［忍者之药识·乙］\n使用回复道具时\n提升其功效的常在效果\n\n忍者，时而不惧死地\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
+      "cn": "常在效果【忍者之药识·乙】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，时而不惧死地\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
       "en": "Acquires Latent Skill \n\"Shinobi Medicine: Rank 2\".  \nIncreases the healing effect of recovery items.\nSometimes a Shinobi can survive what is certain death for a lesser warrior.  As such, medicinal knowledge is vital.\nThe only way to learn such techniques is to be gravely injured time and time again by worthy opponents.",
       "jp": "常在効果「忍びの薬識・乙」を習得する\n回復アイテムを使用したときの\n効果が上昇する常在効果\n\n忍びは、時に死地を厭わぬ\nゆえに薬の知識は欠かせない\n\nそしてそれは\n強者と戦い、重く傷つくことでしか\n学ぶことはできぬものだ",
       "cn_improved": "常在效果【忍者之药识·乙】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，时而不惧死地\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
@@ -304,7 +304,7 @@
     {
       "id": 640400,
       "status": "from_improved",
-      "cn": "常在效果［忍者之药识·丙］\n使用回复道具时\n提升其功效的常在效果\n\n忍者，孤身为战\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
+      "cn": "常在效果【忍者之药识·丙】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，孤身为战\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
       "en": "Acquires Latent Skill \n\"Shinobi Medicine: Rank 3\".  \nIncreases the healing effect of recovery items.\nA Shinobi fights as a lone wolf, without the help of others.  As such, medicinal knowledge is vital.\nThe only way to learn such techniques is to be gravely injured time and time again by worthy opponents.",
       "jp": "常在効果「忍びの薬識・丙」を習得する\n回復アイテムを使用したときの\n効果が上昇する常在効果\n\n忍びは、他を頼みとせず独り戦う\nゆえに薬の知識は欠かせない\n\nそしてそれは\n強者と戦い、重く傷つくことでしか\n学ぶことはできぬものだ",
       "cn_improved": "常在效果【忍者之药识·丙】\n使用回复道具时\n提升其功效的常在效果\n\n忍者，孤身为战\n故药理知识必不可少\n\n然此事\n须与强者之战，重伤之后\n方可习得",
@@ -313,7 +313,7 @@
     {
       "id": 650000,
       "status": "from_improved",
-      "cn": "常在效果［忍者之业·身业］\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生身负其业",
+      "cn": "常在效果【忍者之业·身业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生身负其业",
       "en": "Acquires the Latent Skill\n\"A Shinobi's Karma: Body\".\nIncreases the maximum number of Spirit Emblems that can be held.\n\nSpirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.\nShinobi who have killed many must bear the physical toll of those sins.",
       "jp": "常在効果「忍びの業・身業」を習得する\n形代の所持上限が増加する常在効果\n\n形代は心残りの幻である\nゆえに業深いものには、形代が多く憑く\n\n多く殺した忍びは、\nその身に業を背負い、生きることになる",
       "cn_improved": "常在效果【忍者之业·身业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生身负其业",
@@ -322,7 +322,7 @@
     {
       "id": 650100,
       "status": "from_improved",
-      "cn": "常在效果［忍者之业·心业］\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生心负其业",
+      "cn": "常在效果【忍者之业·心业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生心负其业",
       "en": "Acquires the Latent Skill\n\"A Shinobi's Karma: Mind\".\nIncreases the maximum number of \nSpirit Emblems that can be held.\n\nSpirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.\nShinobi who have killed many must carry the burden of their sins in their hearts.",
       "jp": "常在効果「忍びの業・心業」を習得する\n形代の所持上限が増加する常在効果\n\n形代は心残りの幻である\nゆえに業深いものには、形代が多く憑く\n\n多く殺した忍びは、\nその心に業を抱え、生きることになる",
       "cn_improved": "常在效果【忍者之业·心业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍者若多行杀戮\n则终生心负其业",
@@ -331,7 +331,7 @@
     {
       "id": 650200,
       "status": "from_improved",
-      "cn": "常在效果［佛师之业·血锈］\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所浴之血，已成血锈而不可去\n用之愈勤\n则所负之业愈重",
+      "cn": "常在效果【佛师之业·血锈】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所浴之血，已成血锈而不可去\n用之愈勤\n则所负之业愈重",
       "en": "Acquires the Latent Skill\n\"Sculptor's Karma: Blood\".\nIncreases the maximum number of \nSpirit Emblems that can be held.\n\nSpirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.\nBlood spattered upon the Prosthetic turns to a permanent rust, proof of the user's burden.",
       "jp": "常在効果「仏師の業・血錆び」を習得する\n形代の所持上限が増加する常在効果\n\n形代は心残りの幻である\nゆえに業深いものには、形代が多く憑く\n\n忍義手には、業がこもっている\n浴びた血は、今は錆びとなり決して消えぬ\n使いこなすほどに、\nその業を背負うことになる",
       "cn_improved": "常在效果【佛师之业·血锈】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所浴之血，已成血锈而不可去\n用之愈勤\n则所负之业愈重",
@@ -340,7 +340,7 @@
     {
       "id": 650300,
       "status": "from_improved",
-      "cn": "常在效果［佛师之业·刻伤］\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所刻大小伤痕，乃历经死斗之见证\n用之愈勤\n则所负之业愈重",
+      "cn": "常在效果【佛师之业·刻伤】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所刻大小伤痕，乃历经死斗之见证\n用之愈勤\n则所负之业愈重",
       "en": "Acquires the Latent Skill\n\"Sculptor's Karma: Scars\".\nIncreases the maximum number of \nSpirit Emblems that can be held.\n\nSpirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.\nThe Prosthetic's many small cuts and scars are proof of the countless deaths it's caused. ",
       "jp": "常在効果「仏師の業・刻み傷」を習得する\n形代の所持上限が増加する常在効果\n\n形代は心残りの幻である\nゆえに業深いものには、形代が多く憑く\n\n忍義手には、業がこもっている\n刻み込まれた大小の傷は、\n重ねた死闘の証だろう\n使いこなすほどに、\nその業を背負うことになる",
       "cn_improved": "常在效果【佛师之业·刻伤】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n忍义手亦含其业\n所刻大小伤痕，乃历经死斗之见证\n用之愈勤\n则所负之业愈重",
@@ -349,7 +349,7 @@
     {
       "id": 650400,
       "status": "from_improved",
-      "cn": "常在效果［兽之业］\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n今有无罪之兽\n负人之业\n死者之业，杀者负之\n如此，亦为忍者",
+      "cn": "常在效果【兽之业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n今有无罪之兽\n负人之业\n死者之业，杀者负之\n如此，亦为忍者",
       "en": "Acquires the Latent Skill \n\"A Beast's Karma\".\nIncreases the maximum amount of Spirit Emblems that can be held.\nSpirit Emblems are manifestations of regret.  Those regretful of their vile actions are haunted by many Spirit Emblems.\nPerhaps this innocent beast was burdened with the karma of man.  Inheriting a victim's karma is part of being a shinobi.",
       "jp": "常在効果「獣の業」を習得する\n形代の所持上限が増加する常在効果\n\n形代は心残りの幻である\nゆえに業深いものには、形代が多く憑く\n\n罪のない獣に、\n人の業を背負わせていたのだろう\n殺めたものの業を引き受ける\nそれもまた、忍びである",
       "cn_improved": "常在效果【兽之业】\n增加所持形代上限之常在效果\n\n形代乃心中残留之幻象\n是以业深者，所依形代亦多\n\n今有无罪之兽\n负人之业\n死者之业，杀者负之\n如此，亦为忍者",
@@ -358,7 +358,7 @@
     {
       "id": 660000,
       "status": "from_improved",
-      "cn": "常在效果［命之呼吸·阳］\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n忍杀时，忍者以呼吸调整身心\n如此，可杀而不懈",
+      "cn": "常在效果【命之呼吸·阳】\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n忍杀时，忍者以呼吸调整身心\n如此，可杀而不懈",
       "en": "Acquires the Latent Skill \n\"Breath of Life - Light\".\nRecovers Vitality upon performing a successful Deathblow.\nDeathblows provide shinobi with an opportunity to breathe.\nA shinobi can calm the body and mind through measured breathing, even while killing.  Doing so allows one to continue killing unabated.",
       "jp": "常在効果「命の呼吸・陽」を習得する\n忍殺に成功したとき\nＨＰが回復する常在効果\n\n忍殺は、忍びにとっての息継ぎである\n\n殺すとともに、忍びの呼吸で体と心を整える\nそうすれば、まだまだ殺せる",
       "cn_improved": "常在效果【命之呼吸·阳】\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n忍杀时，忍者以呼吸调整身心\n如此，可杀而不懈",
@@ -367,7 +367,7 @@
     {
       "id": 660100,
       "status": "from_improved",
-      "cn": "常在效果［命之呼吸·阴］\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n经强者之战\n其整息亦渐悠长",
+      "cn": "常在效果【命之呼吸·阴】\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n经强者之战\n其整息亦渐悠长",
       "en": "Acquires Latent Skill \n\"Breath of Life - Shadow\".\nRecovers Vitality upon performing a successful Deathblow.\n\nDeathblows provide shinobi with an opportunity to breathe.\nExperiencing battles with powerful opponents further deepens this moment of respite.",
       "jp": "常在効果「命の呼吸・陰」を習得する\n忍殺に成功したとき\nＨＰが回復する常在効果\n\n忍殺は、忍びにとっての息継ぎである\n\n強者との戦いを経れば、\nその息継ぎも深くなるというもの",
       "cn_improved": "常在效果【命之呼吸·阴】\n忍杀成功时\n回复ＨＰ之常在效果\n\n所谓忍杀，忍者整息之时也\n\n经强者之战\n其整息亦渐悠长",
@@ -376,7 +376,7 @@
     {
       "id": 660200,
       "status": "from_improved",
-      "cn": "常在效果［干之吐息·阳］\n忍杀成功时\n回复体干之常在效果\n\n苇名流，须备以一敌众之对策\n杀敌之后，残心之时\n亦行干之吐息，重整体势",
+      "cn": "常在效果【干之吐息·阳】\n忍杀成功时\n回复体干之常在效果\n\n苇名流，须备以一敌众之对策\n杀敌之后，残心之时\n亦行干之吐息，重整体势",
       "en": "Acquires Latent Skill \n\"Breath of Nature - Light\".\nRecovers Posture upon executing a successful Deathblow.\nThe Ashina Style also has techniques designed for fighting when greatly outnumbered.  \nAfter killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.",
       "jp": "常在効果「幹の息吹・陽」を習得する\n忍殺に成功したとき\n体幹が回復する常在効果\n\n葦名流には、多勢との戦いにも備えがある\n敵を殺した後、残心と共に幹の息吹を吐き、\n体勢を整えるのだ",
       "cn_improved": "常在效果【干之吐息·阳】\n忍杀成功时\n回复体干之常在效果\n\n苇名流，须备以一敌众之对策\n杀敌之后，残心之时\n亦行干之吐息，重整体势",
@@ -385,7 +385,7 @@
     {
       "id": 660300,
       "status": "from_improved",
-      "cn": "常在效果［干之吐息·阴］\n忍杀成功时\n回复体干之常在效果\n\n忍者，须有以一敌众之觉悟\n杀敌之后，残心之时\n亦行干之吐息，重整体势\n\n经强者之战\n其吐息亦渐强劲",
+      "cn": "常在效果【干之吐息·阴】\n忍杀成功时\n回复体干之常在效果\n\n忍者，须有以一敌众之觉悟\n杀敌之后，残心之时\n亦行干之吐息，重整体势\n\n经强者之战\n其吐息亦渐强劲",
       "en": "Acquires Latent Skill \n\"Breath of Nature - Shadow\".\nRecovers Posture upon performing a successful Deathblow.\nA Shinobi must be prepared for battles in which he is outnumbered.  After killing an enemy, one must exhale, expelling both regret and reaffirming one's core to regain Posture.  Experiencing battles with stronger opponents further deepens this moment of exhalation.",
       "jp": "常在効果「幹の息吹・陰」を習得する\n忍殺に成功したとき\n体幹が回復する常在効果\n\n忍びは、多勢との戦いも覚悟せねばならぬ\n敵を殺した後、残心と共に幹の息吹を吐き、\n体勢を整えるのだ\n\n強者との戦いを経れば、\nその息吹も強くなるというもの",
       "cn_improved": "常在效果【干之吐息·阴】\n忍杀成功时\n回复体干之常在效果\n\n忍者，须有以一敌众之觉悟\n杀敌之后，残心之时\n亦行干之吐息，重整体势\n\n经强者之战\n其吐息亦渐强劲",
@@ -394,7 +394,7 @@
     {
       "id": 660400,
       "status": "from_improved",
-      "cn": "常在效果［忍者之目］\n看破成功时\n提升体干伤害之常在效果\n\n实战中，忍者之目\n不拘于刃上\n\n利刃，慑人心魄\n须不为所动\n不观一物，而观全貌也",
+      "cn": "常在效果【忍者之目】\n看破成功时\n提升体干伤害之常在效果\n\n实战中，忍者之目\n不拘于刃上\n\n利刃，慑人心魄\n须不为所动\n不观一物，而观全貌也",
       "en": "Acquires Latent Skill \"Shinobi Eyes\".\nIncreases the damage inflicted to Posture upon executing a successful Mikiri counter.\n\nA Shinobi's eyes do not follow the blade without anticipating its movements.  Remaining composed even when fearful of its sharp edge is the key to victory.  ",
       "jp": "常在効果「忍びの目」を習得する\n見切りを成功させたときの、\n体幹ダメージが上昇する常在効果\n\n実際のところ、忍びの目は、\n刃のみを追っているわけではない\n\n鋭い切っ先は恐ろしい\nだが、それに心を囚われず\n見るとは無しに、全てを見るのだ",
       "cn_improved": "常在效果【忍者之目】\n看破成功时\n提升体干伤害之常在效果\n\n实战中，忍者之目\n不拘于刃上\n\n利刃，慑人心魄\n须不为所动\n不观一物，而观全貌也",
@@ -403,7 +403,7 @@
     {
       "id": 660500,
       "status": "from_improved",
-      "cn": "常在效果［信心］\n使用降灵时\n延长药效时间之常在效果\n\n若信心至诚\n则御灵加护亦将长宿其身",
+      "cn": "常在效果【信心】\n使用降灵时\n延长药效时间之常在效果\n\n若信心至诚\n则御灵加护亦将长宿其身",
       "en": "Acquires the Latent Skill \"Devotion\".\nIncreases the amount of time a Buddhist candy is effective when used.\n\nThose who demonstrate devotion are blessed with the protection of the gods for an extended period.  ",
       "jp": "常在効果「信心」を習得する\n御霊降ろしを使用した時の\n効果時間が長くなる常在効果\n\n信心深ければ、\n御霊の加護はその身に長く宿る",
       "cn_improved": "常在效果【信心】\n使用降灵时\n延长药效时间之常在效果\n\n若信心至诚\n则御灵加护亦将长宿其身",
@@ -412,7 +412,7 @@
     {
       "id": 660600,
       "status": "from_improved",
-      "cn": "常在效果［登鲤］\n成功弹开敌人攻击时\n提升体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n将袭来之刃，精准弹反之姿态\n常比之为登瀑之鲤",
+      "cn": "常在效果【登鲤】\n成功弹开敌人攻击时\n提升体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n将袭来之刃，精准弹反之姿态\n常比之为登瀑之鲤",
       "en": "Acquires the Latent Skill \"Ascending Carp\".\nA Latent Skill that increases the damage inflicted to Posture upon performing a successful Deflection.\n\nThe Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp ascending a waterfall.",
       "jp": "常在効果「登り鯉」を習得する\n弾きを成功させたときの\n体幹ダメージが上昇する常在効果\n\n葦名流は、源の水の流れと縁深い\n襲い来る刃を、見事に弾き返す様\nそれを滝を登る鯉に例えた",
       "cn_improved": "常在效果【登鲤】\n成功弹开敌人攻击时\n提升体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n将袭来之刃，精准弹反之姿态\n常比之为登瀑之鲤",
@@ -421,7 +421,7 @@
     {
       "id": 660700,
       "status": "from_improved",
-      "cn": "常在效果［下鲤］\n成功弹开敌人攻击后数秒\n提升攻击对敌人体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n弹反之后，追以猛烈叠击之姿态\n常比之为下瀑之鲤",
+      "cn": "常在效果【下鲤】\n成功弹开敌人攻击后数秒\n提升攻击对敌人体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n弹反之后，追以猛烈叠击之姿态\n常比之为下瀑之鲤",
       "en": "Acquires the Latent Skill \n\"Descending Carp\".\nA Latent Skill that, for a few seconds after Deflection, increases damage to enemy posture from all sources.\nThe Ashina Style is deeply rooted in the flow of the Fountainhead waters.  They believe the act of successfully deflecting a blade is akin to a carp descending a waterfall.",
       "jp": "常在効果「下り鯉」を習得する\n弾きを成功させた後、数秒間\n攻撃による体幹ダメージが上昇する常在効果\n敵を殺した後、残心と共に幹の息吹を吐き、\n葦名流は、源の水の流れと縁深い\n刃を弾き返し、そこに苛烈に畳み掛ける様\nそれを滝を下る鯉に例えた",
       "cn_improved": "常在效果【下鲤】\n成功弹开敌人攻击后数秒\n提升攻击对敌人体干伤害之常在效果\n\n苇名流，与源之水流势渊源颇深\n弹反之后，追以猛烈叠击之姿态\n常比之为下瀑之鲤",
@@ -430,7 +430,7 @@
     {
       "id": 660800,
       "status": "from_improved",
-      "cn": "常在效果［流水］\n以刀抵御敌人攻击时\n减轻所受体干伤害之常在效果\n\n苇名众皆知\n川流之水，强\n\n以直受之，不可为\n应顺而受之，如流水也",
+      "cn": "常在效果【流水】\n以刀抵御敌人攻击时\n减轻所受体干伤害之常在效果\n\n苇名众皆知\n川流之水，强\n\n以直受之，不可为\n应顺而受之，如流水也",
       "en": "Acquires the Latent Skill \"Flowing Water\".\n\nReduces the amount of damage to Posture when attacked by an enemy with a sword.\n\nMuch like the flowing waters known by the Ashina Clan, strength should not be met with more force but instead redirected like the flowing of water.",
       "jp": "常在効果「流水」を習得する\n敵の攻撃を刀で受けたときの、\n体幹ダメージを軽減する常在効果\n\n葦名の衆は知っている\n流れる水こそ、強いということを\n\n硬く受け止めるのではなく、\n流れるように受け流すべきなのだ",
       "cn_improved": "常在效果【流水】\n以刀抵御敌人攻击时\n减轻所受体干伤害之常在效果\n\n苇名众皆知\n川流之水，强\n\n以直受之，不可为\n应顺而受之，如流水也",
@@ -439,7 +439,7 @@
     {
       "id": 670000,
       "status": "from_improved",
-      "cn": "习得流派技［奥义·不死斩］\n使用不死斩之流派技\n消耗形代以发动\n\n自不死斩渗出赤黑瘴气\n以其长距气刃横扫敌人\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可施之技也",
+      "cn": "习得流派技【奥义·不死斩】\n使用不死斩之流派技\n消耗形代以发动\n\n自不死斩渗出赤黑瘴气\n以其长距气刃横扫敌人\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可施之技也",
       "en": "Acquires the Combat Art \"Mortal Draw\".\nA sword technique that uses the Mortal Blade, Costs Spirit Emblems to use.\nWith the flash of a sword, the Mortal Blade slashes through enemies, leaving a reddish-black, noxious mist.  The seeping mist extends the range of the blade.\nA technique using the blade that cannot be drawn is a feat only the oathbound of the Divine Heir could achieve.",
       "jp": "流派技「奥義・不死斬り」を習得する\n不死斬りを用いた流派技\n赤黒き瘴気を帯びた剣閃により敵をなぎ払う\n凄まじき攻撃力の斬撃\n\n抜けぬ刀を、抜いて斬る\n竜胤の御子の従者でなくば、扱えぬ技",
       "cn_improved": "习得流派技【奥义·不死斩】\n使用不死斩之流派技\n消耗形代以发动\n\n自不死斩渗出赤黑瘴气\n以其长距气刃横扫敌人\n\n不可拔之刀，拔而斩之\n非龙胤御子之从者，不可施之技也",
@@ -448,7 +448,7 @@
     {
       "id": 671000,
       "status": "from_improved",
-      "cn": "习得流派技［秘传·龙闪］\n以纳刀架势起手，快速下劈\n同时释放真空波之流派技\n消耗形代以发动\n积蓄力量，便可在下劈后放出冲击波\n\n年少之剑鬼一心，历经死斗\n却从未停止挥刀\n何以挥刀，以何挥刀...\n如此穷极刀法的过程中，不知何时已有刃风飞舞",
+      "cn": "习得流派技【秘传·龙闪】\n以纳刀架势起手，快速下劈\n同时释放真空波之流派技\n消耗形代以发动\n积蓄力量，便可在下劈后放出冲击波\n\n年少之剑鬼一心，历经死斗\n却从未停止挥刀\n何以挥刀，以何挥刀...\n如此穷极刀法的过程中，不知何时已有刃风飞舞",
       "en": "Acquires Combat Art: \"Dragon Flash\".\nCombat Art that performs a high-speed\ncut from a sheathed stance.\nCharge to send out shockwaves.\nCosts Spirit Emblems to use.\nIn his younger years, Isshin was a devil\nwith the sword, spending his days in\npursuit of life-or-death combat.\nHe often ruminated on how a cut should\nbe made, but his blade always moved first.",
       "jp": "流派技「秘伝・竜閃」を習得する\n納刀の構えから\n高速の斬り下ろしを繰り出す流派技\n力を溜めたときは、\n鋭い斬撃とともに真空波を飛ばす\n\n若き剣鬼一心は、死闘の日々を重ね\nただ、ひたすらに斬った\n如何に斬ろうか、如何に斬るべきか…\nそう突き詰めるうち、気づけば刃は飛んでいた",
       "cn_improved": "习得流派技【秘传·龙闪】\n以纳刀架势起手，快速下劈\n同时释放真空波之流派技\n消耗形代以发动\n积蓄力量，便可在下劈后放出冲击波\n\n年少之剑鬼一心，历经死斗\n却从未停止挥刀\n何以挥刀，以何挥刀...\n如此穷极刀法的过程中，不知何时已有刃风飞舞",
@@ -457,7 +457,7 @@
     {
       "id": 672000,
       "status": "from_improved",
-      "cn": "习得流派技［奥义·浮舟渡］\n此流派技，连而击之如舞\n数招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
+      "cn": "习得流派技【奥义·浮舟渡】\n此流派技，连而击之如舞\n数招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
       "en": "Acquires Combat Art \"Floating Passage\".\nUnleashes repeated attacks, overwhelming enemies with flowing, dance-like movements.\nWhile an Ashina Combat Art, it was\ntaught by an outsider, and as such\nis considered heretical.\nThe master of this technique crossed the\nFloating Passage and descended to Ashina.\nHer name was Tomoe.",
       "jp": "流派技「奥義・浮き舟渡り」を習得する\n舞うように連撃を繰り出す流派技\n流れるような動きと手数により敵を圧倒する\n\n葦名流の剣技ではあるが、異端にあたる\n外から来た者が、伝えた技ゆえに\n\nその遣い手は、\n浮き舟を渡り、葦名に舞い降りた\n名を、巴と言う",
       "cn_improved": "习得流派技【奥义·浮舟渡】\n此流派技，连而击之如舞\n数招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
@@ -466,7 +466,7 @@
     {
       "id": 673000,
       "status": "from_improved",
-      "cn": "习得流派技［秘传·一心］\n以纳刀架势起手\n连续打出多段无法分辨连击之流派技\n消耗形代以发动\n\n斩\n心存仅此一事\n如此所发连击，神速也\n\n登峰造极\n非老境剑圣一心所不可得之技也",
+      "cn": "习得流派技【秘传·一心】\n以纳刀架势起手\n连续打出多段无法分辨连击之流派技\n消耗形代以发动\n\n斩\n心存仅此一事\n如此所发连击，神速也\n\n登峰造极\n非老境剑圣一心所不可得之技也",
       "en": "Acquires Combat Art \"One Mind\".\nA Combat Art that unleashes a storm of attacks from the sheathed stance; so fast the blade is nigh invisible.  \nCosts Spirit Emblems to use.\nOne must focus their soul on the release of the blade, nothing else.  Through that focus, the strikes achieve a god-like speed.\nOnly one as honed as the aging Isshin Ashina could perform this technique.",
       "jp": "流派技「秘伝・一心」を習得する\n納刀の構えから\n見えぬほどの速さの連撃を繰り出す流派技\n形代を消費して、使用する\n\nただ斬ること\nその一事に、心を置く\nそうして放たれる連撃は、神速である\n研ぎ澄まされた\n老境の剣聖一心だからこそ、為せる技だ",
       "cn_improved": "习得流派技【秘传·一心】\n以纳刀架势起手\n连续打出多段无法分辨连击之流派技\n消耗形代以发动\n\n斩\n心存仅此一事\n如此所发连击，神速也\n\n登峰造极\n非老境剑圣一心所不可得之技也",
@@ -475,7 +475,7 @@
     {
       "id": 680000,
       "status": "from_improved",
-      "cn": "常在效果［水生呼吸术］\n被称为［水生之息］，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
+      "cn": "常在效果【水生呼吸术】\n被称为【水生之息】，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
       "en": "Acquires Latent Skill \n\"Mibu Breathing Technique\".\nAllows one to dive under water, as well as breathe underwater indefinitely.\n\nDeveloped by the founder of Mibu Village.\n\"Those who seek to join the procession must master the Mibu Breathing Technique.  Without it, the Divine Dragon cannot be met.\"",
       "jp": "常在効果「水生の呼吸術」を習得する\n「水生の息」と呼ばれる、水中で呼吸する秘術\n水中に潜ることができるようになる常在効果\n\n水生の御初代は、\n輿入れが決まった者にのみ、\n密かにこの秘術を授けた\n\n　輿入れ望まば、水生の息\n　これ無くば、神なる竜とは見えられぬ",
       "cn_improved": "常在效果【水生呼吸术】\n被称为【水生之息】，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
@@ -484,7 +484,7 @@
     {
       "id": 681000,
       "status": "from_improved",
-      "cn": "习得忍者体术［对空忍杀］\n处决高高跃起敌人之忍者体术\n\n可对空中显露破绽者\n跃近并处以忍杀\n\n此为足不踏地之忍者，所用交战技巧之一",
+      "cn": "习得忍者体术【对空忍杀】\n处决高高跃起敌人之忍者体术\n\n可对空中显露破绽者\n跃近并处以忍杀\n\n此为足不踏地之忍者，所用交战技巧之一",
       "en": "Acquires Shinobi Martial Art \n\"Anti-air Deathblow\".\nA technique designed to stop cold any enemies that leap high in the air.\n\nAllows one to exploit an enemy's vulnerability in the air by jumping toward them and performing a sudden Deathblow.\nThe perfect skill for Shinobi looking to turn the tables on airborne enemies.  ",
       "jp": "忍びの体術「対空忍殺」を習得する\n高く跳び上がった敵を仕留める、忍びの体術\n\n中空にて隙をさらす者に飛びかかり、\n忍殺することができる\n\nこれは、地に足つけぬ、忍びの戦う術の一つ",
       "cn_improved": "习得忍者体术【对空忍杀】\n处决高高跃起敌人之忍者体术\n\n可对空中显露破绽者\n跃近并处以忍杀\n\n此为足不踏地之忍者，所用交战技巧之一",
@@ -493,7 +493,7 @@
     {
       "id": 682000,
       "status": "done",
-      "cn": "习得忍者体术［弹返］\n反击敌人攻势之忍者体术\n\n    敌人重击之反作用力\n    可化为突刺或横扫之反击\n    令敌人怯陷，并予以ＨＰ与体干之巨创\n\n    身处九死之中，忍技方得磨砺",
+      "cn": "习得忍者体术【弹返】\n反击敌人攻势之忍者体术\n\n    敌人重击之反作用力\n    可化为突刺或横扫之反击\n    令敌人怯陷，并予以ＨＰ与体干之巨创\n\n    身处九死之中，忍技方得磨砺",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter\".\nA Shinobi Martial Art that ripostes heavy assaults, providing an opportunity for a counter-strike. \n\nUse Recoil Counter to deflect strong attacks, leaving the enemy momentarily off balance.\n\nIn pivotal moments of battle, a shinobi's senses sharpen.",
       "jp": "忍びの体術「弾きカウンター」を習得する\n敵の攻撃からカウンター攻撃を行う忍びの体術\n\n敵の重い一撃から繰り出されるカウンターは、\n突き、または薙ぎ払いにより\n敵を怯ませ、ＨＰと体幹に大ダメージを与える\n\n九死の中でこそ、忍びの技は磨かれる",
       "cn_improved": null,
@@ -502,7 +502,7 @@
     {
       "id": 682100,
       "status": "done",
-      "cn": "习得忍者体术［弹返·疾业］\n强化弹返之忍者体术\n\n    借敌人攻击之反作用力\n    可迅疾衔接流派技或义手忍具攻击\n\n    此等疾业，非熟练之忍者难以施展",
+      "cn": "习得忍者体术【弹返·疾业】\n强化弹返之忍者体术\n\n    借敌人攻击之反作用力\n    可迅疾衔接流派技或义手忍具攻击\n\n    此等疾业，非熟练之忍者难以施展",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter: Quick-draw\".\nMastery of Recoil Counter allows the integration of certain Prosthetic Tools and Combat Arts.\n\nCausing an enemy to temporarily lose footing is something an experienced shinobi uses to their advantage, following up with a Prosthetic Tool or Combat Art more swiftly.",
       "jp": "忍びの体術「弾きカウンター・早業」を習得する\nカウンター攻撃を強化する忍びの体術\n\n敵の攻撃の反動を利用すれば、\n流派技や義手忍具攻撃に素早く繋げられる\n\n熟練の忍びにしか出来ぬ、類稀なる早業だ ",
       "cn_improved": null,
@@ -511,7 +511,7 @@
     {
       "id": 682200,
       "status": "done",
-      "cn": "习得忍者体术［飞道具返］\n反弹敌人飞行道具之忍者体术\n\n    可将弹丸、箭矢等\n    疾速之飞行道具弹回\n\n    踏地若山岳般稳健\n    则箭矢弹丸不足为惧",
+      "cn": "习得忍者体术【飞道具返】\n反弹敌人飞行道具之忍者体术\n\n    可将弹丸、箭矢等\n    疾速之飞行道具弹回\n\n    踏地若山岳般稳健\n    则箭矢弹丸不足为惧",
       "en": "Acquires Shinobi Martial Art\n\"Projectile Counter\".\nThe sheer force behind a skilled deflect means a shinobi can only reflect high speed projectiles like arrows and bullets.\n\nUsing the correct stance to remain steadfast, a skilled shinobi cannot be moved.",
       "jp": "忍びの体術「飛び道具返し」を習得する\n敵の飛び道具を撃ち返す、忍びの体術\n\n弾丸や矢など、疾い飛び道具を\n弾き返すことができる\n\n山脈の如く大地を踏み締めれば、\n矢弾如きは、恐るるに足らず",
       "cn_improved": null,
@@ -520,7 +520,7 @@
     {
       "id": 682300,
       "status": "done",
-      "cn": "习得忍者体术［空中飞道具返］\n于空中反弹飞行道具之忍者体术\n\n    占空中之利\n    则不意飞来之物，亦可于离地之时弹回\n\n    将敌人之利牙，化作己物\n    此方为忍者应有之姿",
+      "cn": "习得忍者体术【空中飞道具返】\n于空中反弹飞行道具之忍者体术\n\n    占空中之利\n    则不意飞来之物，亦可于离地之时弹回\n\n    将敌人之利牙，化作己物\n    此方为忍者应有之姿",
       "en": "Acquires Shinobi Martial Art\n\"Aerial Projectile Counter\".\nCapitalizes upon an airborne advantage, using trajectory to reflect projectiles back towards the enemy. \n\nGaining height allows for superior trajectories, giving a shinobi the advantage of the unexpected. For a skilled shinobi, the fangs of the enemy can used against them.",
       "jp": "忍びの体術「空中飛び道具返し」を習得する\n空中で飛び道具を撃ち返す、忍びの体術\n\n空中の利を活かせば、不意の飛来物さえ\n地に足つけることなく、弾き返せる\n\n敵の牙をも、己のものとする\nまさに忍びのあるべき姿であろう",
       "cn_improved": null,

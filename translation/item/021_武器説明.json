@@ -358,7 +358,7 @@
     {
       "id": 72000,
       "status": "from_improved",
-      "cn": "装入吹火筒的义手忍具\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入［炎上］状态\n\n狂暴之赤目，以凡人之力恐难压制\n然赤目所惧之物，莫过于火\n若有此吹火筒，便可使其退怯",
+      "cn": "装入吹火筒的义手忍具\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n狂暴之赤目，以凡人之力恐难压制\n然赤目所惧之物，莫过于火\n若有此吹火筒，便可使其退怯",
       "en": "A Prosthetic Tool made from a loaded Flame Barrel. Costs Spirit Emblems to use.  \n\nDeals fire damage to enemies via a short-range blast of fire while also inflicting Burn status.\n\nIt is difficult to control the rage of those with \"Red Eyes\" through the power of man alone.  They do, however, fear the flame above all else.  This tool has the power to make them tremble.",
       "jp": "火吹き筒を仕込んだ義手忍具\n形代を消費して、使用する\n\n吹き出す火で、敵にダメージを与える\n敵を炎上状態にすることができる\n\n暴れ狂う赤目は、人の力で抑えることは難しい\nだが、やつらは何より火を恐れる\n火吹き筒ならば、怯ませることができる",
       "cn_improved": "装入吹火筒的义手忍具\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n狂暴之赤目，以凡人之力恐难压制\n然赤目所惧之物，莫过于火\n若有此吹火筒，便可使其退怯",
@@ -367,7 +367,7 @@
     {
       "id": 72100,
       "status": "from_improved",
-      "cn": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入［炎上］状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
+      "cn": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
       "en": "A Flame Barrel fitted with a gunpowder-loaded mechanism.  \nCosts Spirit Emblems to use.\n\nDeals damage to enemies with gouts of fire,\ninflicting Burn status abnormality.\n\nThe spring mechanism can also be charged to release a massive blast of flames and hot air, sending opponents flying.",
       "jp": "火薬を充填する仕掛けを施した火吹き筒\n形代を消費して、使用する\n\n吹き出す火で、敵にダメージを与える\n敵を炎上状態にすることができる\n\nバネ絡繰りで力を溜めて放つと、\n巻き込んだ空気が火を激しく燃やし、\n敵をも吹き飛ばす爆炎を放つ",
       "cn_improved": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
@@ -376,7 +376,7 @@
     {
       "id": 72200,
       "status": "from_improved",
-      "cn": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入［炎上］状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
+      "cn": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入【炎上】状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
       "en": "A barrel containing smoldering resin that acts as an explosive catalyst.  \nCosts Spirit Emblems to use.\n\nEmits a short-range flame blast.  Continuous fire damage will inflict the Burn status.  \nIt is able to maintain a continues stream of flames due to the smoldering resin inside of the tube mechanism.",
       "jp": "くすぶり松脂を筒薬とした火吹き筒\n形代を消費して、使用する\n\n吹き出す火で、敵にダメージを与える\n敵を炎上状態にすることができる\n\n絡繰り筒の内で、くすぶる松脂により、\n火を吹き出し続けることができる",
       "cn_improved": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入【炎上】状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
@@ -385,7 +385,7 @@
     {
       "id": 72300,
       "status": "from_improved",
-      "cn": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火，可伤怨灵\n然而此火并无［炎上］功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
+      "cn": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火，可伤怨灵\n然而此火并无【炎上】功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
       "en": "A Flame Barrel blessed with the favor of the Fountainhead Lapis Lazuli.  \nCosts Spirit Emblems to use.\nDamages even apparitions with its blazing purple flame.\nThis flame does not, however, inflict Burn status abnormality.\nThe sacred lapis lazuli fires are divine.\nCleanse the deep-seated hatred with flame.",
       "jp": "源の瑠璃の恩寵を授かった火吹き筒\n形代を消費して、使用する\n\n吹き出す紫の火は、\n怨霊へもダメージを与える\nただし、この火は「炎上」効果を持たない\n\n瑠璃の浄火は、神宿り\n凝った怨念は、その火に焼かれよう",
       "cn_improved": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火，可伤怨灵\n然而此火并无【炎上】功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
@@ -394,7 +394,7 @@
     {
       "id": 72400,
       "status": "done",
-      "cn": "昔日畏称［黑剑士］之武人\n所有之诡异机关义手\n\n消耗形代，施发机关铳\n\n为断与背信盟友之因缘\n其主屠戮无数魑魅魍魉\n\n知其去向者，已无人在世",
+      "cn": "昔日畏称【黑剑士】之武人\n所有之诡异机关义手\n\n消耗形代，施发机关铳\n\n为断与背信盟友之因缘\n其主屠戮无数魑魅魍魉\n\n知其去向者，已无人在世",
       "en": "A prosthetic belonging to a mad dog who almost lost himself in bloodshed. Fires continuous rounds of projectiles, or a single explosive projectile.\n\nThe original owner, known for slaying 100 men, lost his arm, along with everything he held dear, when his closest friend sacrificed everything. \n\nAfter years of hardship, did the Struggler find peace? Perhaps his tale remains unfinished...",
       "jp": "かつて「黒い剣士」と畏怖された\n武人のものらしき、怪しい絡繰義手\n\n形代を消費して、仕込み銃を発砲する\n\n己を裏切った盟友との因縁を断つべく\n持ち主は、数多の魑魅魍魎を屠り続けた\n\n彼の行方を知る者は、もういない",
       "cn_improved": null,
@@ -457,7 +457,7 @@
     {
       "id": 74200,
       "status": "from_improved",
-      "cn": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿［主］之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n［主］乃土地神。触神者，休想全身而退",
+      "cn": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿【主】之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n【主】乃土地神。触神者，休想全身而退",
       "en": "Mist Raven fused with crimson feathers.\nCosts Spirit Emblems to use.\n\nDisappear and displace, like the mist.\nCan be performed from both the\nassumed stance and after taking damage.\nDyed red to resemble the Great Mist Raven,\nthe feathers vanish in a scorching wake.\nThe great raven is a god of the land,\nand the touch of gods is to be feared.",
       "jp": "緋羽混じりの霧がらす\n形代を消費して、使用する\n\n構えた状態だけでなく、\nダメージを受けたあとでも、\n霧のように瞬時にかき消え、移動する\n\nぬしの霧がらすに似せて、緋羽に染めてある\nかき消えるとき、その羽は燃え盛る\nぬしとは土地神。神に触れれば、ただで済まぬ",
       "cn_improved": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿【主】之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n【主】乃土地神。触神者，休想全身而退",
@@ -466,7 +466,7 @@
     {
       "id": 75000,
       "status": "from_improved",
-      "cn": "装有锈丸之义手忍具\n消耗形代以驱动\n可施展锈丸与楔丸之连击\n\n其刃携青锈之毒\n可蚀敌身躯以至［中毒］状态\n\n青锈之毒，相传曾于上古之战中\n击退非人之淤加美女武者\n若是其血脉相连者，想必亦会有效",
+      "cn": "装有锈丸之义手忍具\n消耗形代以驱动\n可施展锈丸与楔丸之连击\n\n其刃携青锈之毒\n可蚀敌身躯以至【中毒】状态\n\n青锈之毒，相传曾于上古之战中\n击退非人之淤加美女武者\n若是其血脉相连者，想必亦会有效",
       "en": "A Prosthetic Tool made with the blade Sabimaru, allowing for a quick series of attacks together with the sword.  \nCosts Spirit Emblems to use.\nThe blue, poisonous rust on Sabimaru's blade applies \"Poison\" status abnormality.\nWielded in wars of old, the blade's blue rust was used to drive off inhuman Okami warrior women.  Even now, it is likely to be effective against their descendants.",
       "jp": "錆び丸を仕込んだ義手忍具\n形代を消費して、使用する\n錆び丸と刀を使った連撃を繰り出す\n\nその刃の青錆びの毒が、\n敵の身体を蝕み「中毒」状態にする\n\n青錆びの毒は、いにしえの戦で\n人ならぬ、淤加美の女武者らを退けたという\nその血筋に連なる者にもまた、有効だろう",
       "cn_improved": "装有锈丸之义手忍具\n消耗形代以驱动\n可施展锈丸与楔丸之连击\n\n其刃携青锈之毒\n可蚀敌身躯以至【中毒】状态\n\n青锈之毒，相传曾于上古之战中\n击退非人之淤加美女武者\n若是其血脉相连者，想必亦会有效",
@@ -475,7 +475,7 @@
     {
       "id": 75100,
       "status": "from_improved",
-      "cn": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至［中毒］状态",
+      "cn": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
       "en": "An improved Sabimaru with a special mechanism for unleashing the blade.  \nCosts Spirit Emblems to use.  \n\nDue to the revised mechanism, one can fluidly swap between two separate sets of attacks as desired.\nHas a blue rust poison applied to the blade that eats into enemies' defense and inflicts \"Poison\" status abnormality.",
       "jp": "刃を繰り出す機構を改良した錆び丸\n形代を消費して、使用する\n\nその機構の変化により\n表裏の異なる連撃を切り替えながら、\n戦うことができるようになった\n\n錆び丸の青錆びの毒は、\n敵の身体を蝕み「中毒」状態にする",
       "cn_improved": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
@@ -484,7 +484,7 @@
     {
       "id": 75200,
       "status": "from_improved",
-      "cn": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至［中毒］状态",
+      "cn": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
       "en": "A further improved Sabimaru with a finely sharpened blade.  \nCosts Spirit Emblems to use.  \nRepeated attacks with the newly sharpened edge of the blade will damage an enemy's Vitality and Posture, even through their guard.\nThe blue rust poison on Sabimaru's blade eats its way into enemies and applies Poison status.",
       "jp": "鋭利な刃となった錆び丸\n形代を消費して、使用する\n\n研ぎ澄まされた鋭利な刃の連撃は、\n敵のＨＰと体幹をガードの上からでも\n削り取っていく\n\n錆び丸の青錆びの毒は、\n敵の身体を蝕み「中毒」状態にする",
       "cn_improved": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
@@ -520,7 +520,7 @@
     {
       "id": 76200,
       "status": "from_improved",
-      "cn": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及［炎上］积蓄",
+      "cn": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及【炎上】积蓄",
       "en": "A Loaded Umbrella emblazoned with a bright red vermilion bird.\nCosts Spirit Emblems to use.\n\nWhen spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.\nThe blessing of the vermilion bird prevents damage from fire-based attacks, and also prevents buildup of \"Burn\" status.",
       "jp": "紅蓮の朱雀が描かれた仕込み傘\n形代を消費して、使用する\n\n鉄扇を傘のように開き、\n全方位の敵の攻撃をガードする\nまた軽い攻撃であれば、受けながら移動できる\n\n朱雀の恩寵が火を鎮め、\n火の攻撃のダメージと「炎上」の蓄積を防ぐ",
       "cn_improved": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及【炎上】积蓄",
@@ -628,7 +628,7 @@
     {
       "id": 79200,
       "status": "from_improved",
-      "cn": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有［川蝉］字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
+      "cn": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有【川蝉】字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
       "en": "Finger Whistle reinforced\nwith the Malcontent's Ring.\nCosts Spirit Emblems to use.\nCan be used to drive beasts mad, and to torment apparition-type enemies.\n\n\"Kingfisher\" is etched onto the ring.\nThe Kingfisher's cry could be heard\nalong the waterfront of Sunken Valley.\nNow, she cries no more.",
       "jp": "泣き虫の指輪によって強化された指笛\n形代を消費して、使用する\n\n獣の類を狂わせるだけでなく、\n怨霊の類を苦悶させ、隙を作ることができる\n\n泣き虫の指輪の裏には「川蝉」と彫られている\n落ち谷の水辺で、川蝉は泣いていた\nいまは、もういない",
       "cn_improved": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有【川蝉】字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
@@ -1123,7 +1123,7 @@
     {
       "id": 680000,
       "status": "from_improved",
-      "cn": "被称为［水生之息］，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
+      "cn": "被称为【水生之息】，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
       "en": "A secret method of breathing known as the Mibu Breathing Technique.\nThis Latent Skill allows one to dive under water, as well as breathe underwater indefinitely.\nDeveloped by the founder of Mibu Village.\n\"Those who seek to join the procession must master the Mibu Breathing Technique.  Without it, the Divine Dragon cannot be met.\"",
       "jp": "「水生の息」と呼ばれる、水中で呼吸する秘術\n水中に潜ることができるようになる常在効果\n\n水生の御初代は、\n輿入れが決まった者にのみ、\n密かにこの秘術を授けた\n\n　輿入れ望まば、水生の息\n　これ無くば、神なる竜とは見えられぬ",
       "cn_improved": "被称为【水生之息】，可在水中呼吸之秘术\n可以让人潜入水中之常在效果\n\n水生之初代\n仅将此术秘密传授给\n入轿出嫁之人\n\n    有意入轿，则修水生之息\n    若无此术，不得与神龙相见",
@@ -1321,7 +1321,7 @@
     {
       "id": 721000,
       "status": "from_improved",
-      "cn": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入［炎上］状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
+      "cn": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
       "en": "A Flame Barrel fitted with a gunpowder-loaded mechanism.  \nCosts Spirit Emblems to use.\n\nDeals damage to enemies with gouts of fire,\ninflicting Burn status abnormality.\n\nThe spring mechanism can also be charged to release a massive blast of flames and hot air, sending opponents flying.",
       "jp": "火薬を充填する仕掛けを施した火吹き筒\n形代を消費して、使用する\n\n吹き出す火で、敵にダメージを与える\n敵を炎上状態にすることができる\n\nバネ絡繰りで力を溜めて放つと、\n巻き込んだ空気が火を激しく燃やし、\n敵をも吹き飛ばす爆炎を放つ",
       "cn_improved": "施加火药填充改造之吹火筒\n消耗形代以驱动\n\n喷出火焰，可伤敌\n或使敌人陷入【炎上】状态\n\n以弹簧机括蓄力释放\n卷入之空气可使火焰剧烈燃烧\n喷出吹飞敌人之爆炎",
@@ -1330,7 +1330,7 @@
     {
       "id": 722000,
       "status": "from_improved",
-      "cn": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入［炎上］状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
+      "cn": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入【炎上】状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
       "en": "A barrel containing smoldering resin that acts as an explosive catalyst.  \nCosts Spirit Emblems to use.\n\nEmits a short-range flame blast.  Continuous fire damage will inflict the Burn status.  \nIt is able to maintain a continues stream of flames due to the smoldering resin inside of the tube mechanism.",
       "jp": "くすぶり松脂を筒薬とした火吹き筒\n形代を消費して、使用する\n\n吹き出す火で、敵にダメージを与える\n敵を炎上状態にすることができる\n\n絡繰り筒の内で、くすぶる松脂により、\n火を吹き出し続けることができる",
       "cn_improved": "以发烟松脂为筒药之吹火筒\n消耗形代以驱动\n\n吹出之火焰，可以伤敌\n或使敌人陷入【炎上】状态\n\n机关筒内，装有发烟松脂\n是以其火长燃不熄",
@@ -1339,7 +1339,7 @@
     {
       "id": 723000,
       "status": "from_improved",
-      "cn": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火\n可对怨灵造成伤害\n然而此火并无［炎上］功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
+      "cn": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火\n可对怨灵造成伤害\n然而此火并无【炎上】功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
       "en": "A Flame Barrel blessed with the favor of the Fountainhead Lapis Lazuli.  \nCosts Spirit Emblems to use.\nDamages even apparitions with its blazing purple flame.\nThis flame does not, however, inflict Burn status abnormality.\nThe sacred lapis lazuli fires are divine.\nCleanse the deep-seated hatred with flame.",
       "jp": "源の瑠璃の恩寵を授かった火吹き筒\n形代を消費して、使用する\n\n吹き出す紫の火は、\n怨霊へもダメージを与える\nただし、この火は「炎上」効果を持たない\n\n瑠璃の浄火は、神宿り\n凝った怨念は、その火に焼かれよう",
       "cn_improved": "得授源之琉璃恩惠之吹火筒\n消耗形代以驱动\n\n所出紫火\n可对怨灵造成伤害\n然而此火并无【炎上】功效\n\n琉璃净火，乃是神宿之物\n不散怨念，可凭此火驱之",
@@ -1384,7 +1384,7 @@
     {
       "id": 742000,
       "status": "from_improved",
-      "cn": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿［主］之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n［主］乃土地神。触神者，休想全身而退",
+      "cn": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿【主】之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n【主】乃土地神。触神者，休想全身而退",
       "en": "Mist Raven fused with crimson feathers.\nCosts Spirit Emblems to use.\n\nDisappear and displace, like the mist.\nCan be performed from both the\nassumed stance and after taking damage.\nDyed red to resemble the Great Mist Raven,\nthe feathers vanish in a scorching wake.\nThe great raven is a god of the land,\nand the touch of gods is to be feared.",
       "jp": "緋羽混じりの霧がらす\n形代を消費して、使用する\n\n構えた状態だけでなく、\nダメージを受けたあとでも、\n霧のように瞬時にかき消え、移動する\n\nぬしの霧がらすに似せて、緋羽に染めてある\nかき消えるとき、その羽は燃え盛る\nぬしとは土地神。神に触れれば、ただで済まぬ",
       "cn_improved": "混杂着绯色羽毛之雾鸦\n消耗形代以驱动\n\n不止架势时\n即便是受伤后\n亦可如烟雾般瞬时消散，移至他处\n\n模仿【主】之雾鸦，其羽遍染绯色\n消隐之时，燃其所留绯羽\n【主】乃土地神。触神者，休想全身而退",
@@ -1393,7 +1393,7 @@
     {
       "id": 751000,
       "status": "from_improved",
-      "cn": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至［中毒］状态",
+      "cn": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
       "en": "An improved Sabimaru with a special mechanism for unleashing the blade.  \nCosts Spirit Emblems to use.  \n\nDue to the revised mechanism, one can fluidly swap between two separate sets of attacks as desired.\nHas a blue rust poison applied to the blade that eats into enemies' defense and inflicts \"Poison\" status abnormality.",
       "jp": "刃を繰り出す機構を改良した錆び丸\n形代を消費して、使用する\n\nその機構の変化により\n表裏の異なる連撃を切り替えながら、\n戦うことができるようになった\n\n錆び丸の青錆びの毒は、\n敵の身体を蝕み「中毒」状態にする",
       "cn_improved": "改良出刃结构之锈丸\n消耗形代以驱动\n\n经由结构变化\n可交替表里各异之连击\n并活用于战斗\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
@@ -1402,7 +1402,7 @@
     {
       "id": 752000,
       "status": "from_improved",
-      "cn": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至［中毒］状态",
+      "cn": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
       "en": "A further improved Sabimaru with a finely sharpened blade.  \nCosts Spirit Emblems to use.  \nRepeated attacks with the newly sharpened edge of the blade will damage an enemy's Vitality and Posture, even through their guard.\nThe blue rust poison on Sabimaru's blade eats its way into enemies and applies Poison status.",
       "jp": "鋭利な刃となった錆び丸\n形代を消費して、使用する\n\n研ぎ澄まされた鋭利な刃の連撃は、\n敵のＨＰと体幹をガードの上からでも\n削り取っていく\n\n錆び丸の青錆びの毒は、\n敵の身体を蝕み「中毒」状態にする",
       "cn_improved": "刀刃磨利之锈丸\n消耗形代以驱动\n\n以磨砺锋锐之刃所出之连击\n可削敌ＨＰ及体干\n防者亦伤\n\n锈丸所携青锈之毒\n可蚀敌身躯以至【中毒】状态",
@@ -1429,7 +1429,7 @@
     {
       "id": 762000,
       "status": "from_improved",
-      "cn": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及［炎上］积蓄",
+      "cn": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及【炎上】积蓄",
       "en": "A Loaded Umbrella emblazoned with a bright red vermilion bird.\nCosts Spirit Emblems to use.\n\nWhen spread open, it will protect against attacks from all directions.  Hold it out while moving to protect from light attacks.\nThe blessing of the vermilion bird prevents damage from fire-based attacks, and also prevents buildup of \"Burn\" status.",
       "jp": "紅蓮の朱雀が描かれた仕込み傘\n形代を消費して、使用する\n\n鉄扇を傘のように開き、\n全方位の敵の攻撃をガードする\nまた軽い攻撃であれば、受けながら移動できる\n\n朱雀の恩寵が火を鎮め、\n火の攻撃のダメージと「炎上」の蓄積を防ぐ",
       "cn_improved": "绘有红莲朱雀之机关伞\n消耗形代以驱动\n\n将铁扇以伞状撑开\n可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n朱雀有镇火之恩惠\n可防止火焰伤害及【炎上】积蓄",
@@ -1510,7 +1510,7 @@
     {
       "id": 792000,
       "status": "from_improved",
-      "cn": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有［川蝉］字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
+      "cn": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有【川蝉】字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
       "en": "Finger Whistle reinforced\nwith the Malcontent's Ring.\nCosts Spirit Emblems to use.\nCan be used to drive beasts mad, and to torment apparition-type enemies.\n\n\"Kingfisher\" is etched onto the ring.\nThe Kingfisher's cry could be heard\nalong the waterfront of Sunken Valley.\nNow, she cries no more.",
       "jp": "泣き虫の指輪によって強化された指笛\n形代を消費して、使用する\n\n獣の類を狂わせるだけでなく、\n怨霊の類を苦悶させ、隙を作ることができる\n\n泣き虫の指輪の裏には「川蝉」と彫られている\n落ち谷の水辺で、川蝉は泣いていた\nいまは、もういない",
       "cn_improved": "以爱哭鬼之指环强化之指笛\n消耗形代以驱动\n\n不仅可使兽类发狂\n亦可使怨灵之属倍感苦闷，以为破绽\n\n指环里侧刻有【川蝉】字样\n昔日坠落谷湖畔，有川蝉鸣泣\n如今，不复可闻",
