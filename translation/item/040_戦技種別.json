@@ -493,7 +493,7 @@
     {
       "id": 682000,
       "status": "done",
-      "cn": "习得忍者体术［弹反］\n反击敌人攻势之忍者体术\n\n    敌人重击之反作用力\n    可化为突刺或横扫之反击\n    令敌人怯陷，并予以ＨＰ与体干之巨创\n\n    身处九死之中，忍技方得磨砺",
+      "cn": "习得忍者体术［弹返］\n反击敌人攻势之忍者体术\n\n    敌人重击之反作用力\n    可化为突刺或横扫之反击\n    令敌人怯陷，并予以ＨＰ与体干之巨创\n\n    身处九死之中，忍技方得磨砺",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter\".\nA Shinobi Martial Art that ripostes heavy assaults, providing an opportunity for a counter-strike. \n\nUse Recoil Counter to deflect strong attacks, leaving the enemy momentarily off balance.\n\nIn pivotal moments of battle, a shinobi's senses sharpen.",
       "jp": "忍びの体術「弾きカウンター」を習得する\n敵の攻撃からカウンター攻撃を行う忍びの体術\n\n敵の重い一撃から繰り出されるカウンターは、\n突き、または薙ぎ払いにより\n敵を怯ませ、ＨＰと体幹に大ダメージを与える\n\n九死の中でこそ、忍びの技は磨かれる",
       "cn_improved": null,
@@ -502,7 +502,7 @@
     {
       "id": 682100,
       "status": "done",
-      "cn": "习得忍者体术［弹反·疾业］\n强化弹反之忍者体术\n\n    借敌人攻击之反作用力\n    可迅疾衔接流派技或义手忍具攻击\n\n    此等疾业，非熟练之忍者难以施展",
+      "cn": "习得忍者体术［弹返·疾业］\n强化弹返之忍者体术\n\n    借敌人攻击之反作用力\n    可迅疾衔接流派技或义手忍具攻击\n\n    此等疾业，非熟练之忍者难以施展",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter: Quick-draw\".\nMastery of Recoil Counter allows the integration of certain Prosthetic Tools and Combat Arts.\n\nCausing an enemy to temporarily lose footing is something an experienced shinobi uses to their advantage, following up with a Prosthetic Tool or Combat Art more swiftly.",
       "jp": "忍びの体術「弾きカウンター・早業」を習得する\nカウンター攻撃を強化する忍びの体術\n\n敵の攻撃の反動を利用すれば、\n流派技や義手忍具攻撃に素早く繋げられる\n\n熟練の忍びにしか出来ぬ、類稀なる早業だ ",
       "cn_improved": null,
