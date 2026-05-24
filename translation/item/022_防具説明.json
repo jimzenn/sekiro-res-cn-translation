@@ -1,0 +1,44 @@
+{
+  "fmg_id": 22,
+  "fmg_name": "防具説明",
+  "domain": "item",
+  "count": 4,
+  "entries": [
+    {
+      "id": 103000,
+      "status": "from_improved",
+      "cn": "狼自身的原初记忆\n\n在鬼佛处寄宿于心中，可恢复狼之样貌\n果然，还是此样貌最为踏实",
+      "en": "A memory of Wolf's original form.\n\nConcentrate on this memory at a\nSculptor's Idol to revert the Wolf\nto his original appearance.\n\nNaturally, Wolf's original form\nis also his best-fitting one.",
+      "jp": "狼自身の元の記憶\n\n鬼仏で心中に宿せば、狼の姿が元に戻る\nやはり、しっくりくるだろう",
+      "cn_improved": "狼自身的原初记忆\n\n在鬼佛处寄宿于心中，可恢复狼之样貌\n果然，还是此样貌最为踏实",
+      "cn_resurrection": "狼原本的记忆\n\n只要于鬼佛处将其寄宿心中，狼的外形便能恢复原状\n果然还是这样比较踏实吧"
+    },
+    {
+      "id": 303000,
+      "status": "from_improved",
+      "cn": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃苇名民众所传唱，修罗之记忆\n  荒野原，尸成山\n  龙泉川，赤之川\n  鬼为狼，赤之神",
+      "en": "Memories left behind by another.\nConcentrate on these inmost regrets or\nobsessions at a Sculptor's Idol to change\nthe Wolf's appearance.\nHas no effect on ability.\n\nMemory of Shura told via Ashina folksong:\n\"Fields of bodies, mountains of dead\nDown Dragonspring river, our country bled\nA fiery god, demon wolf in red.\"",
+      "jp": "別の誰かが残した記憶\n心残り、あるいは執念とも呼べるもの\n\n鬼仏で心中に宿せば、狼の姿を変えられる\nただし、能力に影響することはない\n\nこれは、葦名の民草が歌い継いだ修羅の記憶\n　野にはむくろが、山となり\n　竜泉川は、あけの川\n　鬼はおおかみ、あけの神",
+      "cn_improved": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃苇名民众所传唱，修罗之记忆\n  荒野原，尸成山\n  龙泉川，赤之川\n  鬼为狼，赤之神",
+      "cn_resurrection": "他人所留下的记忆\n也有心中遗憾、执念之称\n\n只要于鬼佛处将其寄宿心中，便能改变狼的外形\n但不会对能力造成影响\n\n这是苇名百姓传唱至今的修罗之记忆\n　原野尸骸如山堆\n　龙泉河水似血红\n　鬼化狼形赤身神"
+    },
+    {
+      "id": 403000,
+      "status": "from_improved",
+      "cn": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃昔日侍奉苇名，某忍者之记忆\n斩此臂膀\n赐名隻猩\n此恩，不可不报",
+      "en": "Memories left behind by another.\nConcentrate on these inmost regrets or\nobsessions at a Sculptor's Idol to change\nthe Wolf's appearance.\nHas no effect on ability.\n\nThe memory of a shinobi that once served\nAshina.  It is accompanied by a debt of\ngratitude; to the one who took his arm\nand graced him with the name Sekijo.",
+      "jp": "別の誰かが残した記憶\n心残り、あるいは執念とも呼べるもの\n\n鬼仏で心中に宿せば、狼の姿を変えられる\nただし、能力に影響することはない\n\nこれは、かつて葦名に仕えた、ある忍びの記憶\n腕を斬っていただいた\n隻猩の名をいただいた\nその恩を、きっと返さねばならん",
+      "cn_improved": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃昔日侍奉苇名，某忍者之记忆\n斩此臂膀\n赐名隻猩\n此恩，不可不报",
+      "cn_resurrection": "他人所留下的记忆\n也有心中遗憾、执念之称\n\n只要于鬼佛处将其寄宿心中，便能改变狼的外形\n但不会对能力造成影响\n\n此为曾效命于苇名的某位忍者之记忆\n代为斩断了手臂\n并赐予只猩之名\n此恩必当回报"
+    },
+    {
+      "id": 503000,
+      "status": "from_improved",
+      "cn": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃苇名天狗之记忆\n见鼠，必斩之\n此天狗之心境",
+      "en": "Memories left behind by another.\nConcentrate on these inmost regrets or\nobsessions at a Sculptor's Idol to change\nthe Wolf's appearance.\nHas no effect on ability.\n\nThe memory of the Tengu of Ashina.\nIt is accompanied by a strong desire.\nIf you see a rat, it must be killed.",
+      "jp": "別の誰かが残した記憶\n心残り、あるいは執念とも呼べるもの\n\n鬼仏で心中に宿せば、狼の姿を変えられる\nただし、能力に影響することはない\n\nこれは、葦名の天狗の記憶\n鼠を目にしたら、どうにも斬らずにはおれぬ\nそんな心地になる",
+      "cn_improved": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，变更狼之样貌\n不过，于能力并无影响\n\n此乃苇名天狗之记忆\n见鼠，必斩之\n此天狗之心境",
+      "cn_resurrection": "他人所留下的记忆\n也有心中遗憾、执念之称\n\n只要于鬼佛处将其寄宿心中，便能改变狼的外形\n但不会对能力造成影响\n\n此为苇名天狗之记忆\n一见老鼠，便一心只想\n杀之而后快"
+    }
+  ]
+}

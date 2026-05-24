@@ -1,0 +1,251 @@
+{
+  "fmg_id": 90,
+  "fmg_name": "テキスト表示用タグ一覧",
+  "domain": "menu",
+  "count": 27,
+  "entries": [
+    {
+      "id": 100010,
+      "status": "from_improved",
+      "cn": "③",
+      "en": "③",
+      "jp": "③",
+      "cn_improved": "③",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100011,
+      "status": "from_improved",
+      "cn": "④",
+      "en": "④",
+      "jp": "④",
+      "cn_improved": "④",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100012,
+      "status": "from_improved",
+      "cn": "①",
+      "en": "①",
+      "jp": "①",
+      "cn_improved": "①",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100013,
+      "status": "from_improved",
+      "cn": "②",
+      "en": "②",
+      "jp": "②",
+      "cn_improved": "②",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100020,
+      "status": "from_improved",
+      "cn": "L2R2（未作成）",
+      "en": "L2R2（未作成）",
+      "jp": "L2R2（未作成）",
+      "cn_improved": "L2R2（未作成）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100021,
+      "status": "from_improved",
+      "cn": "⑩",
+      "en": "⑩",
+      "jp": "⑩",
+      "cn_improved": "⑩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100022,
+      "status": "from_improved",
+      "cn": "⑧",
+      "en": "⑧",
+      "jp": "⑧",
+      "cn_improved": "⑧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100030,
+      "status": "from_improved",
+      "cn": "L1R1（未作成）",
+      "en": "L1R1（未作成）",
+      "jp": "L1R1（未作成）",
+      "cn_improved": "L1R1（未作成）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100031,
+      "status": "from_improved",
+      "cn": "⑨",
+      "en": "⑨",
+      "jp": "⑨",
+      "cn_improved": "⑨",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100032,
+      "status": "from_improved",
+      "cn": "⑦",
+      "en": "⑦",
+      "jp": "⑦",
+      "cn_improved": "⑦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100040,
+      "status": "from_improved",
+      "cn": "⑯",
+      "en": "⑯",
+      "jp": "⑯",
+      "cn_improved": "⑯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100041,
+      "status": "from_improved",
+      "cn": "⑥",
+      "en": "⑥",
+      "jp": "⑥",
+      "cn_improved": "⑥",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100050,
+      "status": "from_improved",
+      "cn": "⑰",
+      "en": "⑰",
+      "jp": "⑰",
+      "cn_improved": "⑰",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100051,
+      "status": "from_improved",
+      "cn": "⑱",
+      "en": "⑱",
+      "jp": "⑱",
+      "cn_improved": "⑱",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100060,
+      "status": "from_improved",
+      "cn": "⑪",
+      "en": "⑪",
+      "jp": "⑪",
+      "cn_improved": "⑪",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100061,
+      "status": "from_improved",
+      "cn": "⑫",
+      "en": "⑫",
+      "jp": "⑫",
+      "cn_improved": "⑫",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100070,
+      "status": "from_improved",
+      "cn": "①",
+      "en": "①",
+      "jp": "①",
+      "cn_improved": "①",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100071,
+      "status": "from_improved",
+      "cn": "②",
+      "en": "②",
+      "jp": "②",
+      "cn_improved": "②",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100080,
+      "status": "from_improved",
+      "cn": "㊤",
+      "en": "㊤",
+      "jp": "㊤",
+      "cn_improved": "㊤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100081,
+      "status": "from_improved",
+      "cn": "㊦",
+      "en": "㊦",
+      "jp": "㊦",
+      "cn_improved": "㊦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100082,
+      "status": "from_improved",
+      "cn": "㊧",
+      "en": "㊧",
+      "jp": "㊧",
+      "cn_improved": "㊧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100083,
+      "status": "from_improved",
+      "cn": "㊨",
+      "en": "㊨",
+      "jp": "㊨",
+      "cn_improved": "㊨",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100084,
+      "status": "from_improved",
+      "cn": "⑮",
+      "en": "⑮",
+      "jp": "⑮",
+      "cn_improved": "⑮",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100085,
+      "status": "from_improved",
+      "cn": "⑭",
+      "en": "⑭",
+      "jp": "⑭",
+      "cn_improved": "⑭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100086,
+      "status": "from_improved",
+      "cn": "⑤",
+      "en": "⑤",
+      "jp": "⑤",
+      "cn_improved": "⑤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100100,
+      "status": "from_improved",
+      "cn": "⑥",
+      "en": "⑥",
+      "jp": "⑥",
+      "cn_improved": "⑥",
+      "cn_resurrection": null
+    },
+    {
+      "id": 200001,
+      "status": "from_improved",
+      "cn": "DARK SOULS",
+      "en": "DARK SOULS",
+      "jp": "DARK SOULS",
+      "cn_improved": "DARK SOULS",
+      "cn_resurrection": null
+    }
+  ]
+}

@@ -1,0 +1,3374 @@
+{
+  "fmg_id": 200,
+  "fmg_name": "NTC_メニューテキスト",
+  "domain": "menu",
+  "count": 374,
+  "entries": [
+    {
+      "id": 1000,
+      "status": "from_improved",
+      "cn": "钱",
+      "en": "Sen",
+      "jp": "銭",
+      "cn_improved": "钱",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1500,
+      "status": "from_improved",
+      "cn": "？？？",
+      "en": "???",
+      "jp": "？？？",
+      "cn_improved": "？？？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1510,
+      "status": "from_improved",
+      "cn": "？？？",
+      "en": "???",
+      "jp": "？？？",
+      "cn_improved": "？？？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3010,
+      "status": "from_improved",
+      "cn": "习得技能",
+      "en": "Acquire Skills",
+      "jp": "スキル習得",
+      "cn_improved": "习得技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10010,
+      "status": "from_improved",
+      "cn": "持有数量",
+      "en": "Number Held",
+      "jp": "所持数",
+      "cn_improved": "持有数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10011,
+      "status": "from_improved",
+      "cn": "存放数量",
+      "en": "In Storage",
+      "jp": "格納数",
+      "cn_improved": "存放数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10012,
+      "status": "from_improved",
+      "cn": "使用次数",
+      "en": "Uses",
+      "jp": "使用回数",
+      "cn_improved": "使用次数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10020,
+      "status": "from_improved",
+      "cn": "消耗形代",
+      "en": "Spirit Emblem Cost",
+      "jp": "消費形代",
+      "cn_improved": "消耗形代",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10101,
+      "status": "from_improved",
+      "cn": "体之力",
+      "en": "Vitality",
+      "jp": "身体力",
+      "cn_improved": "体之力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10102,
+      "status": "from_improved",
+      "cn": "攻之力",
+      "en": "Attack Power",
+      "jp": "攻め力",
+      "cn_improved": "攻之力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10110,
+      "status": "from_improved",
+      "cn": "冥助概率",
+      "en": "Unseen Aid",
+      "jp": "冥助確率",
+      "cn_improved": "冥助概率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11320,
+      "status": "from_improved",
+      "cn": "-",
+      "en": "-",
+      "jp": "-",
+      "cn_improved": "-",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12050,
+      "status": "from_improved",
+      "cn": "持有金钱",
+      "en": "Funds",
+      "jp": "所持金",
+      "cn_improved": "持有金钱",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40110,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40300,
+      "status": "from_improved",
+      "cn": "ON",
+      "en": "On",
+      "jp": "ON",
+      "cn_improved": "ON",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40301,
+      "status": "from_improved",
+      "cn": "OFF",
+      "en": "Off",
+      "jp": "OFF",
+      "cn_improved": "OFF",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40302,
+      "status": "from_improved",
+      "cn": "Mild(Black)",
+      "en": "Mild",
+      "jp": "Mild",
+      "cn_improved": "Mild(Black)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40303,
+      "status": "from_improved",
+      "cn": "全部自动不显示",
+      "en": "Auto Hide All",
+      "jp": "自動で全てを非表示",
+      "cn_improved": "全部自动不显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40304,
+      "status": "from_improved",
+      "cn": "部分自动不显示",
+      "en": "Auto Hide Partial",
+      "jp": "自動で一部を非表示",
+      "cn_improved": "部分自动不显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40305,
+      "status": "from_improved",
+      "cn": "总是显示",
+      "en": "Always show",
+      "jp": "常に表示",
+      "cn_improved": "总是显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40306,
+      "status": "from_improved",
+      "cn": "总是不显示",
+      "en": "Always hide",
+      "jp": "常に非表示",
+      "cn_improved": "总是不显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40310,
+      "status": "from_improved",
+      "cn": "标准",
+      "en": "Standard",
+      "jp": "ノーマル",
+      "cn_improved": "标准",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40311,
+      "status": "from_improved",
+      "cn": "颠倒",
+      "en": "Inverted",
+      "jp": "リバース",
+      "cn_improved": "颠倒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40320,
+      "status": "from_improved",
+      "cn": "在线游玩",
+      "en": "Online Mode",
+      "jp": "オンラインプレイ",
+      "cn_improved": "在线游玩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40321,
+      "status": "from_improved",
+      "cn": "离线游玩",
+      "en": "Offline Mode",
+      "jp": "オフラインプレイ",
+      "cn_improved": "离线游玩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40330,
+      "status": "from_improved",
+      "cn": "初始化",
+      "en": "Defaults",
+      "jp": "初期化",
+      "cn_improved": "初始化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40331,
+      "status": "from_improved",
+      "cn": "下一步",
+      "en": "Next",
+      "jp": "次へ",
+      "cn_improved": "下一步",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40350,
+      "status": "from_improved",
+      "cn": "控制器",
+      "en": "Controller",
+      "jp": "ゲームパッド",
+      "cn_improved": "控制器",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40351,
+      "status": "from_improved",
+      "cn": "键盘/鼠标",
+      "en": "Keyboard/Mouse",
+      "jp": "キーボード/マウス",
+      "cn_improved": "键盘/鼠标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40400,
+      "status": "from_improved",
+      "cn": "全屏",
+      "en": "Fullscreen",
+      "jp": "フルスクリーン",
+      "cn_improved": "全屏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40401,
+      "status": "from_improved",
+      "cn": "窗口",
+      "en": "Windowed",
+      "jp": "ウィンドウ",
+      "cn_improved": "窗口",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40410,
+      "status": "from_improved",
+      "cn": "×",
+      "en": "×",
+      "jp": "×",
+      "cn_improved": "×",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40420,
+      "status": "from_improved",
+      "cn": "自定义",
+      "en": "Custom",
+      "jp": "カスタム",
+      "cn_improved": "自定义",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40421,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "Low",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40422,
+      "status": "from_improved",
+      "cn": "中",
+      "en": "Medium",
+      "jp": "中",
+      "cn_improved": "中",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40423,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "High",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40424,
+      "status": "from_improved",
+      "cn": "最高",
+      "en": "Max",
+      "jp": "最高",
+      "cn_improved": "最高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40430,
+      "status": "from_improved",
+      "cn": "无",
+      "en": "None",
+      "jp": "なし",
+      "cn_improved": "无",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40440,
+      "status": "from_improved",
+      "cn": "ON",
+      "en": "ON",
+      "jp": "ON",
+      "cn_improved": "ON",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40441,
+      "status": "from_improved",
+      "cn": "OFF",
+      "en": "OFF",
+      "jp": "OFF",
+      "cn_improved": "OFF",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40450,
+      "status": "from_improved",
+      "cn": "弱",
+      "en": "Weak",
+      "jp": "弱",
+      "cn_improved": "弱",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40451,
+      "status": "from_improved",
+      "cn": "中",
+      "en": "Medium",
+      "jp": "中",
+      "cn_improved": "中",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40452,
+      "status": "from_improved",
+      "cn": "强",
+      "en": "Strong",
+      "jp": "強",
+      "cn_improved": "强",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50000,
+      "status": "from_improved",
+      "cn": "所有道具",
+      "en": "All Items",
+      "jp": "全アイテム",
+      "cn_improved": "所有道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50010,
+      "status": "from_improved",
+      "cn": "使用道具",
+      "en": "Quick Items",
+      "jp": "使用アイテム",
+      "cn_improved": "使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50020,
+      "status": "from_improved",
+      "cn": "贵重物品",
+      "en": "Key Items",
+      "jp": "貴重品",
+      "cn_improved": "贵重物品",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50030,
+      "status": "from_improved",
+      "cn": "素材道具",
+      "en": "Upgrade Materials",
+      "jp": "素材アイテム",
+      "cn_improved": "素材道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50100,
+      "status": "from_improved",
+      "cn": "义手忍具",
+      "en": "Prosthetic Arm Tools ",
+      "jp": "義手忍具",
+      "cn_improved": "义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50210,
+      "status": "from_improved",
+      "cn": "忍技",
+      "en": "Shinobi Arts",
+      "jp": "忍び技",
+      "cn_improved": "忍技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50220,
+      "status": "from_improved",
+      "cn": "忍义手技",
+      "en": "Prosthetic Arts",
+      "jp": "忍び義手技",
+      "cn_improved": "忍义手技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50230,
+      "status": "from_improved",
+      "cn": "苇名流",
+      "en": "Ashina Arts",
+      "jp": "葦名流",
+      "cn_improved": "苇名流",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50240,
+      "status": "from_improved",
+      "cn": "仙峯寺拳法",
+      "en": "Temple Arts",
+      "jp": "仙峯寺拳法",
+      "cn_improved": "仙峯寺拳法",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50250,
+      "status": "from_improved",
+      "cn": "秘传·苇名无心流",
+      "en": "Mushin Arts",
+      "jp": "秘伝・葦名無心流",
+      "cn_improved": "秘传·苇名无心流",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50300,
+      "status": "from_improved",
+      "cn": "流派技",
+      "en": "Combat Arts",
+      "jp": "流派技",
+      "cn_improved": "流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50310,
+      "status": "from_improved",
+      "cn": "忍者体术",
+      "en": "Shinobi Martial Arts",
+      "jp": "忍びの体術",
+      "cn_improved": "忍者体术",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50320,
+      "status": "from_improved",
+      "cn": "常在效果",
+      "en": "Latent Skills",
+      "jp": "常在効果",
+      "cn_improved": "常在效果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50330,
+      "status": "from_improved",
+      "cn": "忍杀忍术",
+      "en": "Ninjutsu Techniques",
+      "jp": "忍殺忍術",
+      "cn_improved": "忍杀忍术",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100010,
+      "status": "from_improved",
+      "cn": "装备",
+      "en": "Equipment",
+      "jp": "装備",
+      "cn_improved": "装备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100020,
+      "status": "from_improved",
+      "cn": "持有物品",
+      "en": "Inventory",
+      "jp": "所持品",
+      "cn_improved": "持有物品",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100030,
+      "status": "from_improved",
+      "cn": "设定",
+      "en": "Options",
+      "jp": "設定",
+      "cn_improved": "设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100040,
+      "status": "from_improved",
+      "cn": "古地图",
+      "en": "Antique Map",
+      "jp": "古地図",
+      "cn_improved": "古地图",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100050,
+      "status": "from_improved",
+      "cn": "技能",
+      "en": "Skills",
+      "jp": "スキル",
+      "cn_improved": "技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101010,
+      "status": "from_improved",
+      "cn": "义手忍具",
+      "en": "Prosthetic Tools",
+      "jp": "義手忍具",
+      "cn_improved": "义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101011,
+      "status": "from_improved",
+      "cn": "忍杀忍术",
+      "en": "Ninjutsu",
+      "jp": "忍殺忍術",
+      "cn_improved": "忍杀忍术",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101013,
+      "status": "from_improved",
+      "cn": "使用道具",
+      "en": "Quick Items",
+      "jp": "使用アイテム",
+      "cn_improved": "使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101014,
+      "status": "from_improved",
+      "cn": "流派技",
+      "en": "Combat Arts",
+      "jp": "流派技",
+      "cn_improved": "流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101020,
+      "status": "from_improved",
+      "cn": "未解锁",
+      "en": "Locked",
+      "jp": "未解禁",
+      "cn_improved": "未解锁",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101021,
+      "status": "from_improved",
+      "cn": "未解锁",
+      "en": "Locked",
+      "jp": "未解禁",
+      "cn_improved": "未解锁",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101023,
+      "status": "from_improved",
+      "cn": "未解锁",
+      "en": "Locked",
+      "jp": "未解禁",
+      "cn_improved": "未解锁",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101024,
+      "status": "from_improved",
+      "cn": "未解锁",
+      "en": "Locked",
+      "jp": "未解禁",
+      "cn_improved": "未解锁",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101211,
+      "status": "from_improved",
+      "cn": "淤淀满溢概率",
+      "en": "Overflow Chance",
+      "jp": "淀みが溢れる確率",
+      "cn_improved": "淤淀满溢概率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101500,
+      "status": "from_improved",
+      "cn": "选择装备",
+      "en": "Equipped Items",
+      "jp": "装備選択",
+      "cn_improved": "选择装备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104100,
+      "status": "from_improved",
+      "cn": "<?placeName@1000?>",
+      "en": "<?placeName@1000?>",
+      "jp": "<?placeName@1000?>",
+      "cn_improved": "<?placeName@1000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104110,
+      "status": "from_improved",
+      "cn": "<?placeName@1100?>",
+      "en": "<?placeName@1100?>",
+      "jp": "<?placeName@1100?>",
+      "cn_improved": "<?placeName@1100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104111,
+      "status": "from_improved",
+      "cn": "<?placeName@1110?>",
+      "en": "<?placeName@1110?>",
+      "jp": "<?placeName@1110?>",
+      "cn_improved": "<?placeName@1110?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104112,
+      "status": "from_improved",
+      "cn": "<?placeName@1120?>",
+      "en": "<?placeName@1120?>",
+      "jp": "<?placeName@1120?>",
+      "cn_improved": "<?placeName@1120?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104130,
+      "status": "from_improved",
+      "cn": "<?placeName@1300?>",
+      "en": "<?placeName@1300?>",
+      "jp": "<?placeName@1300?>",
+      "cn_improved": "<?placeName@1300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104150,
+      "status": "from_improved",
+      "cn": "<?placeName@1500?>",
+      "en": "<?placeName@1500?>",
+      "jp": "<?placeName@1500?>",
+      "cn_improved": "<?placeName@1500?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104170,
+      "status": "from_improved",
+      "cn": "<?placeName@1700?>",
+      "en": "<?placeName@1700?>",
+      "jp": "<?placeName@1700?>",
+      "cn_improved": "<?placeName@1700?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104200,
+      "status": "from_improved",
+      "cn": "<?placeName@2000?>",
+      "en": "<?placeName@2000?>",
+      "jp": "<?placeName@2000?>",
+      "cn_improved": "<?placeName@2000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104250,
+      "status": "from_improved",
+      "cn": "<?placeName@2500?>",
+      "en": "<?placeName@2500?>",
+      "jp": "<?placeName@2500?>",
+      "cn_improved": "<?placeName@2500?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105010,
+      "status": "from_improved",
+      "cn": "距获得技能点数尚需",
+      "en": "to next Skill Point",
+      "jp": "スキルポイント取得まで",
+      "cn_improved": "距获得技能点数尚需",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110000,
+      "status": "from_improved",
+      "cn": "游戏选项",
+      "en": "Game Options",
+      "jp": "ゲームオプション",
+      "cn_improved": "游戏选项",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110001,
+      "status": "from_improved",
+      "cn": "视角选项",
+      "en": "Camera Options",
+      "jp": "カメラオプション",
+      "cn_improved": "视角选项",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110010,
+      "status": "from_improved",
+      "cn": "视角操作 上下",
+      "en": "Camera Y-axis",
+      "jp": "カメラ操作　上下",
+      "cn_improved": "视角操作 上下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110011,
+      "status": "from_improved",
+      "cn": "视角操作 水平",
+      "en": "Camera X-axis",
+      "jp": "カメラ操作　左右",
+      "cn_improved": "视角操作 水平",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110012,
+      "status": "from_improved",
+      "cn": "视角上下重置",
+      "en": "Reset camera Y-axis",
+      "jp": "カメラ上下リセット",
+      "cn_improved": "视角上下重置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110013,
+      "status": "from_improved",
+      "cn": "视角速度",
+      "en": "Camera speed",
+      "jp": "カメラ速度",
+      "cn_improved": "视角速度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110014,
+      "status": "from_improved",
+      "cn": "固定目标自动切换",
+      "en": "Toggle auto lock-on",
+      "jp": "ターゲット固定自動切替",
+      "cn_improved": "固定目标自动切换",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110015,
+      "status": "from_improved",
+      "cn": "攻击自动捕捉",
+      "en": "Auto-target",
+      "jp": "攻撃自動捕捉",
+      "cn_improved": "攻击自动捕捉",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110016,
+      "status": "from_improved",
+      "cn": "视角自动避开墙壁",
+      "en": "Camera auto wall recovery",
+      "jp": "カメラの壁自動回避",
+      "cn_improved": "视角自动避开墙壁",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110017,
+      "status": "from_improved",
+      "cn": "控制器震动",
+      "en": "Controller vibration",
+      "jp": "コントローラー振動",
+      "cn_improved": "控制器震动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110100,
+      "status": "from_improved",
+      "cn": "显示和声音",
+      "en": "Sound and Display",
+      "jp": "表示と音響",
+      "cn_improved": "显示和声音",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110110,
+      "status": "from_improved",
+      "cn": "血腥效果",
+      "en": "Blood",
+      "jp": "流血表現",
+      "cn_improved": "血腥效果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110111,
+      "status": "from_improved",
+      "cn": "字幕显示",
+      "en": "Subtitles",
+      "jp": "字幕表示",
+      "cn_improved": "字幕显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110112,
+      "status": "from_improved",
+      "cn": "HUD显示",
+      "en": "HUD",
+      "jp": "HUD表示",
+      "cn_improved": "HUD显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110114,
+      "status": "from_improved",
+      "cn": "背景音乐音量",
+      "en": "Music",
+      "jp": "BGM音量",
+      "cn_improved": "背景音乐音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110115,
+      "status": "from_improved",
+      "cn": "音效音量",
+      "en": "Sound effects",
+      "jp": "SE音量",
+      "cn_improved": "音效音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110116,
+      "status": "from_improved",
+      "cn": "语音音量",
+      "en": "Voice",
+      "jp": "ボイス音量",
+      "cn_improved": "语音音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110200,
+      "status": "from_improved",
+      "cn": "亮度设定",
+      "en": "Brightness",
+      "jp": "輝度設定",
+      "cn_improved": "亮度设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110201,
+      "status": "from_improved",
+      "cn": "请调整亮度至能看见右侧图片的程度",
+      "en": "Adjust so that the image at right is barely visible.",
+      "jp": "右側の画像がかすかに見えるように明るさを調整してください",
+      "cn_improved": "请调整亮度至能看见右侧图片的程度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110202,
+      "status": "from_improved",
+      "cn": "请调整为您喜好的亮度",
+      "en": "Adjust brightness to the preferred level",
+      "jp": "好みの明るさになるように調整してください",
+      "cn_improved": "请调整为您喜好的亮度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110203,
+      "status": "from_improved",
+      "cn": "请设定TV的最大亮度",
+      "en": "Set your TV to max brightness.",
+      "jp": "TVの最大輝度値を設定してください",
+      "cn_improved": "请设定TV的最大亮度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110204,
+      "status": "from_improved",
+      "cn": "请调整至喜好的鲜艳度",
+      "en": "Adjust to the desired saturation.",
+      "jp": "好みの鮮やかさになるように調整してください",
+      "cn_improved": "请调整至喜好的鲜艳度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110209,
+      "status": "from_improved",
+      "cn": "HDR",
+      "en": "HDR",
+      "jp": "HDR",
+      "cn_improved": "HDR",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110210,
+      "status": "from_improved",
+      "cn": "亮度调整",
+      "en": "Adjust Brightness",
+      "jp": "輝度調整",
+      "cn_improved": "亮度调整",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110211,
+      "status": "from_improved",
+      "cn": "画质调整",
+      "en": "Picture Quality Adjustment",
+      "jp": "画質調整",
+      "cn_improved": "画质调整",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110212,
+      "status": "from_improved",
+      "cn": "最大亮度",
+      "en": "Maximum Brightness",
+      "jp": "最大輝度",
+      "cn_improved": "最大亮度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110213,
+      "status": "from_improved",
+      "cn": "调整饱和度",
+      "en": "Saturation Adjustment",
+      "jp": "彩度調整",
+      "cn_improved": "调整饱和度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110400,
+      "status": "from_improved",
+      "cn": "语言设定",
+      "en": "Language Options",
+      "jp": "言語設定",
+      "cn_improved": "语言设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110410,
+      "status": "from_improved",
+      "cn": "文字",
+      "en": "Text",
+      "jp": "テキスト",
+      "cn_improved": "文字",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110411,
+      "status": "from_improved",
+      "cn": "语音",
+      "en": "Voice",
+      "jp": "ボイス",
+      "cn_improved": "语音",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110420,
+      "status": "from_improved",
+      "cn": "※退出画面时反映设定",
+      "en": "Settings will be applied after leaving this screen",
+      "jp": "※画面を抜ける際に設定が反映されます",
+      "cn_improved": "※退出画面时反映设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110430,
+      "status": "from_improved",
+      "cn": "日语",
+      "en": "Japanese",
+      "jp": "日本語",
+      "cn_improved": "日语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110432,
+      "status": "from_improved",
+      "cn": "法语",
+      "en": "French",
+      "jp": "フランス語",
+      "cn_improved": "法语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110433,
+      "status": "from_improved",
+      "cn": "意大利语",
+      "en": "Italian",
+      "jp": "イタリア語",
+      "cn_improved": "意大利语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110434,
+      "status": "from_improved",
+      "cn": "德语",
+      "en": "German",
+      "jp": "ドイツ語",
+      "cn_improved": "德语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110435,
+      "status": "from_improved",
+      "cn": "西班牙语",
+      "en": "Spanish",
+      "jp": "スペイン語",
+      "cn_improved": "西班牙语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110437,
+      "status": "from_improved",
+      "cn": "葡萄牙语",
+      "en": "Brazilian Portuguese",
+      "jp": "ポルトガル語",
+      "cn_improved": "葡萄牙语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110438,
+      "status": "from_improved",
+      "cn": "英语",
+      "en": "English",
+      "jp": "英語",
+      "cn_improved": "英语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110440,
+      "status": "from_improved",
+      "cn": "波兰语",
+      "en": "Polish",
+      "jp": "ポーランド語",
+      "cn_improved": "波兰语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110441,
+      "status": "from_improved",
+      "cn": "俄语",
+      "en": "Russian",
+      "jp": "ロシア語",
+      "cn_improved": "俄语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110448,
+      "status": "from_improved",
+      "cn": "繁体中文",
+      "en": "Traditional Chinese",
+      "jp": "繁体字中国語",
+      "cn_improved": "繁体中文",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110449,
+      "status": "from_improved",
+      "cn": "韩语",
+      "en": "Korean",
+      "jp": "韓国語",
+      "cn_improved": "韩语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110450,
+      "status": "from_improved",
+      "cn": "简体中文",
+      "en": "Simplified Chinese",
+      "jp": "簡体字中国語",
+      "cn_improved": "简体中文",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110451,
+      "status": "from_improved",
+      "cn": "泰语",
+      "en": "Thai",
+      "jp": "タイ語",
+      "cn_improved": "泰语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110498,
+      "status": "from_improved",
+      "cn": "标准（日语）",
+      "en": "Default (Japanese)",
+      "jp": "標準(日本語)",
+      "cn_improved": "标准（日语）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110499,
+      "status": "from_improved",
+      "cn": "标准",
+      "en": "Default",
+      "jp": "標準",
+      "cn_improved": "标准",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110500,
+      "status": "from_improved",
+      "cn": "结束游戏",
+      "en": "Quit Game",
+      "jp": "ゲーム終了",
+      "cn_improved": "结束游戏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110700,
+      "status": "from_improved",
+      "cn": "网络设定",
+      "en": "Network Settings",
+      "jp": "ネットワーク設定",
+      "cn_improved": "网络设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110710,
+      "status": "from_improved",
+      "cn": "标题画面启动设定",
+      "en": "Launch Settings",
+      "jp": "タイトル起動設定",
+      "cn_improved": "标题画面启动设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111000,
+      "status": "from_improved",
+      "cn": "输入设备设定",
+      "en": "Input Device Options",
+      "jp": "入力機器設定",
+      "cn_improved": "输入设备设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111010,
+      "status": "from_improved",
+      "cn": "操作指南对象设备",
+      "en": "Device For On Screen Prompts",
+      "jp": "操作ガイド対象デバイス",
+      "cn_improved": "操作指南对象设备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111020,
+      "status": "from_improved",
+      "cn": "鼠标操作 灵敏度",
+      "en": "Mouse Controls - Sensitivity",
+      "jp": "マウス操作　感度",
+      "cn_improved": "鼠标操作 灵敏度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111022,
+      "status": "from_improved",
+      "cn": "鼠标操作 水平",
+      "en": "Mouse Controls - Left/Right",
+      "jp": "マウス操作　左右",
+      "cn_improved": "鼠标操作 水平",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111023,
+      "status": "from_improved",
+      "cn": "鼠标操作 上下",
+      "en": "Mouse Controls - Up/Down",
+      "jp": "マウス操作　上下",
+      "cn_improved": "鼠标操作 上下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111024,
+      "status": "from_improved",
+      "cn": "按键设置",
+      "en": "Key Config",
+      "jp": "キー設定",
+      "cn_improved": "按键设置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111030,
+      "status": "from_improved",
+      "cn": "按键配置",
+      "en": "Controller Config",
+      "jp": "ボタン設定",
+      "cn_improved": "按键配置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111100,
+      "status": "from_improved",
+      "cn": "图像设定",
+      "en": "Graphics Options",
+      "jp": "グラフィック設定",
+      "cn_improved": "图像设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111110,
+      "status": "from_improved",
+      "cn": "屏幕模式",
+      "en": "Screen Mode",
+      "jp": "スクリーンモード",
+      "cn_improved": "屏幕模式",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111111,
+      "status": "from_improved",
+      "cn": "屏幕分辨率",
+      "en": "Screen Resolution",
+      "jp": "画面解像度",
+      "cn_improved": "屏幕分辨率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111112,
+      "status": "from_improved",
+      "cn": "自动绘图调整",
+      "en": "Automatic Rendering Adjustment",
+      "jp": "自動描画調整",
+      "cn_improved": "自动绘图调整",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111113,
+      "status": "from_improved",
+      "cn": "质量设定",
+      "en": "Quality Settings",
+      "jp": "品質設定",
+      "cn_improved": "质量设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111114,
+      "status": "from_improved",
+      "cn": "详细设定",
+      "en": "Advanced Settings",
+      "jp": "詳細設定",
+      "cn_improved": "详细设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111200,
+      "status": "from_improved",
+      "cn": "详细设定",
+      "en": "Advanced Settings",
+      "jp": "詳細設定",
+      "cn_improved": "详细设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111210,
+      "status": "from_improved",
+      "cn": "纹理质量",
+      "en": "Texture Quality",
+      "jp": "テクスチャの品質",
+      "cn_improved": "纹理质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111211,
+      "status": "from_improved",
+      "cn": "抗锯齿的应用",
+      "en": "Antialiasing Application",
+      "jp": "アンチエイリアスの適用",
+      "cn_improved": "抗锯齿的应用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111212,
+      "status": "from_improved",
+      "cn": "SSAO",
+      "en": "SSAO",
+      "jp": "SSAO",
+      "cn_improved": "SSAO",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111213,
+      "status": "from_improved",
+      "cn": "景深",
+      "en": "Depth of Field",
+      "jp": "被写界深度",
+      "cn_improved": "景深",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111214,
+      "status": "from_improved",
+      "cn": "动态模糊",
+      "en": "Motion Blur",
+      "jp": "モーションブラー",
+      "cn_improved": "动态模糊",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111215,
+      "status": "from_improved",
+      "cn": "阴影质量",
+      "en": "Shadow Quality",
+      "jp": "影の品質",
+      "cn_improved": "阴影质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111216,
+      "status": "from_improved",
+      "cn": "采光质量",
+      "en": "Lighting Quality",
+      "jp": "ライティングの品質",
+      "cn_improved": "采光质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111217,
+      "status": "from_improved",
+      "cn": "效果质量",
+      "en": "Effects Quality",
+      "jp": "エフェクトの品質",
+      "cn_improved": "效果质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111218,
+      "status": "from_improved",
+      "cn": "立体面质量",
+      "en": "Volumetric Quality",
+      "jp": "ボリューメトリックフォグの品質",
+      "cn_improved": "立体面质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111219,
+      "status": "from_improved",
+      "cn": "反射质量",
+      "en": "Reflections Quality",
+      "jp": "反射表現の品質",
+      "cn_improved": "反射质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111220,
+      "status": "from_improved",
+      "cn": "水面质量",
+      "en": "Water Surface Quality",
+      "jp": "水面の品質",
+      "cn_improved": "水面质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111221,
+      "status": "from_improved",
+      "cn": "着色器质量",
+      "en": "Shader Quality",
+      "jp": "シェーダーの品質",
+      "cn_improved": "着色器质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111300,
+      "status": "from_improved",
+      "cn": "不建议在Stadia上使用非Stadia手柄或在其他平台上运行Stadia\nSTADIA、Stadia指示灯、Google以及相关标志和图案是Google LLC的商标\n其他商标的产权，归商标各自的所有者所有。",
+      "en": "No endorsement or affiliation is intended between Stadia and the manufacturers of non-Stadia controllers or consoles. STADIA, the Stadia beacon, Google, and related marks and logos are trademarks of Google LLC. All other trademarks are the property of their respective owners.",
+      "jp": "StadiaとStadia以外のコントローラまたはコンソールの製造元との間の推奨または提携は意図されていません。\nSTADIA、Stadiaビーコン、Google、および関連するマークとロゴは、Google LLCの商標です。\n他のすべての商標は、それぞれの所有者の財産です。",
+      "cn_improved": "不建议在Stadia上使用非Stadia手柄或在其他平台上运行Stadia\nSTADIA、Stadia指示灯、Google以及相关标志和图案是Google LLC的商标\n其他商标的产权，归商标各自的所有者所有。",
+      "cn_resurrection": null
+    },
+    {
+      "id": 119000,
+      "status": "from_improved",
+      "cn": "完成设定",
+      "en": "Save Settings",
+      "jp": "設定完了",
+      "cn_improved": "完成设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 200500,
+      "status": "from_improved",
+      "cn": "·菜单标题会显示“传送目的地的鬼佛名”，所以此项不会显示",
+      "en": "Commune",
+      "jp": "・メニュータイトルには「ワープ先の鬼仏名」が表示されるので不要の認識",
+      "cn_improved": "·菜单标题会显示“传送目的地的鬼佛名”，所以此项不会显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201000,
+      "status": "from_improved",
+      "cn": "龙泉川端 平田庄",
+      "en": "Dragonspring - Hirata Estate",
+      "jp": "竜泉川端　平田屋敷",
+      "cn_improved": "龙泉川端 平田庄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201001,
+      "status": "from_improved",
+      "cn": "庄内通路",
+      "en": "Estate Path",
+      "jp": "屋敷通り",
+      "cn_improved": "庄内通路",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201002,
+      "status": "from_improved",
+      "cn": "竹林坡",
+      "en": "Bamboo Thicket Slope",
+      "jp": "竹林坂",
+      "cn_improved": "竹林坡",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201003,
+      "status": "from_improved",
+      "cn": "平田庄 主宅",
+      "en": "Hirata Estate - Main Hall",
+      "jp": "平田屋敷　主殿",
+      "cn_improved": "平田庄 主宅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201004,
+      "status": "from_improved",
+      "cn": "平田庄 隐藏佛殿",
+      "en": "Hirata Estate - Hidden Temple",
+      "jp": "平田屋敷　隠し仏殿",
+      "cn_improved": "平田庄 隐藏佛殿",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201005,
+      "status": "from_improved",
+      "cn": "平田庄 回廊",
+      "en": "Hirata Audience Chamber",
+      "jp": "平田屋敷　渡り廊下",
+      "cn_improved": "平田庄 回廊",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201006,
+      "status": "needs_translation",
+      "cn": "平田屋敷　渡り廊下",
+      "en": null,
+      "jp": "平田屋敷　渡り廊下",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 201007,
+      "status": "needs_translation",
+      "cn": "Bamboo Cliffside",
+      "en": "Bamboo Cliffside",
+      "jp": "霊園　崖上",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 201100,
+      "status": "from_improved",
+      "cn": "荒寺",
+      "en": "Dilapidated Temple",
+      "jp": "荒れ寺",
+      "cn_improved": "荒寺",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201101,
+      "status": "from_improved",
+      "cn": "城下外围 城门道",
+      "en": "Outskirts Wall - Gate Path",
+      "jp": "城下外郭　城門路",
+      "cn_improved": "城下外围 城门道",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201102,
+      "status": "from_improved",
+      "cn": "城下外围 虎口阶梯",
+      "en": "Outskirts Wall - Stairway",
+      "jp": "城下外郭　虎口階段",
+      "cn_improved": "城下外围 虎口阶梯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201103,
+      "status": "from_improved",
+      "cn": "桥下山谷",
+      "en": "Underbridge Valley",
+      "jp": "橋下の谷",
+      "cn_improved": "桥下山谷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201104,
+      "status": "from_improved",
+      "cn": "大手门 出丸",
+      "en": "Ashina Castle Gate Fortress",
+      "jp": "大手門の出丸",
+      "cn_improved": "大手门 出丸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201105,
+      "status": "from_improved",
+      "cn": "大手门",
+      "en": "Ashina Castle Gate",
+      "jp": "大手門",
+      "cn_improved": "大手门",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201106,
+      "status": "from_improved",
+      "cn": "苇名城 城下",
+      "en": "Ashina Outskirts",
+      "jp": "葦名城　城下",
+      "cn_improved": "苇名城 城下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201107,
+      "status": "from_improved",
+      "cn": "怨嗟之炎",
+      "en": "Flames of Hatred",
+      "jp": "怨嗟の炎",
+      "cn_improved": "怨嗟之炎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201110,
+      "status": "from_improved",
+      "cn": "苇名城 本城",
+      "en": "Ashina Castle",
+      "jp": "葦名城　本城",
+      "cn_improved": "苇名城 本城",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201111,
+      "status": "from_improved",
+      "cn": "天守阁上层 武士候命室",
+      "en": "Upper Tower - Antechamber",
+      "jp": "天守上階　武者侍り",
+      "cn_improved": "天守阁上层 武士候命室",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201112,
+      "status": "from_improved",
+      "cn": "天守阁望楼",
+      "en": "Castle Tower Lookout",
+      "jp": "天守望楼",
+      "cn_improved": "天守阁望楼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201113,
+      "status": "from_improved",
+      "cn": "天守阁上层 御子之间",
+      "en": "Upper Tower - Kuro's Room",
+      "jp": "天守上階　御子の間",
+      "cn_improved": "天守阁上层 御子之间",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201114,
+      "status": "from_improved",
+      "cn": "白蛇神社",
+      "en": "Great Serpent Shrine",
+      "jp": "白蛇の社",
+      "cn_improved": "白蛇神社",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201115,
+      "status": "from_improved",
+      "cn": "弃牢入口",
+      "en": "Abandoned Dungeon Entrance",
+      "jp": "捨て牢入口",
+      "cn_improved": "弃牢入口",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201116,
+      "status": "from_improved",
+      "cn": "遗冢",
+      "en": "Old Grave",
+      "jp": "名残り墓",
+      "cn_improved": "遗冢",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201117,
+      "status": "from_improved",
+      "cn": "天守阁上层 苇名流道场",
+      "en": "Upper Tower - Ashina Dojo",
+      "jp": "天守上階　葦名流伝場",
+      "cn_improved": "天守阁上层 苇名流道场",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201120,
+      "status": "from_improved",
+      "cn": "暗道前",
+      "en": "Near Secret Passage",
+      "jp": "抜け穴前",
+      "cn_improved": "暗道前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201121,
+      "status": "from_improved",
+      "cn": "苇名城 水手曲轮",
+      "en": "Ashina Reservoir",
+      "jp": "葦名城　水手曲輪",
+      "cn_improved": "苇名城 水手曲轮",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201300,
+      "status": "from_improved",
+      "cn": "地下水路",
+      "en": "Underground Waterway",
+      "jp": "地下水路",
+      "cn_improved": "地下水路",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201301,
+      "status": "from_improved",
+      "cn": "投身之所",
+      "en": "Bottomless Hole",
+      "jp": "身投げ場",
+      "cn_improved": "投身之所",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201500,
+      "status": "from_improved",
+      "cn": "隐藏森林",
+      "en": "Hidden Forest",
+      "jp": "隠し森",
+      "cn_improved": "隐藏森林",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201501,
+      "status": "from_improved",
+      "cn": "水生村",
+      "en": "Mibu Village",
+      "jp": "水生村",
+      "cn_improved": "水生村",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201502,
+      "status": "from_improved",
+      "cn": "水车小屋",
+      "en": "Water Mill",
+      "jp": "水車小屋",
+      "cn_improved": "水车小屋",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201503,
+      "status": "from_improved",
+      "cn": "乘轿石洞",
+      "en": "Wedding Cave Door",
+      "jp": "輿入れの岩戸",
+      "cn_improved": "乘轿石洞",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201700,
+      "status": "from_improved",
+      "cn": "坠落谷",
+      "en": "Sunken Valley",
+      "jp": "落ち谷",
+      "cn_improved": "坠落谷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201701,
+      "status": "from_improved",
+      "cn": "铁炮要塞",
+      "en": "Gun Fort",
+      "jp": "鉄砲砦",
+      "cn_improved": "铁炮要塞",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201702,
+      "status": "from_improved",
+      "cn": "坠落谷 内廊下",
+      "en": "Riven Cave",
+      "jp": "落ち谷　奥廊下",
+      "cn_improved": "坠落谷 内廊下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201703,
+      "status": "from_improved",
+      "cn": "狮子猿饮水处",
+      "en": "Guardian Ape's Watering Hole",
+      "jp": "獅子猿の水場",
+      "cn_improved": "狮子猿饮水处",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201704,
+      "status": "from_improved",
+      "cn": "毒沼",
+      "en": "Poison Pool",
+      "jp": "毒だまり",
+      "cn_improved": "毒沼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201705,
+      "status": "from_improved",
+      "cn": "苇名之底",
+      "en": "Ashina Depths",
+      "jp": "葦名の底",
+      "cn_improved": "苇名之底",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201706,
+      "status": "from_improved",
+      "cn": "狮子猿巢穴",
+      "en": "Guardian Ape's Burrow",
+      "jp": "獅子猿のねぐら",
+      "cn_improved": "狮子猿巢穴",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201707,
+      "status": "from_improved",
+      "cn": "社下山谷",
+      "en": "Under-Shrine Valley",
+      "jp": "社下の谷",
+      "cn_improved": "社下山谷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201708,
+      "status": "from_improved",
+      "cn": "菩萨谷",
+      "en": "Bodhisattva Valley",
+      "jp": "菩薩谷",
+      "cn_improved": "菩萨谷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201709,
+      "status": "from_improved",
+      "cn": "坠落谷 内廊下",
+      "en": "Sunken Valley Passage",
+      "jp": "落ち谷　奥廊下",
+      "cn_improved": "坠落谷 内廊下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202000,
+      "status": "from_improved",
+      "cn": "金刚山 仙峯寺",
+      "en": "Senpou Temple,  Mt. Kongo",
+      "jp": "金剛山　仙峯寺",
+      "cn_improved": "金刚山 仙峯寺",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202001,
+      "status": "from_improved",
+      "cn": "修行道",
+      "en": "Shugendo",
+      "jp": "修験道",
+      "cn_improved": "修行道",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202002,
+      "status": "from_improved",
+      "cn": "寺院境内",
+      "en": "Temple Grounds",
+      "jp": "境内",
+      "cn_improved": "寺院境内",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202003,
+      "status": "from_improved",
+      "cn": "正殿",
+      "en": "Main Hall",
+      "jp": "本堂",
+      "cn_improved": "正殿",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202004,
+      "status": "from_improved",
+      "cn": "内院",
+      "en": "Inner Sanctum",
+      "jp": "奥の院",
+      "cn_improved": "内院",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202005,
+      "status": "from_improved",
+      "cn": "坠落谷 洞窟",
+      "en": "Sunken Valley Cavern",
+      "jp": "谷落ちの洞窟",
+      "cn_improved": "坠落谷 洞窟",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202006,
+      "status": "from_improved",
+      "cn": "钟鬼之堂",
+      "en": "Bell Demon's Temple",
+      "jp": "鐘鬼のお堂",
+      "cn_improved": "钟鬼之堂",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202500,
+      "status": "from_improved",
+      "cn": "源之宫",
+      "en": "Fountainhead Palace",
+      "jp": "源の宮",
+      "cn_improved": "源之宫",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202501,
+      "status": "from_improved",
+      "cn": "朱桥",
+      "en": "Vermilion Bridge",
+      "jp": "朱の橋",
+      "cn_improved": "朱桥",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202502,
+      "status": "from_improved",
+      "cn": "赏花舞台",
+      "en": "Flower Viewing Stage",
+      "jp": "花見舞台",
+      "cn_improved": "赏花舞台",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202503,
+      "status": "from_improved",
+      "cn": "大樱树",
+      "en": "Great Sakura",
+      "jp": "大桜",
+      "cn_improved": "大樱树",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202504,
+      "status": "from_improved",
+      "cn": "皇宫内",
+      "en": "Palace Grounds",
+      "jp": "宮の内裏",
+      "cn_improved": "皇宫内",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202505,
+      "status": "from_improved",
+      "cn": "神域",
+      "en": "Sanctuary",
+      "jp": "神域",
+      "cn_improved": "神域",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202506,
+      "status": "from_improved",
+      "cn": "水生宅邸",
+      "en": "Mibu Manor",
+      "jp": "水生の御屋敷",
+      "cn_improved": "水生宅邸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202507,
+      "status": "from_improved",
+      "cn": "喂食处",
+      "en": "Feeding Grounds",
+      "jp": "餌やり場",
+      "cn_improved": "喂食处",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202508,
+      "status": "from_improved",
+      "cn": "壶之贵人",
+      "en": "Near Pot Noble",
+      "jp": "壷の貴人",
+      "cn_improved": "壶之贵人",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203000,
+      "status": "from_improved",
+      "cn": "心中的战场",
+      "en": "Place of Reflection",
+      "jp": "心中の戦場",
+      "cn_improved": "心中的战场",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211000,
+      "status": "from_improved",
+      "cn": "佛渡",
+      "en": "Travel",
+      "jp": "仏渡り",
+      "cn_improved": "佛渡",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211100,
+      "status": "from_improved",
+      "cn": "重要地点",
+      "en": "Important Places",
+      "jp": "重要な場所",
+      "cn_improved": "重要地点",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211101,
+      "status": "from_improved",
+      "cn": "<?placeName@1100?>",
+      "en": "<?placeName@1100?>",
+      "jp": "<?placeName@1100?>",
+      "cn_improved": "<?placeName@1100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211102,
+      "status": "from_improved",
+      "cn": "<?placeName@1110?>",
+      "en": "<?placeName@1110?>",
+      "jp": "<?placeName@1110?>",
+      "cn_improved": "<?placeName@1110?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211103,
+      "status": "from_improved",
+      "cn": "<?placeName@1120?>",
+      "en": "<?placeName@1120?>",
+      "jp": "<?placeName@1120?>",
+      "cn_improved": "<?placeName@1120?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211104,
+      "status": "from_improved",
+      "cn": "<?placeName@1300?>",
+      "en": "<?placeName@1300?>",
+      "jp": "<?placeName@1300?>",
+      "cn_improved": "<?placeName@1300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211105,
+      "status": "from_improved",
+      "cn": "<?placeName@2000?>",
+      "en": "<?placeName@2000?>",
+      "jp": "<?placeName@2000?>",
+      "cn_improved": "<?placeName@2000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211106,
+      "status": "from_improved",
+      "cn": "<?placeName@1700?>",
+      "en": "<?placeName@1700?>",
+      "jp": "<?placeName@1700?>",
+      "cn_improved": "<?placeName@1700?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211107,
+      "status": "from_improved",
+      "cn": "<?placeName@1510?>",
+      "en": "<?placeName@1510?>",
+      "jp": "<?placeName@1510?>",
+      "cn_improved": "<?placeName@1510?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211108,
+      "status": "from_improved",
+      "cn": "<?placeName@2500?>",
+      "en": "<?placeName@2500?>",
+      "jp": "<?placeName@2500?>",
+      "cn_improved": "<?placeName@2500?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211109,
+      "status": "from_improved",
+      "cn": "<?placeName@1000?>",
+      "en": "<?placeName@1000?>",
+      "jp": "<?placeName@1000?>",
+      "cn_improved": "<?placeName@1000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220000,
+      "status": "from_improved",
+      "cn": "与稀世强者再战",
+      "en": "Reflection of Strength",
+      "jp": "類稀な強者との再戦",
+      "cn_improved": "与稀世强者再战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220001,
+      "status": "from_improved",
+      "cn": "与稀世强者连战",
+      "en": "Gauntlet of Strength",
+      "jp": "類稀な強者との連戦",
+      "cn_improved": "与稀世强者连战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220002,
+      "status": "from_improved",
+      "cn": "记忆连战·御子夺还",
+      "en": "Gauntlet of Strength - Divine Heir",
+      "jp": "記憶の連戦・御子奪還",
+      "cn_improved": "记忆连战·御子夺还",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220003,
+      "status": "from_improved",
+      "cn": "记忆连战·修罗",
+      "en": "Gauntlet of Strength - Shura",
+      "jp": "記憶の連戦・修羅",
+      "cn_improved": "记忆连战·修罗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220004,
+      "status": "from_improved",
+      "cn": "记忆连战·断绝不死",
+      "en": "Gauntlet of Strength - Severance",
+      "jp": "記憶の連戦・不死断ち",
+      "cn_improved": "记忆连战·断绝不死",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220005,
+      "status": "from_improved",
+      "cn": "记忆连战·死斗踏破",
+      "en": "Gauntlet of Strength - Mortal Journey",
+      "jp": "記憶の連戦・死闘踏破",
+      "cn_improved": "记忆连战·死斗踏破",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220100,
+      "status": "from_improved",
+      "cn": "忍杀已毕",
+      "en": "Shinobi Execution Attained",
+      "jp": "忍殺済み",
+      "cn_improved": "忍杀已毕",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220101,
+      "status": "from_improved",
+      "cn": "可以一战",
+      "en": "Battle Available",
+      "jp": "戦闘可能",
+      "cn_improved": "可以一战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220102,
+      "status": "from_improved",
+      "cn": "未到达",
+      "en": "Not Reached",
+      "jp": "未到達",
+      "cn_improved": "未到达",
+      "cn_resurrection": null
+    },
+    {
+      "id": 225000,
+      "status": "from_improved",
+      "cn": "变更样貌",
+      "en": "Change Form",
+      "jp": "姿変え",
+      "cn_improved": "变更样貌",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230000,
+      "status": "from_improved",
+      "cn": "购买",
+      "en": "Purchase",
+      "jp": "購入",
+      "cn_improved": "购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230001,
+      "status": "from_improved",
+      "cn": "价格",
+      "en": "Price",
+      "jp": "価格",
+      "cn_improved": "价格",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230003,
+      "status": "from_improved",
+      "cn": "购买上限数量",
+      "en": "Limit",
+      "jp": "購入上限数",
+      "cn_improved": "购买上限数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232000,
+      "status": "from_improved",
+      "cn": "交换",
+      "en": "Trade",
+      "jp": "交換",
+      "cn_improved": "交换",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232001,
+      "status": "from_improved",
+      "cn": "所需数量",
+      "en": "Number Required",
+      "jp": "必要数",
+      "cn_improved": "所需数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232003,
+      "status": "from_improved",
+      "cn": "交换上限数量",
+      "en": "Limit",
+      "jp": "交換上限数",
+      "cn_improved": "交换上限数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240000,
+      "status": "from_improved",
+      "cn": "变卖",
+      "en": "Sell",
+      "jp": "売却",
+      "cn_improved": "变卖",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240001,
+      "status": "from_improved",
+      "cn": "价格",
+      "en": "Price",
+      "jp": "価格",
+      "cn_improved": "价格",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250000,
+      "status": "from_improved",
+      "cn": "安装义手忍具",
+      "en": "Create Arm Tools",
+      "jp": "義手忍具の仕込み",
+      "cn_improved": "安装义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250010,
+      "status": "from_improved",
+      "cn": "已制作",
+      "en": "Owned",
+      "jp": "作成済み",
+      "cn_improved": "已制作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250020,
+      "status": "from_improved",
+      "cn": "所需道具",
+      "en": "Required Materials",
+      "jp": "必要アイテム",
+      "cn_improved": "所需道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260000,
+      "status": "from_improved",
+      "cn": "制作强化义手忍具",
+      "en": "Prosthetic Tool Upgrades",
+      "jp": "強化義手忍具の作成",
+      "cn_improved": "制作强化义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260020,
+      "status": "from_improved",
+      "cn": "可强化",
+      "en": "Available",
+      "jp": "強化可能",
+      "cn_improved": "可强化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260021,
+      "status": "from_improved",
+      "cn": "不可强化",
+      "en": "Unavailable",
+      "jp": "強化不可能",
+      "cn_improved": "不可强化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260022,
+      "status": "from_improved",
+      "cn": "已强化",
+      "en": "Upgrade Acquired",
+      "jp": "強化済み",
+      "cn_improved": "已强化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260030,
+      "status": "from_improved",
+      "cn": "价格",
+      "en": "Price",
+      "jp": "価格",
+      "cn_improved": "价格",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260031,
+      "status": "from_improved",
+      "cn": "所需素材",
+      "en": "Req. Materials",
+      "jp": "必要アイテム",
+      "cn_improved": "所需素材",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260032,
+      "status": "from_improved",
+      "cn": "持有数量/所需数量",
+      "en": "Owned/Needed",
+      "jp": "所持数/必要数",
+      "cn_improved": "持有数量/所需数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260041,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "???",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260042,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "???",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270000,
+      "status": "from_improved",
+      "cn": "习得技能",
+      "en": "Acquire Skills",
+      "jp": "スキルの習得",
+      "cn_improved": "习得技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270005,
+      "status": "from_improved",
+      "cn": "级别",
+      "en": "Level",
+      "jp": "・スキルレベル廃止になったので不要の認識",
+      "cn_improved": "级别",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270006,
+      "status": "from_improved",
+      "cn": "技能点数",
+      "en": "Skill Points",
+      "jp": "スキルポイント",
+      "cn_improved": "技能点数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270020,
+      "status": "from_improved",
+      "cn": "可习得",
+      "en": "Available",
+      "jp": "習得可能",
+      "cn_improved": "可习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270021,
+      "status": "from_improved",
+      "cn": "不可习得",
+      "en": "Not Available",
+      "jp": "習得不可能",
+      "cn_improved": "不可习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270022,
+      "status": "from_improved",
+      "cn": "已习得",
+      "en": "Learned",
+      "jp": "習得済み",
+      "cn_improved": "已习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280000,
+      "status": "from_improved",
+      "cn": "按键配置",
+      "en": "Controller Config",
+      "jp": "ボタン設定",
+      "cn_improved": "按键配置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280001,
+      "status": "from_improved",
+      "cn": "按键设置",
+      "en": "Key Config",
+      "jp": "キー設定",
+      "cn_improved": "按键设置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280005,
+      "status": "from_improved",
+      "cn": "键盘",
+      "en": "Keyboard",
+      "jp": "キーボード",
+      "cn_improved": "键盘",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280006,
+      "status": "from_improved",
+      "cn": "鼠标",
+      "en": "Mouse",
+      "jp": "マウス",
+      "cn_improved": "鼠标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280010,
+      "status": "from_improved",
+      "cn": "移动",
+      "en": "Movement",
+      "jp": "移動",
+      "cn_improved": "移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280020,
+      "status": "from_improved",
+      "cn": "视角操作",
+      "en": "Camera Controls",
+      "jp": "カメラ操作",
+      "cn_improved": "视角操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280030,
+      "status": "from_improved",
+      "cn": "切换装备",
+      "en": "Change Equipment",
+      "jp": "装備切替",
+      "cn_improved": "切换装备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280040,
+      "status": "from_improved",
+      "cn": "攻击动作",
+      "en": "Attack Action",
+      "jp": "攻撃アクション",
+      "cn_improved": "攻击动作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280050,
+      "status": "from_improved",
+      "cn": "菜单操作",
+      "en": "Menu Controls",
+      "jp": "メニュー操作",
+      "cn_improved": "菜单操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280070,
+      "status": "from_improved",
+      "cn": "残影",
+      "en": "Remnants",
+      "jp": "残影",
+      "cn_improved": "残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280099,
+      "status": "from_improved",
+      "cn": "未配置",
+      "en": "Unbound",
+      "jp": "割り当てなし",
+      "cn_improved": "未配置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280100,
+      "status": "from_improved",
+      "cn": "切换步行移动",
+      "en": "Slow Movement Shift",
+      "jp": "歩行移動シフト",
+      "cn_improved": "切换步行移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280101,
+      "status": "from_improved",
+      "cn": "移动 前",
+      "en": "Move Forward",
+      "jp": "移動　前",
+      "cn_improved": "移动 前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280102,
+      "status": "from_improved",
+      "cn": "移动 后",
+      "en": "Move Back",
+      "jp": "移動　後",
+      "cn_improved": "移动 后",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280103,
+      "status": "from_improved",
+      "cn": "移动 左",
+      "en": "Move Left",
+      "jp": "移動　左",
+      "cn_improved": "移动 左",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280104,
+      "status": "from_improved",
+      "cn": "移动 右",
+      "en": "Move Right",
+      "jp": "移動　右",
+      "cn_improved": "移动 右",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280105,
+      "status": "from_improved",
+      "cn": "垫步、（长按）冲刺",
+      "en": "Step Dodge, (hold) Sprint",
+      "jp": "ステップ、(長押し) ダッシュ",
+      "cn_improved": "垫步、（长按）冲刺",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280106,
+      "status": "from_improved",
+      "cn": "跳跃",
+      "en": "Jump",
+      "jp": "ジャンプ",
+      "cn_improved": "跳跃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280107,
+      "status": "from_improved",
+      "cn": "下蹲/解除下蹲",
+      "en": "Crouch/Release Crouch",
+      "jp": "しゃがみ/しゃがみ解除",
+      "cn_improved": "下蹲/解除下蹲",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280200,
+      "status": "from_improved",
+      "cn": "视角操作/变更目标对象 上",
+      "en": "Camera Control/Change Lock-on Target - Up",
+      "jp": "カメラ操作/ターゲット対象変更　上",
+      "cn_improved": "视角操作/变更目标对象 上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280201,
+      "status": "from_improved",
+      "cn": "视角操作/变更目标对象 下",
+      "en": "Camera Control/Change Lock-on Target - Down",
+      "jp": "カメラ操作/ターゲット対象変更　下",
+      "cn_improved": "视角操作/变更目标对象 下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280202,
+      "status": "from_improved",
+      "cn": "视角操作/变更目标对象 左",
+      "en": "Camera Control/Change Lock-on Target - Left",
+      "jp": "カメラ操作/ターゲット対象変更　左",
+      "cn_improved": "视角操作/变更目标对象 左",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280203,
+      "status": "from_improved",
+      "cn": "视角操作/变更目标对象 右",
+      "en": "Camera Control/Change Lock-on Target - Right",
+      "jp": "カメラ操作/ターゲット対象変更　右",
+      "cn_improved": "视角操作/变更目标对象 右",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280204,
+      "status": "from_improved",
+      "cn": "重置视角/固定目标",
+      "en": "Camera Reset/Lock On",
+      "jp": "カメラリセット/ターゲット固定",
+      "cn_improved": "重置视角/固定目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280300,
+      "status": "from_improved",
+      "cn": "切换使用道具（顺）",
+      "en": "Cycle Quick Items (Forward)",
+      "jp": "使用アイテム切替 (順)",
+      "cn_improved": "切换使用道具（顺）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280301,
+      "status": "from_improved",
+      "cn": "切换使用道具（逆）",
+      "en": "Cycle Quick Items (Reverse)",
+      "jp": "使用アイテム切替 (逆)",
+      "cn_improved": "切换使用道具（逆）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280302,
+      "status": "from_improved",
+      "cn": "切换义手忍具",
+      "en": "Cycle Prosthetic Tool",
+      "jp": "義手忍具切替",
+      "cn_improved": "切换义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280400,
+      "status": "from_improved",
+      "cn": "攻击",
+      "en": "Attack",
+      "jp": "攻撃",
+      "cn_improved": "攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280401,
+      "status": "from_improved",
+      "cn": "使用义手忍具",
+      "en": "Use Prosthetic Tool",
+      "jp": "義手忍具使用",
+      "cn_improved": "使用义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280402,
+      "status": "from_improved",
+      "cn": "防御",
+      "en": "Deflect, (Hold) Guard",
+      "jp": "弾き、(長押し) ガード",
+      "cn_improved": "防御",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280403,
+      "status": "from_improved",
+      "cn": "钩绳",
+      "en": "Grappling Hook",
+      "jp": "鉤縄",
+      "cn_improved": "钩绳",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280404,
+      "status": "from_improved",
+      "cn": "动作、（长按）吸引",
+      "en": "Action, (hold) Collect Loot",
+      "jp": "アクション、(長押し) 吸引",
+      "cn_improved": "动作、（长按）吸引",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280405,
+      "status": "from_improved",
+      "cn": "使用道具",
+      "en": "Use Item",
+      "jp": "アイテム使用",
+      "cn_improved": "使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280406,
+      "status": "from_improved",
+      "cn": "窃听/触碰残影",
+      "en": "Eavesdrop/Touch Remnant",
+      "jp": "盗み聞き/残影に触れる",
+      "cn_improved": "窃听/触碰残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280500,
+      "status": "from_improved",
+      "cn": "暂停菜单",
+      "en": "Pause Menu",
+      "jp": "ポーズメニュー",
+      "cn_improved": "暂停菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280600,
+      "status": "from_improved",
+      "cn": "操作方法",
+      "en": "Controls",
+      "jp": "操作方法",
+      "cn_improved": "操作方法",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280610,
+      "status": "from_improved",
+      "cn": "移动",
+      "en": "Movement",
+      "jp": "移動",
+      "cn_improved": "移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280620,
+      "status": "from_improved",
+      "cn": "视角操作",
+      "en": "Camera Movement",
+      "jp": "カメラ操作",
+      "cn_improved": "视角操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280630,
+      "status": "from_improved",
+      "cn": "流派技",
+      "en": "Combat Arts",
+      "jp": "流派技",
+      "cn_improved": "流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280700,
+      "status": "from_improved",
+      "cn": "打开残影菜单/中止记录残影",
+      "en": "Remnant Menu/Stop Recording",
+      "jp": "残影メニューを開く/残影記録の中断",
+      "cn_improved": "打开残影菜单/中止记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 290000,
+      "status": "from_improved",
+      "cn": "残影",
+      "en": "Remnants",
+      "jp": "残影",
+      "cn_improved": "残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291000,
+      "status": "from_improved",
+      "cn": "设定留言",
+      "en": "Write Message",
+      "jp": "覚え書き設定",
+      "cn_improved": "设定留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291001,
+      "status": "from_improved",
+      "cn": "编辑留言",
+      "en": "Edit Message",
+      "jp": "覚え書き編集",
+      "cn_improved": "编辑留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291010,
+      "status": "from_improved",
+      "cn": "基础语句",
+      "en": "Templates",
+      "jp": "ベース文",
+      "cn_improved": "基础语句",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291011,
+      "status": "from_improved",
+      "cn": "单词",
+      "en": "Words",
+      "jp": "単語",
+      "cn_improved": "单词",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291012,
+      "status": "from_improved",
+      "cn": "连接语",
+      "en": "Conjunctions",
+      "jp": "接続詞",
+      "cn_improved": "连接语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291013,
+      "status": "from_improved",
+      "cn": "基础语句(第二段)",
+      "en": "Templates (2nd line)",
+      "jp": "ベース文 (2文目)",
+      "cn_improved": "基础语句(第二段)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291014,
+      "status": "from_improved",
+      "cn": "单词(第二段)",
+      "en": "Words (2nd line)",
+      "jp": "単語 (2文目)",
+      "cn_improved": "单词(第二段)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291015,
+      "status": "from_improved",
+      "cn": "附加幻影的时间",
+      "en": "Remnant timer",
+      "jp": "付与する幻影の時間",
+      "cn_improved": "附加幻影的时间",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291016,
+      "status": "from_improved",
+      "cn": "开始记录残影",
+      "en": "Record Remnant",
+      "jp": "残影記録を開始",
+      "cn_improved": "开始记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291017,
+      "status": "from_improved",
+      "cn": "更新留言",
+      "en": "Update Message",
+      "jp": "覚え書きを更新",
+      "cn_improved": "更新留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291018,
+      "status": "from_improved",
+      "cn": "留言结构",
+      "en": "Message Length",
+      "jp": "覚え書きの構成",
+      "cn_improved": "留言结构",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291019,
+      "status": "from_improved",
+      "cn": "一段",
+      "en": "1 Line",
+      "jp": "1文",
+      "cn_improved": "一段",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291020,
+      "status": "from_improved",
+      "cn": "二段",
+      "en": "2 Lines",
+      "jp": "2文",
+      "cn_improved": "二段",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292001,
+      "status": "from_improved",
+      "cn": "已记录残影一览",
+      "en": "Recorded Remnants",
+      "jp": "記録した残影一覧",
+      "cn_improved": "已记录残影一览",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292002,
+      "status": "from_improved",
+      "cn": "已查看残影一览",
+      "en": "Viewed Remnants",
+      "jp": "確認した残影一覧",
+      "cn_improved": "已查看残影一览",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292011,
+      "status": "from_improved",
+      "cn": "好评",
+      "en": "Praise",
+      "jp": "よい評価",
+      "cn_improved": "好评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292012,
+      "status": "from_improved",
+      "cn": "差评",
+      "en": "Scorn",
+      "jp": "悪評",
+      "cn_improved": "差评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292013,
+      "status": "from_improved",
+      "cn": "评价总数：",
+      "en": "Ratings:",
+      "jp": "評価総数:",
+      "cn_improved": "评价总数：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292014,
+      "status": "from_improved",
+      "cn": "记录时间：",
+      "en": "Remnant Time:",
+      "jp": "記録時間:",
+      "cn_improved": "记录时间：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292015,
+      "status": "from_improved",
+      "cn": "<?bloodMessageRecordTime?> 秒",
+      "en": "<?bloodMessageRecordTime?>s",
+      "jp": "<?bloodMessageRecordTime?> 秒",
+      "cn_improved": "<?bloodMessageRecordTime?> 秒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292016,
+      "status": "from_improved",
+      "cn": "评价数：",
+      "en": "Ratings:",
+      "jp": "評価数:",
+      "cn_improved": "评价数：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292017,
+      "status": "from_improved",
+      "cn": "可以记录",
+      "en": "Empty Slot",
+      "jp": "記録可能",
+      "cn_improved": "可以记录",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292018,
+      "status": "from_improved",
+      "cn": "场所：",
+      "en": "Area:",
+      "jp": "場所:",
+      "cn_improved": "场所：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292019,
+      "status": "from_improved",
+      "cn": "记录时间：",
+      "en": "Time:",
+      "jp": "記録時間:",
+      "cn_improved": "记录时间：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292020,
+      "status": "from_improved",
+      "cn": "留言",
+      "en": "Messages",
+      "jp": "覚え書き",
+      "cn_improved": "留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292021,
+      "status": "from_improved",
+      "cn": "记录日期：",
+      "en": "Recorded:",
+      "jp": "記録日時:",
+      "cn_improved": "记录日期：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292022,
+      "status": "from_improved",
+      "cn": "查看日期：",
+      "en": "Viewed:",
+      "jp": "確認日時:",
+      "cn_improved": "查看日期：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 300010,
+      "status": "from_improved",
+      "cn": "技能点数",
+      "en": "Skill Point(s)",
+      "jp": "スキルポイント",
+      "cn_improved": "技能点数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 310000,
+      "status": "from_improved",
+      "cn": "评价总数“",
+      "en": "Ratings:",
+      "jp": "評価総数:",
+      "cn_improved": "评价总数“",
+      "cn_resurrection": null
+    },
+    {
+      "id": 310001,
+      "status": "from_improved",
+      "cn": "好评：",
+      "en": "Praise:",
+      "jp": "よい評価:",
+      "cn_improved": "好评：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 310002,
+      "status": "from_improved",
+      "cn": "差评：",
+      "en": "Scorn:",
+      "jp": "悪評:",
+      "cn_improved": "差评：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 310011,
+      "status": "from_improved",
+      "cn": "已给出好评",
+      "en": "Praised",
+      "jp": "評価済み",
+      "cn_improved": "已给出好评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 310012,
+      "status": "from_improved",
+      "cn": "已给出差评",
+      "en": "Scorned",
+      "jp": "悪評済み",
+      "cn_improved": "已给出差评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 320000,
+      "status": "from_improved",
+      "cn": "请选择如何评价残影记录",
+      "en": "Keep Remnant?",
+      "jp": "残影記録をどうするか選択してください",
+      "cn_improved": "请选择如何评价残影记录",
+      "cn_resurrection": null
+    },
+    {
+      "id": 320001,
+      "status": "from_improved",
+      "cn": "完成",
+      "en": "Keep",
+      "jp": "完了する",
+      "cn_improved": "完成",
+      "cn_resurrection": null
+    },
+    {
+      "id": 320002,
+      "status": "from_improved",
+      "cn": "放弃",
+      "en": "Discard",
+      "jp": "破棄する",
+      "cn_improved": "放弃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 320003,
+      "status": "from_improved",
+      "cn": "继续记录",
+      "en": "Resume Recording",
+      "jp": "記録を再開する",
+      "cn_improved": "继续记录",
+      "cn_resurrection": null
+    },
+    {
+      "id": 320004,
+      "status": "from_improved",
+      "cn": "编辑留言",
+      "en": "Edit Message",
+      "jp": "覚え書き編集",
+      "cn_improved": "编辑留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401000,
+      "status": "from_improved",
+      "cn": "任　　押",
+      "en": "PRESS ANY BUTTON",
+      "jp": "PRESS ANY BUTTON",
+      "cn_improved": "任　　押",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401001,
+      "status": "from_improved",
+      "cn": "©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.",
+      "en": "©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.",
+      "jp": "©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.",
+      "cn_improved": "©2019,2020 FromSoftware, Inc. All rights reserved.  ACTIVISION is a trademark of Activision Publishing, Inc.",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401100,
+      "status": "from_improved",
+      "cn": "<?kgicon@2203?>",
+      "en": "<?kgicon@2203?>",
+      "jp": "<?kgicon@2203?>",
+      "cn_improved": "<?kgicon@2203?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401301,
+      "status": "from_improved",
+      "cn": "再　　续",
+      "en": "CONTINUE",
+      "jp": "CONTINUE",
+      "cn_improved": "再　　续",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401302,
+      "status": "from_improved",
+      "cn": "思　　忆",
+      "en": "LOAD GAME",
+      "jp": "LOAD GAME",
+      "cn_improved": "思　　忆",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401303,
+      "status": "from_improved",
+      "cn": "新　　启",
+      "en": "NEW GAME",
+      "jp": "NEW GAME",
+      "cn_improved": "新　　启",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401304,
+      "status": "from_improved",
+      "cn": "系　　统",
+      "en": "SYSTEM",
+      "jp": "SYSTEM",
+      "cn_improved": "系　　统",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401305,
+      "status": "from_improved",
+      "cn": "资　　讯",
+      "en": "INFORMATION",
+      "jp": "INFORMATION",
+      "cn_improved": "资　　讯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401306,
+      "status": "from_improved",
+      "cn": "登　　入",
+      "en": "LOG IN",
+      "jp": "LOGIN",
+      "cn_improved": "登　　入",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401307,
+      "status": "from_improved",
+      "cn": "移　　档",
+      "en": "SWITCH PROFILE",
+      "jp": "SWITCH PROFILE",
+      "cn_improved": "移　　档",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401309,
+      "status": "from_improved",
+      "cn": "退　　却",
+      "en": "QUIT GAME",
+      "jp": "QUIT GAME",
+      "cn_improved": "退　　却",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401310,
+      "status": "from_improved",
+      "cn": "在    线",
+      "en": "ONLINE",
+      "jp": "ONLINE",
+      "cn_improved": "在    线",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401311,
+      "status": "from_improved",
+      "cn": "离    线",
+      "en": "OFFLINE",
+      "jp": "OFFLINE",
+      "cn_improved": "离    线",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401320,
+      "status": "from_improved",
+      "cn": "当前版本：",
+      "en": "S:R Ver. 1.16.1 App Ver.",
+      "jp": "S:R Ver. 1.16.1 / App Ver.",
+      "cn_improved": "当前版本：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401350,
+      "status": "from_improved",
+      "cn": "设　　定",
+      "en": "SETTINGS",
+      "jp": "SETTINGS",
+      "cn_improved": "设　　定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401351,
+      "status": "from_improved",
+      "cn": "言　　语",
+      "en": "LANGUAGE",
+      "jp": "LANGUAGE",
+      "cn_improved": "言　　语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401400,
+      "status": "from_improved",
+      "cn": "资    讯",
+      "en": "INFORMATION",
+      "jp": "INFORMATION",
+      "cn_improved": "资    讯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401401,
+      "status": "from_improved",
+      "cn": "本作品的初始语音设定为日语",
+      "en": "This title's default spoken language is Japanese.  \n",
+      "jp": "本作品の初期ボイス設定は日本語です",
+      "cn_improved": "本作品的初始语音设定为日语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401402,
+      "status": "from_improved",
+      "cn": "没有新资讯",
+      "en": "There is nothing new in INFORMATION",
+      "jp": "新しいINFORMATIONはありません",
+      "cn_improved": "没有新资讯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401500,
+      "status": "from_improved",
+      "cn": "ACTIVISION SOFTWARE LICENSE AND SERVICE AGREEMENT",
+      "en": "ACTIVISION SOFTWARE LICENSE AND SERVICE AGREEMENT",
+      "jp": "ACTIVISION SOFTWARE LICENSE AND SERVICE AGREEMENT",
+      "cn_improved": "ACTIVISION SOFTWARE LICENSE AND SERVICE AGREEMENT",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401501,
+      "status": "from_improved",
+      "cn": "IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION\nAND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. ",
+      "en": "IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION\nAND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. ",
+      "jp": "IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION\nAND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. ",
+      "cn_improved": "IMPORTANT NOTICE FOR RESIDENTS IN NORTH AMERICA ONLY: THIS AGREEMENT IS SUBJECT TO BINDING ARBITRATION\nAND A WAIVER OF CLASS ACTION RIGHTS AS DETAILED IN SECTION 16 BELOW. ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401508,
+      "status": "from_improved",
+      "cn": "《隻狼：影逝二度》线上服务使用规则",
+      "en": "\"Sekiro: Shadows Die Twice Online Services\" Terms of Use",
+      "jp": "「SEKIRO : SHADOWS DIE TWICE オンラインサービス」利用規約",
+      "cn_improved": "《隻狼：影逝二度》线上服务使用规则",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401510,
+      "status": "from_improved",
+      "cn": "同意",
+      "en": "Accept",
+      "jp": "同意する",
+      "cn_improved": "同意",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401511,
+      "status": "from_improved",
+      "cn": "不同意",
+      "en": "Decline",
+      "jp": "同意しない",
+      "cn_improved": "不同意",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406000,
+      "status": "from_improved",
+      "cn": "LOAD GAME",
+      "en": "LOAD GAME",
+      "jp": "LOAD GAME",
+      "cn_improved": "LOAD GAME",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406001,
+      "status": "from_improved",
+      "cn": "NEW GAME",
+      "en": "NEW GAME",
+      "jp": "NEW GAME",
+      "cn_improved": "NEW GAME",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406010,
+      "status": "from_improved",
+      "cn": "保存时间",
+      "en": "Last Saved",
+      "jp": "保存日時",
+      "cn_improved": "保存时间",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406020,
+      "status": "from_improved",
+      "cn": "游玩时间",
+      "en": "Play Time",
+      "jp": "プレイ時間",
+      "cn_improved": "游玩时间",
+      "cn_resurrection": null
+    },
+    {
+      "id": 500201,
+      "status": "from_improved",
+      "cn": "龙胤淤淀已满溢",
+      "en": "Dragon's Blood stagnation has overflowed",
+      "jp": "竜胤の淀みが溢れました",
+      "cn_improved": "龙胤淤淀已满溢",
+      "cn_resurrection": null
+    }
+  ]
+}

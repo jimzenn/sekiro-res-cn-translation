@@ -1,0 +1,2978 @@
+{
+  "fmg_id": 10,
+  "fmg_name": "アイテム名",
+  "domain": "item",
+  "count": 330,
+  "entries": [
+    {
+      "id": 60,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム1",
+      "en": null,
+      "jp": "システム　ID監視用アイテム1",
+      "cn_improved": "システム　ID監視用アイテム1",
+      "cn_resurrection": null
+    },
+    {
+      "id": 61,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム2",
+      "en": null,
+      "jp": "システム　ID監視用アイテム2",
+      "cn_improved": "システム　ID監視用アイテム2",
+      "cn_resurrection": null
+    },
+    {
+      "id": 62,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム3",
+      "en": null,
+      "jp": "システム　ID監視用アイテム3",
+      "cn_improved": "システム　ID監視用アイテム3",
+      "cn_resurrection": null
+    },
+    {
+      "id": 63,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム4",
+      "en": null,
+      "jp": "システム　ID監視用アイテム4",
+      "cn_improved": "システム　ID監視用アイテム4",
+      "cn_resurrection": null
+    },
+    {
+      "id": 64,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム5",
+      "en": null,
+      "jp": "システム　ID監視用アイテム5",
+      "cn_improved": "システム　ID監視用アイテム5",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム6",
+      "en": null,
+      "jp": "システム　ID監視用アイテム6",
+      "cn_improved": "システム　ID監視用アイテム6",
+      "cn_resurrection": null
+    },
+    {
+      "id": 66,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム7",
+      "en": null,
+      "jp": "システム　ID監視用アイテム7",
+      "cn_improved": "システム　ID監視用アイテム7",
+      "cn_resurrection": null
+    },
+    {
+      "id": 67,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム8",
+      "en": null,
+      "jp": "システム　ID監視用アイテム8",
+      "cn_improved": "システム　ID監視用アイテム8",
+      "cn_resurrection": null
+    },
+    {
+      "id": 68,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム9",
+      "en": null,
+      "jp": "システム　ID監視用アイテム9",
+      "cn_improved": "システム　ID監視用アイテム9",
+      "cn_resurrection": null
+    },
+    {
+      "id": 69,
+      "status": "from_improved",
+      "cn": "システム　ID監視用アイテム10",
+      "en": null,
+      "jp": "システム　ID監視用アイテム10",
+      "cn_improved": "システム　ID監視用アイテム10",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1000,
+      "status": "from_improved",
+      "cn": "形代",
+      "en": "Spirit Emblem",
+      "jp": "形代",
+      "cn_improved": "形代",
+      "cn_resurrection": "纸人"
+    },
+    {
+      "id": 1001,
+      "status": "from_improved",
+      "cn": "一時リソースアイテムA（補充白形代） ",
+      "en": "Red Spirit Emblem",
+      "jp": "一時リソースアイテムA（補充白形代） ",
+      "cn_improved": "一時リソースアイテムA（補充白形代） ",
+      "cn_resurrection": "红纸人"
+    },
+    {
+      "id": 1100,
+      "status": "from_improved",
+      "cn": "復活権",
+      "en": "Regenerative Power",
+      "jp": "復活権",
+      "cn_improved": "復活権",
+      "cn_resurrection": "起死回生之力"
+    },
+    {
+      "id": 1101,
+      "status": "from_improved",
+      "cn": "復活権の欠片",
+      "en": "Regenerative Power Fragment",
+      "jp": "復活権の欠片",
+      "cn_improved": "復活権の欠片",
+      "cn_resurrection": "起死回生之力碎片"
+    },
+    {
+      "id": 1110,
+      "status": "from_improved",
+      "cn": "テンポラリ復活権",
+      "en": "Temporary Regenerative Power",
+      "jp": "テンポラリ復活権",
+      "cn_improved": "テンポラリ復活権",
+      "cn_resurrection": "临时起死回生之力"
+    },
+    {
+      "id": 1200,
+      "status": "from_improved",
+      "cn": "技能ポイント",
+      "en": "Skill Point",
+      "jp": "技能ポイント",
+      "cn_improved": "技能ポイント",
+      "cn_resurrection": "技能点"
+    },
+    {
+      "id": 1300,
+      "status": "from_improved",
+      "cn": "剣術ポイント",
+      "en": "Kenjutsu Point",
+      "jp": "剣術ポイント",
+      "cn_improved": "剣術ポイント",
+      "cn_resurrection": "剑术点"
+    },
+    {
+      "id": 2000,
+      "status": "from_improved",
+      "cn": "回生",
+      "en": "Resurrection",
+      "jp": "回生",
+      "cn_improved": "回生",
+      "cn_resurrection": "起死回生"
+    },
+    {
+      "id": 2100,
+      "status": "from_improved",
+      "cn": "血烟术",
+      "en": "Bloodsmoke Ninjutsu",
+      "jp": "血煙の術",
+      "cn_improved": "血烟术",
+      "cn_resurrection": "血烟术"
+    },
+    {
+      "id": 2110,
+      "status": "from_improved",
+      "cn": "傀儡术",
+      "en": "Puppeteer Ninjutsu",
+      "jp": "傀儡の術",
+      "cn_improved": "傀儡术",
+      "cn_resurrection": "傀儡术"
+    },
+    {
+      "id": 2120,
+      "status": "from_improved",
+      "cn": "血刀术",
+      "en": "Bestowal Ninjutsu",
+      "jp": "血刀の術",
+      "cn_improved": "血刀术",
+      "cn_resurrection": "血刀术"
+    },
+    {
+      "id": 2300,
+      "status": "from_improved",
+      "cn": "楔丸",
+      "en": "Kusabimaru",
+      "jp": "楔丸",
+      "cn_improved": "楔丸",
+      "cn_resurrection": "楔丸"
+    },
+    {
+      "id": 2301,
+      "status": "needs_polish",
+      "cn": "血刀漂流",
+      "en": "Crimson Tanto",
+      "jp": "血汐流し",
+      "cn_improved": null,
+      "cn_resurrection": "血刀漂流"
+    },
+    {
+      "id": 2302,
+      "status": "needs_polish",
+      "cn": "血刀漂流",
+      "en": "Crimson Tanto",
+      "jp": "血汐流し",
+      "cn_improved": null,
+      "cn_resurrection": "血刀漂流"
+    },
+    {
+      "id": 2310,
+      "status": "from_improved",
+      "cn": "忍义手",
+      "en": "Shinobi Prosthetic",
+      "jp": "忍義手",
+      "cn_improved": "忍义手",
+      "cn_resurrection": "忍义手"
+    },
+    {
+      "id": 2390,
+      "status": "from_improved",
+      "cn": "夜目",
+      "en": "Night Eye",
+      "jp": "夜目",
+      "cn_improved": "夜目",
+      "cn_resurrection": "夜视眼"
+    },
+    {
+      "id": 2400,
+      "status": "from_improved",
+      "cn": "不死斩",
+      "en": "Mortal Blade",
+      "jp": "不死斬り",
+      "cn_improved": "不死斩",
+      "cn_resurrection": "不死斩"
+    },
+    {
+      "id": 2420,
+      "status": "from_improved",
+      "cn": "水生呼吸术",
+      "en": "Mibu Breathing Technique",
+      "jp": "水生の呼吸術",
+      "cn_improved": "水生呼吸术",
+      "cn_resurrection": "水生呼吸术"
+    },
+    {
+      "id": 2450,
+      "status": "from_improved",
+      "cn": "对空忍杀之技书",
+      "en": "Anti-air Deathblow Text",
+      "jp": "対空忍殺の技書",
+      "cn_improved": "对空忍杀之技书",
+      "cn_resurrection": "对空忍杀技法书"
+    },
+    {
+      "id": 2460,
+      "status": "from_improved",
+      "cn": "秘传·龙闪",
+      "en": "Dragon Flash",
+      "jp": "秘伝・竜閃",
+      "cn_improved": "秘传·龙闪",
+      "cn_resurrection": "秘传·龙闪"
+    },
+    {
+      "id": 2461,
+      "status": "from_improved",
+      "cn": "浮舟渡之技书",
+      "en": "Floating Passage Text",
+      "jp": "浮き舟渡りの技書",
+      "cn_improved": "浮舟渡之技书",
+      "cn_resurrection": "飞渡浮舟技法书"
+    },
+    {
+      "id": 2462,
+      "status": "from_improved",
+      "cn": "秘传·一心",
+      "en": "One Mind",
+      "jp": "秘伝・一心",
+      "cn_improved": "秘传·一心",
+      "cn_resurrection": "秘传·一心"
+    },
+    {
+      "id": 2470,
+      "status": "from_improved",
+      "cn": "忍者之药识·甲",
+      "en": "Shinobi Medicine Rank 1",
+      "jp": "忍びの薬識・甲",
+      "cn_improved": "忍者之药识·甲",
+      "cn_resurrection": "忍者之药理知识·甲"
+    },
+    {
+      "id": 2471,
+      "status": "from_improved",
+      "cn": "忍者之药识·乙",
+      "en": "Shinobi Medicine Rank 2",
+      "jp": "忍びの薬識・乙",
+      "cn_improved": "忍者之药识·乙",
+      "cn_resurrection": "忍者之药理知识·乙"
+    },
+    {
+      "id": 2472,
+      "status": "from_improved",
+      "cn": "忍者之药识·丙",
+      "en": "Shinobi Medicine Rank 3",
+      "jp": "忍びの薬識・丙",
+      "cn_improved": "忍者之药识·丙",
+      "cn_resurrection": "忍者之药理知识·丙"
+    },
+    {
+      "id": 2475,
+      "status": "from_improved",
+      "cn": "兽之业",
+      "en": "A Beast's Karma",
+      "jp": "獣の業",
+      "cn_improved": "兽之业",
+      "cn_resurrection": "兽之恶业"
+    },
+    {
+      "id": 2480,
+      "status": "from_improved",
+      "cn": "命之呼吸·阴",
+      "en": "Breath of Life: Shadow",
+      "jp": "命の呼吸・陰",
+      "cn_improved": "命之呼吸·阴",
+      "cn_resurrection": "护命呼吸·阴"
+    },
+    {
+      "id": 2481,
+      "status": "from_improved",
+      "cn": "干之吐息·阴",
+      "en": "Breath of Nature: Shadow",
+      "jp": "幹の息吹・陰",
+      "cn_improved": "干之吐息·阴",
+      "cn_resurrection": "躯干吐息·阴"
+    },
+    {
+      "id": 2490,
+      "status": "from_improved",
+      "cn": "秘传·樱舞",
+      "en": "Sakura Dance",
+      "jp": "秘伝・桜舞い",
+      "cn_improved": "秘传·樱舞",
+      "cn_resurrection": "秘传·樱舞"
+    },
+    {
+      "id": 2499,
+      "status": "from_improved",
+      "cn": "全アクション解禁 (debug)",
+      "en": "All Actions Unlock",
+      "jp": "全アクション解禁 (debug)",
+      "cn_improved": "全アクション解禁 (debug)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2500,
+      "status": "from_improved",
+      "cn": "馨香水莲",
+      "en": "Lotus of the Palace",
+      "jp": "馨し水蓮",
+      "cn_improved": "馨香水莲",
+      "cn_resurrection": "馨香水莲"
+    },
+    {
+      "id": 2501,
+      "status": "from_improved",
+      "cn": "结宿之石",
+      "en": "Shelter Stone",
+      "jp": "お宿り石",
+      "cn_improved": "结宿之石",
+      "cn_resurrection": "结宿之石"
+    },
+    {
+      "id": 2502,
+      "status": "from_improved",
+      "cn": "常樱之香木",
+      "en": "Aromatic Branch",
+      "jp": "常桜の香木",
+      "cn_improved": "常樱之香木",
+      "cn_resurrection": "常樱香木"
+    },
+    {
+      "id": 2503,
+      "status": "from_improved",
+      "cn": "常樱之花",
+      "en": "Aromatic Flower",
+      "jp": "常桜の花",
+      "cn_improved": "常樱之花",
+      "cn_resurrection": "常樱之花"
+    },
+    {
+      "id": 2910,
+      "status": "from_improved",
+      "cn": "机关筒",
+      "en": "Mechanical Barrel",
+      "jp": "絡繰り筒",
+      "cn_improved": "机关筒",
+      "cn_resurrection": "机关筒"
+    },
+    {
+      "id": 2920,
+      "status": "from_improved",
+      "cn": "忍技之传书",
+      "en": "Shinobi Esoteric Text",
+      "jp": "忍び技の伝書",
+      "cn_improved": "忍技之传书",
+      "cn_resurrection": "忍者招式秘籍"
+    },
+    {
+      "id": 2921,
+      "status": "from_improved",
+      "cn": "义手忍技之传书",
+      "en": "Prosthetic Esoteric Text",
+      "jp": "忍び義手技の伝書",
+      "cn_improved": "义手忍技之传书",
+      "cn_resurrection": "忍者义手招式秘籍"
+    },
+    {
+      "id": 2922,
+      "status": "from_improved",
+      "cn": "苇名流之传书",
+      "en": "Ashina Esoteric Text",
+      "jp": "葦名流の伝書",
+      "cn_improved": "苇名流之传书",
+      "cn_resurrection": "苇名流秘籍"
+    },
+    {
+      "id": 2923,
+      "status": "from_improved",
+      "cn": "仙峯寺拳法之传书",
+      "en": "Senpou Esoteric Text",
+      "jp": "仙峯寺拳法の伝書",
+      "cn_improved": "仙峯寺拳法之传书",
+      "cn_resurrection": "仙峰寺拳法秘籍"
+    },
+    {
+      "id": 2924,
+      "status": "from_improved",
+      "cn": "秘传·苇名无心流之传书",
+      "en": "Mushin Esoteric Text",
+      "jp": "秘伝・葦名無心流の伝書",
+      "cn_improved": "秘传·苇名无心流之传书",
+      "cn_resurrection": "秘传·苇名无心流秘籍"
+    },
+    {
+      "id": 2930,
+      "status": "from_improved",
+      "cn": "快复之护符",
+      "en": "Recovery Charm",
+      "jp": "快復の御守り",
+      "cn_improved": "快复之护符",
+      "cn_resurrection": "痊愈护身符"
+    },
+    {
+      "id": 3000,
+      "status": "from_improved",
+      "cn": "伤药葫芦",
+      "en": "Healing Gourd",
+      "jp": "傷薬瓢箪",
+      "cn_improved": "伤药葫芦",
+      "cn_resurrection": "伤药葫芦"
+    },
+    {
+      "id": 3001,
+      "status": "from_improved",
+      "cn": "伤药葫芦",
+      "en": "Healing Gourd",
+      "jp": "傷薬瓢箪",
+      "cn_improved": "伤药葫芦",
+      "cn_resurrection": "伤药葫芦"
+    },
+    {
+      "id": 3020,
+      "status": "from_improved",
+      "cn": "丸药",
+      "en": "Pellet",
+      "jp": "丸薬",
+      "cn_improved": "丸药",
+      "cn_resurrection": "药丸"
+    },
+    {
+      "id": 3040,
+      "status": "from_improved",
+      "cn": "噬神",
+      "en": "Divine Grass",
+      "jp": "神食み",
+      "cn_improved": "噬神",
+      "cn_resurrection": "噬神"
+    },
+    {
+      "id": 3045,
+      "status": "needs_polish",
+      "cn": "寄鹰众燃烧弹",
+      "en": "Nightjar Firebomb",
+      "jp": "寄鷹の焙烙玉",
+      "cn_improved": null,
+      "cn_resurrection": "寄鹰众燃烧弹"
+    },
+    {
+      "id": 3046,
+      "status": "needs_polish",
+      "cn": "寄鹰众燃烧弹",
+      "en": "Nightjar Firebomb",
+      "jp": "寄鷹の焙烙玉",
+      "cn_improved": null,
+      "cn_resurrection": "寄鹰众燃烧弹"
+    },
+    {
+      "id": 3050,
+      "status": "from_improved",
+      "cn": "赤成玉",
+      "en": "Red Lump",
+      "jp": "赤成り玉",
+      "cn_improved": "赤成玉",
+      "cn_resurrection": "赤成珠"
+    },
+    {
+      "id": 3051,
+      "status": "from_improved",
+      "cn": "赤成玉",
+      "en": "Red Lump",
+      "jp": "赤成り玉",
+      "cn_improved": "赤成玉",
+      "cn_resurrection": "赤成珠"
+    },
+    {
+      "id": 3052,
+      "status": "from_improved",
+      "cn": "赤成玉",
+      "en": "Red Lump",
+      "jp": "赤成り玉",
+      "cn_improved": "赤成玉",
+      "cn_resurrection": "赤成珠"
+    },
+    {
+      "id": 3053,
+      "status": "from_improved",
+      "cn": "师徒之赤成玉",
+      "en": "Academics' Red Lump",
+      "jp": "師弟の赤成り玉",
+      "cn_improved": "师徒之赤成玉",
+      "cn_resurrection": "师弟的赤成珠"
+    },
+    {
+      "id": 3060,
+      "status": "from_improved",
+      "cn": "牡丹饼",
+      "en": "Sweet Rice Ball",
+      "jp": "おはぎ",
+      "cn_improved": "牡丹饼",
+      "cn_resurrection": "牡丹饼"
+    },
+    {
+      "id": 3061,
+      "status": "from_improved",
+      "cn": "牡丹饼",
+      "en": "Sweet Rice Ball",
+      "jp": "おはぎ",
+      "cn_improved": "牡丹饼",
+      "cn_resurrection": "牡丹饼"
+    },
+    {
+      "id": 3070,
+      "status": "from_improved",
+      "cn": "柿子",
+      "en": "Persimmon",
+      "jp": "柿",
+      "cn_improved": "柿子",
+      "cn_resurrection": "柿子"
+    },
+    {
+      "id": 3071,
+      "status": "from_improved",
+      "cn": "太郎柿",
+      "en": "Taro Persimmon",
+      "jp": "太郎柿",
+      "cn_improved": "太郎柿",
+      "cn_resurrection": "太郎柿"
+    },
+    {
+      "id": 3080,
+      "status": "from_improved",
+      "cn": "米",
+      "en": "Rice",
+      "jp": "お米",
+      "cn_improved": "米",
+      "cn_resurrection": "米"
+    },
+    {
+      "id": 3081,
+      "status": "from_improved",
+      "cn": "细雪",
+      "en": "Fine Snow",
+      "jp": "細雪",
+      "cn_improved": "细雪",
+      "cn_resurrection": "细雪"
+    },
+    {
+      "id": 3200,
+      "status": "from_improved",
+      "cn": "解毒粉",
+      "en": "Antidote Powder",
+      "jp": "毒消し粉",
+      "cn_improved": "解毒粉",
+      "cn_resurrection": "解毒粉"
+    },
+    {
+      "id": 3210,
+      "status": "from_improved",
+      "cn": "消火粉",
+      "en": "Dousing Powder",
+      "jp": "火消し粉",
+      "cn_improved": "消火粉",
+      "cn_resurrection": "灭火粉"
+    },
+    {
+      "id": 3211,
+      "status": "from_improved",
+      "cn": "赤备军的消火粉",
+      "en": "Ministry Dousing Powder",
+      "jp": "赤備えの火消し粉",
+      "cn_improved": "赤备军的消火粉",
+      "cn_resurrection": "赤备灭火粉"
+    },
+    {
+      "id": 3220,
+      "status": "from_improved",
+      "cn": "驱怖粉",
+      "en": "Pacifying Agent",
+      "jp": "怖気消し",
+      "cn_improved": "驱怖粉",
+      "cn_resurrection": "驱怖粉"
+    },
+    {
+      "id": 3230,
+      "status": "from_improved",
+      "cn": "鳗鱼胆",
+      "en": "Eel Liver",
+      "jp": "うな胆",
+      "cn_improved": "鳗鱼胆",
+      "cn_resurrection": "鳗鱼胆"
+    },
+    {
+      "id": 3250,
+      "status": "from_improved",
+      "cn": "中毒药",
+      "en": "Contact Medicine",
+      "jp": "中り薬",
+      "cn_improved": "中毒药",
+      "cn_resurrection": "中毒药"
+    },
+    {
+      "id": 3290,
+      "status": "from_improved",
+      "cn": "咬毒",
+      "en": "Bite Down",
+      "jp": "噛み締め",
+      "cn_improved": "咬毒",
+      "cn_resurrection": "咬物"
+    },
+    {
+      "id": 3291,
+      "status": "from_improved",
+      "cn": "臼齿",
+      "en": "Hidden Tooth",
+      "jp": "奥の歯",
+      "cn_improved": "臼齿",
+      "cn_resurrection": "臼齿"
+    },
+    {
+      "id": 3292,
+      "status": "from_improved",
+      "cn": "咬毒",
+      "en": "Bite Down",
+      "jp": "噛み締め",
+      "cn_improved": "咬毒",
+      "cn_resurrection": "咬物"
+    },
+    {
+      "id": 3300,
+      "status": "from_improved",
+      "cn": "绿苔歪嘴葫芦",
+      "en": "Green Mossy Gourd",
+      "jp": "緑苔の曲がり瓢箪",
+      "cn_improved": "绿苔歪嘴葫芦",
+      "cn_resurrection": "绿苔歪嘴葫芦"
+    },
+    {
+      "id": 3301,
+      "status": "from_improved",
+      "cn": "绿苔歪嘴葫芦",
+      "en": "Green Mossy Gourd",
+      "jp": "緑苔の曲がり瓢箪",
+      "cn_improved": "绿苔歪嘴葫芦",
+      "cn_resurrection": "绿苔歪嘴葫芦"
+    },
+    {
+      "id": 3310,
+      "status": "from_improved",
+      "cn": "赤枯歪嘴葫芦",
+      "en": "Withered Red Gourd",
+      "jp": "赤枯れの曲がり瓢箪",
+      "cn_improved": "赤枯歪嘴葫芦",
+      "cn_resurrection": "红色干枯歪嘴葫芦"
+    },
+    {
+      "id": 3311,
+      "status": "from_improved",
+      "cn": "赤枯歪嘴葫芦",
+      "en": "Withered Red Gourd",
+      "jp": "赤枯れの曲がり瓢箪",
+      "cn_improved": "赤枯歪嘴葫芦",
+      "cn_resurrection": "红色干枯歪嘴葫芦"
+    },
+    {
+      "id": 3320,
+      "status": "from_improved",
+      "cn": "斑紫歪嘴葫芦",
+      "en": "Mottled Purple Gourd",
+      "jp": "まだら紫の曲がり瓢箪",
+      "cn_improved": "斑紫歪嘴葫芦",
+      "cn_resurrection": "紫斑歪嘴葫芦"
+    },
+    {
+      "id": 3321,
+      "status": "from_improved",
+      "cn": "斑紫歪嘴葫芦",
+      "en": "Mottled Purple Gourd",
+      "jp": "まだら紫の曲がり瓢箪",
+      "cn_improved": "斑紫歪嘴葫芦",
+      "cn_resurrection": "紫斑歪嘴葫芦"
+    },
+    {
+      "id": 3350,
+      "status": "from_improved",
+      "cn": "阿攻之降灵术",
+      "en": "Ako's Spiritfall",
+      "jp": "阿攻の御霊降ろし",
+      "cn_improved": "阿攻之降灵术",
+      "cn_resurrection": "哼将之降灵"
+    },
+    {
+      "id": 3360,
+      "status": "from_improved",
+      "cn": "夜叉戮之降灵术",
+      "en": "Yashariku's Spiritfall",
+      "jp": "夜叉戮の御霊降ろし",
+      "cn_improved": "夜叉戮之降灵术",
+      "cn_resurrection": "夜叉戮之降灵"
+    },
+    {
+      "id": 3370,
+      "status": "from_improved",
+      "cn": "吽护之降灵术",
+      "en": "Ungo's Spiritfall",
+      "jp": "吽護の御霊降ろし",
+      "cn_improved": "吽护之降灵术",
+      "cn_resurrection": "哈将之降灵"
+    },
+    {
+      "id": 3380,
+      "status": "from_improved",
+      "cn": "刚干之降灵术",
+      "en": "Gokan's Spiritfall",
+      "jp": "剛幹の御霊降ろし",
+      "cn_improved": "刚干之降灵术",
+      "cn_resurrection": "刚躯之降灵"
+    },
+    {
+      "id": 3390,
+      "status": "from_improved",
+      "cn": "月隐之降灵术",
+      "en": "Gachiin's Spiritfall",
+      "jp": "月隠の御霊降ろし",
+      "cn_improved": "月隐之降灵术",
+      "cn_resurrection": "月隐之降灵"
+    },
+    {
+      "id": 3400,
+      "status": "from_improved",
+      "cn": "阿攻糖",
+      "en": "Ako's Sugar",
+      "jp": "阿攻の飴",
+      "cn_improved": "阿攻糖",
+      "cn_resurrection": "哼将糖"
+    },
+    {
+      "id": 3410,
+      "status": "from_improved",
+      "cn": "夜叉戮糖",
+      "en": "Yashariku's Sugar",
+      "jp": "夜叉戮の飴",
+      "cn_improved": "夜叉戮糖",
+      "cn_resurrection": "夜叉戮糖"
+    },
+    {
+      "id": 3420,
+      "status": "from_improved",
+      "cn": "吽护糖",
+      "en": "Ungo's Sugar",
+      "jp": "吽護の飴",
+      "cn_improved": "吽护糖",
+      "cn_resurrection": "哈将糖"
+    },
+    {
+      "id": 3430,
+      "status": "from_improved",
+      "cn": "刚干糖",
+      "en": "Gokan's Sugar",
+      "jp": "剛幹の飴",
+      "cn_improved": "刚干糖",
+      "cn_resurrection": "钢躯糖"
+    },
+    {
+      "id": 3440,
+      "status": "from_improved",
+      "cn": "月隐糖",
+      "en": "Gachiin's Sugar",
+      "jp": "月隠の飴",
+      "cn_improved": "月隐糖",
+      "cn_resurrection": "月隐糖"
+    },
+    {
+      "id": 3450,
+      "status": "from_improved",
+      "cn": "神之吹雪",
+      "en": "Divine Confetti",
+      "jp": "神ふぶき",
+      "cn_improved": "神之吹雪",
+      "cn_resurrection": "神之飞雪"
+    },
+    {
+      "id": 3500,
+      "status": "from_improved",
+      "cn": "陶片",
+      "en": "Ceramic Shard",
+      "jp": "陶片",
+      "cn_improved": "陶片",
+      "cn_resurrection": "陶片"
+    },
+    {
+      "id": 3510,
+      "status": "from_improved",
+      "cn": "灰烬团",
+      "en": "Fistful of Ash",
+      "jp": "にぎり灰",
+      "cn_improved": "灰烬团",
+      "cn_resurrection": "灰烬团"
+    },
+    {
+      "id": 3520,
+      "status": "from_improved",
+      "cn": "油",
+      "en": "Oil",
+      "jp": "油",
+      "cn_improved": "油",
+      "cn_resurrection": "油"
+    },
+    {
+      "id": 3530,
+      "status": "from_improved",
+      "cn": "鸣种",
+      "en": "Snap Seed",
+      "jp": "種鳴らし",
+      "cn_improved": "鸣种",
+      "cn_resurrection": "鸣种"
+    },
+    {
+      "id": 3550,
+      "status": "needs_translation",
+      "cn": "Snap Seed Pouch",
+      "en": "Snap Seed Pouch",
+      "jp": "種鳴らしの巾着",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 3551,
+      "status": "needs_translation",
+      "cn": "Snap Seed Pouch",
+      "en": "Snap Seed Pouch",
+      "jp": "種鳴らしの巾着",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 3580,
+      "status": "from_improved",
+      "cn": "五色米",
+      "en": "Five-color Rice",
+      "jp": "五色米",
+      "cn_improved": "五色米",
+      "cn_resurrection": "五色米"
+    },
+    {
+      "id": 3581,
+      "status": "from_improved",
+      "cn": "五色米",
+      "en": "Five-color Rice",
+      "jp": "五色米",
+      "cn_improved": "五色米",
+      "cn_resurrection": "五色米"
+    },
+    {
+      "id": 3600,
+      "status": "from_improved",
+      "cn": "招财之水生气球",
+      "en": "Mibu Balloon of Wealth",
+      "jp": "銭寄せのミブ風船",
+      "cn_improved": "招财之水生气球",
+      "cn_resurrection": "招财壬生气球"
+    },
+    {
+      "id": 3610,
+      "status": "from_improved",
+      "cn": "招魂之水生气球",
+      "en": "Mibu Balloon of Soul",
+      "jp": "魂寄せのミブ風船",
+      "cn_improved": "招魂之水生气球",
+      "cn_resurrection": "招魂壬生气球"
+    },
+    {
+      "id": 3615,
+      "status": "needs_polish",
+      "cn": "招经验壬生气球",
+      "en": "Mibu Balloon of Skill",
+      "jp": "経験寄せのミブ風船",
+      "cn_improved": null,
+      "cn_resurrection": "招经验壬生气球"
+    },
+    {
+      "id": 3620,
+      "status": "from_improved",
+      "cn": "招物之水生气球",
+      "en": "Mibu Possession Balloon",
+      "jp": "品寄せのミブ風船",
+      "cn_improved": "招物之水生气球",
+      "cn_resurrection": "招物壬生气球"
+    },
+    {
+      "id": 3630,
+      "status": "from_improved",
+      "cn": "招形代之水生气球",
+      "en": "Mibu Balloon of Spirit",
+      "jp": "形代寄せのミブ風船",
+      "cn_improved": "招形代之水生气球",
+      "cn_resurrection": "招纸人壬生气球"
+    },
+    {
+      "id": 3635,
+      "status": "needs_polish",
+      "cn": "义父的祝福",
+      "en": "Father's Blessing",
+      "jp": "義父の加護",
+      "cn_improved": null,
+      "cn_resurrection": "义父的祝福"
+    },
+    {
+      "id": 3640,
+      "status": "from_improved",
+      "cn": "龙泉参拜之水生气球",
+      "en": "Mibu Pilgrimage Balloon",
+      "jp": "竜泉詣でのミブ風船",
+      "cn_improved": "龙泉参拜之水生气球",
+      "cn_resurrection": "龙泉参拜之壬生气球"
+    },
+    {
+      "id": 3700,
+      "status": "from_improved",
+      "cn": "轻巧钱袋",
+      "en": "Light Coin Purse",
+      "jp": "軽い銭袋",
+      "cn_improved": "轻巧钱袋",
+      "cn_resurrection": "轻巧钱袋"
+    },
+    {
+      "id": 3704,
+      "status": "from_improved",
+      "cn": "沉重钱袋",
+      "en": "Heavy Coin Purse",
+      "jp": "重たい銭袋",
+      "cn_improved": "沉重钱袋",
+      "cn_resurrection": "沉重钱袋"
+    },
+    {
+      "id": 3708,
+      "status": "from_improved",
+      "cn": "快撑破的钱袋",
+      "en": "Bulging Coin Purse",
+      "jp": "はちきれそうな銭袋",
+      "cn_improved": "快撑破的钱袋",
+      "cn_resurrection": "快撑破的钱袋"
+    },
+    {
+      "id": 3720,
+      "status": "from_improved",
+      "cn": "襁褓地藏",
+      "en": "Bundled Jizo Statue",
+      "jp": "おくるみ地蔵",
+      "cn_improved": "襁褓地藏",
+      "cn_resurrection": "襁褓地藏"
+    },
+    {
+      "id": 3721,
+      "status": "from_improved",
+      "cn": "阵左的襁褓地藏",
+      "en": "Jinza's Jizo Statue",
+      "jp": "陣左のおくるみ地蔵",
+      "cn_improved": "阵左的襁褓地藏",
+      "cn_resurrection": "阵左的襁褓地藏"
+    },
+    {
+      "id": 3722,
+      "status": "needs_polish",
+      "cn": "战斗回忆·山内典膳",
+      "en": "Tenzen Yamauchi Memory",
+      "jp": "戦いの追憶・山内典膳",
+      "cn_improved": null,
+      "cn_resurrection": "战斗回忆·山内典膳"
+    },
+    {
+      "id": 3723,
+      "status": "needs_polish",
+      "cn": "战斗回忆·赤鬼",
+      "en": "Chained Ogre Memory",
+      "jp": "戦いの追憶・赤鬼",
+      "cn_improved": null,
+      "cn_resurrection": "战斗回忆·赤鬼"
+    },
+    {
+      "id": 3724,
+      "status": "needs_polish",
+      "cn": "战斗回忆·白秋",
+      "en": "Snake Eyes Memory",
+      "jp": "戦いの追憶・シラフジ",
+      "cn_improved": null,
+      "cn_resurrection": "战斗回忆·白秋"
+    },
+    {
+      "id": 3730,
+      "status": "from_improved",
+      "cn": "钟鬼",
+      "en": "Bell Demon",
+      "jp": "鐘鬼",
+      "cn_improved": "钟鬼",
+      "cn_resurrection": "钟鬼"
+    },
+    {
+      "id": 3800,
+      "status": "from_improved",
+      "cn": "形代漂流",
+      "en": "Ceremonial Tanto",
+      "jp": "形代流し",
+      "cn_improved": "形代漂流",
+      "cn_resurrection": "纸人漂流"
+    },
+    {
+      "id": 3801,
+      "status": "from_improved",
+      "cn": "形代漂流",
+      "en": "Ceremonial Tanto",
+      "jp": "形代流し",
+      "cn_improved": "形代漂流",
+      "cn_resurrection": "纸人漂流"
+    },
+    {
+      "id": 3900,
+      "status": "from_improved",
+      "cn": "寄鹰筒",
+      "en": "Nightjar Monocular",
+      "jp": "寄鷹筒",
+      "cn_improved": "寄鹰筒",
+      "cn_resurrection": "寄鹰筒"
+    },
+    {
+      "id": 3980,
+      "status": "from_improved",
+      "cn": "归佛",
+      "en": "Homeward Idol",
+      "jp": "帰り仏",
+      "cn_improved": "归佛",
+      "cn_resurrection": "归佛"
+    },
+    {
+      "id": 3990,
+      "status": "from_improved",
+      "cn": "幻廊之铃",
+      "en": "Illusive Hall Bell",
+      "jp": "幻廊の鈴",
+      "cn_improved": "幻廊之铃",
+      "cn_resurrection": "幻廊之铃"
+    },
+    {
+      "id": 4000,
+      "status": "from_improved",
+      "cn": "念珠玉",
+      "en": "Prayer Bead",
+      "jp": "数珠玉",
+      "cn_improved": "念珠玉",
+      "cn_resurrection": "佛珠"
+    },
+    {
+      "id": 4100,
+      "status": "from_improved",
+      "cn": "一之念珠",
+      "en": "First Prayer Necklace",
+      "jp": "一の念珠",
+      "cn_improved": "一之念珠",
+      "cn_resurrection": "一之念珠"
+    },
+    {
+      "id": 4101,
+      "status": "from_improved",
+      "cn": "二之念珠",
+      "en": "Second Prayer Necklace",
+      "jp": "二の念珠",
+      "cn_improved": "二之念珠",
+      "cn_resurrection": "二之念珠"
+    },
+    {
+      "id": 4102,
+      "status": "from_improved",
+      "cn": "三之念珠",
+      "en": "Third Prayer Necklace",
+      "jp": "三の念珠",
+      "cn_improved": "三之念珠",
+      "cn_resurrection": "三之念珠"
+    },
+    {
+      "id": 4103,
+      "status": "from_improved",
+      "cn": "四之念珠",
+      "en": "Fourth Prayer Necklace",
+      "jp": "四の念珠",
+      "cn_improved": "四之念珠",
+      "cn_resurrection": "四之念珠"
+    },
+    {
+      "id": 4104,
+      "status": "from_improved",
+      "cn": "五之念珠",
+      "en": "Fifth Prayer Necklace",
+      "jp": "五の念珠",
+      "cn_improved": "五之念珠",
+      "cn_resurrection": "五之念珠"
+    },
+    {
+      "id": 4105,
+      "status": "from_improved",
+      "cn": "六之念珠",
+      "en": "Sixth Prayer Necklace",
+      "jp": "六の念珠",
+      "cn_improved": "六之念珠",
+      "cn_resurrection": "六之念珠"
+    },
+    {
+      "id": 4106,
+      "status": "from_improved",
+      "cn": "七之念珠",
+      "en": "Seventh Prayer Necklace",
+      "jp": "七の念珠",
+      "cn_improved": "七之念珠",
+      "cn_resurrection": "七之念珠"
+    },
+    {
+      "id": 4107,
+      "status": "from_improved",
+      "cn": "八之念珠",
+      "en": "Eighth Prayer Necklace",
+      "jp": "八の念珠",
+      "cn_improved": "八之念珠",
+      "cn_resurrection": "八之念珠"
+    },
+    {
+      "id": 4108,
+      "status": "from_improved",
+      "cn": "九之念珠",
+      "en": "Ninth Prayer Necklace",
+      "jp": "九の念珠",
+      "cn_improved": "九之念珠",
+      "cn_resurrection": "九之念珠"
+    },
+    {
+      "id": 4109,
+      "status": "from_improved",
+      "cn": "十全之念珠",
+      "en": "Final Prayer Necklace",
+      "jp": "十全の念珠",
+      "cn_improved": "十全之念珠",
+      "cn_resurrection": "十全念珠"
+    },
+    {
+      "id": 4300,
+      "status": "needs_translation",
+      "cn": "Goshuin Seal",
+      "en": "Goshuin Seal",
+      "jp": "御朱印札",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 4400,
+      "status": "from_improved",
+      "cn": "葫芦种子",
+      "en": "Gourd Seed",
+      "jp": "瓢箪の種",
+      "cn_improved": "葫芦种子",
+      "cn_resurrection": "葫芦种子"
+    },
+    {
+      "id": 5100,
+      "status": "from_improved",
+      "cn": "交战记忆",
+      "en": "Memory",
+      "jp": "戦いの記憶",
+      "cn_improved": "交战记忆",
+      "cn_resurrection": "战斗记忆"
+    },
+    {
+      "id": 5200,
+      "status": "from_improved",
+      "cn": "交战记忆·鬼形部",
+      "en": "Memory: Gyoubu Oniwa",
+      "jp": "戦いの記憶・鬼形部",
+      "cn_improved": "交战记忆·鬼形部",
+      "cn_resurrection": "战斗记忆·鬼形部"
+    },
+    {
+      "id": 5201,
+      "status": "from_improved",
+      "cn": "交战记忆·幻之蝶",
+      "en": "Memory: Lady Butterfly",
+      "jp": "戦いの記憶・まぼろしお蝶",
+      "cn_improved": "交战记忆·幻之蝶",
+      "cn_resurrection": "战斗记忆·幻影之蝶"
+    },
+    {
+      "id": 5202,
+      "status": "from_improved",
+      "cn": "交战记忆·苇名弦一郎",
+      "en": "Memory: Genichiro",
+      "jp": "戦いの記憶・葦名弦一郎",
+      "cn_improved": "交战记忆·苇名弦一郎",
+      "cn_resurrection": "战斗记忆·苇名弦一郎"
+    },
+    {
+      "id": 5203,
+      "status": "from_improved",
+      "cn": "交战记忆·屏风之猿",
+      "en": "Memory: Screen Monkeys",
+      "jp": "戦いの記憶・屏風の猿たち",
+      "cn_improved": "交战记忆·屏风之猿",
+      "cn_resurrection": "战斗记忆·屏风猿猴"
+    },
+    {
+      "id": 5204,
+      "status": "from_improved",
+      "cn": "交战记忆·狮子猿",
+      "en": "Memory: Guardian Ape",
+      "jp": "戦いの記憶・獅子猿",
+      "cn_improved": "交战记忆·狮子猿",
+      "cn_resurrection": "战斗记忆·狮子猿"
+    },
+    {
+      "id": 5205,
+      "status": "from_improved",
+      "cn": "交战记忆·破戒僧",
+      "en": "Memory: Corrupted Monk",
+      "jp": "戦いの記憶・破戒僧",
+      "cn_improved": "交战记忆·破戒僧",
+      "cn_resurrection": "战斗记忆·破戒僧"
+    },
+    {
+      "id": 5206,
+      "status": "from_improved",
+      "cn": "交战记忆·大忍  枭",
+      "en": "Memory: Great Shinobi",
+      "jp": "戦いの記憶・大忍び　梟",
+      "cn_improved": "交战记忆·大忍  枭",
+      "cn_resurrection": "战斗记忆·巨型忍者 枭"
+    },
+    {
+      "id": 5207,
+      "status": "from_improved",
+      "cn": "交战记忆·义父",
+      "en": "Memory: Foster Father",
+      "jp": "戦いの記憶・義父",
+      "cn_improved": "交战记忆·义父",
+      "cn_resurrection": "战斗记忆·义父"
+    },
+    {
+      "id": 5208,
+      "status": "from_improved",
+      "cn": "交战记忆·宫之破戒僧",
+      "en": "Memory: True Monk",
+      "jp": "戦いの記憶・宮の破戒僧",
+      "cn_improved": "交战记忆·宫之破戒僧",
+      "cn_resurrection": "战斗记忆·宫内破戒僧"
+    },
+    {
+      "id": 5209,
+      "status": "from_improved",
+      "cn": "交战记忆·樱龙",
+      "en": "Memory: Divine Dragon",
+      "jp": "戦いの記憶・桜竜",
+      "cn_improved": "交战记忆·樱龙",
+      "cn_resurrection": "战斗记忆·樱龙"
+    },
+    {
+      "id": 5210,
+      "status": "from_improved",
+      "cn": "交战记忆·怨嗟之鬼",
+      "en": "Memory: Hatred Demon",
+      "jp": "戦いの記憶・怨嗟の鬼",
+      "cn_improved": "交战记忆·怨嗟之鬼",
+      "cn_resurrection": "战斗记忆·怨恨之鬼"
+    },
+    {
+      "id": 5211,
+      "status": "from_improved",
+      "cn": "交战记忆·剑圣苇名一心",
+      "en": "Memory: Saint Isshin ",
+      "jp": "戦いの記憶・剣聖葦名一心",
+      "cn_improved": "交战记忆·剑圣苇名一心",
+      "cn_resurrection": "战斗记忆·剑圣苇名一心"
+    },
+    {
+      "id": 5212,
+      "status": "from_improved",
+      "cn": "交战记忆·苇名一心",
+      "en": "Memory: Isshin Ashina",
+      "jp": "戦いの記憶・葦名一心",
+      "cn_improved": "交战记忆·苇名一心",
+      "cn_resurrection": "战斗记忆·苇名一心"
+    },
+    {
+      "id": 5213,
+      "status": "from_improved",
+      "cn": "交战记忆·无首狮子猿",
+      "en": "Memory: Headless Ape",
+      "jp": "戦いの記憶・首無し獅子猿",
+      "cn_improved": "交战记忆·无首狮子猿",
+      "cn_resurrection": "战斗记忆·无首狮子猿"
+    },
+    {
+      "id": 5220,
+      "status": "from_improved",
+      "cn": "交战记忆·心中的弦一郎",
+      "en": "Memory: Inner Genichiro",
+      "jp": "戦いの記憶・心中の弦一郎",
+      "cn_improved": "交战记忆·心中的弦一郎",
+      "cn_resurrection": "战斗记忆·心中的弦一郎"
+    },
+    {
+      "id": 5221,
+      "status": "from_improved",
+      "cn": "交战记忆·心中的义父",
+      "en": "Memory: Inner Father",
+      "jp": "戦いの記憶・心中の義父",
+      "cn_improved": "交战记忆·心中的义父",
+      "cn_resurrection": "战斗记忆·心中的义父"
+    },
+    {
+      "id": 5222,
+      "status": "from_improved",
+      "cn": "交战记忆·心中的一心",
+      "en": "Memory: Inner Isshin",
+      "jp": "戦いの記憶・心中の一心",
+      "cn_improved": "交战记忆·心中的一心",
+      "cn_resurrection": "战斗记忆·心中的一心"
+    },
+    {
+      "id": 5300,
+      "status": "from_improved",
+      "cn": "交战残滓·鬼形部",
+      "en": "Remnant: Gyoubu",
+      "jp": "戦いの残滓・鬼形部",
+      "cn_improved": "交战残滓·鬼形部",
+      "cn_resurrection": "战斗残滓·鬼形部"
+    },
+    {
+      "id": 5301,
+      "status": "from_improved",
+      "cn": "交战残滓·幻之蝶",
+      "en": "Remnant: Lady Butterfly ",
+      "jp": "戦いの残滓・まぼろしお蝶",
+      "cn_improved": "交战残滓·幻之蝶",
+      "cn_resurrection": "战斗残滓·幻影之蝶"
+    },
+    {
+      "id": 5302,
+      "status": "from_improved",
+      "cn": "交战残滓·苇名弦一郎",
+      "en": "Remnant: Genichiro",
+      "jp": "戦いの残滓・葦名弦一郎",
+      "cn_improved": "交战残滓·苇名弦一郎",
+      "cn_resurrection": "战斗残滓·苇名弦一郎"
+    },
+    {
+      "id": 5303,
+      "status": "from_improved",
+      "cn": "交战残滓·屏风之猿",
+      "en": "Remnant: Screen Monkeys",
+      "jp": "戦いの残滓・屏風の猿たち",
+      "cn_improved": "交战残滓·屏风之猿",
+      "cn_resurrection": "战斗残滓·屏风猿猴"
+    },
+    {
+      "id": 5304,
+      "status": "from_improved",
+      "cn": "交战残滓·狮子猿",
+      "en": "Remnant: Guardian Ape",
+      "jp": "戦いの残滓・獅子猿",
+      "cn_improved": "交战残滓·狮子猿",
+      "cn_resurrection": "战斗残滓·狮子猿"
+    },
+    {
+      "id": 5305,
+      "status": "from_improved",
+      "cn": "交战残滓·破戒僧",
+      "en": "Remnant: Corrupted Monk",
+      "jp": "戦いの残滓・破戒僧",
+      "cn_improved": "交战残滓·破戒僧",
+      "cn_resurrection": "战斗残滓·破戒僧"
+    },
+    {
+      "id": 5306,
+      "status": "from_improved",
+      "cn": "交战残滓·大忍  枭",
+      "en": "Remnant: Great Shinobi",
+      "jp": "戦いの残滓・大忍び　梟",
+      "cn_improved": "交战残滓·大忍  枭",
+      "cn_resurrection": "战斗残滓·巨型忍者 枭"
+    },
+    {
+      "id": 5307,
+      "status": "from_improved",
+      "cn": "交战残滓·义父",
+      "en": "Remnant: Foster Father",
+      "jp": "戦いの残滓・義父",
+      "cn_improved": "交战残滓·义父",
+      "cn_resurrection": "战斗残滓·义父"
+    },
+    {
+      "id": 5308,
+      "status": "from_improved",
+      "cn": "交战残滓·宫之破戒僧",
+      "en": "Remnant: True Monk",
+      "jp": "戦いの残滓・宮の破戒僧",
+      "cn_improved": "交战残滓·宫之破戒僧",
+      "cn_resurrection": "战斗残滓·宫内破戒僧"
+    },
+    {
+      "id": 5309,
+      "status": "from_improved",
+      "cn": "交战残滓·樱龙",
+      "en": "Remnant: Divine Dragon",
+      "jp": "戦いの残滓・桜竜",
+      "cn_improved": "交战残滓·樱龙",
+      "cn_resurrection": "战斗残滓·樱龙"
+    },
+    {
+      "id": 5310,
+      "status": "from_improved",
+      "cn": "交战残滓·怨嗟之鬼",
+      "en": "Remnant: Hatred Demon",
+      "jp": "戦いの残滓・怨嗟の鬼",
+      "cn_improved": "交战残滓·怨嗟之鬼",
+      "cn_resurrection": "战斗残滓·怨恨之鬼"
+    },
+    {
+      "id": 5311,
+      "status": "from_improved",
+      "cn": "交战残滓·剑圣苇名一心",
+      "en": "Remnant: Saint Isshin",
+      "jp": "戦いの残滓・剣聖葦名一心",
+      "cn_improved": "交战残滓·剑圣苇名一心",
+      "cn_resurrection": "战斗残滓·剑圣苇名一心"
+    },
+    {
+      "id": 5312,
+      "status": "from_improved",
+      "cn": "交战残滓·苇名一心",
+      "en": "Remnant: Isshin Ashina",
+      "jp": "戦いの残滓・葦名一心",
+      "cn_improved": "交战残滓·苇名一心",
+      "cn_resurrection": "战斗残滓·苇名一心"
+    },
+    {
+      "id": 5313,
+      "status": "from_improved",
+      "cn": "交战残滓·无首狮子猿",
+      "en": "Remnant: Headless Ape",
+      "jp": "戦いの残滓・首無し獅子猿",
+      "cn_improved": "交战残滓·无首狮子猿",
+      "cn_resurrection": "战斗残滓·无首狮子猿"
+    },
+    {
+      "id": 5320,
+      "status": "from_improved",
+      "cn": "交战残滓·心中的弦一郎",
+      "en": "Remnant: Inner Genichiro",
+      "jp": "戦いの残滓・心中の弦一郎",
+      "cn_improved": "交战残滓·心中的弦一郎",
+      "cn_resurrection": "战斗残滓·心中的弦一郎"
+    },
+    {
+      "id": 5321,
+      "status": "from_improved",
+      "cn": "交战残滓·心中的义父",
+      "en": "Remnant: Inner Father",
+      "jp": "戦いの残滓・心中の義父",
+      "cn_improved": "交战残滓·心中的义父",
+      "cn_resurrection": "战斗残滓·心中的义父"
+    },
+    {
+      "id": 5322,
+      "status": "from_improved",
+      "cn": "交战残滓·心中的一心",
+      "en": "Remnant: Inner Isshin",
+      "jp": "戦いの残滓・心中の一心",
+      "cn_improved": "交战残滓·心中的一心",
+      "cn_resurrection": "战斗残滓·心中的一心"
+    },
+    {
+      "id": 5400,
+      "status": "from_improved",
+      "cn": "交战记忆",
+      "en": "Memory",
+      "jp": "戦いの記憶",
+      "cn_improved": "交战记忆",
+      "cn_resurrection": "战斗记忆"
+    },
+    {
+      "id": 5500,
+      "status": "from_improved",
+      "cn": "舞面碎片·右面",
+      "en": "Mask Fragment: Right",
+      "jp": "舞い面の破片・右面",
+      "cn_improved": "舞面碎片·右面",
+      "cn_resurrection": "舞乐面具碎片·右面"
+    },
+    {
+      "id": 5501,
+      "status": "from_improved",
+      "cn": "舞面碎片·左面",
+      "en": "Mask Fragment: Left",
+      "jp": "舞い面の破片・左面",
+      "cn_improved": "舞面碎片·左面",
+      "cn_resurrection": "舞乐面具碎片·左面"
+    },
+    {
+      "id": 5502,
+      "status": "from_improved",
+      "cn": "舞面碎片·龙头",
+      "en": "Mask Fragment: Dragon",
+      "jp": "舞い面の破片・竜頭",
+      "cn_improved": "舞面碎片·龙头",
+      "cn_resurrection": "舞乐面具碎片·龙头"
+    },
+    {
+      "id": 5510,
+      "status": "from_improved",
+      "cn": "龙之舞面",
+      "en": "Dancing Dragon Mask",
+      "jp": "竜の舞い面",
+      "cn_improved": "龙之舞面",
+      "cn_resurrection": "龙之舞乐面具"
+    },
+    {
+      "id": 5600,
+      "status": "from_improved",
+      "cn": "龙胤露滴",
+      "en": "Dragon's Blood Droplet",
+      "jp": "竜胤の雫",
+      "cn_improved": "龙胤露滴",
+      "cn_resurrection": "龙胤露滴"
+    },
+    {
+      "id": 6000,
+      "status": "from_improved",
+      "cn": "铁屑",
+      "en": "Scrap Iron",
+      "jp": "鉄屑",
+      "cn_improved": "铁屑",
+      "cn_resurrection": "铁屑"
+    },
+    {
+      "id": 6010,
+      "status": "from_improved",
+      "cn": "磁铁屑",
+      "en": "Scrap Magnetite",
+      "jp": "磁鉄屑",
+      "cn_improved": "磁铁屑",
+      "cn_resurrection": "磁铁屑"
+    },
+    {
+      "id": 6020,
+      "status": "from_improved",
+      "cn": "金刚屑",
+      "en": "Adamantite Scrap",
+      "jp": "金剛屑",
+      "cn_improved": "金刚屑",
+      "cn_resurrection": "金刚屑"
+    },
+    {
+      "id": 6100,
+      "status": "from_improved",
+      "cn": "黑色烟硝",
+      "en": "Black Gunpowder",
+      "jp": "黒色煙硝",
+      "cn_improved": "黑色烟硝",
+      "cn_resurrection": "黑色火硝"
+    },
+    {
+      "id": 6200,
+      "status": "from_improved",
+      "cn": "黄色烟硝",
+      "en": "Yellow Gunpowder",
+      "jp": "黄色煙硝",
+      "cn_improved": "黄色烟硝",
+      "cn_resurrection": "黄色火硝"
+    },
+    {
+      "id": 6210,
+      "status": "from_improved",
+      "cn": "雷汞",
+      "en": "Fulminated Mercury",
+      "jp": "雷汞",
+      "cn_improved": "雷汞",
+      "cn_resurrection": "雷汞"
+    },
+    {
+      "id": 6300,
+      "status": "from_improved",
+      "cn": "脂蜡之瘤",
+      "en": "Lump of Fat Wax",
+      "jp": "脂蝋の瘤",
+      "cn_improved": "脂蜡之瘤",
+      "cn_resurrection": "脂蜡瘤"
+    },
+    {
+      "id": 6310,
+      "status": "from_improved",
+      "cn": "死蜡之瘤",
+      "en": "Lump of Grave Wax",
+      "jp": "死蝋の瘤",
+      "cn_improved": "死蜡之瘤",
+      "cn_resurrection": "死蜡瘤"
+    },
+    {
+      "id": 6400,
+      "status": "from_improved",
+      "cn": "源之琉璃",
+      "en": "Lapis Lazuli",
+      "jp": "源の瑠璃",
+      "cn_improved": "源之琉璃",
+      "cn_resurrection": "源之琉璃"
+    },
+    {
+      "id": 9000,
+      "status": "from_improved",
+      "cn": "樱龙之泪",
+      "en": "Divine Dragon's Tears",
+      "jp": "桜竜の涙",
+      "cn_improved": "樱龙之泪",
+      "cn_resurrection": "樱龙之泪"
+    },
+    {
+      "id": 9003,
+      "status": "from_improved",
+      "cn": "九郎的护身符",
+      "en": "Kuro's Charm",
+      "jp": "九郎の御守り",
+      "cn_improved": "九郎的护身符",
+      "cn_resurrection": "九郎的护身符"
+    },
+    {
+      "id": 9009,
+      "status": "from_improved",
+      "cn": "樱露",
+      "en": "Sakura Droplet",
+      "jp": "桜雫",
+      "cn_improved": "樱露",
+      "cn_resurrection": "樱露"
+    },
+    {
+      "id": 9010,
+      "status": "from_improved",
+      "cn": "少主的守护铃",
+      "en": "Young Lord's Bell Charm",
+      "jp": "若様の守り鈴",
+      "cn_improved": "少主的守护铃",
+      "cn_resurrection": "少主人的守护铃"
+    },
+    {
+      "id": 9011,
+      "status": "from_improved",
+      "cn": "义父的守护铃",
+      "en": "Father's Bell Charm",
+      "jp": "義父の守り鈴",
+      "cn_improved": "义父的守护铃",
+      "cn_resurrection": "义父的守护铃"
+    },
+    {
+      "id": 9020,
+      "status": "from_improved",
+      "cn": "花菖蒲的文书",
+      "en": "Ornamental Letter",
+      "jp": "花菖蒲の文",
+      "cn_improved": "花菖蒲的文书",
+      "cn_resurrection": "花菖蒲的信"
+    },
+    {
+      "id": 9052,
+      "status": "from_improved",
+      "cn": "鲤鱼的赤红眼珠",
+      "en": "Red Carp Eyes",
+      "jp": "鯉の赤目玉",
+      "cn_improved": "鲤鱼的赤红眼珠",
+      "cn_resurrection": "鲤鱼的红眼球"
+    },
+    {
+      "id": 9060,
+      "status": "from_improved",
+      "cn": "龙之商符",
+      "en": "Dragon's Tally Board",
+      "jp": "竜の割符",
+      "cn_improved": "龙之商符",
+      "cn_resurrection": "龙之符契"
+    },
+    {
+      "id": 9061,
+      "status": "from_improved",
+      "cn": "穴山的凭证",
+      "en": "Promissory Note",
+      "jp": "穴山の手形",
+      "cn_improved": "穴山的凭证",
+      "cn_resurrection": "穴山的手印"
+    },
+    {
+      "id": 9062,
+      "status": "needs_polish",
+      "cn": "勇士技法·正宗之锋",
+      "en": "Masamune's Edge",
+      "jp": "猛者の技・尖鋭",
+      "cn_improved": null,
+      "cn_resurrection": "勇士技法·正宗之锋"
+    },
+    {
+      "id": 9063,
+      "status": "needs_polish",
+      "cn": "勇士技法·村山之毒",
+      "en": "Murasama's Pestilence",
+      "jp": "猛者の技・疫癘",
+      "cn_improved": null,
+      "cn_resurrection": "勇士技法·村山之毒"
+    },
+    {
+      "id": 9064,
+      "status": "needs_polish",
+      "cn": "勇士技法·血税",
+      "en": "Blood Tax",
+      "jp": "血税",
+      "cn_improved": null,
+      "cn_resurrection": "勇士技法·血税"
+    },
+    {
+      "id": 9065,
+      "status": "needs_translation",
+      "cn": "Siphon Confidence",
+      "en": "Siphon Confidence",
+      "jp": "鼻柱折り",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 9066,
+      "status": "needs_polish",
+      "cn": "浴血之狼",
+      "en": "Wolf in Red",
+      "jp": "血濡れ狼",
+      "cn_improved": null,
+      "cn_resurrection": "浴血之狼"
+    },
+    {
+      "id": 9067,
+      "status": "needs_polish",
+      "cn": "永恒之火·小",
+      "en": "Seething Flame: Minor",
+      "jp": "逆巻く劫火・下",
+      "cn_improved": null,
+      "cn_resurrection": "永恒之火·小"
+    },
+    {
+      "id": 9070,
+      "status": "from_improved",
+      "cn": "京之水",
+      "en": "Water of the Palace",
+      "jp": "京の水",
+      "cn_improved": "京之水",
+      "cn_resurrection": "京城水"
+    },
+    {
+      "id": 9071,
+      "status": "from_improved",
+      "cn": "【主】之白髭",
+      "en": "Great White Whisker",
+      "jp": "ぬしの白髭",
+      "cn_improved": "【主】之白髭",
+      "cn_resurrection": "鱼王的白须"
+    },
+    {
+      "id": 9080,
+      "status": "from_improved",
+      "cn": "红白风车",
+      "en": "Red and White Pinwheel",
+      "jp": "赤白い風車",
+      "cn_improved": "红白风车",
+      "cn_resurrection": "红白色风车"
+    },
+    {
+      "id": 9081,
+      "status": "from_improved",
+      "cn": "纯白风车",
+      "en": "White Pinwheel",
+      "jp": "真白い風車",
+      "cn_improved": "纯白风车",
+      "cn_resurrection": "洁白的风车"
+    },
+    {
+      "id": 9090,
+      "status": "from_improved",
+      "cn": "给九郎的米",
+      "en": "Rice for Kuro",
+      "jp": "九郎へのお米",
+      "cn_improved": "给九郎的米",
+      "cn_resurrection": "给九郎的米"
+    },
+    {
+      "id": 9091,
+      "status": "from_improved",
+      "cn": "冰泪",
+      "en": "Frozen Tears",
+      "jp": "氷涙",
+      "cn_improved": "冰泪",
+      "cn_resurrection": "冰泪"
+    },
+    {
+      "id": 9100,
+      "status": "from_improved",
+      "cn": "苇名酒",
+      "en": "Ashina Sake",
+      "jp": "葦名の酒",
+      "cn_improved": "苇名酒",
+      "cn_resurrection": "苇名酒"
+    },
+    {
+      "id": 9101,
+      "status": "from_improved",
+      "cn": "浊酒",
+      "en": "Unrefined Sake",
+      "jp": "どぶろく",
+      "cn_improved": "浊酒",
+      "cn_resurrection": "浊酒"
+    },
+    {
+      "id": 9102,
+      "status": "from_improved",
+      "cn": "猿酒",
+      "en": "Monkey Booze",
+      "jp": "猿酒",
+      "cn_improved": "猿酒",
+      "cn_resurrection": "猿酒"
+    },
+    {
+      "id": 9103,
+      "status": "from_improved",
+      "cn": "龙泉",
+      "en": "Dragonspring Sake",
+      "jp": "竜泉",
+      "cn_improved": "龙泉",
+      "cn_resurrection": "龙泉"
+    },
+    {
+      "id": 9104,
+      "status": "from_improved",
+      "cn": "苇名酒",
+      "en": "Ashina Sake",
+      "jp": "葦名の酒",
+      "cn_improved": "苇名酒",
+      "cn_resurrection": "苇名酒"
+    },
+    {
+      "id": 9105,
+      "status": "from_improved",
+      "cn": "浊酒",
+      "en": "Unrefined Sake",
+      "jp": "どぶろく",
+      "cn_improved": "浊酒",
+      "cn_resurrection": "浊酒"
+    },
+    {
+      "id": 9180,
+      "status": "from_improved",
+      "cn": "尊贵饵食",
+      "en": "Precious Bait",
+      "jp": "貴い餌",
+      "cn_improved": "尊贵饵食",
+      "cn_resurrection": "尊贵饵食"
+    },
+    {
+      "id": 9181,
+      "status": "from_improved",
+      "cn": "千真万确之尊贵饵食",
+      "en": "Truly Precious Bait",
+      "jp": "まこと貴い餌",
+      "cn_improved": "千真万确之尊贵饵食",
+      "cn_resurrection": "真正尊贵饵食"
+    },
+    {
+      "id": 9182,
+      "status": "from_improved",
+      "cn": "千真万确之尊贵饵食",
+      "en": "Truly Precious Bait",
+      "jp": "まこと貴い餌",
+      "cn_improved": "千真万确之尊贵饵食",
+      "cn_resurrection": "真正尊贵饵食"
+    },
+    {
+      "id": 9192,
+      "status": "from_improved",
+      "cn": "生蛇柿",
+      "en": "Fresh Serpent Viscera",
+      "jp": "生の蛇柿",
+      "cn_improved": "生蛇柿",
+      "cn_resurrection": "鲜柿子"
+    },
+    {
+      "id": 9193,
+      "status": "from_improved",
+      "cn": "干蛇柿",
+      "en": "Dried Serpent Viscera",
+      "jp": "乾き蛇柿",
+      "cn_improved": "干蛇柿",
+      "cn_resurrection": "干柿子"
+    },
+    {
+      "id": 9199,
+      "status": "needs_polish",
+      "cn": "咆哮之流",
+      "en": "Roaring Stream",
+      "jp": "奔流",
+      "cn_improved": null,
+      "cn_resurrection": "咆哮之流"
+    },
+    {
+      "id": 9200,
+      "status": "from_improved",
+      "cn": "抄录药材的纸片",
+      "en": "Herb Catalogue Scrap",
+      "jp": "薬種抄の紙片",
+      "cn_improved": "抄录药材的纸片",
+      "cn_resurrection": "药材抄录的纸片"
+    },
+    {
+      "id": 9201,
+      "status": "needs_polish",
+      "cn": "内府老鼠的首级",
+      "en": "Head of Ministry Rat",
+      "jp": "鼠の首級",
+      "cn_improved": null,
+      "cn_resurrection": "内府老鼠的首级"
+    },
+    {
+      "id": 9202,
+      "status": "needs_polish",
+      "cn": "内府老鼠的首级",
+      "en": "Head of Ministry Rat",
+      "jp": "鼠の首級",
+      "cn_improved": null,
+      "cn_resurrection": "内府老鼠的首级"
+    },
+    {
+      "id": 9203,
+      "status": "needs_polish",
+      "cn": "内府老鼠的首级",
+      "en": "Head of Ministry Rat",
+      "jp": "鼠の首級",
+      "cn_improved": null,
+      "cn_resurrection": "内府老鼠的首级"
+    },
+    {
+      "id": 9204,
+      "status": "needs_polish",
+      "cn": "内府铠甲的笔记",
+      "en": "Interior Ministry Armor Memo",
+      "jp": "内府の鎧の覚書",
+      "cn_improved": null,
+      "cn_resurrection": "内府铠甲的笔记"
+    },
+    {
+      "id": 9205,
+      "status": "from_improved",
+      "cn": "道策的手记",
+      "en": "Dosaku's Note",
+      "jp": "道策の手記",
+      "cn_improved": "道策的手记",
+      "cn_resurrection": "道策的手记"
+    },
+    {
+      "id": 9206,
+      "status": "from_improved",
+      "cn": "鼠相笔记",
+      "en": "Rat Description",
+      "jp": "鼠相書き",
+      "cn_improved": "鼠相笔记",
+      "cn_resurrection": "鼠相笔记"
+    },
+    {
+      "id": 9207,
+      "status": "from_improved",
+      "cn": "留有血污的施术者记录",
+      "en": "Surgeon's Bloody Letter",
+      "jp": "血に汚れた施術師の文",
+      "cn_improved": "留有血污的施术者记录",
+      "cn_resurrection": "被血沾污的施术师的信"
+    },
+    {
+      "id": 9208,
+      "status": "from_improved",
+      "cn": "沾染血迹的施术者记录",
+      "en": "Surgeon's Stained Letter",
+      "jp": "血に塗れた施術師の文",
+      "cn_improved": "沾染血迹的施术者记录",
+      "cn_resurrection": "涂有血迹的施术师的信"
+    },
+    {
+      "id": 9209,
+      "status": "from_improved",
+      "cn": "永旅经·神龙归乡之章",
+      "en": "Holy Chapter: Dragon's Return",
+      "jp": "永旅経・竜の帰郷の章",
+      "cn_improved": "永旅经·神龙归乡之章",
+      "cn_resurrection": "永旅经·龙之还乡"
+    },
+    {
+      "id": 9210,
+      "status": "from_improved",
+      "cn": "断绝龙胤之书",
+      "en": "Immortal Severance Text",
+      "jp": "竜胤断ちの書",
+      "cn_improved": "断绝龙胤之书",
+      "cn_resurrection": "断绝龙胤之书"
+    },
+    {
+      "id": 9211,
+      "status": "from_improved",
+      "cn": "断绝龙胤之纸片",
+      "en": "Immortal Severance Scrap",
+      "jp": "竜胤断ちの紙片",
+      "cn_improved": "断绝龙胤之纸片",
+      "cn_resurrection": "断绝龙胤的纸片"
+    },
+    {
+      "id": 9212,
+      "status": "from_improved",
+      "cn": "香花的手记",
+      "en": "Fragrant Flower Note",
+      "jp": "香花の手記",
+      "cn_improved": "香花的手记",
+      "cn_resurrection": "香花的手记"
+    },
+    {
+      "id": 9213,
+      "status": "from_improved",
+      "cn": "淤加美的古文书",
+      "en": "Okami's Ancient Text",
+      "jp": "淤加美の古文書",
+      "cn_improved": "淤加美的古文书",
+      "cn_resurrection": "淤加美的古书"
+    },
+    {
+      "id": 9214,
+      "status": "from_improved",
+      "cn": "侍童的日记",
+      "en": "Page's Diary",
+      "jp": "小姓の日記",
+      "cn_improved": "侍童的日记",
+      "cn_resurrection": "侍童的日记"
+    },
+    {
+      "id": 9215,
+      "status": "from_improved",
+      "cn": "永旅经·虫赐之章",
+      "en": "Holy Chapter: Infested",
+      "jp": "永旅経・蟲賜わりの章",
+      "cn_improved": "永旅经·虫赐之章",
+      "cn_resurrection": "永旅经·虫之恩赐"
+    },
+    {
+      "id": 9216,
+      "status": "from_improved",
+      "cn": "巴的手记",
+      "en": "Tomoe's Note",
+      "jp": "巴の手記",
+      "cn_improved": "巴的手记",
+      "cn_resurrection": "巴的手记"
+    },
+    {
+      "id": 9217,
+      "status": "from_improved",
+      "cn": "关于喷火筒的记录",
+      "en": "Flame Barrel Memo",
+      "jp": "火が出る筒の覚書",
+      "cn_improved": "关于喷火筒的记录",
+      "cn_resurrection": "喷火筒的笔记"
+    },
+    {
+      "id": 9218,
+      "status": "from_improved",
+      "cn": "关于寄鹰狼烟的记录",
+      "en": "Nightjar Beacon Memo",
+      "jp": "寄鷹の狼煙の覚書",
+      "cn_improved": "关于寄鹰狼烟的记录",
+      "cn_resurrection": "寄鹰狼烟的笔记"
+    },
+    {
+      "id": 9219,
+      "status": "from_improved",
+      "cn": "一心的字条",
+      "en": "Isshin's Letter",
+      "jp": "一心の置手紙",
+      "cn_improved": "一心的字条",
+      "cn_resurrection": "一心的字条"
+    },
+    {
+      "id": 9220,
+      "status": "from_improved",
+      "cn": "腐朽囚徒的手记",
+      "en": "Rotting Prisoner's Note",
+      "jp": "朽ちた囚人の手記",
+      "cn_improved": "腐朽囚徒的手记",
+      "cn_resurrection": "腐朽囚徒的手记"
+    },
+    {
+      "id": 9221,
+      "status": "from_improved",
+      "cn": "关于锈丸的记录",
+      "en": "Sabimaru Memo",
+      "jp": "錆び丸の覚書",
+      "cn_improved": "关于锈丸的记录",
+      "cn_resurrection": "锈丸的笔记"
+    },
+    {
+      "id": 9222,
+      "status": "from_improved",
+      "cn": "关于锈丸的记录",
+      "en": "Sabimaru Memo",
+      "jp": "錆び丸の覚書",
+      "cn_improved": "关于锈丸的记录",
+      "cn_resurrection": "锈丸的笔记"
+    },
+    {
+      "id": 9223,
+      "status": "from_improved",
+      "cn": "关于坠落谷怨灵的记录",
+      "en": "Valley Apparitions Memo",
+      "jp": "落ち谷の怨霊の覚書",
+      "cn_improved": "关于坠落谷怨灵的记录",
+      "cn_resurrection": "坠落之谷怨灵的笔记"
+    },
+    {
+      "id": 9224,
+      "status": "from_improved",
+      "cn": "关于坠落谷怨灵的记录",
+      "en": "Valley Apparitions Memo",
+      "jp": "落ち谷の怨霊の覚書",
+      "cn_improved": "关于坠落谷怨灵的记录",
+      "cn_resurrection": "坠落之谷怨灵的笔记"
+    },
+    {
+      "id": 9225,
+      "status": "from_improved",
+      "cn": "关于三重塔的记录",
+      "en": "Three-story Pagoda Memo",
+      "jp": "三重塔の覚書",
+      "cn_improved": "关于三重塔的记录",
+      "cn_resurrection": "三重塔的笔记"
+    },
+    {
+      "id": 9226,
+      "status": "from_improved",
+      "cn": "关于三重塔的记录",
+      "en": "Three-story Pagoda Memo",
+      "jp": "三重塔の覚書",
+      "cn_improved": "关于三重塔的记录",
+      "cn_resurrection": "三重塔的笔记"
+    },
+    {
+      "id": 9227,
+      "status": "from_improved",
+      "cn": "黑色卷轴",
+      "en": "Black Scroll",
+      "jp": "黒の巻き物",
+      "cn_improved": "黑色卷轴",
+      "cn_resurrection": "黑色卷轴"
+    },
+    {
+      "id": 9228,
+      "status": "from_improved",
+      "cn": "永旅经·虫赐之章",
+      "en": "Holy Chapter: Infested",
+      "jp": "永旅経・蟲賜わりの章",
+      "cn_improved": "永旅经·虫赐之章",
+      "cn_resurrection": "永旅经·虫之恩赐"
+    },
+    {
+      "id": 9402,
+      "status": "from_improved",
+      "cn": "役所的钥匙",
+      "en": "Gatehouse Key",
+      "jp": "詰所の鍵",
+      "cn_improved": "役所的钥匙",
+      "cn_resurrection": "值班房的钥匙"
+    },
+    {
+      "id": 9403,
+      "status": "from_improved",
+      "cn": "隐藏佛殿的钥匙",
+      "en": "Hidden Temple Key",
+      "jp": "隠し仏殿の鍵",
+      "cn_improved": "隐藏佛殿的钥匙",
+      "cn_resurrection": "隐藏佛堂的钥匙"
+    },
+    {
+      "id": 9404,
+      "status": "from_improved",
+      "cn": "密道的钥匙",
+      "en": "Secret Passage Key",
+      "jp": "抜け穴の鍵",
+      "cn_improved": "密道的钥匙",
+      "cn_resurrection": "暗道的钥匙"
+    },
+    {
+      "id": 9405,
+      "status": "from_improved",
+      "cn": "铁炮要塞神社的钥匙",
+      "en": "Gun Fort Shrine Key",
+      "jp": "鉄砲砦の社の鍵",
+      "cn_improved": "铁炮要塞神社的钥匙",
+      "cn_resurrection": "铁炮要塞神社的钥匙"
+    },
+    {
+      "id": 9500,
+      "status": "from_improved",
+      "cn": "咳声·雕佛者",
+      "en": "Rot Essence: Sculptor",
+      "jp": "咳の音・仏彫る者",
+      "cn_improved": "咳声·雕佛者",
+      "cn_resurrection": "咳声·佛雕者"
+    },
+    {
+      "id": 9501,
+      "status": "from_improved",
+      "cn": "咳声·生意蒸蒸日上之人",
+      "en": "Rot Essence: Newcomer",
+      "jp": "咳の音・商いの昇り人",
+      "cn_improved": "咳声·生意蒸蒸日上之人",
+      "cn_resurrection": "咳声·生意上行人士"
+    },
+    {
+      "id": 9502,
+      "status": "from_improved",
+      "cn": "咳声·戴黑斗笠者",
+      "en": "Rot Essence: Black Hat",
+      "jp": "咳の音・黒笠かぶり",
+      "cn_improved": "咳声·戴黑斗笠者",
+      "cn_resurrection": "咳声·黑笠"
+    },
+    {
+      "id": 9503,
+      "status": "from_improved",
+      "cn": "咳声·迷路的大块头",
+      "en": "Rot Essence: Lost Child",
+      "jp": "咳の音・大きな迷い子",
+      "cn_improved": "咳声·迷路的大块头",
+      "cn_resurrection": "咳声·巨大迷路儿童"
+    },
+    {
+      "id": 9504,
+      "status": "from_improved",
+      "cn": "咳声·被诱惑之人",
+      "en": "Rot Essence: Charmed One",
+      "jp": "咳の音・魅了された者",
+      "cn_improved": "咳声·被诱惑之人",
+      "cn_resurrection": "咳声·醉心者"
+    },
+    {
+      "id": 9505,
+      "status": "from_improved",
+      "cn": "咳声·探究者们",
+      "en": "Rot Essence: Surgeons",
+      "jp": "咳の音・探究する者たち",
+      "cn_improved": "咳声·探究者们",
+      "cn_resurrection": "咳声·探求者们"
+    },
+    {
+      "id": 9510,
+      "status": "from_improved",
+      "cn": "咳声·孝子",
+      "en": "Rot Essence: Fine Son",
+      "jp": "咳の音・孝行息子",
+      "cn_improved": "咳声·孝子",
+      "cn_resurrection": "咳声·孝顺儿子"
+    },
+    {
+      "id": 9511,
+      "status": "from_improved",
+      "cn": "咳声·惧怕、口渴之人",
+      "en": "Rot Essence: Thirsty One",
+      "jp": "咳の音・怯え、渇く者",
+      "cn_improved": "咳声·惧怕、口渴之人",
+      "cn_resurrection": "咳声·恐惧且干渴者"
+    },
+    {
+      "id": 9515,
+      "status": "from_improved",
+      "cn": "咳声·指引的婆婆",
+      "en": "Rot Essence: Timid Maid",
+      "jp": "咳の音・案じる老婆",
+      "cn_improved": "咳声·指引的婆婆",
+      "cn_resurrection": "咳声·挂念的老婆婆"
+    },
+    {
+      "id": 9516,
+      "status": "from_improved",
+      "cn": "咳声·虔诚信徒",
+      "en": "Rot Essence: Faithful One",
+      "jp": "咳の音・信心深き者",
+      "cn_improved": "咳声·虔诚信徒",
+      "cn_resurrection": "咳声·信仰虔诚者"
+    },
+    {
+      "id": 9520,
+      "status": "from_improved",
+      "cn": "咳声·与鸦为友的供养者",
+      "en": "Rot Essence: Crow Mob",
+      "jp": "咳の音・烏の友たる供養者",
+      "cn_improved": "咳声·与鸦为友的供养者",
+      "cn_resurrection": "咳声·乌鸦之友祭奠者"
+    },
+    {
+      "id": 9521,
+      "status": "from_improved",
+      "cn": "咳声·战场边的供养者",
+      "en": "Rot Essence: Wartorn Mob",
+      "jp": "咳の音・戦場の供養者",
+      "cn_improved": "咳声·战场边的供养者",
+      "cn_resurrection": "咳声·战场的祭奠者"
+    },
+    {
+      "id": 9522,
+      "status": "from_improved",
+      "cn": "咳声·被抛弃的供养者",
+      "en": "Rot Essence: Jail Mob",
+      "jp": "咳の音・捨てられの供養者",
+      "cn_improved": "咳声·被抛弃的供养者",
+      "cn_resurrection": "咳声·被遗弃的祭奠者"
+    },
+    {
+      "id": 9523,
+      "status": "from_improved",
+      "cn": "咳声·毒沼的供养者",
+      "en": "Rot Essence: Toxic Mob",
+      "jp": "咳の音・毒溜まりの供養者",
+      "cn_improved": "咳声·毒沼的供养者",
+      "cn_resurrection": "咳声·毒沼的祭奠者"
+    },
+    {
+      "id": 9524,
+      "status": "from_improved",
+      "cn": "咳声·代佛行事的供养者",
+      "en": "Rot Essence: Pious Mob",
+      "jp": "咳の音・仏代わりの供養者",
+      "cn_improved": "咳声·代佛行事的供养者",
+      "cn_resurrection": "咳声·替佛行事的祭奠者"
+    },
+    {
+      "id": 9525,
+      "status": "from_improved",
+      "cn": "咳声·酗酒的供养者",
+      "en": "Rot Essence: Drunk Mob",
+      "jp": "咳の音・酒びたりの供養者",
+      "cn_improved": "咳声·酗酒的供养者",
+      "cn_resurrection": "咳声·酗酒的祭奠者"
+    },
+    {
+      "id": 9526,
+      "status": "from_improved",
+      "cn": "咳声·情报通",
+      "en": "Rot Essence: Info Broker",
+      "jp": "咳の音・事情通",
+      "cn_improved": "咳声·情报通",
+      "cn_resurrection": "咳声·情报通"
+    },
+    {
+      "id": 9560,
+      "status": "from_improved",
+      "cn": "龙咳的血块",
+      "en": "Dragonrot Blood Sample",
+      "jp": "竜咳の血塊",
+      "cn_improved": "龙咳的血块",
+      "cn_resurrection": "龙咳血块"
+    },
+    {
+      "id": 9700,
+      "status": "from_improved",
+      "cn": "手里剑轮",
+      "en": "Shuriken Wheel",
+      "jp": "手裏剣車",
+      "cn_improved": "手里剑轮",
+      "cn_resurrection": "手里剑车"
+    },
+    {
+      "id": 9701,
+      "status": "from_improved",
+      "cn": "幻之苦无",
+      "en": "Phantom Kunai",
+      "jp": "まぼろしクナイ",
+      "cn_improved": "幻之苦无",
+      "cn_resurrection": "幻影苦无"
+    },
+    {
+      "id": 9710,
+      "status": "from_improved",
+      "cn": "罗伯特的爆竹",
+      "en": "Robert's Firecrackers",
+      "jp": "ロバトの爆竹",
+      "cn_improved": "罗伯特的爆竹",
+      "cn_resurrection": "罗伯特的爆竹"
+    },
+    {
+      "id": 9720,
+      "status": "from_improved",
+      "cn": "吹火筒",
+      "en": "Flame Barrel",
+      "jp": "火吹き筒",
+      "cn_improved": "吹火筒",
+      "cn_resurrection": "吹火筒"
+    },
+    {
+      "id": 9721,
+      "status": "from_improved",
+      "cn": "冒烟松脂",
+      "en": "Pine Resin Ember",
+      "jp": "くすぶり松脂",
+      "cn_improved": "冒烟松脂",
+      "cn_resurrection": "冒烟松脂"
+    },
+    {
+      "id": 9730,
+      "status": "from_improved",
+      "cn": "飞猿的忍斧",
+      "en": "Shinobi Axe of the Monkey",
+      "jp": "飛び猿の忍び斧",
+      "cn_improved": "飞猿的忍斧",
+      "cn_resurrection": "飞天猿猴的忍斧"
+    },
+    {
+      "id": 9740,
+      "status": "from_improved",
+      "cn": "雾鸦飞羽",
+      "en": "Mist Raven's Feathers",
+      "jp": "霧がらすの羽",
+      "cn_improved": "雾鸦飞羽",
+      "cn_resurrection": "雾鸦羽毛"
+    },
+    {
+      "id": 9750,
+      "status": "from_improved",
+      "cn": "锈丸",
+      "en": "Sabimaru",
+      "jp": "錆び丸",
+      "cn_improved": "锈丸",
+      "cn_resurrection": "锈丸"
+    },
+    {
+      "id": 9760,
+      "status": "from_improved",
+      "cn": "金城铁壁",
+      "en": "Iron Fortress",
+      "jp": "金城鉄壁",
+      "cn_improved": "金城铁壁",
+      "cn_resurrection": "金城铁壁"
+    },
+    {
+      "id": 9770,
+      "status": "from_improved",
+      "cn": "大团扇",
+      "en": "Large Fan",
+      "jp": "大うちわ",
+      "cn_improved": "大团扇",
+      "cn_resurrection": "大蒲扇"
+    },
+    {
+      "id": 9780,
+      "status": "from_improved",
+      "cn": "形部的折角",
+      "en": "Gyoubu's Broken Horn",
+      "jp": "形部の折れ角",
+      "cn_improved": "形部的折角",
+      "cn_resurrection": "形部的断角"
+    },
+    {
+      "id": 9790,
+      "status": "from_improved",
+      "cn": "细指",
+      "en": "Slender Finger",
+      "jp": "ほそ指",
+      "cn_improved": "细指",
+      "cn_resurrection": "细手指"
+    },
+    {
+      "id": 9791,
+      "status": "from_improved",
+      "cn": "爱哭鬼的指环",
+      "en": "Malcontent's Ring",
+      "jp": "泣き虫の指輪",
+      "cn_improved": "爱哭鬼的指环",
+      "cn_resurrection": "爱哭鬼的指环"
+    },
+    {
+      "id": 9800,
+      "status": "from_improved",
+      "cn": "彼之记忆·修罗",
+      "en": "Another's Memory: Shura",
+      "jp": "別の記憶・修羅",
+      "cn_improved": "彼之记忆·修罗",
+      "cn_resurrection": "其他记忆·修罗"
+    },
+    {
+      "id": 9810,
+      "status": "from_improved",
+      "cn": "彼之记忆·苇名古忍",
+      "en": "Another's Memory: Ashina",
+      "jp": "別の記憶・葦名の古忍び",
+      "cn_improved": "彼之记忆·苇名古忍",
+      "cn_resurrection": "其他记忆·苇名的古老忍者"
+    },
+    {
+      "id": 9820,
+      "status": "from_improved",
+      "cn": "彼之记忆·天狗",
+      "en": "Another's Memory: Tengu",
+      "jp": "別の記憶・天狗",
+      "cn_improved": "彼之记忆·天狗",
+      "cn_resurrection": "其他记忆·天狗"
+    },
+    {
+      "id": 9830,
+      "status": "from_improved",
+      "cn": "元初记忆·狼",
+      "en": "Original Memory: Wolf",
+      "jp": "元の記憶・狼",
+      "cn_improved": "元初记忆·狼",
+      "cn_resurrection": "原本的记忆·狼"
+    },
+    {
+      "id": 10000,
+      "status": "from_improved",
+      "cn": "宝鲤之鳞",
+      "en": "Treasure Carp Scale",
+      "jp": "宝鯉の鱗",
+      "cn_improved": "宝鲤之鳞",
+      "cn_resurrection": "宝鲤之鳞"
+    },
+    {
+      "id": 11000,
+      "status": "from_improved",
+      "cn": "鬼形部",
+      "en": "Gyoubu Oniwa",
+      "jp": "鬼形部",
+      "cn_improved": "鬼形部",
+      "cn_resurrection": "鬼形部"
+    },
+    {
+      "id": 11010,
+      "status": "from_improved",
+      "cn": "幻之蝶",
+      "en": "Lady Butterfly",
+      "jp": "まぼろしお蝶",
+      "cn_improved": "幻之蝶",
+      "cn_resurrection": "幻影之蝶"
+    },
+    {
+      "id": 11020,
+      "status": "from_improved",
+      "cn": "苇名弦一郎",
+      "en": "Genichiro Ashina",
+      "jp": "葦名弦一郎",
+      "cn_improved": "苇名弦一郎",
+      "cn_resurrection": "苇名弦一郎"
+    },
+    {
+      "id": 11030,
+      "status": "from_improved",
+      "cn": "观猴、闻猴、言猴、",
+      "en": "Folding Screen Monkeys",
+      "jp": "見る猿、聞く猿、言う猿、",
+      "cn_improved": "观猴、闻猴、言猴、",
+      "cn_resurrection": "观猴、闻猴、言猴"
+    },
+    {
+      "id": 11040,
+      "status": "from_improved",
+      "cn": "狮子猿",
+      "en": "Guardian Ape",
+      "jp": "獅子猿",
+      "cn_improved": "狮子猿",
+      "cn_resurrection": "狮子猿"
+    },
+    {
+      "id": 11050,
+      "status": "from_improved",
+      "cn": "无首狮子猿",
+      "en": "Headless Ape",
+      "jp": "首無し獅子猿",
+      "cn_improved": "无首狮子猿",
+      "cn_resurrection": "无首狮子猿"
+    },
+    {
+      "id": 11060,
+      "status": "from_improved",
+      "cn": "破戒僧",
+      "en": "Corrupted Monk",
+      "jp": "破戒僧",
+      "cn_improved": "破戒僧",
+      "cn_resurrection": "破戒僧"
+    },
+    {
+      "id": 11070,
+      "status": "from_improved",
+      "cn": "宫之破戒僧",
+      "en": "True Monk",
+      "jp": "宮の破戒僧",
+      "cn_improved": "宫之破戒僧",
+      "cn_resurrection": "宫内破戒僧"
+    },
+    {
+      "id": 11080,
+      "status": "from_improved",
+      "cn": "大忍  枭",
+      "en": "Great Shinobi - Owl",
+      "jp": "大忍び　梟",
+      "cn_improved": "大忍  枭",
+      "cn_resurrection": "巨型忍者 枭"
+    },
+    {
+      "id": 11090,
+      "status": "from_improved",
+      "cn": "义父",
+      "en": "Owl (Father)",
+      "jp": "義父",
+      "cn_improved": "义父",
+      "cn_resurrection": "义父"
+    },
+    {
+      "id": 11100,
+      "status": "from_improved",
+      "cn": "樱龙",
+      "en": "Divine Dragon",
+      "jp": "桜竜",
+      "cn_improved": "樱龙",
+      "cn_resurrection": "樱龙"
+    },
+    {
+      "id": 11110,
+      "status": "from_improved",
+      "cn": "柔剑  爱麻",
+      "en": "Emma, the Gentle Blade",
+      "jp": "柔剣　エマ",
+      "cn_improved": "柔剑  爱麻",
+      "cn_resurrection": "柔剑 永真"
+    },
+    {
+      "id": 11120,
+      "status": "from_improved",
+      "cn": "苇名一心",
+      "en": "Isshin Ashina",
+      "jp": "葦名一心",
+      "cn_improved": "苇名一心",
+      "cn_resurrection": "苇名一心"
+    },
+    {
+      "id": 11130,
+      "status": "from_improved",
+      "cn": "剑圣  苇名一心",
+      "en": "Isshin, the Sword Saint",
+      "jp": "剣聖　葦名一心",
+      "cn_improved": "剑圣  苇名一心",
+      "cn_resurrection": "剑圣 苇名一心"
+    },
+    {
+      "id": 11140,
+      "status": "from_improved",
+      "cn": "怨嗟之鬼",
+      "en": "Demon of Hatred",
+      "jp": "怨嗟の鬼",
+      "cn_improved": "怨嗟之鬼",
+      "cn_resurrection": "怨恨之鬼"
+    },
+    {
+      "id": 11150,
+      "status": "from_improved",
+      "cn": "心中的弦一郎",
+      "en": "Inner Genichiro",
+      "jp": "心中の弦一郎",
+      "cn_improved": "心中的弦一郎",
+      "cn_resurrection": "心中的弦一郎"
+    },
+    {
+      "id": 11160,
+      "status": "from_improved",
+      "cn": "心中的义父",
+      "en": "Inner Father",
+      "jp": "心中の義父",
+      "cn_improved": "心中的义父",
+      "cn_resurrection": "心中的义父"
+    },
+    {
+      "id": 11170,
+      "status": "from_improved",
+      "cn": "心中的一心",
+      "en": "Inner Isshin",
+      "jp": "心中の一心",
+      "cn_improved": "心中的一心",
+      "cn_resurrection": "心中的一心"
+    },
+    {
+      "id": 11171,
+      "status": "needs_translation",
+      "cn": "Tenzen Yamauchi Memory",
+      "en": "Tenzen Yamauchi Memory",
+      "jp": "戦いの追憶・山内典膳",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 11172,
+      "status": "needs_translation",
+      "cn": "Training Dojo",
+      "en": "Training Dojo",
+      "jp": null,
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 11180,
+      "status": "from_improved",
+      "cn": "巴流  苇名弦一郎",
+      "en": "Genichiro, Way of Tomoe",
+      "jp": "巴流　葦名弦一郎",
+      "cn_improved": "巴流  苇名弦一郎",
+      "cn_resurrection": "巴流 苇名弦一郎"
+    },
+    {
+      "id": 11490,
+      "status": "needs_translation",
+      "cn": "Inner Dojo",
+      "en": "Inner Dojo",
+      "jp": "心中の道場",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 11500,
+      "status": "from_improved",
+      "cn": "？？？",
+      "en": "???",
+      "jp": null,
+      "cn_improved": "？？？",
+      "cn_resurrection": "？？？"
+    },
+    {
+      "id": 11501,
+      "status": "needs_translation",
+      "cn": "？？？",
+      "en": null,
+      "jp": "？？？",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 24100,
+      "status": "from_improved",
+      "cn": "念珠",
+      "en": null,
+      "jp": "念珠",
+      "cn_improved": "念珠",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90000,
+      "status": "from_improved",
+      "cn": "DL確認00_なし",
+      "en": "DamageCheck00",
+      "jp": "DL確認00_なし",
+      "cn_improved": "DL確認00_なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90001,
+      "status": "from_improved",
+      "cn": "DL確認01_小",
+      "en": "DamageCheck01",
+      "jp": "DL確認01_小",
+      "cn_improved": "DL確認01_小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90002,
+      "status": "from_improved",
+      "cn": "DL確認02_中",
+      "en": "DamageCheck02",
+      "jp": "DL確認02_中",
+      "cn_improved": "DL確認02_中",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90003,
+      "status": "from_improved",
+      "cn": "DL確認03_大",
+      "en": "DamageCheck03",
+      "jp": "DL確認03_大",
+      "cn_improved": "DL確認03_大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90004,
+      "status": "from_improved",
+      "cn": "DL確認04_吹っ飛び大",
+      "en": "DamageCheck04",
+      "jp": "DL確認04_吹っ飛び大",
+      "cn_improved": "DL確認04_吹っ飛び大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90005,
+      "status": "from_improved",
+      "cn": "DL確認05_押し",
+      "en": "DamageCheck05",
+      "jp": "DL確認05_押し",
+      "cn_improved": "DL確認05_押し",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90006,
+      "status": "from_improved",
+      "cn": "DL確認06_叩きつけ",
+      "en": "DamageCheck06",
+      "jp": "DL確認06_叩きつけ",
+      "cn_improved": "DL確認06_叩きつけ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90007,
+      "status": "from_improved",
+      "cn": "DL確認07_吹っ飛び小（PC蹴り専用）",
+      "en": "DamageCheck07",
+      "jp": "DL確認07_吹っ飛び小（PC蹴り専用）",
+      "cn_improved": "DL確認07_吹っ飛び小（PC蹴り専用）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90008,
+      "status": "from_improved",
+      "cn": "DL確認08_極小加算",
+      "en": "DamageCheck08",
+      "jp": "DL確認08_極小加算",
+      "cn_improved": "DL確認08_極小加算",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90009,
+      "status": "from_improved",
+      "cn": "DL確認09_かち上げ",
+      "en": "DamageCheck09",
+      "jp": "DL確認09_かち上げ",
+      "cn_improved": "DL確認09_かち上げ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90010,
+      "status": "from_improved",
+      "cn": "DL確認10_吹っ飛び特大",
+      "en": "DamageCheck10",
+      "jp": "DL確認10_吹っ飛び特大",
+      "cn_improved": "DL確認10_吹っ飛び特大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90011,
+      "status": "from_improved",
+      "cn": "DL確認11_ブレス（未使用）",
+      "en": "DamageCheck11",
+      "jp": "DL確認11_ブレス（未使用）",
+      "cn_improved": "DL確認11_ブレス（未使用）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90015,
+      "status": "from_improved",
+      "cn": "DL確認15_崩し",
+      "en": "DamageCheck15",
+      "jp": "DL確認15_崩し",
+      "cn_improved": "DL確認15_崩し",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90020,
+      "status": "from_improved",
+      "cn": "DL確認20_炎",
+      "en": "DamageCheck20",
+      "jp": "DL確認20_炎",
+      "cn_improved": "DL確認20_炎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90021,
+      "status": "needs_translation",
+      "cn": "",
+      "en": "",
+      "jp": null,
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 90030,
+      "status": "from_improved",
+      "cn": "AI音確認_通常音",
+      "en": "AISoundCheck00",
+      "jp": "AI音確認_通常音",
+      "cn_improved": "AI音確認_通常音",
+      "cn_resurrection": null
+    },
+    {
+      "id": 90031,
+      "status": "from_improved",
+      "cn": "AI音確認_重要音",
+      "en": "AISoundCheck01",
+      "jp": "AI音確認_重要音",
+      "cn_improved": "AI音確認_重要音",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110000,
+      "status": "needs_translation",
+      "cn": "Hirata Letter",
+      "en": "Hirata Letter",
+      "jp": "平田の手紙",
+      "cn_improved": null,
+      "cn_resurrection": null
+    }
+  ]
+}

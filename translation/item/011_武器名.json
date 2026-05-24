@@ -1,0 +1,1601 @@
+{
+  "fmg_id": 11,
+  "fmg_name": "武器名",
+  "domain": "item",
+  "count": 177,
+  "entries": [
+    {
+      "id": 5000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 5100,
+      "status": "from_improved",
+      "cn": "旋风斩",
+      "en": "Whirlwind Slash",
+      "jp": "旋風斬り",
+      "cn_improved": "旋风斩",
+      "cn_resurrection": "旋风斩"
+    },
+    {
+      "id": 5200,
+      "status": "from_improved",
+      "cn": "寄鹰斩",
+      "en": "Nightjar Slash",
+      "jp": "寄鷹斬り",
+      "cn_improved": "寄鹰斩",
+      "cn_resurrection": "寄鹰斩"
+    },
+    {
+      "id": 5201,
+      "status": "from_improved",
+      "cn": "寄鹰斩·逆旋",
+      "en": "Nightjar Slash Reversal",
+      "jp": "寄鷹斬り・逆さ回し",
+      "cn_improved": "寄鹰斩·逆旋",
+      "cn_resurrection": "寄鹰斩·反向回旋"
+    },
+    {
+      "id": 5300,
+      "status": "from_improved",
+      "cn": "一文字",
+      "en": "Ichimonji",
+      "jp": "一文字",
+      "cn_improved": "一文字",
+      "cn_resurrection": "一字斩"
+    },
+    {
+      "id": 5301,
+      "status": "from_improved",
+      "cn": "一文字·二连",
+      "en": "Ichimonji: Double",
+      "jp": "一文字・二連",
+      "cn_improved": "一文字·二连",
+      "cn_resurrection": "一字斩·二连"
+    },
+    {
+      "id": 5400,
+      "status": "from_improved",
+      "cn": "秘传·龙闪",
+      "en": "Dragon Flash",
+      "jp": "秘伝・竜閃",
+      "cn_improved": "秘传·龙闪",
+      "cn_resurrection": "秘传·龙闪"
+    },
+    {
+      "id": 5500,
+      "status": "from_improved",
+      "cn": "奥义·苇名十文字",
+      "en": "Ashina Cross",
+      "jp": "奥義・葦名十文字",
+      "cn_improved": "奥义·苇名十文字",
+      "cn_resurrection": "绝技·苇名十字斩"
+    },
+    {
+      "id": 5600,
+      "status": "from_improved",
+      "cn": "奥义·浮舟渡",
+      "en": "Floating Passage",
+      "jp": "奥義・浮き舟渡り",
+      "cn_improved": "奥义·浮舟渡",
+      "cn_resurrection": "绝技·飞渡浮舟"
+    },
+    {
+      "id": 5601,
+      "status": "from_improved",
+      "cn": "秘传·涡云渡",
+      "en": "Spiral Cloud Passage",
+      "jp": "秘伝・渦雲渡り",
+      "cn_improved": "秘传·涡云渡",
+      "cn_resurrection": "秘传·飞渡漩涡云"
+    },
+    {
+      "id": 5700,
+      "status": "from_improved",
+      "cn": "奥义·不死斩",
+      "en": "Mortal Draw",
+      "jp": "奥義・不死斬り",
+      "cn_improved": "奥义·不死斩",
+      "cn_resurrection": "绝技·不死斩"
+    },
+    {
+      "id": 5701,
+      "status": "from_improved",
+      "cn": "秘传·不死斩",
+      "en": "Empowered Mortal Draw",
+      "jp": "秘伝・不死斬り",
+      "cn_improved": "秘传·不死斩",
+      "cn_resurrection": "秘传·不死斩"
+    },
+    {
+      "id": 5800,
+      "status": "from_improved",
+      "cn": "仙峯脚",
+      "en": "Senpou Leaping Kicks",
+      "jp": "仙峯脚",
+      "cn_improved": "仙峯脚",
+      "cn_resurrection": "仙峰脚"
+    },
+    {
+      "id": 5801,
+      "status": "from_improved",
+      "cn": "奥义·仙峯寺菩萨脚",
+      "en": "High Monk",
+      "jp": "奥義・仙峯寺菩薩脚",
+      "cn_improved": "奥义·仙峯寺菩萨脚",
+      "cn_resurrection": "绝技·仙峰寺菩萨脚"
+    },
+    {
+      "id": 5900,
+      "status": "from_improved",
+      "cn": "拜连拳",
+      "en": "Praying Strikes",
+      "jp": "拝み連拳",
+      "cn_improved": "拜连拳",
+      "cn_resurrection": "叩拜连击拳"
+    },
+    {
+      "id": 5901,
+      "status": "from_improved",
+      "cn": "拜连拳·破魔之型",
+      "en": "Praying Strikes - Exorcism",
+      "jp": "拝み連拳・破魔の型",
+      "cn_improved": "拜连拳·破魔之型",
+      "cn_resurrection": "叩拜连击拳·破魔"
+    },
+    {
+      "id": 6000,
+      "status": "from_improved",
+      "cn": "奥义·大忍突刺",
+      "en": "Shadowrush",
+      "jp": "奥義・大忍び刺し",
+      "cn_improved": "奥义·大忍突刺",
+      "cn_resurrection": "绝技·巨型忍者突刺"
+    },
+    {
+      "id": 6001,
+      "status": "from_improved",
+      "cn": "秘传·大忍落杀",
+      "en": "Shadowfall",
+      "jp": "秘伝・大忍び落とし",
+      "cn_improved": "秘传·大忍落杀",
+      "cn_resurrection": "秘传·巨型忍者落杀"
+    },
+    {
+      "id": 6100,
+      "status": "from_improved",
+      "cn": "秘传·一心",
+      "en": "One Mind",
+      "jp": "秘伝・一心",
+      "cn_improved": "秘传·一心",
+      "cn_resurrection": "秘传·一心"
+    },
+    {
+      "id": 7000,
+      "status": "from_improved",
+      "cn": "寄鹰斩·逆旋",
+      "en": "Nightjar Slash Reversal",
+      "jp": "寄鷹斬り・逆さ回し",
+      "cn_improved": "寄鹰斩·逆旋",
+      "cn_resurrection": "寄鹰斩·反向回旋"
+    },
+    {
+      "id": 7100,
+      "status": "from_improved",
+      "cn": "一文字·二连",
+      "en": "Ichimonji: Double",
+      "jp": "一文字・二連",
+      "cn_improved": "一文字·二连",
+      "cn_resurrection": "一字斩·二连"
+    },
+    {
+      "id": 7200,
+      "status": "from_improved",
+      "cn": "秘传·涡云渡",
+      "en": "Spiral Cloud Passage",
+      "jp": "秘伝・渦雲渡り",
+      "cn_improved": "秘传·涡云渡",
+      "cn_resurrection": "秘传·飞渡漩涡云"
+    },
+    {
+      "id": 7300,
+      "status": "from_improved",
+      "cn": "秘传·不死斩",
+      "en": "Empowered Mortal Draw",
+      "jp": "秘伝・不死斬り",
+      "cn_improved": "秘传·不死斩",
+      "cn_resurrection": "秘传·不死斩"
+    },
+    {
+      "id": 7400,
+      "status": "from_improved",
+      "cn": "奥义·仙峯寺菩萨脚",
+      "en": "High Monk",
+      "jp": "奥義・仙峯寺菩薩脚",
+      "cn_improved": "奥义·仙峯寺菩萨脚",
+      "cn_resurrection": "绝技·仙峰寺菩萨脚"
+    },
+    {
+      "id": 7500,
+      "status": "from_improved",
+      "cn": "拜连拳·破魔之型",
+      "en": "Praying Strikes - Exorcism",
+      "jp": "拝み連拳・破魔の型",
+      "cn_improved": "拜连拳·破魔之型",
+      "cn_resurrection": "叩拜连击拳·破魔"
+    },
+    {
+      "id": 7600,
+      "status": "from_improved",
+      "cn": "秘传·大忍落杀",
+      "en": "Shadowfall",
+      "jp": "秘伝・大忍び落とし",
+      "cn_improved": "秘传·大忍落杀",
+      "cn_resurrection": "秘传·巨型忍者落杀"
+    },
+    {
+      "id": 7700,
+      "status": "from_improved",
+      "cn": "秘传·樱舞",
+      "en": "Sakura Dance",
+      "jp": "秘伝・桜舞い",
+      "cn_improved": "秘传·樱舞",
+      "cn_resurrection": "秘传·樱舞"
+    },
+    {
+      "id": 70000,
+      "status": "from_improved",
+      "cn": "手里剑",
+      "en": "Loaded Shuriken",
+      "jp": "手裏剣",
+      "cn_improved": "手里剑",
+      "cn_resurrection": "手里剑"
+    },
+    {
+      "id": 70100,
+      "status": "from_improved",
+      "cn": "陀螺手里剑",
+      "en": "Spinning Shuriken",
+      "jp": "独楽手裏剣",
+      "cn_improved": "陀螺手里剑",
+      "cn_resurrection": "陀螺手里剑"
+    },
+    {
+      "id": 70200,
+      "status": "from_improved",
+      "cn": "贯劲陀螺",
+      "en": "Gouging Top",
+      "jp": "貫き独楽",
+      "cn_improved": "贯劲陀螺",
+      "cn_resurrection": "穿刺陀螺"
+    },
+    {
+      "id": 70300,
+      "status": "from_improved",
+      "cn": "幻影苦无",
+      "en": "Phantom Kunai",
+      "jp": "まぼろしクナイ",
+      "cn_improved": "幻影苦无",
+      "cn_resurrection": "幻影苦无"
+    },
+    {
+      "id": 70400,
+      "status": "from_improved",
+      "cn": "金钱镖",
+      "en": "Sen Throw",
+      "jp": "銭つぶて",
+      "cn_improved": "金钱镖",
+      "cn_resurrection": "金钱镖"
+    },
+    {
+      "id": 70500,
+      "status": "from_improved",
+      "cn": "琉璃手里剑",
+      "en": "Lazulite Shuriken",
+      "jp": "瑠璃の手裏剣",
+      "cn_improved": "琉璃手里剑",
+      "cn_resurrection": "琉璃手里剑"
+    },
+    {
+      "id": 71000,
+      "status": "from_improved",
+      "cn": "爆竹",
+      "en": "Shinobi Firecracker",
+      "jp": "爆竹",
+      "cn_improved": "爆竹",
+      "cn_resurrection": "爆竹"
+    },
+    {
+      "id": 71100,
+      "status": "from_improved",
+      "cn": "爆竹·弹簧式",
+      "en": "Spring-load Firecracker",
+      "jp": "爆竹・バネ式",
+      "cn_improved": "爆竹·弹簧式",
+      "cn_resurrection": "弹簧式爆竹"
+    },
+    {
+      "id": 71200,
+      "status": "from_improved",
+      "cn": "长火花",
+      "en": "Long Spark",
+      "jp": "長火花",
+      "cn_improved": "长火花",
+      "cn_resurrection": "长效火花"
+    },
+    {
+      "id": 71300,
+      "status": "from_improved",
+      "cn": "紫烟火花",
+      "en": "Purple Fume Spark",
+      "jp": "紫煙火花",
+      "cn_improved": "紫烟火花",
+      "cn_resurrection": "紫烟火花"
+    },
+    {
+      "id": 72000,
+      "status": "from_improved",
+      "cn": "吹火筒",
+      "en": "Flame Vent",
+      "jp": "火吹き筒",
+      "cn_improved": "吹火筒",
+      "cn_resurrection": "吹火筒"
+    },
+    {
+      "id": 72100,
+      "status": "from_improved",
+      "cn": "吹火筒·弹簧式",
+      "en": "Spring-load Flame Vent",
+      "jp": "火吹き筒・バネ式",
+      "cn_improved": "吹火筒·弹簧式",
+      "cn_resurrection": "弹簧式吹火筒"
+    },
+    {
+      "id": 72200,
+      "status": "from_improved",
+      "cn": "长息吹火筒",
+      "en": "Okinaga's Flame Vent",
+      "jp": "息長の火吹き筒",
+      "cn_improved": "长息吹火筒",
+      "cn_resurrection": "气长吹火筒"
+    },
+    {
+      "id": 72300,
+      "status": "from_improved",
+      "cn": "琉璃净火",
+      "en": "Lazulite Sacred Flame",
+      "jp": "瑠璃の浄火",
+      "cn_improved": "琉璃净火",
+      "cn_resurrection": "琉璃之净火"
+    },
+    {
+      "id": 72400,
+      "status": "needs_polish",
+      "cn": "狂战士的义手",
+      "en": "Struggler's Prosthetic",
+      "jp": "狂戦士の義手",
+      "cn_improved": null,
+      "cn_resurrection": "狂战士的义手"
+    },
+    {
+      "id": 73000,
+      "status": "from_improved",
+      "cn": "机关斧",
+      "en": "Loaded Axe",
+      "jp": "仕込み斧",
+      "cn_improved": "机关斧",
+      "cn_resurrection": "机关斧"
+    },
+    {
+      "id": 73100,
+      "status": "from_improved",
+      "cn": "机关斧·弹簧式",
+      "en": "Spring-load Axe",
+      "jp": "仕込み斧・バネ式",
+      "cn_improved": "机关斧·弹簧式",
+      "cn_resurrection": "弹簧式机关斧"
+    },
+    {
+      "id": 73200,
+      "status": "from_improved",
+      "cn": "机关斧·火镰式",
+      "en": "Sparking Axe",
+      "jp": "仕込み斧・火打ち式",
+      "cn_improved": "机关斧·火镰式",
+      "cn_resurrection": "火镰式机关斧"
+    },
+    {
+      "id": 73300,
+      "status": "from_improved",
+      "cn": "琉璃斧",
+      "en": "Lazulite Axe",
+      "jp": "瑠璃の斧",
+      "cn_improved": "琉璃斧",
+      "cn_resurrection": "琉璃斧"
+    },
+    {
+      "id": 74000,
+      "status": "from_improved",
+      "cn": "雾鸦",
+      "en": "Mist Raven",
+      "jp": "霧がらす",
+      "cn_improved": "雾鸦",
+      "cn_resurrection": "雾鸦"
+    },
+    {
+      "id": 74100,
+      "status": "from_improved",
+      "cn": "老羽雾鸦",
+      "en": "Aged Feather Mist Raven",
+      "jp": "老い羽の霧がらす",
+      "cn_improved": "老羽雾鸦",
+      "cn_resurrection": "老羽雾鸦"
+    },
+    {
+      "id": 74200,
+      "status": "from_improved",
+      "cn": "【主】羽雾鸦",
+      "en": "Great Feather Mist Raven",
+      "jp": "ぬし羽の霧がらす",
+      "cn_improved": "【主】羽雾鸦",
+      "cn_resurrection": "神羽雾鸦"
+    },
+    {
+      "id": 75000,
+      "status": "from_improved",
+      "cn": "锈丸",
+      "en": "Sabimaru",
+      "jp": "錆び丸",
+      "cn_improved": "锈丸",
+      "cn_resurrection": "锈丸"
+    },
+    {
+      "id": 75100,
+      "status": "from_improved",
+      "cn": "锈丸·表里",
+      "en": "Improved Sabimaru",
+      "jp": "錆び丸・表裏",
+      "cn_improved": "锈丸·表里",
+      "cn_resurrection": "表里锈丸"
+    },
+    {
+      "id": 75200,
+      "status": "from_improved",
+      "cn": "贯劲锈丸",
+      "en": "Piercing Sabimaru",
+      "jp": "貫きの錆び丸",
+      "cn_improved": "贯劲锈丸",
+      "cn_resurrection": "穿刺锈丸"
+    },
+    {
+      "id": 75300,
+      "status": "from_improved",
+      "cn": "琉璃锈丸",
+      "en": "Lazulite Sabimaru",
+      "jp": "瑠璃の錆び丸",
+      "cn_improved": "琉璃锈丸",
+      "cn_resurrection": "琉璃锈丸"
+    },
+    {
+      "id": 76000,
+      "status": "from_improved",
+      "cn": "机关伞",
+      "en": "Loaded Umbrella",
+      "jp": "仕込み傘",
+      "cn_improved": "机关伞",
+      "cn_resurrection": "机关伞"
+    },
+    {
+      "id": 76100,
+      "status": "from_improved",
+      "cn": "机关伞·磁轴",
+      "en": "Loaded Umbrella - Magnet",
+      "jp": "仕込み傘・磁鉄軸",
+      "cn_improved": "机关伞·磁轴",
+      "cn_resurrection": "磁铁轴机关伞"
+    },
+    {
+      "id": 76200,
+      "status": "from_improved",
+      "cn": "朱雀红莲伞",
+      "en": "Suzaku's Lotus Umbrella",
+      "jp": "朱雀の紅蓮傘",
+      "cn_improved": "朱雀红莲伞",
+      "cn_resurrection": "朱雀红莲伞"
+    },
+    {
+      "id": 76300,
+      "status": "from_improved",
+      "cn": "凤凰紫绀伞",
+      "en": "Phoenix's Lilac Umbrella",
+      "jp": "鳳凰の紫紺傘",
+      "cn_improved": "凤凰紫绀伞",
+      "cn_resurrection": "凤凰紫青伞"
+    },
+    {
+      "id": 77000,
+      "status": "from_improved",
+      "cn": "神隐",
+      "en": "Divine Abduction",
+      "jp": "神隠し",
+      "cn_improved": "神隐",
+      "cn_resurrection": "神隐"
+    },
+    {
+      "id": 77100,
+      "status": "from_improved",
+      "cn": "二神隐",
+      "en": "Double Divine Abduction",
+      "jp": "二神隠し",
+      "cn_improved": "二神隐",
+      "cn_resurrection": "二度神隐"
+    },
+    {
+      "id": 77200,
+      "status": "from_improved",
+      "cn": "善财广进",
+      "en": "Golden Vortex",
+      "jp": "御寄進回し",
+      "cn_improved": "善财广进",
+      "cn_resurrection": "捐赠簿"
+    },
+    {
+      "id": 78000,
+      "status": "from_improved",
+      "cn": "机关长枪",
+      "en": "Loaded Spear",
+      "jp": "仕込み槍",
+      "cn_improved": "机关长枪",
+      "cn_resurrection": "机关长枪"
+    },
+    {
+      "id": 78100,
+      "status": "from_improved",
+      "cn": "机关长枪·突刺式",
+      "en": "Loaded Spear Thrust type",
+      "jp": "仕込み槍・突式",
+      "cn_improved": "机关长枪·突刺式",
+      "cn_resurrection": "突刺式机关长枪"
+    },
+    {
+      "id": 78200,
+      "status": "from_improved",
+      "cn": "机关长枪·回旋式",
+      "en": "Loaded Spear Cleave type",
+      "jp": "仕込み槍・回転式",
+      "cn_improved": "机关长枪·回旋式",
+      "cn_resurrection": "回旋式机关长枪"
+    },
+    {
+      "id": 78300,
+      "status": "from_improved",
+      "cn": "螺旋号",
+      "en": "Spiral Spear",
+      "jp": "螺旋号",
+      "cn_improved": "螺旋号",
+      "cn_resurrection": "螺旋号"
+    },
+    {
+      "id": 78400,
+      "status": "from_improved",
+      "cn": "奔火",
+      "en": "Leaping Flame",
+      "jp": "火走り",
+      "cn_improved": "奔火",
+      "cn_resurrection": "火舌"
+    },
+    {
+      "id": 79000,
+      "status": "from_improved",
+      "cn": "指笛",
+      "en": "Finger Whistle",
+      "jp": "指笛",
+      "cn_improved": "指笛",
+      "cn_resurrection": "口哨"
+    },
+    {
+      "id": 79100,
+      "status": "from_improved",
+      "cn": "山彦（回声）",
+      "en": "Mountain Echo",
+      "jp": "山びこ",
+      "cn_improved": "山彦（回声）",
+      "cn_resurrection": "回声口哨"
+    },
+    {
+      "id": 79200,
+      "status": "from_improved",
+      "cn": "爱哭鬼",
+      "en": "Malcontent",
+      "jp": "泣き虫",
+      "cn_improved": "爱哭鬼",
+      "cn_resurrection": "爱哭鬼"
+    },
+    {
+      "id": 110000,
+      "status": "from_improved",
+      "cn": "-",
+      "en": "-",
+      "jp": "-",
+      "cn_improved": "-",
+      "cn_resurrection": "-"
+    },
+    {
+      "id": 200000,
+      "status": "from_improved",
+      "cn": "钩绳攻击",
+      "en": "Grappling Hook Attack",
+      "jp": "鉤縄攻撃",
+      "cn_improved": "钩绳攻击",
+      "cn_resurrection": "钩绳攻击"
+    },
+    {
+      "id": 200100,
+      "status": "from_improved",
+      "cn": "空中格挡",
+      "en": "Mid-air Deflection",
+      "jp": "空中弾き",
+      "cn_improved": "空中格挡",
+      "cn_resurrection": "空中弹开"
+    },
+    {
+      "id": 200200,
+      "status": "from_improved",
+      "cn": "空中义手忍具",
+      "en": "Mid-air Prosthetic Tool",
+      "jp": "空中義手忍具",
+      "cn_improved": "空中义手忍具",
+      "cn_resurrection": "空中义手忍具"
+    },
+    {
+      "id": 200300,
+      "status": "from_improved",
+      "cn": "看破",
+      "en": "Mikiri Counter",
+      "jp": "見切り",
+      "cn_improved": "看破",
+      "cn_resurrection": "识破"
+    },
+    {
+      "id": 200400,
+      "status": "from_improved",
+      "cn": "冲刺隐蔽",
+      "en": "Run and Slide",
+      "jp": "駆け伏せ",
+      "cn_improved": "冲刺隐蔽",
+      "cn_resurrection": "冲刺隐蔽"
+    },
+    {
+      "id": 200500,
+      "status": "from_improved",
+      "cn": "空中流派技",
+      "en": "Mid-air Combat Arts",
+      "jp": "空中流派技",
+      "cn_improved": "空中流派技",
+      "cn_resurrection": "空中流派招式"
+    },
+    {
+      "id": 200600,
+      "status": "from_improved",
+      "cn": "崩势绕袭",
+      "en": "Vault Over",
+      "jp": "崩し裏回り",
+      "cn_improved": "崩势绕袭",
+      "cn_resurrection": "失衡绕袭"
+    },
+    {
+      "id": 210000,
+      "status": "from_improved",
+      "cn": "旋风斩",
+      "en": "Whirlwind Slash",
+      "jp": "旋風斬り",
+      "cn_improved": "旋风斩",
+      "cn_resurrection": "旋风斩"
+    },
+    {
+      "id": 211000,
+      "status": "from_improved",
+      "cn": "奥义·大忍突刺",
+      "en": "Shadowrush",
+      "jp": "奥義・大忍び刺し",
+      "cn_improved": "奥义·大忍突刺",
+      "cn_resurrection": "绝技·巨型忍者突刺"
+    },
+    {
+      "id": 301000,
+      "status": "from_improved",
+      "cn": "派生攻击·追斩",
+      "en": "Chasing Slice",
+      "jp": "派生攻撃・追い斬り",
+      "cn_improved": "派生攻击·追斩",
+      "cn_resurrection": "派生攻击·追斩"
+    },
+    {
+      "id": 301100,
+      "status": "from_improved",
+      "cn": "派生攻击·连斩",
+      "en": "Fang and Blade",
+      "jp": "派生攻撃・連ね斬り",
+      "cn_improved": "派生攻击·连斩",
+      "cn_resurrection": "派生攻击·连斩"
+    },
+    {
+      "id": 301200,
+      "status": "from_improved",
+      "cn": "派生攻击·释斩",
+      "en": "Projected Force",
+      "jp": "派生攻撃・放ち斬り",
+      "cn_improved": "派生攻击·释斩",
+      "cn_resurrection": "派生攻击·释放斩"
+    },
+    {
+      "id": 301300,
+      "status": "from_improved",
+      "cn": "奥义·缠斩",
+      "en": "Living Force",
+      "jp": "奥義・纏い斬り",
+      "cn_improved": "奥义·缠斩",
+      "cn_resurrection": "绝技·附牙斩"
+    },
+    {
+      "id": 310000,
+      "status": "from_improved",
+      "cn": "寄鹰斩",
+      "en": "Nightjar Slash",
+      "jp": "寄鷹斬り",
+      "cn_improved": "寄鹰斩",
+      "cn_resurrection": "寄鹰斩"
+    },
+    {
+      "id": 310100,
+      "status": "from_improved",
+      "cn": "寄鹰斩·逆旋",
+      "en": "Nightjar Slash Reversal",
+      "jp": "寄鷹斬り・逆さ回し",
+      "cn_improved": "寄鹰斩·逆旋",
+      "cn_resurrection": "寄鹰斩·反向回旋"
+    },
+    {
+      "id": 410000,
+      "status": "from_improved",
+      "cn": "一文字",
+      "en": "Ichimonji",
+      "jp": "一文字",
+      "cn_improved": "一文字",
+      "cn_resurrection": "一字斩"
+    },
+    {
+      "id": 410100,
+      "status": "from_improved",
+      "cn": "一文字·二连",
+      "en": "Ichimonji: Double",
+      "jp": "一文字・二連",
+      "cn_improved": "一文字·二连",
+      "cn_resurrection": "一字斩·二连"
+    },
+    {
+      "id": 411000,
+      "status": "from_improved",
+      "cn": "奥义·苇名十文字",
+      "en": "Ashina Cross",
+      "jp": "奥義・葦名十文字",
+      "cn_improved": "奥义·苇名十文字",
+      "cn_resurrection": "绝技·苇名十字斩"
+    },
+    {
+      "id": 510000,
+      "status": "from_improved",
+      "cn": "拜连拳",
+      "en": "Praying Strikes",
+      "jp": "拝み連拳",
+      "cn_improved": "拜连拳",
+      "cn_resurrection": "叩拜连击拳"
+    },
+    {
+      "id": 510100,
+      "status": "from_improved",
+      "cn": "拜连拳·破魔之型",
+      "en": "Praying Strikes - Exorcism",
+      "jp": "拝み連拳・破魔の型",
+      "cn_improved": "拜连拳·破魔之型",
+      "cn_resurrection": "叩拜连击拳·破魔"
+    },
+    {
+      "id": 511000,
+      "status": "from_improved",
+      "cn": "仙峯脚",
+      "en": "Senpou Leaping Kicks",
+      "jp": "仙峯脚",
+      "cn_improved": "仙峯脚",
+      "cn_resurrection": "仙峰脚"
+    },
+    {
+      "id": 511100,
+      "status": "from_improved",
+      "cn": "奥义·仙峯寺菩萨脚",
+      "en": "High Monk",
+      "jp": "奥義・仙峯寺菩薩脚",
+      "cn_improved": "奥义·仙峯寺菩萨脚",
+      "cn_resurrection": "绝技·仙峰寺菩萨脚"
+    },
+    {
+      "id": 610100,
+      "status": "from_improved",
+      "cn": "秘传·大忍落杀",
+      "en": "Shadowfall",
+      "jp": "秘伝・大忍び落とし",
+      "cn_improved": "秘传·大忍落杀",
+      "cn_resurrection": "秘传·巨型忍者落杀"
+    },
+    {
+      "id": 611100,
+      "status": "from_improved",
+      "cn": "秘传·涡云渡",
+      "en": "Spiral Cloud Passage",
+      "jp": "秘伝・渦雲渡り",
+      "cn_improved": "秘传·涡云渡",
+      "cn_resurrection": "秘传·飞渡漩涡云"
+    },
+    {
+      "id": 612100,
+      "status": "from_improved",
+      "cn": "秘传·不死斩",
+      "en": "Empowered Mortal Draw",
+      "jp": "秘伝・不死斬り",
+      "cn_improved": "秘传·不死斩",
+      "cn_resurrection": "秘传·不死斩"
+    },
+    {
+      "id": 620000,
+      "status": "from_improved",
+      "cn": "屏息",
+      "en": "Suppress Presence",
+      "jp": "気配殺し",
+      "cn_improved": "屏息",
+      "cn_resurrection": "屏息"
+    },
+    {
+      "id": 620100,
+      "status": "from_improved",
+      "cn": "消音",
+      "en": "Suppress Sound",
+      "jp": "音殺し",
+      "cn_improved": "消音",
+      "cn_resurrection": "消音"
+    },
+    {
+      "id": 630000,
+      "status": "from_improved",
+      "cn": "功德",
+      "en": "Virtuous Deed",
+      "jp": "功徳",
+      "cn_improved": "功德",
+      "cn_resurrection": "功德"
+    },
+    {
+      "id": 630100,
+      "status": "from_improved",
+      "cn": "大功德",
+      "en": "Most Virtuous Deed",
+      "jp": "さらなる功徳",
+      "cn_improved": "大功德",
+      "cn_resurrection": "大功德"
+    },
+    {
+      "id": 640000,
+      "status": "from_improved",
+      "cn": "爱麻之药识·利之药",
+      "en": "Emma's Medicine: Potency",
+      "jp": "エマの薬識・利き薬",
+      "cn_improved": "爱麻之药识·利之药",
+      "cn_resurrection": "特效药（味）"
+    },
+    {
+      "id": 640100,
+      "status": "from_improved",
+      "cn": "爱麻之药识·嗅之药",
+      "en": "Emma's Medicine: Aroma",
+      "jp": "エマの薬識・嗅ぎ薬",
+      "cn_improved": "爱麻之药识·嗅之药",
+      "cn_resurrection": "特效药（香）"
+    },
+    {
+      "id": 640200,
+      "status": "from_improved",
+      "cn": "忍者之药识·甲",
+      "en": "Shinobi Medicine Rank 1",
+      "jp": "忍びの薬識・甲",
+      "cn_improved": "忍者之药识·甲",
+      "cn_resurrection": "忍者之药理知识·甲"
+    },
+    {
+      "id": 640300,
+      "status": "from_improved",
+      "cn": "忍者之药识·乙",
+      "en": "Shinobi Medicine Rank 2",
+      "jp": "忍びの薬識・乙",
+      "cn_improved": "忍者之药识·乙",
+      "cn_resurrection": "忍者之药理知识·乙"
+    },
+    {
+      "id": 640400,
+      "status": "from_improved",
+      "cn": "忍者之药识·丙",
+      "en": "Shinobi Medicine Rank 3",
+      "jp": "忍びの薬識・丙",
+      "cn_improved": "忍者之药识·丙",
+      "cn_resurrection": "忍者之药理知识·丙"
+    },
+    {
+      "id": 650000,
+      "status": "from_improved",
+      "cn": "忍者之业·身业",
+      "en": "A Shinobi's Karma: Body",
+      "jp": "忍びの業・身業",
+      "cn_improved": "忍者之业·身业",
+      "cn_resurrection": "忍者之恶业·身业"
+    },
+    {
+      "id": 650100,
+      "status": "from_improved",
+      "cn": "忍者之业·心业",
+      "en": "A Shinobi's Karma: Mind",
+      "jp": "忍びの業・心業",
+      "cn_improved": "忍者之业·心业",
+      "cn_resurrection": "忍者之恶业·心业"
+    },
+    {
+      "id": 650200,
+      "status": "from_improved",
+      "cn": "佛师之业·血锈",
+      "en": "Sculptor's Karma: Blood",
+      "jp": "仏師の業・血錆び",
+      "cn_improved": "佛师之业·血锈",
+      "cn_resurrection": "佛雕师之恶业·血锈"
+    },
+    {
+      "id": 650300,
+      "status": "from_improved",
+      "cn": "佛师之业·刻伤",
+      "en": "Sculptor's Karma: Scars",
+      "jp": "仏師の業・刻み傷",
+      "cn_improved": "佛师之业·刻伤",
+      "cn_resurrection": "佛雕师之恶业·刻伤"
+    },
+    {
+      "id": 650400,
+      "status": "from_improved",
+      "cn": "兽之业",
+      "en": "A Beast's Karma",
+      "jp": "獣の業",
+      "cn_improved": "兽之业",
+      "cn_resurrection": "兽之恶业"
+    },
+    {
+      "id": 660000,
+      "status": "from_improved",
+      "cn": "命之呼吸·阳",
+      "en": "Breath of Life: Light",
+      "jp": "命の呼吸・陽",
+      "cn_improved": "命之呼吸·阳",
+      "cn_resurrection": "护命呼吸·阳"
+    },
+    {
+      "id": 660100,
+      "status": "from_improved",
+      "cn": "命之呼吸·阴",
+      "en": "Breath of Life: Shadow",
+      "jp": "命の呼吸・陰",
+      "cn_improved": "命之呼吸·阴",
+      "cn_resurrection": "护命呼吸·阴"
+    },
+    {
+      "id": 660200,
+      "status": "from_improved",
+      "cn": "干之吐息·阳",
+      "en": "Breath of Nature: Light",
+      "jp": "幹の息吹・陽",
+      "cn_improved": "干之吐息·阳",
+      "cn_resurrection": "躯干吐息·阳"
+    },
+    {
+      "id": 660300,
+      "status": "from_improved",
+      "cn": "干之吐息·阴",
+      "en": "Breath of Nature: Shadow",
+      "jp": "幹の息吹・陰",
+      "cn_improved": "干之吐息·阴",
+      "cn_resurrection": "躯干吐息·阴"
+    },
+    {
+      "id": 660400,
+      "status": "from_improved",
+      "cn": "忍者之目",
+      "en": "Shinobi Eyes",
+      "jp": "忍びの目",
+      "cn_improved": "忍者之目",
+      "cn_resurrection": "忍者之眼"
+    },
+    {
+      "id": 660500,
+      "status": "from_improved",
+      "cn": "信心",
+      "en": "Devotion",
+      "jp": "信心",
+      "cn_improved": "信心",
+      "cn_resurrection": "信仰"
+    },
+    {
+      "id": 660600,
+      "status": "from_improved",
+      "cn": "登鲤",
+      "en": "Ascending Carp",
+      "jp": "登り鯉",
+      "cn_improved": "登鲤",
+      "cn_resurrection": "登鲤"
+    },
+    {
+      "id": 660700,
+      "status": "from_improved",
+      "cn": "下鲤",
+      "en": "Descending Carp",
+      "jp": "下り鯉",
+      "cn_improved": "下鲤",
+      "cn_resurrection": "下鲤"
+    },
+    {
+      "id": 660800,
+      "status": "from_improved",
+      "cn": "流水",
+      "en": "Flowing Water",
+      "jp": "流水",
+      "cn_improved": "流水",
+      "cn_resurrection": "流水"
+    },
+    {
+      "id": 670000,
+      "status": "from_improved",
+      "cn": "奥义·不死斩",
+      "en": "Mortal Draw",
+      "jp": "奥義・不死斬り",
+      "cn_improved": "奥义·不死斩",
+      "cn_resurrection": "绝技·不死斩"
+    },
+    {
+      "id": 671000,
+      "status": "from_improved",
+      "cn": "秘传·龙闪",
+      "en": "Dragon Flash",
+      "jp": "秘伝・竜閃",
+      "cn_improved": "秘传·龙闪",
+      "cn_resurrection": "秘传·龙闪"
+    },
+    {
+      "id": 672000,
+      "status": "from_improved",
+      "cn": "奥义·浮舟渡",
+      "en": "Floating Passage",
+      "jp": "奥義・浮き舟渡り",
+      "cn_improved": "奥义·浮舟渡",
+      "cn_resurrection": "绝技·飞渡浮舟"
+    },
+    {
+      "id": 673000,
+      "status": "from_improved",
+      "cn": "秘传·一心",
+      "en": "One Mind",
+      "jp": "秘伝・一心",
+      "cn_improved": "秘传·一心",
+      "cn_resurrection": "秘传·一心"
+    },
+    {
+      "id": 674000,
+      "status": "from_improved",
+      "cn": "秘传·樱舞",
+      "en": "Sakura Dance",
+      "jp": "秘伝・桜舞い",
+      "cn_improved": "秘传·樱舞",
+      "cn_resurrection": "秘传·樱舞"
+    },
+    {
+      "id": 680000,
+      "status": "from_improved",
+      "cn": "水生呼吸术",
+      "en": "Mibu Breathing Technique",
+      "jp": "水生の呼吸術",
+      "cn_improved": "水生呼吸术",
+      "cn_resurrection": "水生呼吸术"
+    },
+    {
+      "id": 681000,
+      "status": "from_improved",
+      "cn": "对空忍杀",
+      "en": "Anti-air Deathblow",
+      "jp": "対空忍殺",
+      "cn_improved": "对空忍杀",
+      "cn_resurrection": "对空忍杀"
+    },
+    {
+      "id": 681999,
+      "status": "needs_translation",
+      "cn": "--",
+      "en": "--",
+      "jp": "--",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682000,
+      "status": "needs_translation",
+      "cn": "Recoil Counter",
+      "en": "Recoil Counter",
+      "jp": "弾きカウンター",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682100,
+      "status": "needs_translation",
+      "cn": "Recoil Counter: Quick-draw",
+      "en": "Recoil Counter: Quick-draw",
+      "jp": "弾きカウンター・早業",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682200,
+      "status": "needs_translation",
+      "cn": "Projectile Reflection",
+      "en": "Projectile Reflection",
+      "jp": "飛び道具返し",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682300,
+      "status": "needs_translation",
+      "cn": "Aerial Projectile Reflection",
+      "en": "Aerial Projectile Reflection",
+      "jp": "空中飛び道具返し",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 683000,
+      "status": "needs_translation",
+      "cn": "Hidden Medicine",
+      "en": "Hidden Medicine",
+      "jp": "隠し練薬",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 690000,
+      "status": "from_improved",
+      "cn": "未知流派招式",
+      "en": "Unknown Combat Art",
+      "jp": "未知の流派技",
+      "cn_improved": "未知流派招式",
+      "cn_resurrection": "未知流派招式"
+    },
+    {
+      "id": 690100,
+      "status": "from_improved",
+      "cn": "未知流派招式强化",
+      "en": "Unknown Art Upgrade",
+      "jp": "未知の流派技強化",
+      "cn_improved": "未知流派招式强化",
+      "cn_resurrection": "未知流派招式强化"
+    },
+    {
+      "id": 690200,
+      "status": "from_improved",
+      "cn": "未知忍者体术",
+      "en": "Unknown Martial Art",
+      "jp": "未知の忍びの体術",
+      "cn_improved": "未知忍者体术",
+      "cn_resurrection": "未知忍者体术"
+    },
+    {
+      "id": 690300,
+      "status": "from_improved",
+      "cn": "未知常在效果",
+      "en": "Unknown Latent Effect",
+      "jp": "未知の常在効果",
+      "cn_improved": "未知常在效果",
+      "cn_resurrection": "未知常时效果"
+    },
+    {
+      "id": 690400,
+      "status": "from_improved",
+      "cn": "未知秘传流派招式",
+      "en": "Unknown Secret Technique",
+      "jp": "未知の秘伝流派技",
+      "cn_improved": "未知秘传流派招式",
+      "cn_resurrection": "未知秘传流派招式"
+    },
+    {
+      "id": 699000,
+      "status": "from_improved",
+      "cn": "未知秘传流派招式",
+      "en": "Unknown Secret Technique",
+      "jp": "未知の秘伝流派技",
+      "cn_improved": "未知秘传流派招式",
+      "cn_resurrection": "未知秘传流派招式"
+    },
+    {
+      "id": 701000,
+      "status": "from_improved",
+      "cn": "陀螺手里剑",
+      "en": "Spinning Shuriken",
+      "jp": "独楽手裏剣",
+      "cn_improved": "陀螺手里剑",
+      "cn_resurrection": "陀螺手里剑"
+    },
+    {
+      "id": 702000,
+      "status": "from_improved",
+      "cn": "贯劲陀螺",
+      "en": "Gouging Top",
+      "jp": "貫き独楽",
+      "cn_improved": "贯劲陀螺",
+      "cn_resurrection": "穿刺陀螺"
+    },
+    {
+      "id": 703000,
+      "status": "from_improved",
+      "cn": "幻影苦无",
+      "en": "Phantom Kunai",
+      "jp": "まぼろしクナイ",
+      "cn_improved": "幻影苦无",
+      "cn_resurrection": "幻影苦无"
+    },
+    {
+      "id": 704000,
+      "status": "from_improved",
+      "cn": "金钱镖",
+      "en": "Sen Throw",
+      "jp": "銭つぶて",
+      "cn_improved": "金钱镖",
+      "cn_resurrection": "金钱镖"
+    },
+    {
+      "id": 705000,
+      "status": "from_improved",
+      "cn": "琉璃手里剑",
+      "en": "Lazulite Shuriken",
+      "jp": "瑠璃の手裏剣",
+      "cn_improved": "琉璃手里剑",
+      "cn_resurrection": "琉璃手里剑"
+    },
+    {
+      "id": 711000,
+      "status": "from_improved",
+      "cn": "爆竹·弹簧式",
+      "en": "Spring-load Firecracker",
+      "jp": "爆竹・バネ式",
+      "cn_improved": "爆竹·弹簧式",
+      "cn_resurrection": "弹簧式爆竹"
+    },
+    {
+      "id": 712000,
+      "status": "from_improved",
+      "cn": "长火花",
+      "en": "Long Spark",
+      "jp": "長火花",
+      "cn_improved": "长火花",
+      "cn_resurrection": "长效火花"
+    },
+    {
+      "id": 713000,
+      "status": "from_improved",
+      "cn": "紫烟火花",
+      "en": "Purple Fume Spark",
+      "jp": "紫煙火花",
+      "cn_improved": "紫烟火花",
+      "cn_resurrection": "紫烟火花"
+    },
+    {
+      "id": 721000,
+      "status": "from_improved",
+      "cn": "吹火筒·弹簧式",
+      "en": "Spring-load Flame Vent",
+      "jp": "火吹き筒・バネ式",
+      "cn_improved": "吹火筒·弹簧式",
+      "cn_resurrection": "弹簧式吹火筒"
+    },
+    {
+      "id": 722000,
+      "status": "from_improved",
+      "cn": "长息吹火筒",
+      "en": "Okinaga's Flame Vent",
+      "jp": "息長の火吹き筒",
+      "cn_improved": "长息吹火筒",
+      "cn_resurrection": "气长吹火筒"
+    },
+    {
+      "id": 723000,
+      "status": "from_improved",
+      "cn": "琉璃净火",
+      "en": "Lazulite Sacred Flame",
+      "jp": "瑠璃の浄火",
+      "cn_improved": "琉璃净火",
+      "cn_resurrection": "琉璃之净火"
+    },
+    {
+      "id": 731000,
+      "status": "from_improved",
+      "cn": "机关斧·弹簧式",
+      "en": "Spring-load Axe",
+      "jp": "仕込み斧・バネ式",
+      "cn_improved": "机关斧·弹簧式",
+      "cn_resurrection": "弹簧式机关斧"
+    },
+    {
+      "id": 732000,
+      "status": "from_improved",
+      "cn": "机关斧·火镰式",
+      "en": "Sparking Axe",
+      "jp": "仕込み斧・火打ち式",
+      "cn_improved": "机关斧·火镰式",
+      "cn_resurrection": "火镰式机关斧"
+    },
+    {
+      "id": 733000,
+      "status": "from_improved",
+      "cn": "琉璃斧",
+      "en": "Lazulite Axe",
+      "jp": "瑠璃の斧",
+      "cn_improved": "琉璃斧",
+      "cn_resurrection": "琉璃斧"
+    },
+    {
+      "id": 741000,
+      "status": "from_improved",
+      "cn": "老羽雾鸦",
+      "en": "Aged Feather Mist Raven",
+      "jp": "老い羽の霧がらす",
+      "cn_improved": "老羽雾鸦",
+      "cn_resurrection": "老羽雾鸦"
+    },
+    {
+      "id": 742000,
+      "status": "from_improved",
+      "cn": "【主】羽雾鸦",
+      "en": "Great Feather Mist Raven",
+      "jp": "ぬし羽の霧がらす",
+      "cn_improved": "【主】羽雾鸦",
+      "cn_resurrection": "神羽雾鸦"
+    },
+    {
+      "id": 751000,
+      "status": "from_improved",
+      "cn": "锈丸·表里",
+      "en": "Improved Sabimaru",
+      "jp": "錆び丸・表裏",
+      "cn_improved": "锈丸·表里",
+      "cn_resurrection": "表里锈丸"
+    },
+    {
+      "id": 752000,
+      "status": "from_improved",
+      "cn": "贯劲锈丸",
+      "en": "Piercing Sabimaru",
+      "jp": "貫きの錆び丸",
+      "cn_improved": "贯劲锈丸",
+      "cn_resurrection": "穿刺锈丸"
+    },
+    {
+      "id": 753000,
+      "status": "from_improved",
+      "cn": "琉璃锈丸",
+      "en": "Lazulite Sabimaru",
+      "jp": "瑠璃の錆び丸",
+      "cn_improved": "琉璃锈丸",
+      "cn_resurrection": "琉璃锈丸"
+    },
+    {
+      "id": 761000,
+      "status": "from_improved",
+      "cn": "机关伞·磁轴",
+      "en": "Loaded Umbrella - Magnet",
+      "jp": "仕込み傘・磁鉄軸",
+      "cn_improved": "机关伞·磁轴",
+      "cn_resurrection": "磁铁轴机关伞"
+    },
+    {
+      "id": 762000,
+      "status": "from_improved",
+      "cn": "朱雀红莲伞",
+      "en": "Suzaku's Lotus Umbrella",
+      "jp": "朱雀の紅蓮傘",
+      "cn_improved": "朱雀红莲伞",
+      "cn_resurrection": "朱雀红莲伞"
+    },
+    {
+      "id": 763000,
+      "status": "from_improved",
+      "cn": "凤凰紫绀伞",
+      "en": "Phoenix's Lilac Umbrella",
+      "jp": "鳳凰の紫紺傘",
+      "cn_improved": "凤凰紫绀伞",
+      "cn_resurrection": "凤凰紫青伞"
+    },
+    {
+      "id": 771000,
+      "status": "from_improved",
+      "cn": "二神隐",
+      "en": "Double Divine Abduction",
+      "jp": "二神隠し",
+      "cn_improved": "二神隐",
+      "cn_resurrection": "二度神隐"
+    },
+    {
+      "id": 772000,
+      "status": "from_improved",
+      "cn": "善财广进",
+      "en": "Golden Vortex",
+      "jp": "御寄進回し",
+      "cn_improved": "善财广进",
+      "cn_resurrection": "捐赠簿"
+    },
+    {
+      "id": 781000,
+      "status": "from_improved",
+      "cn": "机关长枪·突刺式",
+      "en": "Loaded Spear Thrust type",
+      "jp": "仕込み槍・突式",
+      "cn_improved": "机关长枪·突刺式",
+      "cn_resurrection": "突刺式机关长枪"
+    },
+    {
+      "id": 782000,
+      "status": "from_improved",
+      "cn": "机关长枪·回旋式",
+      "en": "Loaded Spear Cleave type",
+      "jp": "仕込み槍・回転式",
+      "cn_improved": "机关长枪·回旋式",
+      "cn_resurrection": "回旋式机关长枪"
+    },
+    {
+      "id": 783000,
+      "status": "from_improved",
+      "cn": "螺旋号",
+      "en": "Spiral Spear",
+      "jp": "螺旋号",
+      "cn_improved": "螺旋号",
+      "cn_resurrection": "螺旋号"
+    },
+    {
+      "id": 784000,
+      "status": "from_improved",
+      "cn": "奔火",
+      "en": "Leaping Flame",
+      "jp": "火走り",
+      "cn_improved": "奔火",
+      "cn_resurrection": "火舌"
+    },
+    {
+      "id": 791000,
+      "status": "from_improved",
+      "cn": "山彦（回声）",
+      "en": "Mountain Echo",
+      "jp": "山びこ",
+      "cn_improved": "山彦（回声）",
+      "cn_resurrection": "回声口哨"
+    },
+    {
+      "id": 792000,
+      "status": "from_improved",
+      "cn": "爱哭鬼",
+      "en": "Malcontent",
+      "jp": "泣き虫",
+      "cn_improved": "爱哭鬼",
+      "cn_resurrection": "爱哭鬼"
+    },
+    {
+      "id": 1700000,
+      "status": "from_improved",
+      "cn": "未知手里剑",
+      "en": "Unknown Shuriken",
+      "jp": "未知の手裏剣",
+      "cn_improved": "未知手里剑",
+      "cn_resurrection": "未知手里剑"
+    },
+    {
+      "id": 1710000,
+      "status": "from_improved",
+      "cn": "未知爆竹",
+      "en": "Unknown Firecracker",
+      "jp": "未知の爆竹",
+      "cn_improved": "未知爆竹",
+      "cn_resurrection": "未知爆竹"
+    },
+    {
+      "id": 1720000,
+      "status": "from_improved",
+      "cn": "未知吹火筒",
+      "en": "Unknown Flame Barrel",
+      "jp": "未知の火吹き筒",
+      "cn_improved": "未知吹火筒",
+      "cn_resurrection": "未知吹火筒"
+    },
+    {
+      "id": 1730000,
+      "status": "from_improved",
+      "cn": "未知机关斧",
+      "en": "Unknown Loaded Axe",
+      "jp": "未知の仕込み斧",
+      "cn_improved": "未知机关斧",
+      "cn_resurrection": "未知机关斧"
+    },
+    {
+      "id": 1740000,
+      "status": "from_improved",
+      "cn": "未知雾鸦",
+      "en": "Unknown Mist Raven",
+      "jp": "未知の霧がらす",
+      "cn_improved": "未知雾鸦",
+      "cn_resurrection": "未知雾鸦"
+    },
+    {
+      "id": 1750000,
+      "status": "from_improved",
+      "cn": "未知锈丸",
+      "en": "Unknown Sabimaru",
+      "jp": "未知の錆び丸",
+      "cn_improved": "未知锈丸",
+      "cn_resurrection": "未知锈丸"
+    },
+    {
+      "id": 1760000,
+      "status": "from_improved",
+      "cn": "未知机关伞",
+      "en": "Unknown Loaded Umbrella",
+      "jp": "未知の仕込み傘",
+      "cn_improved": "未知机关伞",
+      "cn_resurrection": "未知机关伞"
+    },
+    {
+      "id": 1770000,
+      "status": "from_improved",
+      "cn": "未知神隐",
+      "en": "Unknown Divine Abduction",
+      "jp": "未知の神隠し",
+      "cn_improved": "未知神隐",
+      "cn_resurrection": "未知神隐"
+    },
+    {
+      "id": 1780000,
+      "status": "from_improved",
+      "cn": "未知机关长枪",
+      "en": "Unknown Loaded Spear",
+      "jp": "未知の仕込み槍",
+      "cn_improved": "未知机关长枪",
+      "cn_resurrection": "未知机关长枪"
+    },
+    {
+      "id": 1790000,
+      "status": "from_improved",
+      "cn": "未知口哨",
+      "en": "Unknown Finger Whistle",
+      "jp": "未知の指笛",
+      "cn_improved": "未知口哨",
+      "cn_resurrection": "未知口哨"
+    },
+    {
+      "id": 2700000,
+      "status": "from_improved",
+      "cn": "未知义手忍具",
+      "en": "Unknown Prosthetic Tool",
+      "jp": "未知の義手忍具",
+      "cn_improved": "未知义手忍具",
+      "cn_resurrection": "未知义手忍具"
+    }
+  ]
+}

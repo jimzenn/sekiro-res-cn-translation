@@ -1,0 +1,1088 @@
+{
+  "fmg_id": 79,
+  "fmg_name": "キーガイド",
+  "domain": "menu",
+  "count": 120,
+  "entries": [
+    {
+      "id": 10000,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10001,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10002,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10003,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10004,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "en": "<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11001,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：アイテムメニュー <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "en": "<?selectAll?>:Select　<?conclusion?>:Item Menu　<?cancel?>:Close　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status　<?HelpMenu?>",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：アイテムメニュー <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：アイテムメニュー <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替 <?HelpMenu?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11002,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11003,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel　<?viewChange?>:Toggle Status",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：取消 <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11004,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11005,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11006,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11007,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：装備をはずす <?viewChange?>：ステータス切替",
+      "en": "<?selectAll?>:Select　<?conclusion?>:Enter　<?cancel?>:Close　<?commando?>:Unequip Item　<?viewChange?>:Toggle Status",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：装備をはずす <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：装備をはずす <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：装備 <?cancel?>：戻る <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Equip　<?cancel?>:Back　<?commando?>:Toggle Display　<?viewChange?>:Toggle Status",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：装備 <?cancel?>：戻る <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：装備 <?cancel?>：戻る <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 14000,
+      "status": "from_improved",
+      "cn": "<?viewChange?>：表示切替 <?cancel?>：閉じる <?slectMenuSwitch?>：項目説明",
+      "en": "<?viewChange?>:Toggle Display <?cancel?>:Close <?slectMenuSwitch?>:Explanation",
+      "jp": "<?viewChange?>：表示切替 <?cancel?>：閉じる <?slectMenuSwitch?>：項目説明",
+      "cn_improved": "<?viewChange?>：表示切替 <?cancel?>：閉じる <?slectMenuSwitch?>：項目説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16003,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16004,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16005,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16006,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?conclusion?>:Confirm <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：実行 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16010,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16011,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select　<?selectLR?>:Change　<?cancel?>Back",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：変更 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16100,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：削除 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Delete　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：削除 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：削除 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16500,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16502,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16503,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16600,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：実行 <?viewChange?>：付け替え <?cancel?>：閉じる",
+      "en": "<?selectLR?>:Select <?conclusion?>:Confirm <?viewChange?>:Switch <?cancel?>:Close",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：実行 <?viewChange?>：付け替え <?cancel?>：閉じる",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：実行 <?viewChange?>：付け替え <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16601,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17300,
+      "status": "from_improved",
+      "cn": "<?conclusion?>：<?actionHelp?>",
+      "en": "<?conclusion?>:<?actionHelp?>",
+      "jp": "<?conclusion?>：<?actionHelp?>",
+      "cn_improved": "<?conclusion?>：<?actionHelp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17301,
+      "status": "from_improved",
+      "cn": "<?viewChange?>：切替",
+      "en": "<?viewChange?>:Toggle",
+      "jp": "<?viewChange?>：切替",
+      "cn_improved": "<?viewChange?>：切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17400,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17900,
+      "status": "from_improved",
+      "cn": "<?conclusion?>：閉じる",
+      "en": "<?conclusion?>:Close",
+      "jp": "<?conclusion?>：閉じる",
+      "cn_improved": "<?conclusion?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Cancel",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18200,
+      "status": "from_improved",
+      "cn": "<?sysmsg@18300?>",
+      "en": "<?sysmsg@18300?>",
+      "jp": "<?sysmsg@18300?>",
+      "cn_improved": "<?sysmsg@18300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18201,
+      "status": "from_improved",
+      "cn": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "en": "<?cancel?>:Close　<?viewChange?>:Change Display",
+      "jp": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_improved": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18210,
+      "status": "from_improved",
+      "cn": "<?sysmsg@18300?>",
+      "en": "<?sysmsg@18300?>",
+      "jp": "<?sysmsg@18300?>",
+      "cn_improved": "<?sysmsg@18300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18211,
+      "status": "from_improved",
+      "cn": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "en": "<?cancel?>:Close　<?viewChange?>:Change Display",
+      "jp": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_improved": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18300,
+      "status": "from_improved",
+      "cn": "<?sysmsg@18300?>",
+      "en": "<?sysmsg@18300?>",
+      "jp": "<?sysmsg@18300?>",
+      "cn_improved": "<?sysmsg@18300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18301,
+      "status": "from_improved",
+      "cn": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "en": "<?cancel?>:Close　<?viewChange?>:Change Display",
+      "jp": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_improved": "<?cancel?>：閉じる <?viewChange?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18310,
+      "status": "from_improved",
+      "cn": "<?sysmsg@18300?>",
+      "en": "<?sysmsg@18300?>",
+      "jp": "<?sysmsg@18300?>",
+      "cn_improved": "<?sysmsg@18300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 19000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?cancel?>：閉じる",
+      "en": "<?selectAll?>:Select <?cancel?>:Close",
+      "jp": "<?selectAll?>：選択 <?cancel?>：閉じる",
+      "cn_improved": "<?selectAll?>：選択 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 19900,
+      "status": "from_improved",
+      "cn": "<?slectMenuSwitch?>：項目説明",
+      "en": "<?slectMenuSwitch?>:Explanation",
+      "jp": "<?slectMenuSwitch?>：項目説明",
+      "cn_improved": "<?slectMenuSwitch?>：項目説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?commando?>：表示切替 <?viewChange?>：初期化 <?slectMenuSwitch?>：項目説明",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change <?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize <?slectMenuSwitch?>:Explanation",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?commando?>：表示切替 <?viewChange?>：初期化 <?slectMenuSwitch?>：項目説明",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?commando?>：表示切替 <?viewChange?>：初期化 <?slectMenuSwitch?>：項目説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20001,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22010,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：はずす <?viewChange?>：ステータス切替",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Remove <?viewChange?>:Toggle Status",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：はずす <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：はずす <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22011,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?viewChange?>:Toggle Status\n",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?viewChange?>：ステータス切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：購入 <?cancel?>：閉じる <?commando?>：表示切替",
+      "en": "<?selectAll?>:Select <?conclusion?>:Purchase <?cancel?>:Close <?commando?>:Toggle Display",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：購入 <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：購入 <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30100,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：食べさせる <?cancel?>：閉じる <?commando?>：表示切替",
+      "en": "<?selectAll?>:Select <?conclusion?>:Feed <?cancel?>:Close <?commando?>:Toggle Display",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：食べさせる <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：食べさせる <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32002,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?commando?>:Toggle Display",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?commando?>：表示切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41002,
+      "status": "from_improved",
+      "cn": "<?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "en": "<?conclusion?>:Enter <?cancel?>:Back <?viewChange?>:Toggle Display <?commando?>:Delete",
+      "jp": "<?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_improved": "<?conclusion?>：決定 <?cancel?>：戻る <?viewChange?>：表示切替 <?commando?>：削除",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42100,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42101,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42102,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42103,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42104,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42105,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42106,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42107,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42108,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42109,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Edit <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：編集 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42120,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42122,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42123,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42124,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42125,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42126,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42127,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43002,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43003,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Execute <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43004,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43005,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43006,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43007,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Select <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：実行 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43011,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43012,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43013,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Item <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43101,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43102,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43103,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43104,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43105,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43106,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43107,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43108,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43109,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43201,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43202,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43203,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43204,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43205,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43206,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43207,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43208,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43209,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43210,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43211,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43212,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43213,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43214,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43215,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43216,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectLR?>:Change Categories <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectLR?>：カテゴリ変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43501,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Value <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：値の増減 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43502,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?selectLR?>:Change Attribute <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?selectLR?>：項目変更 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43503,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back <?spin?>:Rotate Face",
+      "jp": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_improved": "<?selectUD?>：項目選択 <?conclusion?>：決定 <?cancel?>：戻る <?spin?>：顔回転",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Back",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：戻る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44001,
+      "status": "from_improved",
+      "cn": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：取消",
+      "en": "<?selectLR?>:Select <?conclusion?>:Enter <?cancel?>:Cancel",
+      "jp": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：取消",
+      "cn_improved": "<?selectLR?>：選択 <?conclusion?>：決定 <?cancel?>：取消",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45000,
+      "status": "from_improved",
+      "cn": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?categoryChangeL?><?categoryChangeR?>：増減 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "en": "<?selectAll?>:Select <?conclusion?>:Enter <?cancel?>:Close <?commando?>:Toggle Display <?categoryChangeL?><?categoryChangeR?>:Change <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box",
+      "jp": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?categoryChangeL?><?categoryChangeR?>：増減 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "cn_improved": "<?selectAll?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる <?commando?>：表示切替 <?categoryChangeL?><?categoryChangeR?>：増減 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：増減 <?cancel?>：戻る <?commando?>：表示切替 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "en": "<?selectUD?>:Select　<?selectLR?>:Change <?cancel?>:Back <?commando?>:Toggle Display <?shortCutL?>:Remove all from box <?shortCutR?>:Deposit all to box",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：増減 <?cancel?>：戻る <?commando?>：表示切替 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：増減 <?cancel?>：戻る <?commando?>：表示切替 <?shortCutL?>：すべて箱から出す <?shortCutR?>：すべて箱に入れる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 46000,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?viewChange?>：初期化",
+      "en": "<?selectUD?>:Select　<?selectLR?>:Change　<?conclusion?>:Enter <?cancel?>:Exit <?viewChange?>:Initialize",
+      "jp": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?viewChange?>：初期化",
+      "cn_improved": "<?selectUD?>：選択 <?selectLR?>：増減 <?conclusion?>：決定 <?cancel?>：終了 <?viewChange?>：初期化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 46001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "en": "<?selectUD?>:Select　<?conclusion?>:Enter　<?cancel?>:Cancel",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：キャンセル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 69001,
+      "status": "from_improved",
+      "cn": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "en": "<?selectUD?>:Select <?conclusion?>:Enter <?cancel?>:Close",
+      "jp": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_improved": "<?selectUD?>：選択 <?conclusion?>：決定 <?cancel?>：閉じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 70000,
+      "status": "from_improved",
+      "cn": "<?cancel?>：閉じる <?categoryChangeL?><?categoryChangeR?>：階層移動",
+      "en": "<?cancel?>：Close <?categoryChangeL?><?categoryChangeR?>：LevelMove",
+      "jp": "<?cancel?>：閉じる <?categoryChangeL?><?categoryChangeR?>：階層移動",
+      "cn_improved": "<?cancel?>：閉じる <?categoryChangeL?><?categoryChangeR?>：階層移動",
+      "cn_resurrection": null
+    }
+  ]
+}

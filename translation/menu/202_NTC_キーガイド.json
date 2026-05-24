@@ -1,0 +1,359 @@
+{
+  "fmg_id": 202,
+  "fmg_name": "NTC_キーガイド",
+  "domain": "menu",
+  "count": 39,
+  "entries": [
+    {
+      "id": 100000,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100001,
+      "status": "from_improved",
+      "cn": "执行",
+      "en": "Confirm",
+      "jp": "実行",
+      "cn_improved": "执行",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100002,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100008,
+      "status": "from_improved",
+      "cn": "装备/卸下",
+      "en": "Equip/Remove",
+      "jp": "装備/はずす",
+      "cn_improved": "装备/卸下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100009,
+      "status": "from_improved",
+      "cn": "开始记录残影",
+      "en": "Record Remnant",
+      "jp": "残影記録を開始",
+      "cn_improved": "开始记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100010,
+      "status": "from_improved",
+      "cn": "重新记录残影",
+      "en": "Record and overwrite",
+      "jp": "上書きして残影記録を開始",
+      "cn_improved": "重新记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100011,
+      "status": "from_improved",
+      "cn": "确认残影",
+      "en": "View Remnant",
+      "jp": "残影を確認",
+      "cn_improved": "确认残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100012,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100013,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100015,
+      "status": "from_improved",
+      "cn": "下一项",
+      "en": "Next",
+      "jp": "次へ",
+      "cn_improved": "下一项",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100020,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@33?>：下一项",
+      "en": "<?kgiconKc@33?>: Next",
+      "jp": "<?kgiconKc@33?>:次へ",
+      "cn_improved": "<?kgiconKc@33?>：下一项",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100030,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@25?>：略过 <?kgiconKc@26?>：中断",
+      "en": "<?kgiconKc@25?>:Next <?kgiconKc@26?>:Cancel",
+      "jp": "<?kgiconKc@25?>:送る <?kgiconKc@26?>:中断",
+      "cn_improved": "<?kgiconKc@25?>：略过 <?kgiconKc@26?>：中断",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110000,
+      "status": "from_improved",
+      "cn": "返回",
+      "en": "Back",
+      "jp": "戻る",
+      "cn_improved": "返回",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110001,
+      "status": "from_improved",
+      "cn": "关闭",
+      "en": "Close",
+      "jp": "閉じる",
+      "cn_improved": "关闭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110002,
+      "status": "from_improved",
+      "cn": "返回",
+      "en": "Back",
+      "jp": "戻る",
+      "cn_improved": "返回",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110003,
+      "status": "from_improved",
+      "cn": "返回",
+      "en": "Back",
+      "jp": "戻る",
+      "cn_improved": "返回",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110004,
+      "status": "from_improved",
+      "cn": "返回",
+      "en": "Back",
+      "jp": "戻る",
+      "cn_improved": "返回",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120000,
+      "status": "from_improved",
+      "cn": "卸下",
+      "en": "Remove",
+      "jp": "はずす",
+      "cn_improved": "卸下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120200,
+      "status": "from_improved",
+      "cn": "解除配置",
+      "en": "Unallocate",
+      "jp": "割り当ての解除",
+      "cn_improved": "解除配置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120300,
+      "status": "from_improved",
+      "cn": "删除",
+      "en": "Delete",
+      "jp": "削除",
+      "cn_improved": "删除",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120400,
+      "status": "from_improved",
+      "cn": "好评",
+      "en": "Praise",
+      "jp": "評価",
+      "cn_improved": "好评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120500,
+      "status": "from_improved",
+      "cn": "开始记录残影",
+      "en": "Record Remnant",
+      "jp": "残影記録を開始",
+      "cn_improved": "开始记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120501,
+      "status": "from_improved",
+      "cn": "更新留言",
+      "en": "Update message",
+      "jp": "覚え書きを更新",
+      "cn_improved": "更新留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120600,
+      "status": "from_improved",
+      "cn": "重新记录残影",
+      "en": "Record and overwrite",
+      "jp": "上書きして残影記録を開始",
+      "cn_improved": "重新记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130000,
+      "status": "from_improved",
+      "cn": "切换显示",
+      "en": "Swap Display",
+      "jp": "表示切替",
+      "cn_improved": "切换显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130050,
+      "status": "from_improved",
+      "cn": "初始化",
+      "en": "Return to Default",
+      "jp": "初期化",
+      "cn_improved": "初始化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130100,
+      "status": "from_improved",
+      "cn": "打开古地图",
+      "en": "Open the Antique Map",
+      "jp": "古地図を開く",
+      "cn_improved": "打开古地图",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130200,
+      "status": "from_improved",
+      "cn": "切换保护状态",
+      "en": "Protect ON/OFF",
+      "jp": "保護状態の切替",
+      "cn_improved": "切换保护状态",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130300,
+      "status": "from_improved",
+      "cn": "差评",
+      "en": "Scorn",
+      "jp": "悪評",
+      "cn_improved": "差评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130400,
+      "status": "from_improved",
+      "cn": "切换有效·无效选项",
+      "en": "Toggle selection on/off",
+      "jp": "オプション項目の有効・無効の切替",
+      "cn_improved": "切换有效·无效选项",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130500,
+      "status": "from_improved",
+      "cn": "设定留言",
+      "en": "Write message",
+      "jp": "覚え書きを設定",
+      "cn_improved": "设定留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130600,
+      "status": "from_improved",
+      "cn": "重新设定留言",
+      "en": "Overwrite with new message",
+      "jp": "上書きして覚書を設定",
+      "cn_improved": "重新设定留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 140100,
+      "status": "from_improved",
+      "cn": "-10",
+      "en": "-10",
+      "jp": "-10",
+      "cn_improved": "-10",
+      "cn_resurrection": null
+    },
+    {
+      "id": 140101,
+      "status": "from_improved",
+      "cn": "+10",
+      "en": "+10",
+      "jp": "+10",
+      "cn_improved": "+10",
+      "cn_resurrection": null
+    },
+    {
+      "id": 160010,
+      "status": "from_improved",
+      "cn": "返回",
+      "en": "Back",
+      "jp": "戻る",
+      "cn_improved": "返回",
+      "cn_resurrection": null
+    },
+    {
+      "id": 160020,
+      "status": "from_improved",
+      "cn": "好评",
+      "en": "Praise",
+      "jp": "評価",
+      "cn_improved": "好评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 160021,
+      "status": "from_improved",
+      "cn": "差评",
+      "en": "Scorn",
+      "jp": "悪評",
+      "cn_improved": "差评",
+      "cn_resurrection": null
+    },
+    {
+      "id": 200010,
+      "status": "from_improved",
+      "cn": "滚动",
+      "en": "Scroll",
+      "jp": "スクロール",
+      "cn_improved": "滚动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 400003,
+      "status": "from_improved",
+      "cn": "删除",
+      "en": "Delete",
+      "jp": "削除",
+      "cn_improved": "删除",
+      "cn_resurrection": null
+    }
+  ]
+}

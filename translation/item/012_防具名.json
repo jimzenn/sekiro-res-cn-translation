@@ -1,0 +1,44 @@
+{
+  "fmg_id": 12,
+  "fmg_name": "防具名",
+  "domain": "item",
+  "count": 4,
+  "entries": [
+    {
+      "id": 103000,
+      "status": "from_improved",
+      "cn": "元初记忆·狼",
+      "en": "Original Memory: Wolf",
+      "jp": "元の記憶・狼",
+      "cn_improved": "元初记忆·狼",
+      "cn_resurrection": "原本的记忆·狼"
+    },
+    {
+      "id": 303000,
+      "status": "from_improved",
+      "cn": "彼之记忆·修罗",
+      "en": "Another's Memory: Shura",
+      "jp": "別の記憶・修羅",
+      "cn_improved": "彼之记忆·修罗",
+      "cn_resurrection": "其他记忆·修罗"
+    },
+    {
+      "id": 403000,
+      "status": "from_improved",
+      "cn": "彼之记忆·苇名古忍",
+      "en": "Another's Memory: Ashina",
+      "jp": "別の記憶・葦名の古忍び",
+      "cn_improved": "彼之记忆·苇名古忍",
+      "cn_resurrection": "其他记忆·苇名的古老忍者"
+    },
+    {
+      "id": 503000,
+      "status": "from_improved",
+      "cn": "彼之记忆·天狗",
+      "en": "Another's Memory: Tengu",
+      "jp": "別の記憶・天狗",
+      "cn_improved": "彼之记忆·天狗",
+      "cn_resurrection": "其他记忆·天狗"
+    }
+  ]
+}

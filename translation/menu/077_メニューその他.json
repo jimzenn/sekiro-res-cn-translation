@@ -1,0 +1,5021 @@
+{
+  "fmg_id": 77,
+  "fmg_name": "メニューその他",
+  "domain": "menu",
+  "count": 557,
+  "entries": [
+    {
+      "id": 100000,
+      "status": "from_improved",
+      "cn": "DARK　SOULS",
+      "en": "DARK　SOULS",
+      "jp": "DARK　SOULS",
+      "cn_improved": "DARK　SOULS",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100002,
+      "status": "from_improved",
+      "cn": "セーブデータ",
+      "en": "セーブデータ",
+      "jp": "セーブデータ",
+      "cn_improved": "セーブデータ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100003,
+      "status": "from_improved",
+      "cn": "セーブデータ",
+      "en": "セーブデータ",
+      "jp": "セーブデータ",
+      "cn_improved": "セーブデータ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120000,
+      "status": "from_improved",
+      "cn": "レベルアップ",
+      "en": "レベルアップ",
+      "jp": "レベルアップ",
+      "cn_improved": "レベルアップ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120001,
+      "status": "from_improved",
+      "cn": "魔法記憶",
+      "en": "魔法記憶",
+      "jp": "魔法記憶",
+      "cn_improved": "魔法記憶",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120010,
+      "status": "from_improved",
+      "cn": "購入",
+      "en": "購入",
+      "jp": "購入",
+      "cn_improved": "購入",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120011,
+      "status": "from_improved",
+      "cn": "修理",
+      "en": "修理",
+      "jp": "修理",
+      "cn_improved": "修理",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120012,
+      "status": "from_improved",
+      "cn": "武器強化",
+      "en": "武器強化",
+      "jp": "武器強化",
+      "cn_improved": "武器強化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120016,
+      "status": "from_improved",
+      "cn": "食べさせる",
+      "en": "食べさせる",
+      "jp": "食べさせる",
+      "cn_improved": "食べさせる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120017,
+      "status": "from_improved",
+      "cn": "一覧",
+      "en": "一覧",
+      "jp": "一覧",
+      "cn_improved": "一覧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120018,
+      "status": "from_improved",
+      "cn": "底なしの箱",
+      "en": "底なしの箱",
+      "jp": "底なしの箱",
+      "cn_improved": "底なしの箱",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120019,
+      "status": "from_improved",
+      "cn": "人間性回復",
+      "en": "人間性回復",
+      "jp": "人間性回復",
+      "cn_improved": "人間性回復",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120020,
+      "status": "from_improved",
+      "cn": "防具強化",
+      "en": "防具強化",
+      "jp": "防具強化",
+      "cn_improved": "防具強化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120021,
+      "status": "from_improved",
+      "cn": "武器進化",
+      "en": "武器進化",
+      "jp": "武器進化",
+      "cn_improved": "武器進化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120022,
+      "status": "from_improved",
+      "cn": "<?goodsNameId@108?>",
+      "en": "<?goodsNameId@108?>",
+      "jp": "<?goodsNameId@108?>",
+      "cn_improved": "<?goodsNameId@108?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120023,
+      "status": "from_improved",
+      "cn": "<?goodsNameId@112?>",
+      "en": "<?goodsNameId@112?>",
+      "jp": "<?goodsNameId@112?>",
+      "cn_improved": "<?goodsNameId@112?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 122000,
+      "status": "from_improved",
+      "cn": "必要ソウル",
+      "en": "必要ソウル",
+      "jp": "必要ソウル",
+      "cn_improved": "必要ソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 122050,
+      "status": "from_improved",
+      "cn": "得られるソウル",
+      "en": "得られるソウル",
+      "jp": "得られるソウル",
+      "cn_improved": "得られるソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130000,
+      "status": "from_improved",
+      "cn": "PRESS START BUTTON",
+      "en": "PRESS START BUTTON",
+      "jp": "PRESS START BUTTON",
+      "cn_improved": "PRESS START BUTTON",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130001,
+      "status": "from_improved",
+      "cn": "NEW GAME",
+      "en": "NEW GAME",
+      "jp": "NEW GAME",
+      "cn_improved": "NEW GAME",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130002,
+      "status": "from_improved",
+      "cn": "LOAD GAME",
+      "en": "LOAD GAME",
+      "jp": "LOAD GAME",
+      "cn_improved": "LOAD GAME",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130003,
+      "status": "from_improved",
+      "cn": "⑬2011 NBGI ⑬2011 FromSoftware, Inc.",
+      "en": "⑬2011 NBGI ⑬2011 FromSoftware, Inc.",
+      "jp": "⑬2011 NBGI ⑬2011 FromSoftware, Inc.",
+      "cn_improved": "⑬2011 NBGI ⑬2011 FromSoftware, Inc.",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130004,
+      "status": "from_improved",
+      "cn": "⑬2011 NAMCO BANDAI Games Inc.",
+      "en": "⑬2011 NAMCO BANDAI Games Inc.",
+      "jp": "⑬2011 NAMCO BANDAI Games Inc.",
+      "cn_improved": "⑬2011 NAMCO BANDAI Games Inc.",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130020,
+      "status": "from_improved",
+      "cn": "データリスト",
+      "en": "データリスト",
+      "jp": "データリスト",
+      "cn_improved": "データリスト",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130021,
+      "status": "from_improved",
+      "cn": "キャラクター作成",
+      "en": "キャラクター作成",
+      "jp": "キャラクター作成",
+      "cn_improved": "キャラクター作成",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132010,
+      "status": "from_improved",
+      "cn": "男性",
+      "en": "男性",
+      "jp": "男性",
+      "cn_improved": "男性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132011,
+      "status": "from_improved",
+      "cn": "女性",
+      "en": "女性",
+      "jp": "女性",
+      "cn_improved": "女性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132020,
+      "status": "from_improved",
+      "cn": "戦士",
+      "en": "戦士",
+      "jp": "戦士",
+      "cn_improved": "戦士",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132021,
+      "status": "from_improved",
+      "cn": "騎士",
+      "en": "騎士",
+      "jp": "騎士",
+      "cn_improved": "騎士",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132022,
+      "status": "from_improved",
+      "cn": "放浪者",
+      "en": "放浪者",
+      "jp": "放浪者",
+      "cn_improved": "放浪者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132023,
+      "status": "from_improved",
+      "cn": "盗人",
+      "en": "盗人",
+      "jp": "盗人",
+      "cn_improved": "盗人",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132024,
+      "status": "from_improved",
+      "cn": "山賊",
+      "en": "山賊",
+      "jp": "山賊",
+      "cn_improved": "山賊",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132025,
+      "status": "from_improved",
+      "cn": "狩人",
+      "en": "狩人",
+      "jp": "狩人",
+      "cn_improved": "狩人",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132026,
+      "status": "from_improved",
+      "cn": "魔術師",
+      "en": "魔術師",
+      "jp": "魔術師",
+      "cn_improved": "魔術師",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132027,
+      "status": "from_improved",
+      "cn": "呪術師",
+      "en": "呪術師",
+      "jp": "呪術師",
+      "cn_improved": "呪術師",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132028,
+      "status": "from_improved",
+      "cn": "聖職者",
+      "en": "聖職者",
+      "jp": "聖職者",
+      "cn_improved": "聖職者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132029,
+      "status": "from_improved",
+      "cn": "持たざるもの",
+      "en": "持たざるもの",
+      "jp": "持たざるもの",
+      "cn_improved": "持たざるもの",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132050,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132051,
+      "status": "from_improved",
+      "cn": "女神の祝福",
+      "en": "女神の祝福",
+      "jp": "女神の祝福",
+      "cn_improved": "女神の祝福",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132052,
+      "status": "from_improved",
+      "cn": "黒い火炎壺",
+      "en": "黒い火炎壺",
+      "jp": "黒い火炎壺",
+      "cn_improved": "黒い火炎壺",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132053,
+      "status": "from_improved",
+      "cn": "人間性の双子",
+      "en": "人間性の双子",
+      "jp": "人間性の双子",
+      "cn_improved": "人間性の双子",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132054,
+      "status": "from_improved",
+      "cn": "遠眼鏡",
+      "en": "遠眼鏡",
+      "jp": "遠眼鏡",
+      "cn_improved": "遠眼鏡",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132055,
+      "status": "from_improved",
+      "cn": "ペンダント",
+      "en": "ペンダント",
+      "jp": "ペンダント",
+      "cn_improved": "ペンダント",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132056,
+      "status": "from_improved",
+      "cn": "万能鍵",
+      "en": "万能鍵",
+      "jp": "万能鍵",
+      "cn_improved": "万能鍵",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132057,
+      "status": "from_improved",
+      "cn": "小さな生命の指輪",
+      "en": "小さな生命の指輪",
+      "jp": "小さな生命の指輪",
+      "cn_improved": "小さな生命の指輪",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132058,
+      "status": "from_improved",
+      "cn": "老魔女の指輪",
+      "en": "老魔女の指輪",
+      "jp": "老魔女の指輪",
+      "cn_improved": "老魔女の指輪",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132080,
+      "status": "from_improved",
+      "cn": "外見の編集",
+      "en": "外見の編集",
+      "jp": "外見の編集",
+      "cn_improved": "外見の編集",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132100,
+      "status": "from_improved",
+      "cn": "キャラクターの名前を入力してください",
+      "en": "キャラクターの名前を入力してください",
+      "jp": "キャラクターの名前を入力してください",
+      "cn_improved": "キャラクターの名前を入力してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132200,
+      "status": "from_improved",
+      "cn": "キャラクターの名前を入力してください",
+      "en": "キャラクターの名前を入力してください",
+      "jp": "キャラクターの名前を入力してください",
+      "cn_improved": "キャラクターの名前を入力してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132201,
+      "status": "from_improved",
+      "cn": "---",
+      "en": "---",
+      "jp": "---",
+      "cn_improved": "---",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132310,
+      "status": "from_improved",
+      "cn": "男性のキャラクター\n性別と能力は無関係",
+      "en": "男性のキャラクター\n性別と能力は無関係",
+      "jp": "男性のキャラクター\n性別と能力は無関係",
+      "cn_improved": "男性のキャラクター\n性別と能力は無関係",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132311,
+      "status": "from_improved",
+      "cn": "女性のキャラクター\n性別と能力は無関係",
+      "en": "女性のキャラクター\n性別と能力は無関係",
+      "jp": "女性のキャラクター\n性別と能力は無関係",
+      "cn_improved": "女性のキャラクター\n性別と能力は無関係",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132320,
+      "status": "from_improved",
+      "cn": "戦を生業とする戦士\n筋力、技量共に高い\n武器の専門家",
+      "en": "戦を生業とする戦士\n筋力、技量共に高い\n武器の専門家",
+      "jp": "戦を生業とする戦士\n筋力、技量共に高い\n武器の専門家",
+      "cn_improved": "戦を生業とする戦士\n筋力、技量共に高い\n武器の専門家",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132321,
+      "status": "from_improved",
+      "cn": "下級の騎士\n体力が高く鎧も硬く\n打たれ強い",
+      "en": "下級の騎士\n体力が高く鎧も硬く\n打たれ強い",
+      "jp": "下級の騎士\n体力が高く鎧も硬く\n打たれ強い",
+      "cn_improved": "下級の騎士\n体力が高く鎧も硬く\n打たれ強い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132322,
+      "status": "from_improved",
+      "cn": "あてのない放浪者\n曲刀を武器とする\n技量の高い剣士",
+      "en": "あてのない放浪者\n曲刀を武器とする\n技量の高い剣士",
+      "jp": "あてのない放浪者\n曲刀を武器とする\n技量の高い剣士",
+      "cn_improved": "あてのない放浪者\n曲刀を武器とする\n技量の高い剣士",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132323,
+      "status": "from_improved",
+      "cn": "うしろめたい盗人\n致命の一撃を狙う\n万能鍵を持っている",
+      "en": "うしろめたい盗人\n致命の一撃を狙う\n万能鍵を持っている",
+      "jp": "うしろめたい盗人\n致命の一撃を狙う\n万能鍵を持っている",
+      "cn_improved": "うしろめたい盗人\n致命の一撃を狙う\n万能鍵を持っている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132324,
+      "status": "from_improved",
+      "cn": "野蛮な山の盗賊\n高い筋力で\n重い戦斧を振るう",
+      "en": "野蛮な山の盗賊\n高い筋力で\n重い戦斧を振るう",
+      "jp": "野蛮な山の盗賊\n高い筋力で\n重い戦斧を振るう",
+      "cn_improved": "野蛮な山の盗賊\n高い筋力で\n重い戦斧を振るう",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132325,
+      "status": "from_improved",
+      "cn": "弓を使う狩人\n接近戦もこなすが\n魔法全般は苦手",
+      "en": "弓を使う狩人\n接近戦もこなすが\n魔法全般は苦手",
+      "jp": "弓を使う狩人\n接近戦もこなすが\n魔法全般は苦手",
+      "cn_improved": "弓を使う狩人\n接近戦もこなすが\n魔法全般は苦手",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132326,
+      "status": "from_improved",
+      "cn": "ヴィンハイムの\n竜の学院の魔術師\nソウルの魔術を操る",
+      "en": "ヴィンハイムの\n竜の学院の魔術師\nソウルの魔術を操る",
+      "jp": "ヴィンハイムの\n竜の学院の魔術師\nソウルの魔術を操る",
+      "cn_improved": "ヴィンハイムの\n竜の学院の魔術師\nソウルの魔術を操る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132327,
+      "status": "from_improved",
+      "cn": "大沼の呪術師\n炎を操る呪術の他\n手斧も使いこなす",
+      "en": "大沼の呪術師\n炎を操る呪術の他\n手斧も使いこなす",
+      "jp": "大沼の呪術師\n炎を操る呪術の他\n手斧も使いこなす",
+      "cn_improved": "大沼の呪術師\n炎を操る呪術の他\n手斧も使いこなす",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132328,
+      "status": "from_improved",
+      "cn": "旅の聖職者\nメイスを振るい\n回復の奇跡を使う",
+      "en": "旅の聖職者\nメイスを振るい\n回復の奇跡を使う",
+      "jp": "旅の聖職者\nメイスを振るい\n回復の奇跡を使う",
+      "cn_improved": "旅の聖職者\nメイスを振るい\n回復の奇跡を使う",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132329,
+      "status": "from_improved",
+      "cn": "素性も知れぬ裸の人\n棍棒と板きれの盾が\n装備品のすべて",
+      "en": "素性も知れぬ裸の人\n棍棒と板きれの盾が\n装備品のすべて",
+      "jp": "素性も知れぬ裸の人\n棍棒と板きれの盾が\n装備品のすべて",
+      "cn_improved": "素性も知れぬ裸の人\n棍棒と板きれの盾が\n装備品のすべて",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132350,
+      "status": "from_improved",
+      "cn": "贈り物など\nなにもなかった",
+      "en": "贈り物など\nなにもなかった",
+      "jp": "贈り物など\nなにもなかった",
+      "cn_improved": "贈り物など\nなにもなかった",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132351,
+      "status": "from_improved",
+      "cn": "祝福の聖水\nＨＰを全回復し\n異常を癒す",
+      "en": "祝福の聖水\nＨＰを全回復し\n異常を癒す",
+      "jp": "祝福の聖水\nＨＰを全回復し\n異常を癒す",
+      "cn_improved": "祝福の聖水\nＨＰを全回復し\n異常を癒す",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132352,
+      "status": "from_improved",
+      "cn": "投げつけると\n爆発する黒い火炎壷\n通常のものより強力",
+      "en": "投げつけると\n爆発する黒い火炎壷\n通常のものより強力",
+      "jp": "投げつけると\n爆発する黒い火炎壷\n通常のものより強力",
+      "cn_improved": "投げつけると\n爆発する黒い火炎壷\n通常のものより強力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132353,
+      "status": "from_improved",
+      "cn": "稀に死体に見られる\n小さな黒い精霊\n人間性と呼ばれる",
+      "en": "稀に死体に見られる\n小さな黒い精霊\n人間性と呼ばれる",
+      "jp": "稀に死体に見られる\n小さな黒い精霊\n人間性と呼ばれる",
+      "cn_improved": "稀に死体に見られる\n小さな黒い精霊\n人間性と呼ばれる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132354,
+      "status": "from_improved",
+      "cn": "双眼の遠眼鏡\n遠くの景色が\n大きく見える",
+      "en": "双眼の遠眼鏡\n遠くの景色が\n大きく見える",
+      "jp": "双眼の遠眼鏡\n遠くの景色が\n大きく見える",
+      "cn_improved": "双眼の遠眼鏡\n遠くの景色が\n大きく見える",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132355,
+      "status": "from_improved",
+      "cn": "何の効果もない品\nだが辛い旅には\n思い出が必要なのだ",
+      "en": "何の効果もない品\nだが辛い旅には\n思い出が必要なのだ",
+      "jp": "何の効果もない品\nだが辛い旅には\n思い出が必要なのだ",
+      "cn_improved": "何の効果もない品\nだが辛い旅には\n思い出が必要なのだ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132356,
+      "status": "from_improved",
+      "cn": "簡単な鍵であれば\n開けてしまう万能鍵\n素性盗人の初期装備",
+      "en": "簡単な鍵であれば\n開けてしまう万能鍵\n素性盗人の初期装備",
+      "jp": "簡単な鍵であれば\n開けてしまう万能鍵\n素性盗人の初期装備",
+      "cn_improved": "簡単な鍵であれば\n開けてしまう万能鍵\n素性盗人の初期装備",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132357,
+      "status": "from_improved",
+      "cn": "古くから伝わる指輪\n装備することで\nＨＰが少し増える",
+      "en": "古くから伝わる指輪\n装備することで\nＨＰが少し増える",
+      "jp": "古くから伝わる指輪\n装備することで\nＨＰが少し増える",
+      "cn_improved": "古くから伝わる指輪\n装備することで\nＨＰが少し増える",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132358,
+      "status": "from_improved",
+      "cn": "魔女からの贈り物\n特に効果のない\n古い指輪のようだが",
+      "en": "魔女からの贈り物\n特に効果のない\n古い指輪のようだが",
+      "jp": "魔女からの贈り物\n特に効果のない\n古い指輪のようだが",
+      "cn_improved": "魔女からの贈り物\n特に効果のない\n古い指輪のようだが",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132380,
+      "status": "from_improved",
+      "cn": "ごく普通の体型",
+      "en": "ごく普通の体型",
+      "jp": "ごく普通の体型",
+      "cn_improved": "ごく普通の体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132381,
+      "status": "from_improved",
+      "cn": "痩せた体型",
+      "en": "痩せた体型",
+      "jp": "痩せた体型",
+      "cn_improved": "痩せた体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132382,
+      "status": "from_improved",
+      "cn": "とても痩せた体型\nガリガリ",
+      "en": "とても痩せた体型\nガリガリ",
+      "jp": "とても痩せた体型\nガリガリ",
+      "cn_improved": "とても痩せた体型\nガリガリ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132383,
+      "status": "from_improved",
+      "cn": "太った体型",
+      "en": "太った体型",
+      "jp": "太った体型",
+      "cn_improved": "太った体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132384,
+      "status": "from_improved",
+      "cn": "とても太った体型\n貫禄がある",
+      "en": "とても太った体型\n貫禄がある",
+      "jp": "とても太った体型\n貫禄がある",
+      "cn_improved": "とても太った体型\n貫禄がある",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132385,
+      "status": "from_improved",
+      "cn": "特に上半身が\nがっちりとした体型",
+      "en": "特に上半身が\nがっちりとした体型",
+      "jp": "特に上半身が\nがっちりとした体型",
+      "cn_improved": "特に上半身が\nがっちりとした体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132386,
+      "status": "from_improved",
+      "cn": "特に下半身が\nでっぷりとした体型",
+      "en": "特に下半身が\nでっぷりとした体型",
+      "jp": "特に下半身が\nでっぷりとした体型",
+      "cn_improved": "特に下半身が\nでっぷりとした体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132387,
+      "status": "from_improved",
+      "cn": "頭が大きな体型\n賢いのかもしれない",
+      "en": "頭が大きな体型\n賢いのかもしれない",
+      "jp": "頭が大きな体型\n賢いのかもしれない",
+      "cn_improved": "頭が大きな体型\n賢いのかもしれない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132388,
+      "status": "from_improved",
+      "cn": "頭が小さな体型",
+      "en": "頭が小さな体型",
+      "jp": "頭が小さな体型",
+      "cn_improved": "頭が小さな体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132400,
+      "status": "from_improved",
+      "cn": "ごくありふれた\n平民の顔",
+      "en": "ごくありふれた\n平民の顔",
+      "jp": "ごくありふれた\n平民の顔",
+      "cn_improved": "ごくありふれた\n平民の顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132401,
+      "status": "from_improved",
+      "cn": "五指河流域に暮らす\n農民によくある顔",
+      "en": "五指河流域に暮らす\n農民によくある顔",
+      "jp": "五指河流域に暮らす\n農民によくある顔",
+      "cn_improved": "五指河流域に暮らす\n農民によくある顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132402,
+      "status": "from_improved",
+      "cn": "美形の貴族顔\nアストラに多い",
+      "en": "美形の貴族顔\nアストラに多い",
+      "jp": "美形の貴族顔\nアストラに多い",
+      "cn_improved": "美形の貴族顔\nアストラに多い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132403,
+      "status": "from_improved",
+      "cn": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "en": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "jp": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "cn_improved": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132404,
+      "status": "from_improved",
+      "cn": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "en": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "jp": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "cn_improved": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132405,
+      "status": "from_improved",
+      "cn": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "en": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "jp": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "cn_improved": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132406,
+      "status": "from_improved",
+      "cn": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "en": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "jp": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "cn_improved": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132407,
+      "status": "from_improved",
+      "cn": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "en": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "jp": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "cn_improved": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132408,
+      "status": "from_improved",
+      "cn": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "en": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "jp": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "cn_improved": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132409,
+      "status": "from_improved",
+      "cn": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "en": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "jp": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "cn_improved": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132410,
+      "status": "from_improved",
+      "cn": "ごくありふれた\n平民の顔",
+      "en": "ごくありふれた\n平民の顔",
+      "jp": "ごくありふれた\n平民の顔",
+      "cn_improved": "ごくありふれた\n平民の顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132411,
+      "status": "from_improved",
+      "cn": "五指河流域に暮らす\n農民によくある顔",
+      "en": "五指河流域に暮らす\n農民によくある顔",
+      "jp": "五指河流域に暮らす\n農民によくある顔",
+      "cn_improved": "五指河流域に暮らす\n農民によくある顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132412,
+      "status": "from_improved",
+      "cn": "美形の貴族顔\nアストラに多い",
+      "en": "美形の貴族顔\nアストラに多い",
+      "jp": "美形の貴族顔\nアストラに多い",
+      "cn_improved": "美形の貴族顔\nアストラに多い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132413,
+      "status": "from_improved",
+      "cn": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "en": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "jp": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "cn_improved": "知的で線の細い顔\nただし書生顔とは\n多くは揶揄である",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132414,
+      "status": "from_improved",
+      "cn": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "en": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "jp": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "cn_improved": "頑なさで知られる\n聖職者の国\nソルロンドの面相",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132415,
+      "status": "from_improved",
+      "cn": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "en": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "jp": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "cn_improved": "陽気そうな顔\n酒と謳歌の国\nカタリナのイメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132416,
+      "status": "from_improved",
+      "cn": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "en": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "jp": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "cn_improved": "陰気そうな顔\n主にカリム伯の\nよからぬ風評から",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132417,
+      "status": "from_improved",
+      "cn": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "en": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "jp": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "cn_improved": "歴史あるゼナに多い\n古めかしい面相\n思慮深いイメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132418,
+      "status": "from_improved",
+      "cn": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "en": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "jp": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "cn_improved": "他と違う異形の顔\n偏見は異端を生み\n異端は大沼に至る",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132419,
+      "status": "from_improved",
+      "cn": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "en": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "jp": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "cn_improved": "はるか東の地の面相\n切れ長の細い目と\n薄い唇に特徴がある",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132420,
+      "status": "from_improved",
+      "cn": "綺麗に剃り上げた\nスキンヘッド",
+      "en": "綺麗に剃り上げた\nスキンヘッド",
+      "jp": "綺麗に剃り上げた\nスキンヘッド",
+      "cn_improved": "綺麗に剃り上げた\nスキンヘッド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132421,
+      "status": "from_improved",
+      "cn": "無造作な戦士の髪型\n年齢を感じる",
+      "en": "無造作な戦士の髪型\n年齢を感じる",
+      "jp": "無造作な戦士の髪型\n年齢を感じる",
+      "cn_improved": "無造作な戦士の髪型\n年齢を感じる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132422,
+      "status": "from_improved",
+      "cn": "短く刈り込んだ髪型\n緩くウェーブあり",
+      "en": "短く刈り込んだ髪型\n緩くウェーブあり",
+      "jp": "短く刈り込んだ髪型\n緩くウェーブあり",
+      "cn_improved": "短く刈り込んだ髪型\n緩くウェーブあり",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132423,
+      "status": "from_improved",
+      "cn": "長髪をそのまま\n後ろに流した髪型",
+      "en": "長髪をそのまま\n後ろに流した髪型",
+      "jp": "長髪をそのまま\n後ろに流した髪型",
+      "cn_improved": "長髪をそのまま\n後ろに流した髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132424,
+      "status": "from_improved",
+      "cn": "長髪を後ろに流し\nまとめて縛った髪型",
+      "en": "長髪を後ろに流し\nまとめて縛った髪型",
+      "jp": "長髪を後ろに流し\nまとめて縛った髪型",
+      "cn_improved": "長髪を後ろに流し\nまとめて縛った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132425,
+      "status": "from_improved",
+      "cn": "自然な長髪\n汗に濡れ乱れている",
+      "en": "自然な長髪\n汗に濡れ乱れている",
+      "jp": "自然な長髪\n汗に濡れ乱れている",
+      "cn_improved": "自然な長髪\n汗に濡れ乱れている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132426,
+      "status": "from_improved",
+      "cn": "手入れされた髪型\n若者に多い",
+      "en": "手入れされた髪型\n若者に多い",
+      "jp": "手入れされた髪型\n若者に多い",
+      "cn_improved": "手入れされた髪型\n若者に多い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132427,
+      "status": "from_improved",
+      "cn": "手入れされた髪型\n少し長め",
+      "en": "手入れされた髪型\n少し長め",
+      "jp": "手入れされた髪型\n少し長め",
+      "cn_improved": "手入れされた髪型\n少し長め",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132428,
+      "status": "from_improved",
+      "cn": "癖の強い巻き毛を\n短めに切った髪型",
+      "en": "癖の強い巻き毛を\n短めに切った髪型",
+      "jp": "癖の強い巻き毛を\n短めに切った髪型",
+      "cn_improved": "癖の強い巻き毛を\n短めに切った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132429,
+      "status": "from_improved",
+      "cn": "丁寧に形作られた\n古い貴族の髪型",
+      "en": "丁寧に形作られた\n古い貴族の髪型",
+      "jp": "丁寧に形作られた\n古い貴族の髪型",
+      "cn_improved": "丁寧に形作られた\n古い貴族の髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132430,
+      "status": "from_improved",
+      "cn": "綺麗に剃り上げた\nスキンヘッド",
+      "en": "綺麗に剃り上げた\nスキンヘッド",
+      "jp": "綺麗に剃り上げた\nスキンヘッド",
+      "cn_improved": "綺麗に剃り上げた\nスキンヘッド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132431,
+      "status": "from_improved",
+      "cn": "まるで男性のように\n短く刈り込んだ髪型",
+      "en": "まるで男性のように\n短く刈り込んだ髪型",
+      "jp": "まるで男性のように\n短く刈り込んだ髪型",
+      "cn_improved": "まるで男性のように\n短く刈り込んだ髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132432,
+      "status": "from_improved",
+      "cn": "癖の強い巻き毛を\n短めに切った髪型",
+      "en": "癖の強い巻き毛を\n短めに切った髪型",
+      "jp": "癖の強い巻き毛を\n短めに切った髪型",
+      "cn_improved": "癖の強い巻き毛を\n短めに切った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132433,
+      "status": "from_improved",
+      "cn": "ばさりと切り揃えた\nストレートヘア\n前髪は残している",
+      "en": "ばさりと切り揃えた\nストレートヘア\n前髪は残している",
+      "jp": "ばさりと切り揃えた\nストレートヘア\n前髪は残している",
+      "cn_improved": "ばさりと切り揃えた\nストレートヘア\n前髪は残している",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132434,
+      "status": "from_improved",
+      "cn": "ばさりと切り揃えた\nストレートヘア\n前髪は分けている",
+      "en": "ばさりと切り揃えた\nストレートヘア\n前髪は分けている",
+      "jp": "ばさりと切り揃えた\nストレートヘア\n前髪は分けている",
+      "cn_improved": "ばさりと切り揃えた\nストレートヘア\n前髪は分けている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132435,
+      "status": "from_improved",
+      "cn": "長い髪をまとめ\n後ろで縛った髪型\n前髪は残している",
+      "en": "長い髪をまとめ\n後ろで縛った髪型\n前髪は残している",
+      "jp": "長い髪をまとめ\n後ろで縛った髪型\n前髪は残している",
+      "cn_improved": "長い髪をまとめ\n後ろで縛った髪型\n前髪は残している",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132436,
+      "status": "from_improved",
+      "cn": "前髪まで含め\n長い髪をまとめ\n後ろで縛った髪型",
+      "en": "前髪まで含め\n長い髪をまとめ\n後ろで縛った髪型",
+      "jp": "前髪まで含め\n長い髪をまとめ\n後ろで縛った髪型",
+      "cn_improved": "前髪まで含め\n長い髪をまとめ\n後ろで縛った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132437,
+      "status": "from_improved",
+      "cn": "長い髪をまとめ\n左右で縛った髪型",
+      "en": "長い髪をまとめ\n左右で縛った髪型",
+      "jp": "長い髪をまとめ\n左右で縛った髪型",
+      "cn_improved": "長い髪をまとめ\n左右で縛った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132438,
+      "status": "from_improved",
+      "cn": "長い髪をまとめ\n緩く結った髪型",
+      "en": "長い髪をまとめ\n緩く結った髪型",
+      "jp": "長い髪をまとめ\n緩く結った髪型",
+      "cn_improved": "長い髪をまとめ\n緩く結った髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132439,
+      "status": "from_improved",
+      "cn": "長い髪を編み込んだ\n古い貴族の髪型",
+      "en": "長い髪を編み込んだ\n古い貴族の髪型",
+      "jp": "長い髪を編み込んだ\n古い貴族の髪型",
+      "cn_improved": "長い髪を編み込んだ\n古い貴族の髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132440,
+      "status": "from_improved",
+      "cn": "黒色の髪と瞳\n一般的な色味の１つ",
+      "en": "黒色の髪と瞳\n一般的な色味の１つ",
+      "jp": "黒色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "黒色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132441,
+      "status": "from_improved",
+      "cn": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "en": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "jp": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132442,
+      "status": "from_improved",
+      "cn": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "en": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "jp": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132443,
+      "status": "from_improved",
+      "cn": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "en": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "jp": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132444,
+      "status": "from_improved",
+      "cn": "暗い青色の髪と瞳\nカリムに多い色味",
+      "en": "暗い青色の髪と瞳\nカリムに多い色味",
+      "jp": "暗い青色の髪と瞳\nカリムに多い色味",
+      "cn_improved": "暗い青色の髪と瞳\nカリムに多い色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132445,
+      "status": "from_improved",
+      "cn": "灰色の瞳と髪\n北方カタリナに多い",
+      "en": "灰色の瞳と髪\n北方カタリナに多い",
+      "jp": "灰色の瞳と髪\n北方カタリナに多い",
+      "cn_improved": "灰色の瞳と髪\n北方カタリナに多い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132446,
+      "status": "from_improved",
+      "cn": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "en": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "jp": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "cn_improved": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132447,
+      "status": "from_improved",
+      "cn": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "en": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "jp": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "cn_improved": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132448,
+      "status": "from_improved",
+      "cn": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "en": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "jp": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "cn_improved": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132449,
+      "status": "from_improved",
+      "cn": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "en": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "jp": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "cn_improved": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132450,
+      "status": "from_improved",
+      "cn": "黒色の髪と瞳\n一般的な色味の１つ",
+      "en": "黒色の髪と瞳\n一般的な色味の１つ",
+      "jp": "黒色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "黒色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132451,
+      "status": "from_improved",
+      "cn": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "en": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "jp": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "暗い茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132452,
+      "status": "from_improved",
+      "cn": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "en": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "jp": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "明るい茶色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132453,
+      "status": "from_improved",
+      "cn": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "en": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "jp": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "cn_improved": "暗い赤色の髪と瞳\n一般的な色味の１つ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132454,
+      "status": "from_improved",
+      "cn": "暗い青色の髪と瞳\nカリムに多い色味",
+      "en": "暗い青色の髪と瞳\nカリムに多い色味",
+      "jp": "暗い青色の髪と瞳\nカリムに多い色味",
+      "cn_improved": "暗い青色の髪と瞳\nカリムに多い色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132455,
+      "status": "from_improved",
+      "cn": "灰色の瞳と髪\n北方カタリナに多い",
+      "en": "灰色の瞳と髪\n北方カタリナに多い",
+      "jp": "灰色の瞳と髪\n北方カタリナに多い",
+      "cn_improved": "灰色の瞳と髪\n北方カタリナに多い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132456,
+      "status": "from_improved",
+      "cn": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "en": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "jp": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "cn_improved": "金色の髪と瞳\n一部の貴族たちが\n求めて止まぬ色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132457,
+      "status": "from_improved",
+      "cn": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "en": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "jp": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "cn_improved": "銀色の髪と瞳\n古めかしく\nもうあまり見ない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132458,
+      "status": "from_improved",
+      "cn": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "en": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "jp": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "cn_improved": "暗い紫色の髪と瞳\n今は滅んだ種族の\n珍しい色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132459,
+      "status": "from_improved",
+      "cn": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "en": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "jp": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "cn_improved": "燃える赤色の髪と瞳\nとても珍しい色味",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133000,
+      "status": "from_improved",
+      "cn": "Brightness",
+      "en": "Brightness",
+      "jp": "Brightness",
+      "cn_improved": "Brightness",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133001,
+      "status": "from_improved",
+      "cn": "炎だけが見えて、竜は見えないように",
+      "en": "炎だけが見えて、竜は見えないように",
+      "jp": "炎だけが見えて、竜は見えないように",
+      "cn_improved": "炎だけが見えて、竜は見えないように",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133002,
+      "status": "from_improved",
+      "cn": "輝度を調整してください",
+      "en": "輝度を調整してください",
+      "jp": "輝度を調整してください",
+      "cn_improved": "輝度を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133100,
+      "status": "from_improved",
+      "cn": "体型",
+      "en": "体型",
+      "jp": "体型",
+      "cn_improved": "体型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133101,
+      "status": "from_improved",
+      "cn": "顔",
+      "en": "顔",
+      "jp": "顔",
+      "cn_improved": "顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133102,
+      "status": "from_improved",
+      "cn": "髪型",
+      "en": "髪型",
+      "jp": "髪型",
+      "cn_improved": "髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133103,
+      "status": "from_improved",
+      "cn": "髪と瞳の色",
+      "en": "髪と瞳の色",
+      "jp": "髪と瞳の色",
+      "cn_improved": "髪と瞳の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133104,
+      "status": "from_improved",
+      "cn": "外見の編集",
+      "en": "外見の編集",
+      "jp": "外見の編集",
+      "cn_improved": "外見の編集",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133200,
+      "status": "from_improved",
+      "cn": "普通",
+      "en": "普通",
+      "jp": "普通",
+      "cn_improved": "普通",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133201,
+      "status": "from_improved",
+      "cn": "痩せ型",
+      "en": "痩せ型",
+      "jp": "痩せ型",
+      "cn_improved": "痩せ型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133202,
+      "status": "from_improved",
+      "cn": "とても痩せ型",
+      "en": "とても痩せ型",
+      "jp": "とても痩せ型",
+      "cn_improved": "とても痩せ型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133203,
+      "status": "from_improved",
+      "cn": "太め",
+      "en": "太め",
+      "jp": "太め",
+      "cn_improved": "太め",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133204,
+      "status": "from_improved",
+      "cn": "とても太め",
+      "en": "とても太め",
+      "jp": "とても太め",
+      "cn_improved": "とても太め",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133205,
+      "status": "from_improved",
+      "cn": "上半身太り",
+      "en": "上半身太り",
+      "jp": "上半身太り",
+      "cn_improved": "上半身太り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133206,
+      "status": "from_improved",
+      "cn": "下半身太り",
+      "en": "下半身太り",
+      "jp": "下半身太り",
+      "cn_improved": "下半身太り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133207,
+      "status": "from_improved",
+      "cn": "頭でっかち",
+      "en": "頭でっかち",
+      "jp": "頭でっかち",
+      "cn_improved": "頭でっかち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133208,
+      "status": "from_improved",
+      "cn": "頭ちっちゃい",
+      "en": "頭ちっちゃい",
+      "jp": "頭ちっちゃい",
+      "cn_improved": "頭ちっちゃい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133250,
+      "status": "from_improved",
+      "cn": "普通",
+      "en": "普通",
+      "jp": "普通",
+      "cn_improved": "普通",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133251,
+      "status": "from_improved",
+      "cn": "痩せ型",
+      "en": "痩せ型",
+      "jp": "痩せ型",
+      "cn_improved": "痩せ型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133252,
+      "status": "from_improved",
+      "cn": "とても痩せ型",
+      "en": "とても痩せ型",
+      "jp": "とても痩せ型",
+      "cn_improved": "とても痩せ型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133253,
+      "status": "from_improved",
+      "cn": "太め",
+      "en": "太め",
+      "jp": "太め",
+      "cn_improved": "太め",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133254,
+      "status": "from_improved",
+      "cn": "とても太め",
+      "en": "とても太め",
+      "jp": "とても太め",
+      "cn_improved": "とても太め",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133255,
+      "status": "from_improved",
+      "cn": "上半身太り",
+      "en": "上半身太り",
+      "jp": "上半身太り",
+      "cn_improved": "上半身太り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133256,
+      "status": "from_improved",
+      "cn": "下半身太り",
+      "en": "下半身太り",
+      "jp": "下半身太り",
+      "cn_improved": "下半身太り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133257,
+      "status": "from_improved",
+      "cn": "頭でっかち",
+      "en": "頭でっかち",
+      "jp": "頭でっかち",
+      "cn_improved": "頭でっかち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133258,
+      "status": "from_improved",
+      "cn": "頭ちっちゃい",
+      "en": "頭ちっちゃい",
+      "jp": "頭ちっちゃい",
+      "cn_improved": "頭ちっちゃい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133300,
+      "status": "from_improved",
+      "cn": "平民顔",
+      "en": "平民顔",
+      "jp": "平民顔",
+      "cn_improved": "平民顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133301,
+      "status": "from_improved",
+      "cn": "五指河の農民顔",
+      "en": "五指河の農民顔",
+      "jp": "五指河の農民顔",
+      "cn_improved": "五指河の農民顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133302,
+      "status": "from_improved",
+      "cn": "アストラの貴族顔",
+      "en": "アストラの貴族顔",
+      "jp": "アストラの貴族顔",
+      "cn_improved": "アストラの貴族顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133303,
+      "status": "from_improved",
+      "cn": "竜学院の書生顔",
+      "en": "竜学院の書生顔",
+      "jp": "竜学院の書生顔",
+      "cn_improved": "竜学院の書生顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133304,
+      "status": "from_improved",
+      "cn": "ソルロンドの聖者顔",
+      "en": "ソルロンドの聖者顔",
+      "jp": "ソルロンドの聖者顔",
+      "cn_improved": "ソルロンドの聖者顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133305,
+      "status": "from_improved",
+      "cn": "カタリナの陽気顔",
+      "en": "カタリナの陽気顔",
+      "jp": "カタリナの陽気顔",
+      "cn_improved": "カタリナの陽気顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133306,
+      "status": "from_improved",
+      "cn": "カリムの陰気顔",
+      "en": "カリムの陰気顔",
+      "jp": "カリムの陰気顔",
+      "cn_improved": "カリムの陰気顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133307,
+      "status": "from_improved",
+      "cn": "ゼナの古顔",
+      "en": "ゼナの古顔",
+      "jp": "ゼナの古顔",
+      "cn_improved": "ゼナの古顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133308,
+      "status": "from_improved",
+      "cn": "大沼の異相",
+      "en": "大沼の異相",
+      "jp": "大沼の異相",
+      "cn_improved": "大沼の異相",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133309,
+      "status": "from_improved",
+      "cn": "東の異人顔",
+      "en": "東の異人顔",
+      "jp": "東の異人顔",
+      "cn_improved": "東の異人顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133350,
+      "status": "from_improved",
+      "cn": "平民顔",
+      "en": "平民顔",
+      "jp": "平民顔",
+      "cn_improved": "平民顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133351,
+      "status": "from_improved",
+      "cn": "五指河の農民顔",
+      "en": "五指河の農民顔",
+      "jp": "五指河の農民顔",
+      "cn_improved": "五指河の農民顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133352,
+      "status": "from_improved",
+      "cn": "アストラの貴族顔",
+      "en": "アストラの貴族顔",
+      "jp": "アストラの貴族顔",
+      "cn_improved": "アストラの貴族顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133353,
+      "status": "from_improved",
+      "cn": "竜学院の書生顔",
+      "en": "竜学院の書生顔",
+      "jp": "竜学院の書生顔",
+      "cn_improved": "竜学院の書生顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133354,
+      "status": "from_improved",
+      "cn": "ソルロンドの聖者顔",
+      "en": "ソルロンドの聖者顔",
+      "jp": "ソルロンドの聖者顔",
+      "cn_improved": "ソルロンドの聖者顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133355,
+      "status": "from_improved",
+      "cn": "カタリナの陽気顔",
+      "en": "カタリナの陽気顔",
+      "jp": "カタリナの陽気顔",
+      "cn_improved": "カタリナの陽気顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133356,
+      "status": "from_improved",
+      "cn": "カリムの陰気顔",
+      "en": "カリムの陰気顔",
+      "jp": "カリムの陰気顔",
+      "cn_improved": "カリムの陰気顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133357,
+      "status": "from_improved",
+      "cn": "ゼナの古顔",
+      "en": "ゼナの古顔",
+      "jp": "ゼナの古顔",
+      "cn_improved": "ゼナの古顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133358,
+      "status": "from_improved",
+      "cn": "大沼の異相",
+      "en": "大沼の異相",
+      "jp": "大沼の異相",
+      "cn_improved": "大沼の異相",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133359,
+      "status": "from_improved",
+      "cn": "東の異人顔",
+      "en": "東の異人顔",
+      "jp": "東の異人顔",
+      "cn_improved": "東の異人顔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133700,
+      "status": "from_improved",
+      "cn": "ベースタイプ",
+      "en": "ベースタイプ",
+      "jp": "ベースタイプ",
+      "cn_improved": "ベースタイプ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133701,
+      "status": "from_improved",
+      "cn": "ランダム",
+      "en": "ランダム",
+      "jp": "ランダム",
+      "cn_improved": "ランダム",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133702,
+      "status": "from_improved",
+      "cn": "似た顔生成",
+      "en": "似た顔生成",
+      "jp": "似た顔生成",
+      "cn_improved": "似た顔生成",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133703,
+      "status": "from_improved",
+      "cn": "初期化",
+      "en": "初期化",
+      "jp": "初期化",
+      "cn_improved": "初期化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133704,
+      "status": "from_improved",
+      "cn": "詳細編集",
+      "en": "詳細編集",
+      "jp": "詳細編集",
+      "cn_improved": "詳細編集",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133711,
+      "status": "from_improved",
+      "cn": "似ている",
+      "en": "似ている",
+      "jp": "似ている",
+      "cn_improved": "似ている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133712,
+      "status": "from_improved",
+      "cn": "似ていない",
+      "en": "似ていない",
+      "jp": "似ていない",
+      "cn_improved": "似ていない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133720,
+      "status": "from_improved",
+      "cn": "年齢イメージ",
+      "en": "年齢イメージ",
+      "jp": "年齢イメージ",
+      "cn_improved": "年齢イメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133721,
+      "status": "from_improved",
+      "cn": "若い",
+      "en": "若い",
+      "jp": "若い",
+      "cn_improved": "若い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133722,
+      "status": "from_improved",
+      "cn": "老いている",
+      "en": "老いている",
+      "jp": "老いている",
+      "cn_improved": "老いている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133730,
+      "status": "from_improved",
+      "cn": "性イメージ",
+      "en": "性イメージ",
+      "jp": "性イメージ",
+      "cn_improved": "性イメージ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133731,
+      "status": "from_improved",
+      "cn": "男らしい",
+      "en": "男らしい",
+      "jp": "男らしい",
+      "cn_improved": "男らしい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133732,
+      "status": "from_improved",
+      "cn": "女らしい",
+      "en": "女らしい",
+      "jp": "女らしい",
+      "cn_improved": "女らしい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133740,
+      "status": "from_improved",
+      "cn": "特徴の強調",
+      "en": "特徴の強調",
+      "jp": "特徴の強調",
+      "cn_improved": "特徴の強調",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133741,
+      "status": "from_improved",
+      "cn": "弱い",
+      "en": "弱い",
+      "jp": "弱い",
+      "cn_improved": "弱い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133742,
+      "status": "from_improved",
+      "cn": "強い",
+      "en": "強い",
+      "jp": "強い",
+      "cn_improved": "強い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133800,
+      "status": "from_improved",
+      "cn": "髪型",
+      "en": "髪型",
+      "jp": "髪型",
+      "cn_improved": "髪型",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133801,
+      "status": "from_improved",
+      "cn": "髪色",
+      "en": "髪色",
+      "jp": "髪色",
+      "cn_improved": "髪色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133802,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133803,
+      "status": "from_improved",
+      "cn": "緑",
+      "en": "緑",
+      "jp": "緑",
+      "cn_improved": "緑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133804,
+      "status": "from_improved",
+      "cn": "青",
+      "en": "青",
+      "jp": "青",
+      "cn_improved": "青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135030,
+      "status": "from_improved",
+      "cn": "中央系",
+      "en": "中央系",
+      "jp": "中央系",
+      "cn_improved": "中央系",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135031,
+      "status": "from_improved",
+      "cn": "アストラ系",
+      "en": "アストラ系",
+      "jp": "アストラ系",
+      "cn_improved": "アストラ系",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135032,
+      "status": "from_improved",
+      "cn": "カタリナ系",
+      "en": "カタリナ系",
+      "jp": "カタリナ系",
+      "cn_improved": "カタリナ系",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135033,
+      "status": "from_improved",
+      "cn": "カリム系",
+      "en": "カリム系",
+      "jp": "カリム系",
+      "cn_improved": "カリム系",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135070,
+      "status": "from_improved",
+      "cn": "ブラック",
+      "en": "ブラック",
+      "jp": "ブラック",
+      "cn_improved": "ブラック",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135071,
+      "status": "from_improved",
+      "cn": "ダークブラウン",
+      "en": "ダークブラウン",
+      "jp": "ダークブラウン",
+      "cn_improved": "ダークブラウン",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135072,
+      "status": "from_improved",
+      "cn": "ライトブラウン",
+      "en": "ライトブラウン",
+      "jp": "ライトブラウン",
+      "cn_improved": "ライトブラウン",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135073,
+      "status": "from_improved",
+      "cn": "ダークレッド",
+      "en": "ダークレッド",
+      "jp": "ダークレッド",
+      "cn_improved": "ダークレッド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135074,
+      "status": "from_improved",
+      "cn": "ダークブルー",
+      "en": "ダークブルー",
+      "jp": "ダークブルー",
+      "cn_improved": "ダークブルー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135075,
+      "status": "from_improved",
+      "cn": "グレイ",
+      "en": "グレイ",
+      "jp": "グレイ",
+      "cn_improved": "グレイ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135076,
+      "status": "from_improved",
+      "cn": "ゴールド",
+      "en": "ゴールド",
+      "jp": "ゴールド",
+      "cn_improved": "ゴールド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135077,
+      "status": "from_improved",
+      "cn": "シルバー",
+      "en": "シルバー",
+      "jp": "シルバー",
+      "cn_improved": "シルバー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135078,
+      "status": "from_improved",
+      "cn": "ダークパープル",
+      "en": "ダークパープル",
+      "jp": "ダークパープル",
+      "cn_improved": "ダークパープル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135079,
+      "status": "from_improved",
+      "cn": "レッド",
+      "en": "レッド",
+      "jp": "レッド",
+      "cn_improved": "レッド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135200,
+      "status": "from_improved",
+      "cn": "全体バランス/色調",
+      "en": "全体バランス/色調",
+      "jp": "全体バランス/色調",
+      "cn_improved": "全体バランス/色調",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135201,
+      "status": "from_improved",
+      "cn": "額/眉間",
+      "en": "額/眉間",
+      "jp": "額/眉間",
+      "cn_improved": "額/眉間",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135202,
+      "status": "from_improved",
+      "cn": "眉骨/眉毛",
+      "en": "眉骨/眉毛",
+      "jp": "眉骨/眉毛",
+      "cn_improved": "眉骨/眉毛",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135203,
+      "status": "from_improved",
+      "cn": "瞳/目元",
+      "en": "瞳/目元",
+      "jp": "瞳/目元",
+      "cn_improved": "瞳/目元",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135204,
+      "status": "from_improved",
+      "cn": "鼻筋/小鼻",
+      "en": "鼻筋/小鼻",
+      "jp": "鼻筋/小鼻",
+      "cn_improved": "鼻筋/小鼻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135205,
+      "status": "from_improved",
+      "cn": "頬",
+      "en": "頬",
+      "jp": "頬",
+      "cn_improved": "頬",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135206,
+      "status": "from_improved",
+      "cn": "唇/口/口紅",
+      "en": "唇/口/口紅",
+      "jp": "唇/口/口紅",
+      "cn_improved": "唇/口/口紅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135207,
+      "status": "from_improved",
+      "cn": "上顎/下顎/髯",
+      "en": "上顎/下顎/髯",
+      "jp": "上顎/下顎/髯",
+      "cn_improved": "上顎/下顎/髯",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135208,
+      "status": "from_improved",
+      "cn": "髪色",
+      "en": "髪色",
+      "jp": "髪色",
+      "cn_improved": "髪色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135210,
+      "status": "from_improved",
+      "cn": "全体バランス",
+      "en": "全体バランス",
+      "jp": "全体バランス",
+      "cn_improved": "全体バランス",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135211,
+      "status": "from_improved",
+      "cn": "色調",
+      "en": "色調",
+      "jp": "色調",
+      "cn_improved": "色調",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135230,
+      "status": "from_improved",
+      "cn": "額/眉間",
+      "en": "額/眉間",
+      "jp": "額/眉間",
+      "cn_improved": "額/眉間",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135250,
+      "status": "from_improved",
+      "cn": "眉骨",
+      "en": "眉骨",
+      "jp": "眉骨",
+      "cn_improved": "眉骨",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135251,
+      "status": "from_improved",
+      "cn": "眉毛",
+      "en": "眉毛",
+      "jp": "眉毛",
+      "cn_improved": "眉毛",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135270,
+      "status": "from_improved",
+      "cn": "瞳",
+      "en": "瞳",
+      "jp": "瞳",
+      "cn_improved": "瞳",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135271,
+      "status": "from_improved",
+      "cn": "目元",
+      "en": "目元",
+      "jp": "目元",
+      "cn_improved": "目元",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135290,
+      "status": "from_improved",
+      "cn": "鼻筋",
+      "en": "鼻筋",
+      "jp": "鼻筋",
+      "cn_improved": "鼻筋",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135291,
+      "status": "from_improved",
+      "cn": "小鼻",
+      "en": "小鼻",
+      "jp": "小鼻",
+      "cn_improved": "小鼻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135310,
+      "status": "from_improved",
+      "cn": "頬",
+      "en": "頬",
+      "jp": "頬",
+      "cn_improved": "頬",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135330,
+      "status": "from_improved",
+      "cn": "唇",
+      "en": "唇",
+      "jp": "唇",
+      "cn_improved": "唇",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135331,
+      "status": "from_improved",
+      "cn": "口",
+      "en": "口",
+      "jp": "口",
+      "cn_improved": "口",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135332,
+      "status": "from_improved",
+      "cn": "口紅",
+      "en": "口紅",
+      "jp": "口紅",
+      "cn_improved": "口紅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135350,
+      "status": "from_improved",
+      "cn": "下顎",
+      "en": "下顎",
+      "jp": "下顎",
+      "cn_improved": "下顎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135351,
+      "status": "from_improved",
+      "cn": "上顎",
+      "en": "上顎",
+      "jp": "上顎",
+      "cn_improved": "上顎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135352,
+      "status": "from_improved",
+      "cn": "髭",
+      "en": "髭",
+      "jp": "髭",
+      "cn_improved": "髭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136000,
+      "status": "from_improved",
+      "cn": "鼻の占める比率",
+      "en": "鼻の占める比率",
+      "jp": "鼻の占める比率",
+      "cn_improved": "鼻の占める比率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136001,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136002,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136010,
+      "status": "from_improved",
+      "cn": "鼻と額の比率",
+      "en": "鼻と額の比率",
+      "jp": "鼻と額の比率",
+      "cn_improved": "鼻と額の比率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136011,
+      "status": "from_improved",
+      "cn": "鼻",
+      "en": "鼻",
+      "jp": "鼻",
+      "cn_improved": "鼻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136012,
+      "status": "from_improved",
+      "cn": "額",
+      "en": "額",
+      "jp": "額",
+      "cn_improved": "額",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136020,
+      "status": "from_improved",
+      "cn": "顔の縦横比",
+      "en": "顔の縦横比",
+      "jp": "顔の縦横比",
+      "cn_improved": "顔の縦横比",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136021,
+      "status": "from_improved",
+      "cn": "横",
+      "en": "横",
+      "jp": "横",
+      "cn_improved": "横",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136022,
+      "status": "from_improved",
+      "cn": "縦",
+      "en": "縦",
+      "jp": "縦",
+      "cn_improved": "縦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136030,
+      "status": "from_improved",
+      "cn": "顔の凹凸",
+      "en": "顔の凹凸",
+      "jp": "顔の凹凸",
+      "cn_improved": "顔の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136031,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136032,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136040,
+      "status": "from_improved",
+      "cn": "顔パーツの上下の間隔",
+      "en": "顔パーツの上下の間隔",
+      "jp": "顔パーツの上下の間隔",
+      "cn_improved": "顔パーツの上下の間隔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136041,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136042,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136050,
+      "status": "from_improved",
+      "cn": "顔パーツの傾き",
+      "en": "顔パーツの傾き",
+      "jp": "顔パーツの傾き",
+      "cn_improved": "顔パーツの傾き",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136051,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136052,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136060,
+      "status": "from_improved",
+      "cn": "顔パーツの左右の間隔",
+      "en": "顔パーツの左右の間隔",
+      "jp": "顔パーツの左右の間隔",
+      "cn_improved": "顔パーツの左右の間隔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136061,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136062,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136100,
+      "status": "from_improved",
+      "cn": "肌の色",
+      "en": "肌の色",
+      "jp": "肌の色",
+      "cn_improved": "肌の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136101,
+      "status": "from_improved",
+      "cn": "紅潮",
+      "en": "紅潮",
+      "jp": "紅潮",
+      "cn_improved": "紅潮",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136102,
+      "status": "from_improved",
+      "cn": "蒼白",
+      "en": "蒼白",
+      "jp": "蒼白",
+      "cn_improved": "蒼白",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136110,
+      "status": "from_improved",
+      "cn": "肌の色",
+      "en": "肌の色",
+      "jp": "肌の色",
+      "cn_improved": "肌の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136111,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136112,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136120,
+      "status": "from_improved",
+      "cn": "肌の色",
+      "en": "肌の色",
+      "jp": "肌の色",
+      "cn_improved": "肌の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136121,
+      "status": "from_improved",
+      "cn": "橙",
+      "en": "橙",
+      "jp": "橙",
+      "cn_improved": "橙",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136122,
+      "status": "from_improved",
+      "cn": "青",
+      "en": "青",
+      "jp": "青",
+      "cn_improved": "青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136130,
+      "status": "from_improved",
+      "cn": "肌の色",
+      "en": "肌の色",
+      "jp": "肌の色",
+      "cn_improved": "肌の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136131,
+      "status": "from_improved",
+      "cn": "紫",
+      "en": "紫",
+      "jp": "紫",
+      "cn_improved": "紫",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136132,
+      "status": "from_improved",
+      "cn": "黄",
+      "en": "黄",
+      "jp": "黄",
+      "cn_improved": "黄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136140,
+      "status": "from_improved",
+      "cn": "肌の色",
+      "en": "肌の色",
+      "jp": "肌の色",
+      "cn_improved": "肌の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136141,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136142,
+      "status": "from_improved",
+      "cn": "緑",
+      "en": "緑",
+      "jp": "緑",
+      "cn_improved": "緑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136150,
+      "status": "from_improved",
+      "cn": "鼻梁の色",
+      "en": "鼻梁の色",
+      "jp": "鼻梁の色",
+      "cn_improved": "鼻梁の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136151,
+      "status": "from_improved",
+      "cn": "蒼白",
+      "en": "蒼白",
+      "jp": "蒼白",
+      "cn_improved": "蒼白",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136152,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136160,
+      "status": "from_improved",
+      "cn": "頬の色",
+      "en": "頬の色",
+      "jp": "頬の色",
+      "cn_improved": "頬の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136161,
+      "status": "from_improved",
+      "cn": "白",
+      "en": "白",
+      "jp": "白",
+      "cn_improved": "白",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136162,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136200,
+      "status": "from_improved",
+      "cn": "額の幅",
+      "en": "額の幅",
+      "jp": "額の幅",
+      "cn_improved": "額の幅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136201,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136202,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136210,
+      "status": "from_improved",
+      "cn": "額の深さ",
+      "en": "額の深さ",
+      "jp": "額の深さ",
+      "cn_improved": "額の深さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136211,
+      "status": "from_improved",
+      "cn": "浅",
+      "en": "浅",
+      "jp": "浅",
+      "cn_improved": "浅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136212,
+      "status": "from_improved",
+      "cn": "深",
+      "en": "深",
+      "jp": "深",
+      "cn_improved": "深",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136220,
+      "status": "from_improved",
+      "cn": "額の凹凸",
+      "en": "額の凹凸",
+      "jp": "額の凹凸",
+      "cn_improved": "額の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136221,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136222,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136230,
+      "status": "from_improved",
+      "cn": "鼻梁上部の高さ",
+      "en": "鼻梁上部の高さ",
+      "jp": "鼻梁上部の高さ",
+      "cn_improved": "鼻梁上部の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136231,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136232,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136240,
+      "status": "from_improved",
+      "cn": "鼻梁上部の凹凸1",
+      "en": "鼻梁上部の凹凸1",
+      "jp": "鼻梁上部の凹凸1",
+      "cn_improved": "鼻梁上部の凹凸1",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136241,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136242,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136250,
+      "status": "from_improved",
+      "cn": "鼻梁上部の凹凸2",
+      "en": "鼻梁上部の凹凸2",
+      "jp": "鼻梁上部の凹凸2",
+      "cn_improved": "鼻梁上部の凹凸2",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136251,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136252,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136260,
+      "status": "from_improved",
+      "cn": "鼻梁上部の幅",
+      "en": "鼻梁上部の幅",
+      "jp": "鼻梁上部の幅",
+      "cn_improved": "鼻梁上部の幅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136261,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136262,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136300,
+      "status": "from_improved",
+      "cn": "眉骨の高さ",
+      "en": "眉骨の高さ",
+      "jp": "眉骨の高さ",
+      "cn_improved": "眉骨の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136301,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136302,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136310,
+      "status": "from_improved",
+      "cn": "眉骨の内端",
+      "en": "眉骨の内端",
+      "jp": "眉骨の内端",
+      "cn_improved": "眉骨の内端",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136311,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136312,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136320,
+      "status": "from_improved",
+      "cn": "眉骨の外端",
+      "en": "眉骨の外端",
+      "jp": "眉骨の外端",
+      "cn_improved": "眉骨の外端",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136321,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136322,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136400,
+      "status": "from_improved",
+      "cn": "眉毛の濃さ",
+      "en": "眉毛の濃さ",
+      "jp": "眉毛の濃さ",
+      "cn_improved": "眉毛の濃さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136401,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136402,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136410,
+      "status": "from_improved",
+      "cn": "眉毛の位置",
+      "en": "眉毛の位置",
+      "jp": "眉毛の位置",
+      "cn_improved": "眉毛の位置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136411,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136412,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136420,
+      "status": "from_improved",
+      "cn": "眉毛の太さ 1",
+      "en": "眉毛の太さ 1",
+      "jp": "眉毛の太さ 1",
+      "cn_improved": "眉毛の太さ 1",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136421,
+      "status": "from_improved",
+      "cn": "太",
+      "en": "太",
+      "jp": "太",
+      "cn_improved": "太",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136422,
+      "status": "from_improved",
+      "cn": "細",
+      "en": "細",
+      "jp": "細",
+      "cn_improved": "細",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136430,
+      "status": "from_improved",
+      "cn": "眉毛の太さ 2",
+      "en": "眉毛の太さ 2",
+      "jp": "眉毛の太さ 2",
+      "cn_improved": "眉毛の太さ 2",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136431,
+      "status": "from_improved",
+      "cn": "極細",
+      "en": "極細",
+      "jp": "極細",
+      "cn_improved": "極細",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136432,
+      "status": "from_improved",
+      "cn": "極太",
+      "en": "極太",
+      "jp": "極太",
+      "cn_improved": "極太",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136440,
+      "status": "from_improved",
+      "cn": "眉の下側",
+      "en": "眉の下側",
+      "jp": "眉の下側",
+      "cn_improved": "眉の下側",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136441,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136442,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136450,
+      "status": "from_improved",
+      "cn": "眉の外側",
+      "en": "眉の外側",
+      "jp": "眉の外側",
+      "cn_improved": "眉の外側",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136451,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136452,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136460,
+      "status": "from_improved",
+      "cn": "眉の上側",
+      "en": "眉の上側",
+      "jp": "眉の上側",
+      "cn_improved": "眉の上側",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136461,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136462,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136500,
+      "status": "from_improved",
+      "cn": "眼の位置",
+      "en": "眼の位置",
+      "jp": "眼の位置",
+      "cn_improved": "眼の位置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136501,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136502,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136510,
+      "status": "from_improved",
+      "cn": "眼の大きさ",
+      "en": "眼の大きさ",
+      "jp": "眼の大きさ",
+      "cn_improved": "眼の大きさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136511,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136512,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136520,
+      "status": "from_improved",
+      "cn": "眼の傾き",
+      "en": "眼の傾き",
+      "jp": "眼の傾き",
+      "cn_improved": "眼の傾き",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136521,
+      "status": "from_improved",
+      "cn": "内",
+      "en": "内",
+      "jp": "内",
+      "cn_improved": "内",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136522,
+      "status": "from_improved",
+      "cn": "外",
+      "en": "外",
+      "jp": "外",
+      "cn_improved": "外",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136530,
+      "status": "from_improved",
+      "cn": "眼の間隔",
+      "en": "眼の間隔",
+      "jp": "眼の間隔",
+      "cn_improved": "眼の間隔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136531,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136532,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136540,
+      "status": "from_improved",
+      "cn": "瞳の色　赤",
+      "en": "瞳の色　赤",
+      "jp": "瞳の色　赤",
+      "cn_improved": "瞳の色　赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136550,
+      "status": "from_improved",
+      "cn": "瞳の色　緑",
+      "en": "瞳の色　緑",
+      "jp": "瞳の色　緑",
+      "cn_improved": "瞳の色　緑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136560,
+      "status": "from_improved",
+      "cn": "瞳の色　青",
+      "en": "瞳の色　青",
+      "jp": "瞳の色　青",
+      "cn_improved": "瞳の色　青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136600,
+      "status": "from_improved",
+      "cn": "眼窩の色",
+      "en": "眼窩の色",
+      "jp": "眼窩の色",
+      "cn_improved": "眼窩の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136601,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136602,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136610,
+      "status": "from_improved",
+      "cn": "眼窩の明るさ",
+      "en": "眼窩の明るさ",
+      "jp": "眼窩の明るさ",
+      "cn_improved": "眼窩の明るさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136611,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136612,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136620,
+      "status": "from_improved",
+      "cn": "まぶたの明るさ",
+      "en": "まぶたの明るさ",
+      "jp": "まぶたの明るさ",
+      "cn_improved": "まぶたの明るさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136621,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136622,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136630,
+      "status": "from_improved",
+      "cn": "まぶたの色",
+      "en": "まぶたの色",
+      "jp": "まぶたの色",
+      "cn_improved": "まぶたの色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136631,
+      "status": "from_improved",
+      "cn": "蒼白",
+      "en": "蒼白",
+      "jp": "蒼白",
+      "cn_improved": "蒼白",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136632,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136640,
+      "status": "from_improved",
+      "cn": "アイライナー",
+      "en": "アイライナー",
+      "jp": "アイライナー",
+      "cn_improved": "アイライナー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136641,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136642,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136650,
+      "status": "from_improved",
+      "cn": "アイシャドー",
+      "en": "アイシャドー",
+      "jp": "アイシャドー",
+      "cn_improved": "アイシャドー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136651,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136652,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136700,
+      "status": "from_improved",
+      "cn": "鼻筋の深さ",
+      "en": "鼻筋の深さ",
+      "jp": "鼻筋の深さ",
+      "cn_improved": "鼻筋の深さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136701,
+      "status": "from_improved",
+      "cn": "短",
+      "en": "短",
+      "jp": "短",
+      "cn_improved": "短",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136702,
+      "status": "from_improved",
+      "cn": "長",
+      "en": "長",
+      "jp": "長",
+      "cn_improved": "長",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136710,
+      "status": "from_improved",
+      "cn": "鼻筋の長さ",
+      "en": "鼻筋の長さ",
+      "jp": "鼻筋の長さ",
+      "cn_improved": "鼻筋の長さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136711,
+      "status": "from_improved",
+      "cn": "短",
+      "en": "短",
+      "jp": "短",
+      "cn_improved": "短",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136712,
+      "status": "from_improved",
+      "cn": "長",
+      "en": "長",
+      "jp": "長",
+      "cn_improved": "長",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136720,
+      "status": "from_improved",
+      "cn": "鼻の位置",
+      "en": "鼻の位置",
+      "jp": "鼻の位置",
+      "cn_improved": "鼻の位置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136721,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136722,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136730,
+      "status": "from_improved",
+      "cn": "鼻先の高さ",
+      "en": "鼻先の高さ",
+      "jp": "鼻先の高さ",
+      "cn_improved": "鼻先の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136731,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136732,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136740,
+      "status": "from_improved",
+      "cn": "鼻の凹凸",
+      "en": "鼻の凹凸",
+      "jp": "鼻の凹凸",
+      "cn_improved": "鼻の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136741,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136742,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136750,
+      "status": "from_improved",
+      "cn": "鼻の高さ",
+      "en": "鼻の高さ",
+      "jp": "鼻の高さ",
+      "cn_improved": "鼻の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136751,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136752,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136760,
+      "status": "from_improved",
+      "cn": "鼻の傾斜",
+      "en": "鼻の傾斜",
+      "jp": "鼻の傾斜",
+      "cn_improved": "鼻の傾斜",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136761,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136762,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136800,
+      "status": "from_improved",
+      "cn": "小鼻の傾斜",
+      "en": "小鼻の傾斜",
+      "jp": "小鼻の傾斜",
+      "cn_improved": "小鼻の傾斜",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136801,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136802,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136810,
+      "status": "from_improved",
+      "cn": "小鼻の大きさ",
+      "en": "小鼻の大きさ",
+      "jp": "小鼻の大きさ",
+      "cn_improved": "小鼻の大きさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136811,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136812,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136820,
+      "status": "from_improved",
+      "cn": "小鼻の幅",
+      "en": "小鼻の幅",
+      "jp": "小鼻の幅",
+      "cn_improved": "小鼻の幅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136821,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136822,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136830,
+      "status": "from_improved",
+      "cn": "鼻孔の大きさ",
+      "en": "鼻孔の大きさ",
+      "jp": "鼻孔の大きさ",
+      "cn_improved": "鼻孔の大きさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136831,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136832,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136900,
+      "status": "from_improved",
+      "cn": "頬骨の高さ",
+      "en": "頬骨の高さ",
+      "jp": "頬骨の高さ",
+      "cn_improved": "頬骨の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136901,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136902,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136910,
+      "status": "from_improved",
+      "cn": "頬骨の深さ",
+      "en": "頬骨の深さ",
+      "jp": "頬骨の深さ",
+      "cn_improved": "頬骨の深さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136911,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136912,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136920,
+      "status": "from_improved",
+      "cn": "頬骨の広さ",
+      "en": "頬骨の広さ",
+      "jp": "頬骨の広さ",
+      "cn_improved": "頬骨の広さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136921,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136922,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136930,
+      "status": "from_improved",
+      "cn": "頬の凹凸",
+      "en": "頬の凹凸",
+      "jp": "頬の凹凸",
+      "cn_improved": "頬の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136931,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136932,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136940,
+      "status": "from_improved",
+      "cn": "頬",
+      "en": "頬",
+      "jp": "頬",
+      "cn_improved": "頬",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136941,
+      "status": "from_improved",
+      "cn": "肥",
+      "en": "肥",
+      "jp": "肥",
+      "cn_improved": "肥",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136942,
+      "status": "from_improved",
+      "cn": "痩",
+      "en": "痩",
+      "jp": "痩",
+      "cn_improved": "痩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136950,
+      "status": "from_improved",
+      "cn": "法令線",
+      "en": "法令線",
+      "jp": "法令線",
+      "cn_improved": "法令線",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136951,
+      "status": "from_improved",
+      "cn": "明",
+      "en": "明",
+      "jp": "明",
+      "cn_improved": "明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136952,
+      "status": "from_improved",
+      "cn": "暗",
+      "en": "暗",
+      "jp": "暗",
+      "cn_improved": "暗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137000,
+      "status": "from_improved",
+      "cn": "唇の形",
+      "en": "唇の形",
+      "jp": "唇の形",
+      "cn_improved": "唇の形",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137001,
+      "status": "from_improved",
+      "cn": "開く",
+      "en": "開く",
+      "jp": "開く",
+      "cn_improved": "開く",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137002,
+      "status": "from_improved",
+      "cn": "すぼめる",
+      "en": "すぼめる",
+      "jp": "すぼめる",
+      "cn_improved": "すぼめる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137010,
+      "status": "from_improved",
+      "cn": "口元の表情",
+      "en": "口元の表情",
+      "jp": "口元の表情",
+      "cn_improved": "口元の表情",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137011,
+      "status": "from_improved",
+      "cn": "喜",
+      "en": "喜",
+      "jp": "喜",
+      "cn_improved": "喜",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137012,
+      "status": "from_improved",
+      "cn": "悲",
+      "en": "悲",
+      "jp": "悲",
+      "cn_improved": "悲",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137020,
+      "status": "from_improved",
+      "cn": "唇の膨らみ",
+      "en": "唇の膨らみ",
+      "jp": "唇の膨らみ",
+      "cn_improved": "唇の膨らみ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137021,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137022,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137030,
+      "status": "from_improved",
+      "cn": "唇の大きさ",
+      "en": "唇の大きさ",
+      "jp": "唇の大きさ",
+      "cn_improved": "唇の大きさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137031,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137032,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137040,
+      "status": "from_improved",
+      "cn": "唇の凹凸",
+      "en": "唇の凹凸",
+      "jp": "唇の凹凸",
+      "cn_improved": "唇の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137041,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137042,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137050,
+      "status": "from_improved",
+      "cn": "唇の厚さ",
+      "en": "唇の厚さ",
+      "jp": "唇の厚さ",
+      "cn_improved": "唇の厚さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137051,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137052,
+      "status": "from_improved",
+      "cn": "厚",
+      "en": "厚",
+      "jp": "厚",
+      "cn_improved": "厚",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137100,
+      "status": "from_improved",
+      "cn": "口の凹凸",
+      "en": "口の凹凸",
+      "jp": "口の凹凸",
+      "cn_improved": "口の凹凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137101,
+      "status": "from_improved",
+      "cn": "凸",
+      "en": "凸",
+      "jp": "凸",
+      "cn_improved": "凸",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137102,
+      "status": "from_improved",
+      "cn": "凹",
+      "en": "凹",
+      "jp": "凹",
+      "cn_improved": "凹",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137110,
+      "status": "from_improved",
+      "cn": "口の傾き",
+      "en": "口の傾き",
+      "jp": "口の傾き",
+      "cn_improved": "口の傾き",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137111,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137112,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137120,
+      "status": "from_improved",
+      "cn": "かみ合わせ",
+      "en": "かみ合わせ",
+      "jp": "かみ合わせ",
+      "cn_improved": "かみ合わせ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137121,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137122,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137130,
+      "status": "from_improved",
+      "cn": "口の位置",
+      "en": "口の位置",
+      "jp": "口の位置",
+      "cn_improved": "口の位置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137131,
+      "status": "from_improved",
+      "cn": "上",
+      "en": "上",
+      "jp": "上",
+      "cn_improved": "上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137132,
+      "status": "from_improved",
+      "cn": "下",
+      "en": "下",
+      "jp": "下",
+      "cn_improved": "下",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137140,
+      "status": "from_improved",
+      "cn": "口の幅",
+      "en": "口の幅",
+      "jp": "口の幅",
+      "cn_improved": "口の幅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137141,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137142,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137150,
+      "status": "from_improved",
+      "cn": "口から顎先の距離",
+      "en": "口から顎先の距離",
+      "jp": "口から顎先の距離",
+      "cn_improved": "口から顎先の距離",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137151,
+      "status": "from_improved",
+      "cn": "短",
+      "en": "短",
+      "jp": "短",
+      "cn_improved": "短",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137152,
+      "status": "from_improved",
+      "cn": "長",
+      "en": "長",
+      "jp": "長",
+      "cn_improved": "長",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137200,
+      "status": "from_improved",
+      "cn": "唇の色",
+      "en": "唇の色",
+      "jp": "唇の色",
+      "cn_improved": "唇の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137201,
+      "status": "from_improved",
+      "cn": "紅潮",
+      "en": "紅潮",
+      "jp": "紅潮",
+      "cn_improved": "紅潮",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137202,
+      "status": "from_improved",
+      "cn": "蒼白",
+      "en": "蒼白",
+      "jp": "蒼白",
+      "cn_improved": "蒼白",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137210,
+      "status": "from_improved",
+      "cn": "口紅",
+      "en": "口紅",
+      "jp": "口紅",
+      "cn_improved": "口紅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137211,
+      "status": "from_improved",
+      "cn": "暗赤",
+      "en": "暗赤",
+      "jp": "暗赤",
+      "cn_improved": "暗赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137212,
+      "status": "from_improved",
+      "cn": "薄青",
+      "en": "薄青",
+      "jp": "薄青",
+      "cn_improved": "薄青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137220,
+      "status": "from_improved",
+      "cn": "口紅",
+      "en": "口紅",
+      "jp": "口紅",
+      "cn_improved": "口紅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137221,
+      "status": "from_improved",
+      "cn": "濃青",
+      "en": "濃青",
+      "jp": "濃青",
+      "cn_improved": "濃青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137222,
+      "status": "from_improved",
+      "cn": "明赤",
+      "en": "明赤",
+      "jp": "明赤",
+      "cn_improved": "明赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137300,
+      "status": "from_improved",
+      "cn": "顎先端の前後",
+      "en": "顎先端の前後",
+      "jp": "顎先端の前後",
+      "cn_improved": "顎先端の前後",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137301,
+      "status": "from_improved",
+      "cn": "前",
+      "en": "前",
+      "jp": "前",
+      "cn_improved": "前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137302,
+      "status": "from_improved",
+      "cn": "後",
+      "en": "後",
+      "jp": "後",
+      "cn_improved": "後",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137310,
+      "status": "from_improved",
+      "cn": "顎先の長さ",
+      "en": "顎先の長さ",
+      "jp": "顎先の長さ",
+      "cn_improved": "顎先の長さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137311,
+      "status": "from_improved",
+      "cn": "長",
+      "en": "長",
+      "jp": "長",
+      "cn_improved": "長",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137312,
+      "status": "from_improved",
+      "cn": "短",
+      "en": "短",
+      "jp": "短",
+      "cn_improved": "短",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137320,
+      "status": "from_improved",
+      "cn": "顎先の突き出し",
+      "en": "顎先の突き出し",
+      "jp": "顎先の突き出し",
+      "cn_improved": "顎先の突き出し",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137321,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137322,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137330,
+      "status": "from_improved",
+      "cn": "顎先の深さ",
+      "en": "顎先の深さ",
+      "jp": "顎先の深さ",
+      "cn_improved": "顎先の深さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137331,
+      "status": "from_improved",
+      "cn": "浅",
+      "en": "浅",
+      "jp": "浅",
+      "cn_improved": "浅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137332,
+      "status": "from_improved",
+      "cn": "深",
+      "en": "深",
+      "jp": "深",
+      "cn_improved": "深",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137340,
+      "status": "from_improved",
+      "cn": "顎先の大きさ",
+      "en": "顎先の大きさ",
+      "jp": "顎先の大きさ",
+      "cn_improved": "顎先の大きさ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137341,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137342,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137350,
+      "status": "from_improved",
+      "cn": "顎先の高さ",
+      "en": "顎先の高さ",
+      "jp": "顎先の高さ",
+      "cn_improved": "顎先の高さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137351,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137352,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137360,
+      "status": "from_improved",
+      "cn": "顎先の広さ",
+      "en": "顎先の広さ",
+      "jp": "顎先の広さ",
+      "cn_improved": "顎先の広さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137361,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137362,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137400,
+      "status": "from_improved",
+      "cn": "顎の突き出し",
+      "en": "顎の突き出し",
+      "jp": "顎の突き出し",
+      "cn_improved": "顎の突き出し",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137401,
+      "status": "from_improved",
+      "cn": "小",
+      "en": "小",
+      "jp": "小",
+      "cn_improved": "小",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137402,
+      "status": "from_improved",
+      "cn": "大",
+      "en": "大",
+      "jp": "大",
+      "cn_improved": "大",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137410,
+      "status": "from_improved",
+      "cn": "顎の幅",
+      "en": "顎の幅",
+      "jp": "顎の幅",
+      "cn_improved": "顎の幅",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137411,
+      "status": "from_improved",
+      "cn": "広",
+      "en": "広",
+      "jp": "広",
+      "cn_improved": "広",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137412,
+      "status": "from_improved",
+      "cn": "狭",
+      "en": "狭",
+      "jp": "狭",
+      "cn_improved": "狭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137420,
+      "status": "from_improved",
+      "cn": "顎下部",
+      "en": "顎下部",
+      "jp": "顎下部",
+      "cn_improved": "顎下部",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137421,
+      "status": "from_improved",
+      "cn": "高",
+      "en": "高",
+      "jp": "高",
+      "cn_improved": "高",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137422,
+      "status": "from_improved",
+      "cn": "低",
+      "en": "低",
+      "jp": "低",
+      "cn_improved": "低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137430,
+      "status": "from_improved",
+      "cn": "顎の輪郭",
+      "en": "顎の輪郭",
+      "jp": "顎の輪郭",
+      "cn_improved": "顎の輪郭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137431,
+      "status": "from_improved",
+      "cn": "細",
+      "en": "細",
+      "jp": "細",
+      "cn_improved": "細",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137432,
+      "status": "from_improved",
+      "cn": "太",
+      "en": "太",
+      "jp": "太",
+      "cn_improved": "太",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137500,
+      "status": "from_improved",
+      "cn": "髭全体の色",
+      "en": "髭全体の色",
+      "jp": "髭全体の色",
+      "cn_improved": "髭全体の色",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137501,
+      "status": "from_improved",
+      "cn": "赤み",
+      "en": "赤み",
+      "jp": "赤み",
+      "cn_improved": "赤み",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137502,
+      "status": "from_improved",
+      "cn": "青み",
+      "en": "青み",
+      "jp": "青み",
+      "cn_improved": "青み",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137510,
+      "status": "from_improved",
+      "cn": "髭全体",
+      "en": "髭全体",
+      "jp": "髭全体",
+      "cn_improved": "髭全体",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137511,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137512,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137520,
+      "status": "from_improved",
+      "cn": "頬髭",
+      "en": "頬髭",
+      "jp": "頬髭",
+      "cn_improved": "頬髭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137521,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137522,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137530,
+      "status": "from_improved",
+      "cn": "口周りの髭",
+      "en": "口周りの髭",
+      "jp": "口周りの髭",
+      "cn_improved": "口周りの髭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137531,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137532,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137540,
+      "status": "from_improved",
+      "cn": "山羊髭",
+      "en": "山羊髭",
+      "jp": "山羊髭",
+      "cn_improved": "山羊髭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137541,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137542,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137550,
+      "status": "from_improved",
+      "cn": "口髭",
+      "en": "口髭",
+      "jp": "口髭",
+      "cn_improved": "口髭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137551,
+      "status": "from_improved",
+      "cn": "薄",
+      "en": "薄",
+      "jp": "薄",
+      "cn_improved": "薄",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137552,
+      "status": "from_improved",
+      "cn": "濃",
+      "en": "濃",
+      "jp": "濃",
+      "cn_improved": "濃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137600,
+      "status": "from_improved",
+      "cn": "赤",
+      "en": "赤",
+      "jp": "赤",
+      "cn_improved": "赤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137601,
+      "status": "from_improved",
+      "cn": "緑",
+      "en": "緑",
+      "jp": "緑",
+      "cn_improved": "緑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 137602,
+      "status": "from_improved",
+      "cn": "青",
+      "en": "青",
+      "jp": "青",
+      "cn_improved": "青",
+      "cn_resurrection": null
+    },
+    {
+      "id": 140000,
+      "status": "from_improved",
+      "cn": "協力マルチプレイ成功数",
+      "en": "協力マルチプレイ成功数",
+      "jp": "協力マルチプレイ成功数",
+      "cn_improved": "協力マルチプレイ成功数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141000,
+      "status": "from_improved",
+      "cn": "侵入者を告罪しますか？",
+      "en": "侵入者を告罪しますか？",
+      "jp": "侵入者を告罪しますか？",
+      "cn_improved": "侵入者を告罪しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141001,
+      "status": "from_improved",
+      "cn": "残り時間",
+      "en": "残り時間",
+      "jp": "残り時間",
+      "cn_improved": "残り時間",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141002,
+      "status": "from_improved",
+      "cn": "秒",
+      "en": "秒",
+      "jp": "秒",
+      "cn_improved": "秒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141003,
+      "status": "from_improved",
+      "cn": "告罪符",
+      "en": "告罪符",
+      "jp": "告罪符",
+      "cn_improved": "告罪符",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143010,
+      "status": "from_improved",
+      "cn": "メッセージ入力",
+      "en": "メッセージ入力",
+      "jp": "メッセージ入力",
+      "cn_improved": "メッセージ入力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143011,
+      "status": "from_improved",
+      "cn": "＋評価",
+      "en": "＋評価",
+      "jp": "＋評価",
+      "cn_improved": "＋評価",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143012,
+      "status": "from_improved",
+      "cn": "－評価",
+      "en": "－評価",
+      "jp": "－評価",
+      "cn_improved": "－評価",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143013,
+      "status": "from_improved",
+      "cn": "キャンセル",
+      "en": "キャンセル",
+      "jp": "キャンセル",
+      "cn_improved": "キャンセル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143014,
+      "status": "from_improved",
+      "cn": "このメッセージを評価する",
+      "en": "このメッセージを評価する",
+      "jp": "このメッセージを評価する",
+      "cn_improved": "このメッセージを評価する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143015,
+      "status": "from_improved",
+      "cn": "評価",
+      "en": "評価",
+      "jp": "評価",
+      "cn_improved": "評価",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143020,
+      "status": "from_improved",
+      "cn": "メッセージを評価する",
+      "en": "メッセージを評価する",
+      "jp": "メッセージを評価する",
+      "cn_improved": "メッセージを評価する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143021,
+      "status": "from_improved",
+      "cn": "自分の書いたメッセージを確認する",
+      "en": "自分の書いたメッセージを確認する",
+      "jp": "自分の書いたメッセージを確認する",
+      "cn_improved": "自分の書いたメッセージを確認する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 143022,
+      "status": "from_improved",
+      "cn": "メッセージを書く",
+      "en": "メッセージを書く",
+      "jp": "メッセージを書く",
+      "cn_improved": "メッセージを書く",
+      "cn_resurrection": null
+    },
+    {
+      "id": 144000,
+      "status": "from_improved",
+      "cn": "メッセージ確認",
+      "en": "メッセージ確認",
+      "jp": "メッセージ確認",
+      "cn_improved": "メッセージ確認",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145000,
+      "status": "from_improved",
+      "cn": "順位",
+      "en": "順位",
+      "jp": "順位",
+      "cn_improved": "順位",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145001,
+      "status": "from_improved",
+      "cn": "プレイヤー",
+      "en": "プレイヤー",
+      "jp": "プレイヤー",
+      "cn_improved": "プレイヤー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145002,
+      "status": "from_improved",
+      "cn": "---",
+      "en": "---",
+      "jp": "---",
+      "cn_improved": "---",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145003,
+      "status": "from_improved",
+      "cn": "データ取得中",
+      "en": "データ取得中",
+      "jp": "データ取得中",
+      "cn_improved": "データ取得中",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145010,
+      "status": "from_improved",
+      "cn": "カテゴリ名1",
+      "en": "カテゴリ名1",
+      "jp": "カテゴリ名1",
+      "cn_improved": "カテゴリ名1",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145011,
+      "status": "from_improved",
+      "cn": "カテゴリ名2",
+      "en": "カテゴリ名2",
+      "jp": "カテゴリ名2",
+      "cn_improved": "カテゴリ名2",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145012,
+      "status": "from_improved",
+      "cn": "カテゴリ名3",
+      "en": "カテゴリ名3",
+      "jp": "カテゴリ名3",
+      "cn_improved": "カテゴリ名3",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145013,
+      "status": "from_improved",
+      "cn": "カテゴリ名4",
+      "en": "カテゴリ名4",
+      "jp": "カテゴリ名4",
+      "cn_improved": "カテゴリ名4",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145014,
+      "status": "from_improved",
+      "cn": "カテゴリ名5",
+      "en": "カテゴリ名5",
+      "jp": "カテゴリ名5",
+      "cn_improved": "カテゴリ名5",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145015,
+      "status": "from_improved",
+      "cn": "カテゴリ名6",
+      "en": "カテゴリ名6",
+      "jp": "カテゴリ名6",
+      "cn_improved": "カテゴリ名6",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145016,
+      "status": "from_improved",
+      "cn": "カテゴリ名7",
+      "en": "カテゴリ名7",
+      "jp": "カテゴリ名7",
+      "cn_improved": "カテゴリ名7",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145017,
+      "status": "from_improved",
+      "cn": "カテゴリ名8",
+      "en": "カテゴリ名8",
+      "jp": "カテゴリ名8",
+      "cn_improved": "カテゴリ名8",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145018,
+      "status": "from_improved",
+      "cn": "カテゴリ名9",
+      "en": "カテゴリ名9",
+      "jp": "カテゴリ名9",
+      "cn_improved": "カテゴリ名9",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145019,
+      "status": "from_improved",
+      "cn": "カテゴリ名10",
+      "en": "カテゴリ名10",
+      "jp": "カテゴリ名10",
+      "cn_improved": "カテゴリ名10",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145100,
+      "status": "from_improved",
+      "cn": "罪の重さ",
+      "en": "罪の重さ",
+      "jp": "罪の重さ",
+      "cn_improved": "罪の重さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 145101,
+      "status": "from_improved",
+      "cn": "貢献度",
+      "en": "貢献度",
+      "jp": "貢献度",
+      "cn_improved": "貢献度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150000,
+      "status": "from_improved",
+      "cn": "所持数",
+      "en": "所持数",
+      "jp": "所持数",
+      "cn_improved": "所持数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150001,
+      "status": "from_improved",
+      "cn": "格納数",
+      "en": "格納数",
+      "jp": "格納数",
+      "cn_improved": "格納数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150100,
+      "status": "from_improved",
+      "cn": "<?categoryChangeL?>",
+      "en": "<?categoryChangeL?>",
+      "jp": "<?categoryChangeL?>",
+      "cn_improved": "<?categoryChangeL?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150101,
+      "status": "from_improved",
+      "cn": "<?categoryChangeR?>",
+      "en": "<?categoryChangeR?>",
+      "jp": "<?categoryChangeR?>",
+      "cn_improved": "<?categoryChangeR?>",
+      "cn_resurrection": null
+    }
+  ]
+}

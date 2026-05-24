@@ -1,0 +1,647 @@
+{
+  "fmg_id": 3,
+  "fmg_name": "ムービー字幕",
+  "domain": "menu",
+  "count": 71,
+  "entries": [
+    {
+      "id": 8000000,
+      "status": "from_improved",
+      "cn": "时值战国末期",
+      "en": "In the closing years of the Sengoku Era,",
+      "jp": "時は戦国末期",
+      "cn_improved": "时值战国末期",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000001,
+      "status": "from_improved",
+      "cn": "焚尽日之本全境的战火",
+      "en": "Japan was consumed by perpetual conflict.",
+      "jp": "日本すべてを焼いた戦火は",
+      "cn_improved": "焚尽日之本全境的战火",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000002,
+      "status": "from_improved",
+      "cn": "尚无衰退之势",
+      "en": "The fires of war raged on,",
+      "jp": "いまだに勢い衰えず",
+      "cn_improved": "尚无衰退之势",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000003,
+      "status": "from_improved",
+      "cn": "乃至深山中之苇名国",
+      "en": "spreading deep into the mountains--",
+      "jp": "山深い葦名の国にも",
+      "cn_improved": "乃至深山中之苇名国",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000004,
+      "status": "from_improved",
+      "cn": "亦烽火连天",
+      "en": "to the land of Ashina.",
+      "jp": "燃え広がっていた",
+      "cn_improved": "亦烽火连天",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000005,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000006,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000007,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000008,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000009,
+      "status": "from_improved",
+      "cn": "弦一郎大人...",
+      "en": "Lord Genichiro...",
+      "jp": "弦一郎様…",
+      "cn_improved": "弦一郎大人...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000010,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000011,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000012,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000013,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000014,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000015,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000016,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000017,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000018,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000019,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000020,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000021,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000022,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000023,
+      "status": "from_improved",
+      "cn": "...战争即将结束",
+      "en": "... Is the war finally over?",
+      "jp": "…戦は、もう終わる",
+      "cn_improved": "...战争即将结束",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000024,
+      "status": "from_improved",
+      "cn": "一心大人...",
+      "en": "",
+      "jp": "一心様…",
+      "cn_improved": "一心大人...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000025,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000026,
+      "status": "from_improved",
+      "cn": "",
+      "en": "(Nngahh! Muahh! Gnnhh!) *different variations",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000027,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000028,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000029,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000030,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000031,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000032,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000033,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000034,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000035,
+      "status": "from_improved",
+      "cn": "何等可怕的男人...",
+      "en": "",
+      "jp": "なんと、おそろしい男よ…",
+      "cn_improved": "何等可怕的男人...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000036,
+      "status": "from_improved",
+      "cn": "苇名之地，住着鬼吗...",
+      "en": "",
+      "jp": "葦名には、鬼が棲むか…",
+      "cn_improved": "苇名之地，住着鬼吗...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000037,
+      "status": "from_improved",
+      "cn": "你想盗国吗，一心...",
+      "en": "",
+      "jp": "国を盗るか、一心よ…",
+      "cn_improved": "你想盗国吗，一心...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000038,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000039,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000040,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000041,
+      "status": "from_improved",
+      "cn": "冲啊！",
+      "en": "",
+      "jp": "いくぞうっ！",
+      "cn_improved": "冲啊！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000042,
+      "status": "from_improved",
+      "cn": "有破绽！",
+      "en": "",
+      "jp": "隙ありいっ！",
+      "cn_improved": "有破绽！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000043,
+      "status": "from_improved",
+      "cn": "为了苇名！",
+      "en": "",
+      "jp": "葦名じゃあっ！",
+      "cn_improved": "为了苇名！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000044,
+      "status": "from_improved",
+      "cn": "田村！",
+      "en": "",
+      "jp": "田村ぁっ！",
+      "cn_improved": "田村！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000045,
+      "status": "from_improved",
+      "cn": "这就是战争！",
+      "en": "",
+      "jp": "これが戦よおっ！",
+      "cn_improved": "这就是战争！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000046,
+      "status": "from_improved",
+      "cn": "受死吧！",
+      "en": "",
+      "jp": "死にくされえっ！",
+      "cn_improved": "受死吧！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000047,
+      "status": "from_improved",
+      "cn": "哼...，出乎意料的脆弱啊...",
+      "en": "",
+      "jp": "ふむ…、存外に柔首よな…",
+      "cn_improved": "哼...，出乎意料的脆弱啊...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000048,
+      "status": "from_improved",
+      "cn": "说是猛将，也不过是血肉之躯...",
+      "en": "",
+      "jp": "猛将とて、所詮は血袋か…",
+      "cn_improved": "说是猛将，也不过是血肉之躯...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000049,
+      "status": "from_improved",
+      "cn": "休想再靠近苇名...",
+      "en": "",
+      "jp": "葦名に、近付くことなかれ…",
+      "cn_improved": "休想再靠近苇名...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000050,
+      "status": "from_improved",
+      "cn": "",
+      "en": "",
+      "jp": " ",
+      "cn_improved": "",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000051,
+      "status": "from_improved",
+      "cn": "敌将，田村，已讨之！",
+      "en": "General Tamura is no more!",
+      "jp": "敵将、田村、討ち取ったり！",
+      "cn_improved": "敌将，田村，已讨之！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000052,
+      "status": "from_improved",
+      "cn": "苇名众哟，此战，吾等之胜利！",
+      "en": "People of Ashina, we are victorious!",
+      "jp": "葦名衆よ、この戦、我らの勝利ぞ！",
+      "cn_improved": "苇名众哟，此战，吾等之胜利！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000053,
+      "status": "from_improved",
+      "cn": "剑圣，苇名一心",
+      "en": "Master swordsman, Isshin Ashina...",
+      "jp": "剣聖、葦名一心",
+      "cn_improved": "剑圣，苇名一心",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000054,
+      "status": "from_improved",
+      "cn": "盗国之血战",
+      "en": "staged a bloody coup and wrested control of the land.",
+      "jp": "国盗りの血戦であった",
+      "cn_improved": "盗国之血战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000055,
+      "status": "from_improved",
+      "cn": "失魂落魄的野狗吗",
+      "en": "What's the matter, stray? Nothing left to lose?",
+      "jp": "野良犬が、心すら亡くしたか",
+      "cn_improved": "失魂落魄的野狗吗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000056,
+      "status": "from_improved",
+      "cn": "哦",
+      "en": "Well, would you look at that.",
+      "jp": "ほう",
+      "cn_improved": "哦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000057,
+      "status": "from_improved",
+      "cn": "要跟我走吗？你这饿狼",
+      "en": "... Fascinating.  Will you join me, starving wolf?",
+      "jp": "共にくるか、飢えた狼よ",
+      "cn_improved": "要跟我走吗？你这饿狼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000058,
+      "status": "from_improved",
+      "cn": "你，说不定能成为老夫的左膀右臂，一名优秀的忍者",
+      "en": "Your hunger may beget a fine shinobi. A worthy right hand.",
+      "jp": "お前なら、儂の片腕、よい忍びとなるやもしれぬわ",
+      "cn_improved": "你，说不定能成为老夫的左膀右臂，一名优秀的忍者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000059,
+      "status": "from_improved",
+      "cn": "于是",
+      "en": "On that day...",
+      "jp": "そして",
+      "cn_improved": "于是",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000060,
+      "status": "from_improved",
+      "cn": "在战场捡回的狼",
+      "en": "a young cub was taken from the battlefield.",
+      "jp": "戦場で拾われた狼は",
+      "cn_improved": "在战场捡回的狼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000061,
+      "status": "from_improved",
+      "cn": "历经修行",
+      "en": "He trained relentlessly and indeed--",
+      "jp": "修行の末",
+      "cn_improved": "历经修行",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000062,
+      "status": "from_improved",
+      "cn": "成为了出类拔萃的忍者",
+      "en": "went on to become a master shinobi.",
+      "jp": "熟達の忍びとなった",
+      "cn_improved": "成为了出类拔萃的忍者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000063,
+      "status": "from_improved",
+      "cn": "勿忘忍者戒律",
+      "en": "Listen Wolf, you must never forget the Shinobi Code.",
+      "jp": "忍びの掟は忘れまいな",
+      "cn_improved": "勿忘忍者戒律",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000064,
+      "status": "from_improved",
+      "cn": "仅次于父母之要人，你要铭记于心",
+      "en": "As your father, my word is absolute.  Your master's is a close second.",
+      "jp": "親の次に大事なもの、お前の心に刻むがよい",
+      "cn_improved": "仅次于父母之要人，你要铭记于心",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000065,
+      "status": "from_improved",
+      "cn": "从今天起，那就是你的主人",
+      "en": "As of today, he is your master.",
+      "jp": "あれが、今日からお前の主だ",
+      "cn_improved": "从今天起，那就是你的主人",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000066,
+      "status": "from_improved",
+      "cn": "你要以命相守，如有被掳，必夺还之",
+      "en": "Defend him with your life.  If he is taken, bring him back at any cost.",
+      "jp": "命を賭して守り、たとえ奪われるとも、必ず取り戻すのだ",
+      "cn_improved": "你要以命相守，如有被掳，必夺还之",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000067,
+      "status": "from_improved",
+      "cn": "明白吗，狼啊...",
+      "en": "You understand me, don't you Wolf...",
+      "jp": "よいな、狼よ…",
+      "cn_improved": "明白吗，狼啊...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000068,
+      "status": "from_improved",
+      "cn": "战争，要结束了吗...",
+      "en": "Is the war... finally over?",
+      "jp": "戦が、終わるのか…",
+      "cn_improved": "战争，要结束了吗...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000069,
+      "status": "from_improved",
+      "cn": "一心大人...",
+      "en": "Lord Isshin...",
+      "jp": "一心様…",
+      "cn_improved": "一心大人...",
+      "cn_resurrection": null
+    },
+    {
+      "id": 8000070,
+      "status": "from_improved",
+      "cn": "敌将，田村主膳，已讨之！",
+      "en": "Enemy general, Shuzen Tamura, is slain by my hand!",
+      "jp": "敵将、田村主膳、討ち取ったり！",
+      "cn_improved": "敌将，田村主膳，已讨之！",
+      "cn_resurrection": null
+    }
+  ]
+}

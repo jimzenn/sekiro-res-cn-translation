@@ -1,0 +1,782 @@
+{
+  "fmg_id": 205,
+  "fmg_name": "ローディングテキスト",
+  "domain": "menu",
+  "count": 86,
+  "entries": [
+    {
+      "id": 50,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@12?>：锁定/解除目标\n目标锁定中推动<?kgControlCamera?>：切换目标\n\n当先之要务，乃是对峙\n交战中，锁定目标极为重要\n\n使敌人一直位于自己正面\n便于进行攻击或防御/弹开",
+      "en": "<?kgiconKc@12?>:Lock on/Release Target\n<?kgControlCamera?>:while Locked on: Change Target\n\nThe first step is always to face your enemy.\nLocking on to a target is crucial for success in battle.  \n\nBy keeping your enemy in front of you,\nyou'll find it easier to attack and guard/deflect.",
+      "jp": "<?kgiconKc@12?>:ターゲット固定/解除\nターゲット固定中に<?kgControlCamera?>:ターゲット切り替え\n\n何よりまず、対峙する\n戦闘において、ターゲット固定は重要だ\n\n敵を正面にとらえ続けることで、\n攻撃やガード/弾きを行いやすくなる",
+      "cn_improved": "<?kgiconKc@12?>：锁定/解除目标\n目标锁定中推动<?kgControlCamera?>：切换目标\n\n当先之要务，乃是对峙\n交战中，锁定目标极为重要\n\n使敌人一直位于自己正面\n便于进行攻击或防御/弹开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 51,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@16?>长按:突刺攻击\n\n突刺攻击，无法防御\n是以对防护严密者相当有效\n\n然而亦有被弹开之风险，切莫大意",
+      "en": "Hold <?kgiconKc@16?>: Thrust Attack\n\nThrust Attacks cannot be Guarded, which makes them effective against opponents with a solid defense.\n\nHowever, there is a chance they will be Deflected by your enemy.",
+      "jp": "<?kgiconKc@16?>長押し:突き攻撃\n\n突き攻撃はガードされることが無い\nそのため、ガードの硬い敵に有効だ\n\nだが、弾かれることはある。過信するなかれ",
+      "cn_improved": "<?kgiconKc@16?>长按:突刺攻击\n\n突刺攻击，无法防御\n是以对防护严密者相当有效\n\n然而亦有被弹开之风险，切莫大意",
+      "cn_resurrection": null
+    },
+    {
+      "id": 52,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@5?>：垫步\n\n看准时机采取垫步，可避开敌人攻势\n若敌人攻击无法弹开，当以垫步避之\n\n譬如擒拿之技\n就不应弹开，而应设法回避",
+      "en": "<?kgiconKc@5?>:Step Dodge\n\nEnemy attacks can be evaded with a well-timed \nStep Dodge.  Step dodging is effective when dodging attacks that can't be parried.\n\nFor instance, when grabbed at by an enemy, it is better to avoid the attack than attempt to guard or deflect it.",
+      "jp": "<?kgiconKc@5?>:ステップ\n\nタイミングよくステップすれば、敵の攻撃を回避できる\n弾けない攻撃は、ステップで避けるのが有効だ\n\n例えば、掴みかかられたならば、\n弾くのではなく、避けるべきだろう",
+      "cn_improved": "<?kgiconKc@5?>：垫步\n\n看准时机采取垫步，可避开敌人攻势\n若敌人攻击无法弹开，当以垫步避之\n\n譬如擒拿之技\n就不应弹开，而应设法回避",
+      "cn_resurrection": null
+    },
+    {
+      "id": 53,
+      "status": "from_improved",
+      "cn": "配合敌人的攻击按<?kgiconKc@5?>：看破\n\n忍技之【看破】\n即便是敌人锋锐之突刺，忍者之目亦可看破\n\n向前方垫步，便可踏敌之刃\n相较于弹开，可给予敌人更大的体干伤害",
+      "en": "<?kgiconKc@1?>+<?kgiconKc@5?> the moment enemy attack lands: Mikiri Counter\n\"Mikiri Counter\" is an unlockable Shinobi Combat Style Skill that allows a shinobi to perceive incoming thrust attacks and counter them by stepping on the enemy blade.\n\n\"Mikiri Counter\" is a powerful technique that deals more Posture damage than a regular Deflect.",
+      "jp": "敵の突き攻撃に合わせて<?kgiconKc@5?>:見切り\n\n忍び技のスキル「見切り」\n敵の鋭い突きも、忍びの目ならば見切れる\n\n前方向のステップで刃を踏みつけ、\n弾きよりも、大きな体幹ダメージを与える",
+      "cn_improved": "配合敌人的攻击按<?kgiconKc@5?>：看破\n\n忍技之【看破】\n即便是敌人锋锐之突刺，忍者之目亦可看破\n\n向前方垫步，便可踏敌之刃\n相较于弹开，可给予敌人更大的体干伤害",
+      "cn_resurrection": null
+    },
+    {
+      "id": 54,
+      "status": "from_improved",
+      "cn": "<?kgToggleItems?>：切换道具\n<?kgiconKc@21?>：使用道具\n\n在装备菜单进行了装备的道具\n可以按<?kgToggleItems?>切换，按<?kgiconKc@21?>使用\n\n道具最多可以装备5个",
+      "en": "<?kgToggleItems?>: Toggle Quick Items\n<?kgiconKc@21?>: Use Quick Item\n\nUse the Equipment Menu to equip or change Quick Items.\nEquipped quick items can be toggled with <?kgToggleItems?>, \nand the currently selected one can be used with <?kgiconKc@21?>.\n\nUp to 5 Quick Items can be equipped at once.",
+      "jp": "<?kgToggleItems?>:アイテムの切り替え\n<?kgiconKc@21?>:アイテムの使用\n\n装備メニューで装備したアイテムは\n<?kgToggleItems?>で切り替え、<?kgiconKc@21?>で使用できる\n\nアイテムは最大5つまで装備が可能",
+      "cn_improved": "<?kgToggleItems?>：切换道具\n<?kgiconKc@21?>：使用道具\n\n在装备菜单进行了装备的道具\n可以按<?kgToggleItems?>切换，按<?kgiconKc@21?>使用\n\n道具最多可以装备5个",
+      "cn_resurrection": null
+    },
+    {
+      "id": 55,
+      "status": "from_improved",
+      "cn": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@6?>：冲刺跳跃\n\n冲刺中跳跃可以跳得更远",
+      "en": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@6?>:Sprint Jump\n\nYou can leap further by jumping mid-sprint.",
+      "jp": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@6?>:ダッシュジャンプ\n\nダッシュ中のジャンプは、より遠くへ跳べる",
+      "cn_improved": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@6?>：冲刺跳跃\n\n冲刺中跳跃可以跳得更远",
+      "cn_resurrection": null
+    },
+    {
+      "id": 56,
+      "status": "from_improved",
+      "cn": "用跳跃躲避下段攻击再按<?kgiconKc@6?>：踩踏\n\n以跳跃躲避敌人下段攻击\n进而以空中踢击踩踏\n如此，可造成极大的体干伤害",
+      "en": "After jumping over a sweep attack, <?kgiconKc@6?>: Jump-kick Counter\n\nAfter jumping over an enemy's sweep attack, you can perform a Jump-kick Counter on them before you land, dealing a large amount of posture damage.",
+      "jp": "下段攻撃をジャンプで避けて<?kgiconKc@6?>:踏みつけ\n\n敵の下段攻撃をジャンプで避け、\nさらに空中蹴りで踏みつけると、\n大きな体幹ダメージを与えることができる",
+      "cn_improved": "用跳跃躲避下段攻击再按<?kgiconKc@6?>：踩踏\n\n以跳跃躲避敌人下段攻击\n进而以空中踢击踩踏\n如此，可造成极大的体干伤害",
+      "cn_resurrection": null
+    },
+    {
+      "id": 57,
+      "status": "from_improved",
+      "cn": "敌人崩势时按<?kgiconKc@6?>：崩势绕袭\n\n忍技之【崩势绕袭】\n即便不是隐密状态，亦可在交战中\n顺势进行背后忍杀\n\n也有以此为前提发动的忍术",
+      "en": "<?kgiconKc@6?> on posture-broken enemy: Vault Over\n\nVault Over is a Shinobi Martial Art that allows one to leap over and behind a Posture-broken enemy.\nThis Shinobi Martial Arts technique allows the use of \nBackstab Deathblows in the middle of battle,\neven without using stealth.\nIt's only expected that Shinobi have some special tricks for up-close fighting as well.",
+      "jp": "敵が体勢を崩した時に<?kgiconKc@6?>:崩し裏回り\n\n忍び技のスキル「崩し裏回り」\n隠密ではなく、戦闘の流れの中からでも、\n背後忍殺を行うことができる\n\nそこから狙える、忍びの術もあるだろう",
+      "cn_improved": "敌人崩势时按<?kgiconKc@6?>：崩势绕袭\n\n忍技之【崩势绕袭】\n即便不是隐密状态，亦可在交战中\n顺势进行背后忍杀\n\n也有以此为前提发动的忍术",
+      "cn_resurrection": null
+    },
+    {
+      "id": 58,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@22?>：窃听\n\n忍者之耳，集中精力便可听到远处声音\n\n或有窃听方可获取之情报",
+      "en": "<?kgiconKc@22?>:Eavesdrop\n\nIf a shinobi concentrates, he can hear others' voices, even if they're far away.\n\nEavesdropping is one of a Shinobi's tools for acquiring information.",
+      "jp": "<?kgiconKc@22?>:盗み聞き\n\n忍びの耳ならば、集中すれば離れた声も聞き取れる\n\n盗み聞きすることで、得られる情報もあるだろう",
+      "cn_improved": "<?kgiconKc@22?>：窃听\n\n忍者之耳，集中精力便可听到远处声音\n\n或有窃听方可获取之情报",
+      "cn_resurrection": null
+    },
+    {
+      "id": 59,
+      "status": "from_improved",
+      "cn": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@16?>：冲刺斩\n\n以冲刺之势斩向敌人\n适合从远处迫近敌人，并施以斩击",
+      "en": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@16?>:Sprint Attack\n\nA special sword lunge can be performed if one attacks while sprinting.\nThis technique can be used to quickly close a gap with an out of reach enemy, and then deal damage the moment you reach him.",
+      "jp": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@16?>:ダッシュ斬り\n\nダッシュの勢いから斬りつける\n遠い間合いから敵に近づき、斬りつけるのに向く",
+      "cn_improved": "<?kgMove?>+<?kgiconKc@5?>+<?kgiconKc@16?>：冲刺斩\n\n以冲刺之势斩向敌人\n适合从远处迫近敌人，并施以斩击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 60,
+      "status": "from_improved",
+      "cn": "崩势时按<?kgiconKc@5?>：翻滚闪避\n\n体势被崩解时\n若就此倒下，则必死无疑\n\n翻滚起身，可减小破绽",
+      "en": "While downed or posture-broken, <?kgiconKc@5?>: Safety Roll\n\nWhen staggered or downed by an enemy, you are very vulnerable to enemy attack.\n\nUse Safety Roll to get back to your feet and minimize your vulnerability.",
+      "jp": "体勢が崩れている時に<?kgiconKc@5?>:転がり回避\n\n体勢を崩されてしまった時、\nそのまま寝ていれば、きっと死ぬだろう\n\n転がって起き上がれば、隙を小さくできる",
+      "cn_improved": "崩势时按<?kgiconKc@5?>：翻滚闪避\n\n体势被崩解时\n若就此倒下，则必死无疑\n\n翻滚起身，可减小破绽",
+      "cn_resurrection": null
+    },
+    {
+      "id": 61,
+      "status": "from_improved",
+      "cn": "雷电会流遍踏足地面者之全身\n可使人瞬间动弹不得\n\n腾空之一瞬，以刀身承受雷击，再返还之秘技\n称作雷电奉还\n\n在空中承受雷击，并于落地前按<?kgiconKc@16?>：雷电奉还",
+      "en": "Lightning surges through the bodies of those with their\nfeet on the ground, instantly paralyzing them.\n\nA secret technique exists to catch lightning in one's blade\nwhile in midair, and send it back. \nThis is known as a Lightning Reversal.\n\nWhen hit by a lightning attack in midair, \n<?kgiconKc@16?> before landing on the ground: Lightning Reversal",
+      "jp": "雷は、地に足ついた者の全身を駆け巡り\n一瞬にして動きを封じてしまう\n\n空中の一瞬、刀身に雷を受け、返す秘技がある\nそれを雷返しと呼ぶ\n\n空中で雷攻撃を受け、着地前に<?kgiconKc@16?>:雷返し",
+      "cn_improved": "雷电会流遍踏足地面者之全身\n可使人瞬间动弹不得\n\n腾空之一瞬，以刀身承受雷击，再返还之秘技\n称作雷电奉还\n\n在空中承受雷击，并于落地前按<?kgiconKc@16?>：雷电奉还",
+      "cn_resurrection": null
+    },
+    {
+      "id": 70,
+      "status": "from_improved",
+      "cn": "长按<?kgiconKc@20?>：取得遗物\n\n敌人遗留之物\n可通过【取得遗物】统一获取\n\n所杀敌人之钱财道具，可如此取得",
+      "en": "Hold <?kgiconKc@20?>: Acquire Loot\n\nDefeated enemies drop loot, such as items and money.  \n\nLoot can be acquired from some distance away, and\nmultiple enemies can be looted at once.",
+      "jp": "<?kgiconKc@20?>長押し:遺物を取得\n\n敵が遺したものは、\n「遺物取得」をすることでまとめて入手できる\n\n殺した敵の銭やアイテムは、こうして手に入れる",
+      "cn_improved": "长按<?kgiconKc@20?>：取得遗物\n\n敌人遗留之物\n可通过【取得遗物】统一获取\n\n所杀敌人之钱财道具，可如此取得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100,
+      "status": "from_improved",
+      "cn": "交给<?npcName@937400?>\n可以增加<?gdsparam@3000?>的使用次数",
+      "en": "Give Gourd Seeds to Emma to increase the number of times the Healing Gourd can be used.",
+      "jp": "<?npcName@937400?>に渡すことで、\n<?gdsparam@3000?>の使用回数を増やすことができる",
+      "cn_improved": "交给<?npcName@937400?>\n可以增加<?gdsparam@3000?>的使用次数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101,
+      "status": "from_improved",
+      "cn": "收集4颗<?gdsparam@4000?>\n便可在鬼佛处使体之力成长\n\n体之力成长后，ＨＰ与体干的最大值将增加",
+      "en": "Collecting 4 Prayer Beads will allow you to enhance your physical attributes at a Sculptor's Idol.\n\nDoing so will raise your maximum Vitality and Posture.  ",
+      "jp": "<?gdsparam@4000?>を4つ集めると\n鬼仏で身体力を成長させることができる\n\n身体力が成長すると、ＨＰと体幹の最大値が増える",
+      "cn_improved": "收集4颗<?gdsparam@4000?>\n便可在鬼佛处使体之力成长\n\n体之力成长后，ＨＰ与体干的最大值将增加",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102,
+      "status": "from_improved",
+      "cn": "将与强者战斗所获得的<?gdsparam@5100?>\n献与鬼佛，便可以提升攻之力\n\n攻之力提升后\n能给敌人的ＨＰ与体干造成更大伤害",
+      "en": "Offering your hard-earned battle memories\nto a Sculptor's Idol will allow you to enhance \nyour Attack Power.\n\nEnhanced Attack Power means dealing more damage to an enemy's Vitality and Posture.",
+      "jp": "強者との戦いで得た<?gdsparam@5100?>を\n鬼仏に捧げれば、攻め力を成長させることができる\n\n攻め力が成長すると、\n敵のＨＰと体幹に、より多くのダメージを与えられる",
+      "cn_improved": "将与强者战斗所获得的<?gdsparam@5100?>\n献与鬼佛，便可以提升攻之力\n\n攻之力提升后\n能给敌人的ＨＰ与体干造成更大伤害",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103,
+      "status": "from_improved",
+      "cn": "下蹲、悬垂、贴墙时\n不易被敌人发现\n\n蹲在草丛中，更不易被敌人发现",
+      "en": "Enemies will have a harder time detecting you\nwhile you are crouching, ledge hanging, or hugging walls.\n\nCrouching in tall grass will make you even harder to detect.",
+      "jp": "しゃがみ、ぶら下がり、壁張り付きをしている間は、\n敵に気付かれにくい\n\n草むらでしゃがむと、さらに敵に気付かれにくくなる",
+      "cn_improved": "下蹲、悬垂、贴墙时\n不易被敌人发现\n\n蹲在草丛中，更不易被敌人发现",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104,
+      "status": "from_improved",
+      "cn": "ＨＰ减少，将减缓体干恢复\n\n若遇敌人体干可迅速回复时\n先削减其ＨＰ或为良策",
+      "en": "The more Vitality one loses, the slower their Posture will recover.\n\nIf you find an enemy's Posture recovering practically the moment you lower it, you may want to focus on reducing their Vitality first.",
+      "jp": "ＨＰが減ると、体幹の回復が遅くなる\n\n敵の体幹を減らしても、すぐ回復されてしまう時は、\n先にＨＰを削るのも有効だ",
+      "cn_improved": "ＨＰ减少，将减缓体干恢复\n\n若遇敌人体干可迅速回复时\n先削减其ＨＰ或为良策",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105,
+      "status": "from_improved",
+      "cn": "若持续受到火焰攻击，将陷入【炎上】状态\n虽防，炎上之量表亦会积蓄\n\n若身体燃烧，体干则无法恢复\nＨＰ亦会缓慢减少",
+      "en": "Being hit by too many fire-based attacks will eventually apply the Burn status abnormality.\nGuarding fire attacks does not prevent the Burn gauge from rising.\n\nWhile burning, flames are visible on your body, you'll stop regenerating Posture and will gradually lose Vitality for the duration.",
+      "jp": "火の攻撃を受け続けると、炎上状態になる\nガードしたとしても、炎上の蓄積ゲージは溜まる\n\n身体が燃え上がり、体幹が回復しなくなる\nまたＨＰも徐々に減少する",
+      "cn_improved": "若持续受到火焰攻击，将陷入【炎上】状态\n虽防，炎上之量表亦会积蓄\n\n若身体燃烧，体干则无法恢复\nＨＰ亦会缓慢减少",
+      "cn_resurrection": null
+    },
+    {
+      "id": 106,
+      "status": "from_improved",
+      "cn": "若是敌人头上出现警戒标记\n可凭其颜色，判断对方是否发现自己\n\n　黄色：已警戒\n　红色：已被发现\n\n若是黄色，则敌人尚未明确我方所在\n可对其进行隐密忍杀",
+      "en": "You can tell if an enemy has been alerted to your presence based on the color of the alert indicator above their head.\nIf yellow, they are cautious or searching.\nIf red, they are alerted to your presence.\nYellow means that the enemy doesn't know exactly where you are at the moment, so they can still be taken by surprise with a Stealth Deathblow.",
+      "jp": "敵頭上に出る警戒表示の色で、\nこちらに気付いているかどうかを判断できる\n\n　黄：警戒されている\n　赤：発見されている\n\n黄色の場合は、まだプレイヤーの位置を捕捉されていないので、\n隠密忍殺が可能である",
+      "cn_improved": "若是敌人头上出现警戒标记\n可凭其颜色，判断对方是否发现自己\n\n　黄色：已警戒\n　红色：已被发现\n\n若是黄色，则敌人尚未明确我方所在\n可对其进行隐密忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 107,
+      "status": "from_improved",
+      "cn": "找到鬼佛，便可使用其诸般功能\n\n休息可恢复全部ＨＰ、<?gdsparam@3000?>之剩余次数\n并补充超过所持上限而渡至鬼佛之道具\n\n但除部分特殊敌人，其余所有敌人亦将复活",
+      "en": "Sculptor's Idols have a wide variety of functions available, including the ability to Rest.\n\nResting completely restores Vitality, replenishes Healing Gourd uses, and automatically moves consumable items from storage to your inventory.\n\nHowever, resting also brings previously defeated enemies back into the world, with some exceptions.",
+      "jp": "鬼仏を見出すことで、さまざまな機能を使える\n\n休息すると、ＨＰが全快し、<?gdsparam@3000?>の残り回数や、\n所持上限を超えて鬼仏に渡ったアイテムが補充される\n\nしかし、一部を除く全ての敵が復活する",
+      "cn_improved": "找到鬼佛，便可使用其诸般功能\n\n休息可恢复全部ＨＰ、<?gdsparam@3000?>之剩余次数\n并补充超过所持上限而渡至鬼佛之道具\n\n但除部分特殊敌人，其余所有敌人亦将复活",
+      "cn_resurrection": null
+    },
+    {
+      "id": 108,
+      "status": "from_improved",
+      "cn": "狼已掌握黑暗中目视周遭之【夜目】\n\n此乃熟练之技，如遇黑暗，则夜目自明\n无需操作",
+      "en": "Wolf has an ability known as \"Night Eye\", which allows him to see unusually well in the dark.\nThis ability is innate, and takes effect automatically whenever he is in dark places.",
+      "jp": "暗闇でも周囲を見渡す「夜目」を、狼は体得している\n\n体に染みついた技術で、暗闇ならば自ずと夜目になる\n操作はいらない",
+      "cn_improved": "狼已掌握黑暗中目视周遭之【夜目】\n\n此乃熟练之技，如遇黑暗，则夜目自明\n无需操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 109,
+      "status": "from_improved",
+      "cn": "回生时所需的【回生之力】\n可经由击败敌人逐渐积蓄\n\n在鬼佛处休息，则可获得一份基础回生印记",
+      "en": "One cannot Resurrect without sufficient Resurrective Power.  Killing enemies will gradually restore Resurrective Power.\n\nHowever, Wolf's first node of Resurrective Power can only be restored by resting at a Sculptor's Idol.\n",
+      "jp": "回生するために必要な「回生の力」は、\n主に敵を倒すことで、徐々に溜まっていく\n\n鬼仏で休息すると、一つ目の基本の回生の力が溜まる",
+      "cn_improved": "回生时所需的【回生之力】\n可经由击败敌人逐渐积蓄\n\n在鬼佛处休息，则可获得一份基础回生印记",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110,
+      "status": "from_improved",
+      "cn": "若持续受到有毒攻击，将陷入【中毒】状态\n虽防，中毒之量表亦会积蓄\n\n一旦中毒，则毒素会侵蚀身心\n缓慢削减ＨＰ及体干",
+      "en": "Repeatedly getting hit by poison-based attacks \nwill apply the \"Poison\" status abnormality.  \n\nGuarding such attacks does not prevent Poison from accumulating.\n\nPoison affects the body and mind when it\nenters the body, gradually reducing Vitality over time.",
+      "jp": "毒の攻撃を受け続けると、「中毒」状態になる\nガードしたとしても、中毒の蓄積ゲージは溜まる\n\n中毒になると、毒が身心を蝕み、\nＨＰと体幹が徐々に減少する",
+      "cn_improved": "若持续受到有毒攻击，将陷入【中毒】状态\n虽防，中毒之量表亦会积蓄\n\n一旦中毒，则毒素会侵蚀身心\n缓慢削减ＨＰ及体干",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111,
+      "status": "from_improved",
+      "cn": "若持续被怨灵之属攻击\n身心将承受【怖气】之侵蚀\n虽防，怖气之量表亦会积蓄\n\n恐极则死矣",
+      "en": "Taking damage from apparition-type enemies will fill the\nmind and body with Terror.\n\nGuarding such attacks does not prevent Terror from accumulating.\n\nThose overcome with Terror are known to die.",
+      "jp": "怨霊の類の攻撃を受け続けると、\n人の心身は「怖気」に冒される\nガードしたとしても、怖気の蓄積ゲージは溜まる\n\n怖気づくと、人は死ぬ",
+      "cn_improved": "若持续被怨灵之属攻击\n身心将承受【怖气】之侵蚀\n虽防，怖气之量表亦会积蓄\n\n恐极则死矣",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112,
+      "status": "from_improved",
+      "cn": "若踏足地面之时遭受雷击，将陷入【打雷】状态\n虽防，打雷之量表亦会积蓄\n\n雷击贯彻周身，则ＨＰ将受到极大伤害\n且短时间内身体动弹不得",
+      "en": "If standing on the ground while struck by a lightning attack, the status abnormality \"Shock\" is inflicted.  This occurs regardless of whether the attack was guarded or not.\n\nShock causes electricity to run through one's body, dealing huge damage to Vitality and also stunning them briefly.",
+      "jp": "地に足ついた状態で雷を受けると、「打雷」状態になる\nガードしたとしても、打雷の蓄積ゲージは溜まる\n\n全身を雷撃が駆け巡り、ＨＰに大ダメージを受ける\nまた一時的に身体の自由を奪われる",
+      "cn_improved": "若踏足地面之时遭受雷击，将陷入【打雷】状态\n虽防，打雷之量表亦会积蓄\n\n雷击贯彻周身，则ＨＰ将受到极大伤害\n且短时间内身体动弹不得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 113,
+      "status": "from_improved",
+      "cn": "打倒敌人可获得技能经验值\n积攒所需经验值，可以获得技能点数\n\n传书中已解锁之流派技\n可在技能习得菜单，通过消耗技能点数习得",
+      "en": "Defeat enemies to earn Skill Experience.\nOnce enough Skill Experience is obtained, a Skill Point is earned.\n\nEsoteric Texts provide access to various skills, which can be acquired by spending Skill Points in the \n\"Acquire Skills\" menu at a Sculptor's Idol.",
+      "jp": "敵を倒すとスキル経験値を得られ\n必要な経験値が溜まると、スキルポイントを取得する\n\n伝書で解禁した流派のスキルは、\nスキル習得メニューから、スキルポイントを消費して習得できる",
+      "cn_improved": "打倒敌人可获得技能经验值\n积攒所需经验值，可以获得技能点数\n\n传书中已解锁之流派技\n可在技能习得菜单，通过消耗技能点数习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114,
+      "status": "from_improved",
+      "cn": "【忍技】乃忍者交战之技法\n\n武士所不为\n足不踏地之战技、\n或是攻敌不备之隐密身法\n此乃忍技之极意",
+      "en": "\"Shinobi Combat Style\" skills are techniques used by shinobi in combat.\n\nSuch moves could never be practiced by samurai, and include techniques such as attacks performed in the air and hiding one's body to avoid detection.\n\nThese are the innermost secrets of the shinobi arts.\n \n",
+      "jp": "「忍び技」のスキルは、忍びの戦う術である\n\n侍には真似できぬ\n地に足を付けぬ戦いの技や、\n敵に気づかれぬ隠密の身のこなしこそ、\n忍び技の極意である",
+      "cn_improved": "【忍技】乃忍者交战之技法\n\n武士所不为\n足不踏地之战技、\n或是攻敌不备之隐密身法\n此乃忍技之极意",
+      "cn_resurrection": null
+    },
+    {
+      "id": 115,
+      "status": "from_improved",
+      "cn": "【忍义手流】之诸般技能\n乃是以忍义手战斗之技法\n\n并非可以称为流派之物\n先有忍义手，而后此等战法及体术方显其意",
+      "en": "\"Prosthetic Combat Style\" skills are a variety of techniques for use with Shinobi Prosthetic.\n\nIt's less a formal style of combat and more a collection of secret moves that can only be used by one who wields the shinobi prosthetic.\n",
+      "jp": "「忍び義手流」のスキルは、\n忍義手を使った戦いの術である\n\nこれは流派と呼べるものではない\n忍義手あればこそ意味を持つ、技や体術だ",
+      "cn_improved": "【忍义手流】之诸般技能\n乃是以忍义手战斗之技法\n\n并非可以称为流派之物\n先有忍义手，而后此等战法及体术方显其意",
+      "cn_resurrection": null
+    },
+    {
+      "id": 116,
+      "status": "from_improved",
+      "cn": "【苇名流】之诸般技能\n乃苇名一心交战之历史\n\n年少一心，历经死斗\n于生死一线间磨砺剑技",
+      "en": "Ashina Combat Style techniques are the learnings\nof Isshin Ashina's long history of battles.  \n\nWhen he was younger, Isshin fought desperately time and time again, polishing his technique in the blood of his enemies.",
+      "jp": "「葦名流」のスキルは、\n葦名一心の戦いの歴史である\n\n若き一心は、ひたすらに死闘を重ね、\n命の鍔際に立つことで剣技を磨いた",
+      "cn_improved": "【苇名流】之诸般技能\n乃苇名一心交战之历史\n\n年少一心，历经死斗\n于生死一线间磨砺剑技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 117,
+      "status": "from_improved",
+      "cn": "【仙峯寺拳法】之诸般技能\n乃是以拳或踢等体术为主体之交战技法\n\n仙峯寺之人，修拳法以积功德\n欲灭却佛敌，拳与法，二者皆不可疏",
+      "en": "Senpou Temple Combat Style is a style of fighting strongly focused on martial arts.\n\nThose of the Senpou Temple mastered martial arts in the pursuit of virtue.  They believed one's fists combined with strict discipline were essential for defeating Buddha's enemies.",
+      "jp": "「仙峯寺拳法」のスキルは、\n拳や蹴りなど、体術を主体とした戦いの術である\n\n仙峯寺の者は、拳法を修めて功徳を積む\n仏敵を倒すには、拳と法、いずれも欠けてはならぬ",
+      "cn_improved": "【仙峯寺拳法】之诸般技能\n乃是以拳或踢等体术为主体之交战技法\n\n仙峯寺之人，修拳法以积功德\n欲灭却佛敌，拳与法，二者皆不可疏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 118,
+      "status": "from_improved",
+      "cn": "将【铁屑】、【烟硝】等筒药交予佛师\n便可制作新的强化义手忍具\n\n筒药可取自敌人遗物\n或在地图中拾取",
+      "en": "Upgrade materials such as \"Scrap Iron\" and \"Gunpowder\" \ncan be given to the Sculptor to create new, upgraded versions\nof your Prosthetic Tools.\n\nSuch materials can be looted from enemies and also found throughout the world.",
+      "jp": "「鉄屑」や「煙硝」などの筒薬を仏師に渡すことで\n新たな強化義手忍具の作成ができる\n\n筒薬は、敵の遺物として入手したり、\nマップで拾うことができる",
+      "cn_improved": "将【铁屑】、【烟硝】等筒药交予佛师\n便可制作新的强化义手忍具\n\n筒药可取自敌人遗物\n或在地图中拾取",
+      "cn_resurrection": null
+    },
+    {
+      "id": 119,
+      "status": "from_improved",
+      "cn": "超过持有上限之道具，会渡至鬼佛处积存\n\n在鬼佛处休息时，若物品未满所持上限\n会从鬼佛库存中自动补充\n\n佛者心怀宽广，更应存以感激",
+      "en": "If you obtain items that you can't carry any more of, they are automatically sent to storage.\n\nUpon resting at a Sculptor's Idol, any items that are not already at maximum holdable number are automatically replenished out of storage.\n\nBuddha's storage space is vast, and the fact that he grants use of it is something to be thankful for.",
+      "jp": "所持上限を超えたアイテムは、鬼仏に渡って蓄えられる\n\n鬼仏で休息した時、所持上限に満たないものは、\n鬼仏へ蓄えられた数だけ、自動で補充される\n\n仏の懐は深く、蓄えはありがたい",
+      "cn_improved": "超过持有上限之道具，会渡至鬼佛处积存\n\n在鬼佛处休息时，若物品未满所持上限\n会从鬼佛库存中自动补充\n\n佛者心怀宽广，更应存以感激",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120,
+      "status": "from_improved",
+      "cn": "傍晚，乃逢魔之刻\n\n暗夜吞天，而白昼将逝\n强烈怨念将化作复仇之灵现世",
+      "en": "The evening hours are perilous.\n\nAs the darkness of night approaches and the sun begins to wane, powerful vengeful spirits visit the land seeking revenge.",
+      "jp": "夕刻は、逢魔が刻\n\n夜の闇が日を飲み込もうとする一時\n強い怨念が仇討ちの霊となり、現れることがある",
+      "cn_improved": "傍晚，乃逢魔之刻\n\n暗夜吞天，而白昼将逝\n强烈怨念将化作复仇之灵现世",
+      "cn_resurrection": null
+    },
+    {
+      "id": 121,
+      "status": "from_improved",
+      "cn": "义手忍具等物，可经由消耗形代\n驱动或触发\n\n形代可通过击倒敌人获取\n此外，形代会飘于地图中某处，亦可于鬼佛处购买",
+      "en": "Abilities such as Prosthetic Tools cost Spirit Emblems to be used.\n\nSpirit Emblems can be obtained by defeating enemies, finding them in the world, or purchasing them at Sculptor's Idols.",
+      "jp": "義手忍具など、形代を消費することで\n使えるアクションがある\n\n敵を倒したら手に入るほか、マップにただよっていたり\n鬼仏で買うこともできる",
+      "cn_improved": "义手忍具等物，可经由消耗形代\n驱动或触发\n\n形代可通过击倒敌人获取\n此外，形代会飘于地图中某处，亦可于鬼佛处购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 122,
+      "status": "from_improved",
+      "cn": "爬地壁虎类敌人\n即使发现我方，仍可对其落下忍杀",
+      "en": "Enemies that crawl on the ground, such as lizards, \nare vulnerable to Deathblows whenever you\njump toward them.  \n\nThis Deathblow can be performed even if they are aware of you.",
+      "jp": "地を這うヤモリなどは、\nこちらに気付かれているときも、落下忍殺ができる",
+      "cn_improved": "爬地壁虎类敌人\n即使发现我方，仍可对其落下忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 123,
+      "status": "from_improved",
+      "cn": "绝世强者\n非【终结忍杀】不可杀而绝之\n\n终结忍杀\n须将ＨＰ量表上方之忍杀印记\n尽数清空后方可发动",
+      "en": "Some rare, very powerful enemies require an additional \"Finisher Deathblow\" in order to be defeated.\n\nThis Finisher Deathblow can only be performed once all of the enemy's Deathblow markers are gone.",
+      "jp": "類稀な強者は、「とどめ忍殺」をしなければ\n倒し切ることはできない\n\nとどめ忍殺は、\nＨＰゲージの上に表示された忍殺マーカーを\n全て削り切ったあとに可能となる",
+      "cn_improved": "绝世强者\n非【终结忍杀】不可杀而绝之\n\n终结忍杀\n须将ＨＰ量表上方之忍杀印记\n尽数清空后方可发动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 124,
+      "status": "from_improved",
+      "cn": "【回生】并非可连续使用之物\n获得【回生之力】方可再次使用\n\n回生之力\n可以通过击败或忍杀敌人获得",
+      "en": "Resurrection cannot be performed repeatedly over a short period of time, but obtaining Resurrective Power allows it to be used once again.\n\nResurrective Power can be obtained by killing enemies or through performing a Deathblow.",
+      "jp": "「回生」は、続けて使えるものではないが、\n「回生の力」を入手すると再度使えるようになる\n\n回生の力は、\n敵を倒したり、忍殺することで得られることがある",
+      "cn_improved": "【回生】并非可连续使用之物\n获得【回生之力】方可再次使用\n\n回生之力\n可以通过击败或忍杀敌人获得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 125,
+      "status": "from_improved",
+      "cn": "死亡损失，会夺去半数之金钱及技能经验值\n然偶有得以回避损失之时\n此乃神佛相助，谓之【冥助】也\n\n冥助发生之概率\n可于暂停菜单确认\n\n<?kgiconKc@27?>：打开暂停菜单",
+      "en": "You lose skill experience points and Sen when you die, but\nthere is a way to avoid this on rare occasions by divine\nprotection known as Unseen Aid.\n\nThe rate at which Unseen Aid occurs\ncan be found in the Pause Menu.\n\n<?kgiconKc@27?>: Open Pause Menu",
+      "jp": "死亡喪失により、銭とスキル経験値を失うが\n稀に、それを回避する事ができる\n「冥助」と呼ばれる、神仏の助けである\n\n冥助が起こる確率は、\nポーズメニューで確認することができる\n\n<?kgiconKc@27?>:ポーズメニューを開く",
+      "cn_improved": "死亡损失，会夺去半数之金钱及技能经验值\n然偶有得以回避损失之时\n此乃神佛相助，谓之【冥助】也\n\n冥助发生之概率\n可于暂停菜单确认\n\n<?kgiconKc@27?>：打开暂停菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 126,
+      "status": "from_improved",
+      "cn": "【咳声】乃是显示何人罹患龙咳之道具\n\n所持【咳声】愈多\n则避免死亡损失之【冥助概率】愈低",
+      "en": "Rot Essence is an item that tells you who is afflicted with Dragonrot.\n\nThe more Rot Essence you have, the lower your chances of Unseen Aid, which prevents losses upon death.",
+      "jp": "「咳の音」は、誰が竜咳に罹っているかを示すアイテム\n\n「咳の音」を多く所持すればするほど、\n死亡喪失を回避する「冥助確率」が低くなる",
+      "cn_improved": "【咳声】乃是显示何人罹患龙咳之道具\n\n所持【咳声】愈多\n则避免死亡损失之【冥助概率】愈低",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127,
+      "status": "from_improved",
+      "cn": "可在鬼佛处治愈龙咳\n消耗【<?gdsparam@5600?>】\n便可使所有罹患龙咳者快复痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
+      "en": "A Dragon's Blood Droplet can be offered to a Sculptor's Idol to restore to health those afflicted with Dragonrot.\n\nOne restoration will remove Dragonrot from all those afflicted, and all Rot Essence will also disappear, returning the chances of Unseen Aid to default levels.",
+      "jp": "鬼仏で行える竜咳の快復には、\n「<?gdsparam@5600?>」を消費する\nそうすれば、一度に全ての竜咳患者が快復する\n\n所持していた「咳の音」が無くなり、\n下がっていた冥助確率が元に戻る",
+      "cn_improved": "可在鬼佛处治愈龙咳\n消耗【<?gdsparam@5600?>】\n便可使所有罹患龙咳者快复痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
+      "cn_resurrection": null
+    },
+    {
+      "id": 128,
+      "status": "from_improved",
+      "cn": "持有龙胤之力者，若累积死亡\n便会向世间散播名为【龙咳】之疾病\n\n从某处传来的咳声\n乃是与狼相关之人罹患龙咳的证明",
+      "en": "The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.\n\nThe coughing and wheezing heard from all around is proof that one who has had dealings with the Wolf has come down with Dragonrot.",
+      "jp": "竜胤の力を持つ者が死を重ねると、\n「竜咳」と呼ばれる病が、世に振りまかれる\n\nどこからか聴こえる「咳の音」は、\n狼が関わった誰かが、竜咳に罹ったことを示す",
+      "cn_improved": "持有龙胤之力者，若累积死亡\n便会向世间散播名为【龙咳】之疾病\n\n从某处传来的咳声\n乃是与狼相关之人罹患龙咳的证明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 129,
+      "status": "from_improved",
+      "cn": "消耗形代之诸般流派技\n即便所需形代不足，亦可施展\n\n但若无形代，便无法发挥出招式原本之威力",
+      "en": "Some Combat Arts cost Spirit Emblems to use.  \n\nIf one does not have enough Spirit Emblems to pay the cost, a weaker version of the technique can still be performed.\n",
+      "jp": "形代を消費する流派技は、\n必要な形代が足りなくても、繰り出すことはできる\n\nだが形代が無くば、技が持つ本来の力は発揮できない ",
+      "cn_improved": "消耗形代之诸般流派技\n即便所需形代不足，亦可施展\n\n但若无形代，便无法发挥出招式原本之威力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130,
+      "status": "from_improved",
+      "cn": "突刺攻击\n虽可弹开，但不可防御\n\n若已习得忍技之【看破】\n便可看破突刺攻击，免于受伤\n相较于弹开，可给予敌人更大的体干伤害",
+      "en": "Thrust attacks cannot be blocked, but they can be deflected.\n\nUsing the Mikiri Counter skill to negate a thrust attack\nwill deal greater Posture damage than a normal deflect.",
+      "jp": "突き攻撃は、\n弾くことはできるが、ガードはできない\n\n忍び技のスキル「見切り」を習得していれば、\n突き攻撃を見切って無効化し、\n弾くよりも大きな体幹ダメージを与えられる",
+      "cn_improved": "突刺攻击\n虽可弹开，但不可防御\n\n若已习得忍技之【看破】\n便可看破突刺攻击，免于受伤\n相较于弹开，可给予敌人更大的体干伤害",
+      "cn_resurrection": null
+    },
+    {
+      "id": 131,
+      "status": "from_improved",
+      "cn": "下段攻击，既无法防御亦无法弹开\n不过，可以用跳跃来闪避\n\n若以空中踢击追击踩踏敌人\n便可给予对方极大的体干伤害\n敌人崩势时，可顺势忍杀",
+      "en": "Sweep attacks can be neither guarded nor deflected.\nHowever, you can jump to avoid them.\n\nJump-kicking an enemy during their sweep attack will \ndeal a large amount of Posture damage, often leaving \nthem vulnerable to a Deathblow.",
+      "jp": "下段攻撃は、ガードも弾くこともできない\nだが、ジャンプで回避できる\n\nさらに空中蹴りで踏みつけると、\n大きな体幹ダメージを与えられる\n体勢を崩した時は、そのまま忍殺もできる ",
+      "cn_improved": "下段攻击，既无法防御亦无法弹开\n不过，可以用跳跃来闪避\n\n若以空中踢击追击踩踏敌人\n便可给予对方极大的体干伤害\n敌人崩势时，可顺势忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132,
+      "status": "from_improved",
+      "cn": "擒拿攻击，既无法防御亦无法弹开\n若被敌人抓住，恐遭不可避之重创\n\n但若能在被擒住前，以跳跃或冲刺\n拉开距离，便不会被擒住\n亦可在即将被擒住的瞬间以垫步回避",
+      "en": "Grab attacks can be neither guarded nor deflected.\nOnce caught, damage cannot be avoided.\n\nJumping or sprinting to a safe distance before the attack lands will keep you from an enemy's grasp.\n\nSome grabs can also be avoided with a well-timed Step Dodge.",
+      "jp": "掴み攻撃は、ガードも弾くこともできない\n掴まれると、なす術なく痛手を受ける\n\nだが掴まれる前に、ジャンプやダッシュで\n距離を取ってしまえば掴まれることはない\nまたステップで回避できる瞬間もある",
+      "cn_improved": "擒拿攻击，既无法防御亦无法弹开\n若被敌人抓住，恐遭不可避之重创\n\n但若能在被擒住前，以跳跃或冲刺\n拉开距离，便不会被擒住\n亦可在即将被擒住的瞬间以垫步回避",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133,
+      "status": "from_improved",
+      "cn": "有时一次弹开尚不能遏止敌人攻势\n\n敌方连击，可用【连续弹开】对应\n若能悉数弹开\n想必可大幅度削减敌人体干",
+      "en": "Deflecting one attack doesn't always mean an enemy will\nstop attacking.\n\nConsecutive attacks can be countered with Consecutive\nDeflections. Deflect every last attack, and you'll be able\nto inflict a great deal of Posture damage. ",
+      "jp": "一度の弾きで敵の攻撃が止まらないこともある\n\n敵の連続攻撃には、「連続弾き」で対応できる\n全てを弾ききれば、\n敵の体幹を大きく削ることができるだろう ",
+      "cn_improved": "有时一次弹开尚不能遏止敌人攻势\n\n敌方连击，可用【连续弹开】对应\n若能悉数弹开\n想必可大幅度削减敌人体干",
+      "cn_resurrection": null
+    },
+    {
+      "id": 134,
+      "status": "from_improved",
+      "cn": "可以同荒寺外的不死者半兵卫\n进行【修练】，学习战斗基础\n\n与半兵卫逐步练习后，或狼习得技能时\n可修练项目亦会增加\n\n若与强者陷入苦战\n回归基本，再行修练亦不失为良策\n如此，可重温持刀战法之基础",
+      "en": "Outside the Dilapidated Temple, you'll find a warrior known\nas Hanbei the Undying who will volunteer to help you train.\n\nThe Wolf can unlock new training options by completing\ntraining sessions with Hanbei and obtaining new Skills.\n\nWhen an enemy feels insurmountable, it may help to step\nback and spend some time training.  The basics he teaches form the foundation of all sword combat.",
+      "jp": "荒れ寺の外にいる、死なず半兵衛とは、\n戦闘の基本を学ぶ「修練」ができる\n\n修練の項目は、半兵衛との修練を重ねたり、\n狼がスキルを習得して、増えることがある\n\n強者に苦戦を強いられたときは、\n基本に立ち返り、修練を行うのも良いだろう\n刀を用いた戦いの、礎がそこにある",
+      "cn_improved": "可以同荒寺外的不死者半兵卫\n进行【修练】，学习战斗基础\n\n与半兵卫逐步练习后，或狼习得技能时\n可修练项目亦会增加\n\n若与强者陷入苦战\n回归基本，再行修练亦不失为良策\n如此，可重温持刀战法之基础",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135,
+      "status": "from_improved",
+      "cn": "荒寺外，与不死者半兵卫之【模拟战】\n不会消耗任何形代\n\n若想尝试新取得的义手忍具或技能\n去那里再合适不过\n\n通过与半兵卫逐步练习，便可解锁模拟战",
+      "en": "Free Combat sessions outside the Dilapidated Temple with\nHanbei the Undying are the perfect opportunity to test out\nnew Prosthetic Tools and Skills.\n\nYou'll be able to use them to your heart's content without\nexpending a single Spirit Emblem.\n\nFree Combat can be unlocked by completing all of Hanbei's training sessions.",
+      "jp": "荒れ寺の外にいる、死なず半兵衛と行える「模擬戦」では、\n形代を一切消費しない\n\n新しく手にした義手忍具やスキルを試したいときは、\n恰好の場である\n\n半兵衛との修練を重ねることで、模擬戦を行えるようになる",
+      "cn_improved": "荒寺外，与不死者半兵卫之【模拟战】\n不会消耗任何形代\n\n若想尝试新取得的义手忍具或技能\n去那里再合适不过\n\n通过与半兵卫逐步练习，便可解锁模拟战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136,
+      "status": "from_improved",
+      "cn": "若能制成强化义手忍具\n便可附加各种攻击属性\n抑或是施展全新战技\n\n或缠火，或附毒\n如此多变之忍者战法，可有效应对各类敌人\n\n新作成之义手忍具\n可在装备界面装备并使用",
+      "en": "Prosthetic Tools can be upgraded in a variety of ways,\nsuch as by adding an elemental effect to the tool,\nor allowing new techniques to be performed with it.\n\nUpgraded versions might be wreathed in flame, or perhaps tinged with poison, and such upgraded versions may have different uses or be effective against different enemies.\nNewly created Upgraded Prosthetic Tools must be equipped in the Equipment Menu to be used.",
+      "jp": "強化義手忍具を作成すれば、\n異なる攻撃属性が付与されたり、\n新たな技を繰り出せるようになる\n\n時に炎を纏い、あるいは毒を帯び、\n忍びの戦い方や有効な敵も変わるだろう\n\n新たに作成した義手忍具は、\n装備メニューから装備することで使用できる",
+      "cn_improved": "若能制成强化义手忍具\n便可附加各种攻击属性\n抑或是施展全新战技\n\n或缠火，或附毒\n如此多变之忍者战法，可有效应对各类敌人\n\n新作成之义手忍具\n可在装备界面装备并使用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150,
+      "status": "from_improved",
+      "cn": "忍者之攻法，在于削减对方【体干】\n持续攻击，敌人体势终将崩解\n\n一旦敌人崩势，便可用【忍杀】一击毙命\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "en": "A Shinobi aims to break an opponent's posture.  \nAttacking an enemy is one way to achieve this.\n\nWhen an enemy's posture breaks, \nhe is vulnerable to a \"Shinobi Deathblow\".\n\n<?kgiconKc@16?>: Attack\n<?kgiconKc@16?> on posture-broken enemy: Deathblow",
+      "jp": "忍びの攻撃は、「体幹」を削り取るためにある\n攻撃を重ねると、やがて敵は体勢を崩す\n\n体勢を崩せば、「忍殺」で一撃で殺せるだろう\n\n<?kgiconKc@16?>:攻撃\n体勢が崩れた敵に<?kgiconKc@16?>:忍殺",
+      "cn_improved": "忍者之攻法，在于削减对方【体干】\n持续攻击，敌人体势终将崩解\n\n一旦敌人崩势，便可用【忍杀】一击毙命\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 151,
+      "status": "from_improved",
+      "cn": "亦有仅凭攻击无法崩势之对手\n\n弹开敌人攻击\n借对方之攻势削减其体干\n忍者超凡的防御技巧\n亦兼备攻击效果\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开",
+      "en": "Sometimes relentless attack is not enough \nto break an enemy's posture.\n\nDeflecting enemy attacks is another way\nto damage their posture.  A master shinobi \nuses a combination of Deflect and attacks\nto achieve swift victory.\n\n<?kgiconKc@18?> the moment an attack lands: Deflect\n",
+      "jp": "打ち込むばかりでは、崩せない相手もいる\n\n敵の攻撃を弾けば、\nその勢いを利用して体幹を削ることができる\n優れた忍びの防御は、\n同時に攻撃を兼ね備えるのだ\n\n敵の攻撃に合わせて<?kgiconKc@18?>:弾き",
+      "cn_improved": "亦有仅凭攻击无法崩势之对手\n\n弹开敌人攻击\n借对方之攻势削减其体干\n忍者超凡的防御技巧\n亦兼备攻击效果\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 152,
+      "status": "from_improved",
+      "cn": "配合敌人攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩攻击\n\n弹开敌人攻击，顺势施以反斩\n\n弹开可削减体干，进而施展反斩追击\n便可大幅削减敌人体干",
+      "en": "\n<?kgiconKc@18?> the moment enemy attack lands: Deflect\n<?kgiconKc@16?> after Deflecting: Counter-slash\nA \"Counter-slash\" is performed by attacking right after successfully Deflecting an enemy attack.\n\nBy using a combination of Deflect and attacks to deal posture damage, one can greatly damage enemy Posture in a short time.",
+      "jp": "敵の攻撃に合わせて<?kgiconKc@18?>:弾き\n弾きのあと、<?kgiconKc@16?>:斬り返し攻撃\n\n敵の攻撃を弾き、その流れで斬り返すことができる\n\n弾きで体幹を削り、さらに斬り返し攻撃で畳み掛ければ、\n大きく体幹を削ることができる",
+      "cn_improved": "配合敌人攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩攻击\n\n弹开敌人攻击，顺势施以反斩\n\n弹开可削减体干，进而施展反斩追击\n便可大幅削减敌人体干",
+      "cn_resurrection": null
+    },
+    {
+      "id": 153,
+      "status": "from_improved",
+      "cn": "受到伤害，ＨＰ减少时\n应与敌人拉开距离，以<?gdsparam@3000?>进行恢复\n\n<?kgiconKc@21?>：使用道具",
+      "en": "If you've taken damage and your Vitality is low, it's best to create space between you and your enemy, and use a Healing Gourd to restore your Vitality.\n\n<?kgiconKc@21?>: Use Quick Item",
+      "jp": "ダメージを受け、ＨＰが減少した時は、\n敵から距離を取り、傷薬瓢箪で回復するのが良い\n\n<?kgiconKc@21?>:アイテム使用",
+      "cn_improved": "受到伤害，ＨＰ减少时\n应与敌人拉开距离，以<?gdsparam@3000?>进行恢复\n\n<?kgiconKc@21?>：使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 154,
+      "status": "from_improved",
+      "cn": "针对未发现我方的敌人，其隐密杀法之一\n\n悬垂于悬崖等地点\n小心移至敌人脚边，便可以将其忍杀",
+      "en": "A Ledge Hang Deathblow is a type of Stealth Deathblow that can be performed on unaware enemies.\n\nWhile hanging from a cliff or ledge, shimmying just below the unaware enemy will make them vulnerable to this Deathblow.",
+      "jp": "こちらに気付いていない敵への、隠密忍殺の一つ\n\n崖などにぶら下がり、\n敵の足元に忍び寄ることで忍殺できる",
+      "cn_improved": "针对未发现我方的敌人，其隐密杀法之一\n\n悬垂于悬崖等地点\n小心移至敌人脚边，便可以将其忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 155,
+      "status": "from_improved",
+      "cn": "针对未发现我方的敌人，其隐密杀法之一\n\n紧贴墙壁，屏息静待\n敌人靠近时便可将其忍杀",
+      "en": "A Wall Hug Deathblow is a type of Stealth Deathblow that can be performed on unaware enemies.\n\nWhile undetected and hugging a wall, lie in wait for a passing enemy.  When the enemy draws close enough, he will be vulnerable to this Deathblow.",
+      "jp": "こちらに気付いていない敵への、隠密忍殺の一つ\n\n壁に張り付き、息を殺して待ち、\n敵が近づいてきたときに忍殺できる",
+      "cn_improved": "针对未发现我方的敌人，其隐密杀法之一\n\n紧贴墙壁，屏息静待\n敌人靠近时便可将其忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 156,
+      "status": "from_improved",
+      "cn": "义手忍具，其种类繁杂\n相同战法，未必适用于所有敌人\n\n佛师有言\n\n　盾坚，则碎之...\n　敌速，则射之\n\n　所安装之忍具愈多，则破敌之法愈多",
+      "en": "There are many kinds of Prosthetic Tools, and the same strategy won't work on every opponent.\n\nThe Sculptor says,\n\n\"Thick shields? Break them into splinters...\nSwift foes? Bring them down from afar.\nFitting more devices means more ways \nto slay your enemies.\"",
+      "jp": "義手忍具には、様々な種類があり、\n同じ戦法が、全ての敵に通用するとは限らない\n\n仏師は言う\n\n　硬き盾ならば、打ち砕き…\n　素早き敵ならば、仕留め打つ\n\n　仕込んだ忍具が増えるだけ、敵を殺す術も増えるじゃろう",
+      "cn_improved": "义手忍具，其种类繁杂\n相同战法，未必适用于所有敌人\n\n佛师有言\n\n　盾坚，则碎之...\n　敌速，则射之\n\n　所安装之忍具愈多，则破敌之法愈多",
+      "cn_resurrection": null
+    },
+    {
+      "id": 157,
+      "status": "from_improved",
+      "cn": "狂暴之赤目，以凡人之力恐难压制\n\n但火对赤目有奇效\n赤目所惧之物，莫过于火",
+      "en": "Those with Red Eyes are dangerous and filled with rage, and attempting to defeat them in hand-to-hand combat seems unwise.\n\nFire, however, is very effective against them.\nThey are said to fear fire above all else.",
+      "jp": "暴れ狂う赤目は、人の力で抑えることは難しい\n\n赤目には火が有効だ\n奴らは何より、火を恐れるのだ",
+      "cn_improved": "狂暴之赤目，以凡人之力恐难压制\n\n但火对赤目有奇效\n赤目所惧之物，莫过于火",
+      "cn_resurrection": null
+    },
+    {
+      "id": 158,
+      "status": "from_improved",
+      "cn": "高处或崖外等，乍看之下钩绳无法触及之地\n以跳跃接近，便能以钩绳够到",
+      "en": "High perches or cliffs that seem too far away for the Grappling Hook to reach may become reachable if you jump toward them.",
+      "jp": "高所や崖の外など、一見して鉤縄の届かない場所でも\nジャンプをして近付けば、鉤縄が届くこともある",
+      "cn_improved": "高处或崖外等，乍看之下钩绳无法触及之地\n以跳跃接近，便能以钩绳够到",
+      "cn_resurrection": null
+    },
+    {
+      "id": 159,
+      "status": "from_improved",
+      "cn": "野兽，多怯巨响\n\n义手忍具之【爆竹】，可作此用",
+      "en": "Beasts are scared by loud noises.\n\nThis makes the \"Shinobi Firecracker\" Prosthetic Tool quite effective against them.",
+      "jp": "獣は、大きな音に怯む\n\n義手忍具「爆竹」が有効だ",
+      "cn_improved": "野兽，多怯巨响\n\n义手忍具之【爆竹】，可作此用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 160,
+      "status": "from_improved",
+      "cn": "木制盾牌及斗笠，无法以刀刃穿透\n\n但若以忍斧叩下\n其沉重一击\n木盾之流，想必可轻易破之",
+      "en": "Wooden shields and hats can't be broken by regular sword attacks.\n\nThe Loaded Axe Prosthetic Tool might do the trick, however.\nA weapon that heavy can cleave through a wooden shield like paper.",
+      "jp": "木でできた盾や笠は、刀の攻撃を通さない\n\nだが、仕込み斧ならば破壊できる\nその重い一撃は、\n木盾程度ならば、やすやすと叩き壊すのだ",
+      "cn_improved": "木制盾牌及斗笠，无法以刀刃穿透\n\n但若以忍斧叩下\n其沉重一击\n木盾之流，想必可轻易破之",
+      "cn_resurrection": null
+    },
+    {
+      "id": 161,
+      "status": "from_improved",
+      "cn": "魁梧者，多将不合身之铠甲\n强行穿戴以护体\n\n如此铠甲，可用机关长枪轻易剥落\n所谓形部之剥铠",
+      "en": "Those of large build will occasionally force themselves into poorly-fitting armor.\n\nSuch armor could be torn clean off with the Loaded Spear; a technique known as Gyoubu Armor Stripping. ",
+      "jp": "大柄な者は、往々にして身に合わぬ鎧を\n無理に着込むことがある\n\nそうした鎧ならば、仕込み槍で容易く引き剥がせる\n世に言う、形部の鎧剥ぎよ",
+      "cn_improved": "魁梧者，多将不合身之铠甲\n强行穿戴以护体\n\n如此铠甲，可用机关长枪轻易剥落\n所谓形部之剥铠",
+      "cn_resurrection": null
+    },
+    {
+      "id": 162,
+      "status": "from_improved",
+      "cn": "防御时，体干回复速度更快\n\n体干即将崩破时\n应以防御快速回复体干\n架其势，整其息\n\n<?kgiconKc@18?>长按:防御",
+      "en": "Posture replenishes faster when Guarding.\n\nIf Wolf's Posture is near breaking, recovering it can mean the difference between survival and death.\n\nHold <?kgiconKc@18?>: Guard\n",
+      "jp": "ガード中は、体幹の回復が早くなる\n\n体幹が崩れそうなときは、\nガードして素早く体幹を回復すると良い\n構えれば、整う\n\n<?kgiconKc@18?>長押し:ガード",
+      "cn_improved": "防御时，体干回复速度更快\n\n体干即将崩破时\n应以防御快速回复体干\n架其势，整其息\n\n<?kgiconKc@18?>长按:防御",
+      "cn_resurrection": null
+    },
+    {
+      "id": 163,
+      "status": "from_improved",
+      "cn": "青锈之毒，相传曾于上古之战中\n击退非人之淤加美女武者\n\n若是其血脉相连者，想必亦会有效",
+      "en": "In wars of old, poisonous blue rust was said to have driven off the inhuman Okami warrior women.\n\nIt would likely be effective on their descendants as well.",
+      "jp": "青錆びの毒は、いにしえの戦で\n人ならぬ、淤加美の女武者らを退けたという\n\nその血筋に連なる者にもまた、有効だろう",
+      "cn_improved": "青锈之毒，相传曾于上古之战中\n击退非人之淤加美女武者\n\n若是其血脉相连者，想必亦会有效",
+      "cn_resurrection": null
+    },
+    {
+      "id": 164,
+      "status": "from_improved",
+      "cn": "手里剑对四处跳跃或动作敏捷的敌人很有效\n\n也适合用来使敌人胆怯，妨碍其行动",
+      "en": "Shuriken are effective against enemies that leap around or are especially fast.\n\nShuriken are also useful for causing enemies to flinch, interrupting their actions.",
+      "jp": "跳び回る敵や、素早い敵には、手裏剣が有効だ\n\n敵を怯ませ、行動を遮るのにも向いている",
+      "cn_improved": "手里剑对四处跳跃或动作敏捷的敌人很有效\n\n也适合用来使敌人胆怯，妨碍其行动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 165,
+      "status": "from_improved",
+      "cn": "可暂时提升能力的道具\n\n紧咬佛糖，摆出架势\n如此，可使非人之御灵加护降临己身\n\n欲犯险地，或迎战强者时，需有所准备",
+      "en": "Buddhist sugars are items that increase one's stats for a period of time.\n\nBy biting into a Buddhist candy and assuming the correct stance, one may receive its blessing.\n\nSuch blessings can be beneficial when entering dangerous places or facing daunting foes.",
+      "jp": "一時的に、能力を高めるアイテム\n\n飴を噛みしめ、構えることで\n人ならぬ御霊の加護を自らに降ろす\n\n危地や強者に挑む、心構えだ",
+      "cn_improved": "可暂时提升能力的道具\n\n紧咬佛糖，摆出架势\n如此，可使非人之御灵加护降临己身\n\n欲犯险地，或迎战强者时，需有所准备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 166,
+      "status": "from_improved",
+      "cn": "在技能菜单或技书中习得之流派技\n自装备菜单中选择装备，便可使用\n\n按住<?kgiconKc@18?>时按<?kgiconKc@16?>：流派技",
+      "en": "Combat Arts are learned through the Sculptor's Idol Acquire Skills Menu, or can be acquired immediately at no Skill Point cost by finding Skill Compendiums. Combat Arts can be chosen and equipped in the Equipment Menu.\n\n<?kgiconKc@18?> + <?kgiconKc@16?>: Use equipped Combat Art",
+      "jp": "スキルメニューや技書で習得した流派技は、\n装備メニューから一つを選び、装備すれば使用できる\n\n<?kgiconKc@18?>を押しながら<?kgiconKc@16?>:流派技",
+      "cn_improved": "在技能菜单或技书中习得之流派技\n自装备菜单中选择装备，便可使用\n\n按住<?kgiconKc@18?>时按<?kgiconKc@16?>：流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 167,
+      "status": "from_improved",
+      "cn": "技能有3类\n其用法与用途各不相同\n\n流派技:\n特殊攻击技能。在装备菜单装备后使用\n\n忍者体术:\n无需装备，在特定操作或条件下可使出的技能\n\n常在效果:\n可一直发挥效果的技能。习得数种时效果可叠加",
+      "en": "There are three types of Skills that can be learned: \"Combat Arts\", \"Shinobi Martial Arts\", \nand \"Latent Skills\".\n\"Combat Arts\" are attack-based skills, equippable \nin the Equipment Menu.\n\"Shinobi Martial Arts\" do not need to be equipped, they can always be performed in the correct conditions.\n\"Latent Skills\" are always in effect upon being learned, and multiple skills with the same benefit stack.",
+      "jp": "スキルには3種類ある\nそれぞれ、使い方や用途が異なる\n\n流派技:\n特殊な攻撃スキル。装備メニューで装備して使う\n\n忍びの体術:\n装備しなくても、特定の操作/条件で使えるスキル\n\n常在効果:\n常に効果を発揮するスキル。複数習得で効果が重複する",
+      "cn_improved": "技能有3类\n其用法与用途各不相同\n\n流派技:\n特殊攻击技能。在装备菜单装备后使用\n\n忍者体术:\n无需装备，在特定操作或条件下可使出的技能\n\n常在效果:\n可一直发挥效果的技能。习得数种时效果可叠加",
+      "cn_resurrection": null
+    },
+    {
+      "id": 168,
+      "status": "from_improved",
+      "cn": "配合敌人攻击按<?kgiconKc@18?>：弹开\n\n不过，若连按<?kgiconKc@18?>\n将很难成功弹开\n\n所谓弹开，乃是看准敌人刀刃触及己身之刹那\n举刀格挡之技巧",
+      "en": "<?kgiconKc@18?> at the moment an enemy attack lands: Deflect\n\nThe button press must be timed carefully, as repeatedly pressing <?kgiconKc@18?> will make it harder for Deflects to succeed.\n\nThe moment of opportunity for performing a Deflection is when the enemy's blade is but a hair's breadth away.  ",
+      "jp": "敵の攻撃に合わせて<?kgiconKc@18?>:弾き\n\nただし、<?kgiconKc@18?>を連打すると、\n弾きが成功しづらくなる\n\n弾きとは、敵の刃が己が身をかすめる\nその刹那を狙い打つものだ",
+      "cn_improved": "配合敌人攻击按<?kgiconKc@18?>：弹开\n\n不过，若连按<?kgiconKc@18?>\n将很难成功弹开\n\n所谓弹开，乃是看准敌人刀刃触及己身之刹那\n举刀格挡之技巧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 169,
+      "status": "from_improved",
+      "cn": "居于毒地者，皆对【中毒】有较高抗性\n\n其中亦不乏完全不受中毒影响之人",
+      "en": "Those who live in poisonous areas have very high resistance to the \"Poison\" status abnormality.\n\nSome are even completely immune to it.",
+      "jp": "毒地で暮らすものは皆、「中毒」への耐性が高い\n\n中には、全く中毒の影響を受けないものもいる",
+      "cn_improved": "居于毒地者，皆对【中毒】有较高抗性\n\n其中亦不乏完全不受中毒影响之人",
+      "cn_resurrection": null
+    },
+    {
+      "id": 170,
+      "status": "from_improved",
+      "cn": "子弹、投掷武器等物可用刀弹开",
+      "en": "Wolf can use his sword to deflect bullets and other projectiles.",
+      "jp": "銃弾や、投擲武器も刀で弾くことができる",
+      "cn_improved": "子弹、投掷武器等物可用刀弹开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 171,
+      "status": "from_improved",
+      "cn": "若放任敌人不管，其体干将缓慢恢复\n不过刀刃相交时，体干会停止恢复\n\n反复攻击或弹开，不与敌人喘息之机\n乃是忍者交战之基础",
+      "en": "Leave an enemy alone, and their Posture will slowly recover.\n\nHowever, continuing to cross swords with them\nwill prevent their posture from recovering.\n\nA core tenet of Shinobi combat is overwhelming \nthe enemy with relentless strikes and deflections, \nnever giving them a moment to rest.",
+      "jp": "敵を放っておくと、少しずつ体幹を回復されてしまう\nだが、刀を打ち合っている間は体幹の回復が止まる\n\n攻撃や弾きを重ね、敵に休む暇を与えないことが、\n忍びの戦いの基本である",
+      "cn_improved": "若放任敌人不管，其体干将缓慢恢复\n不过刀刃相交时，体干会停止恢复\n\n反复攻击或弹开，不与敌人喘息之机\n乃是忍者交战之基础",
+      "cn_resurrection": null
+    },
+    {
+      "id": 172,
+      "status": "from_improved",
+      "cn": "使用义手忍具后\n可派生发动之剑技\n\n谓之【派生攻击】\n可施展活用忍义手特性之战法\n\n派生攻击可作为\n【忍义手技】之技能习得",
+      "en": "There are sword techniques that can be unleashed after using Prosthetic Tools.\n\nThese \"Follow-up Attacks\" allow for a fighting style that further leverages the qualities of the Prosthetic Tools.\n\nFollow-up Attacks can be learned as \"Prosthetic Arts\" Skills.",
+      "jp": "義手忍具を使ったあと、\n派生して繰り出せる剣技がある\n\nそれは「派生攻撃」と呼ばれ、\n義手忍具の特性をより生かした戦い方ができるようになる\n\n派生攻撃は、\n「忍び義手技」のスキルとして習得できる ",
+      "cn_improved": "使用义手忍具后\n可派生发动之剑技\n\n谓之【派生攻击】\n可施展活用忍义手特性之战法\n\n派生攻击可作为\n【忍义手技】之技能习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 173,
+      "status": "from_improved",
+      "cn": "使用部分义手忍具后\n向身前长踏一步，并施斩击之忍者体术\n\n对远处敌人，掷出长距义手忍具\n再追以斩击\n于瞬息间逼近\n\n可作为【忍义手技】之技能习得",
+      "en": "A Shinobi Martial Art that allows one to perform a forward-dashing sword slice after using certain Prosthetic Tools.\n\nA long range Prosthetic Tool attack combined with a Chasing Slice allows one to close distance on enemies instantly.\n\nCan be learned as \"Prosthetic Arts\" Skill.",
+      "jp": "一部の義手忍具使用後に、\n前方に大きく踏み込む斬撃を放つ忍びの体術\n\n遠間の敵に、射程の長い義手忍具を放ち、\n追い斬りを重ねれば、\n瞬きする間に距離を詰められる \n\n「忍び義手技」のスキルとして習得できる ",
+      "cn_improved": "使用部分义手忍具后\n向身前长踏一步，并施斩击之忍者体术\n\n对远处敌人，掷出长距义手忍具\n再追以斩击\n于瞬息间逼近\n\n可作为【忍义手技】之技能习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 300,
+      "status": "from_improved",
+      "cn": "供养众，乃是为逝者祈求冥福而贩卖货物之人\n\n有逝者之处，便有供养众\n\n战场遗址附近或废弃囚牢……\n供养众常见于此类处所\n若能寻得，便可购买物品",
+      "en": "The Memorial Mob are merchants who sell their wares as offerings to the dead.\n\nWhere you find the departed, you'll find the Memorial Mob.\n\nWhether it be along a recent battlefield, an abandoned dungeon...\nThe Memorial Mob will make an appearance.\nIf you seek them out, they'll surely present their wares.",
+      "jp": "供養衆は、死者たちの冥福のため、品を売る者たち\n\n死者があるところ、また供養衆あり\n\n戦場跡の側や、捨てられた牢…\nそういった所に、供養衆はいる\n探しあてれば、品を買うことができるだろう",
+      "cn_improved": "供养众，乃是为逝者祈求冥福而贩卖货物之人\n\n有逝者之处，便有供养众\n\n战场遗址附近或废弃囚牢……\n供养众常见于此类处所\n若能寻得，便可购买物品",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301,
+      "status": "from_improved",
+      "cn": "在荒寺外的不死者半兵卫乃是虫附者\n\n“这身体死不了，所以不论怎么砍都可以哦“\n\n作为修练刀法之对手，实乃不二人选",
+      "en": "There is a warrior named Hanbei the Undying, or also Hanbei the Infested, who can be found just outside the Dilapidated Temple.\n\n\"A warm body that can't die might prove useful to you.  I volunteer mine.\"\n\nIf you're looking for someone to train with, he may be an ideal opponent.",
+      "jp": "荒れ寺の外にいる、死なず半兵衛は、蟲憑きである\n\n「死ねぬ体ゆえ、幾度でも斬られてやれるぞ」\n\n刀の修練の相手として、これほど適した者もいないだろう",
+      "cn_improved": "在荒寺外的不死者半兵卫乃是虫附者\n\n“这身体死不了，所以不论怎么砍都可以哦“\n\n作为修练刀法之对手，实乃不二人选",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302,
+      "status": "from_improved",
+      "cn": "金光闪烁，宝鲤之鳞片也\n于常人而言，不过美艳鳞片\n\n然而亦有贪恋此物者\n欲求褒奖，则集此物以换之\n\n但宝鲤附近，亦有食人鱼栖息\n还是小心为妙",
+      "en": "A Treasure Carp's scales shine and sparkle beautifully.\nTo a casual observer, they're merely shiny fish scales.\n\nBut there are some who prize them more highly than anything in the world.\nCollecting them could be very rewarding indeed.\n\nHowever, man-eating fish are known to accompany Treasure Carp, so it seems a good idea to hunt them very carefully.",
+      "jp": "きらきら光る、宝鯉の鱗\n普通の人にとっては、ただの美しい鱗\n\nだが、これを欲しがる者もいるだろう\n褒美を求めるなら、集めてみると良い\n\nただ、宝鯉の近くには、人食いの魚もいるものだ\n気を付けた方が良いだろう",
+      "cn_improved": "金光闪烁，宝鲤之鳞片也\n于常人而言，不过美艳鳞片\n\n然而亦有贪恋此物者\n欲求褒奖，则集此物以换之\n\n但宝鲤附近，亦有食人鱼栖息\n还是小心为妙",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303,
+      "status": "from_improved",
+      "cn": "荒寺之佛师，精通忍义手机关\n\n可拜托佛师安装新取得的义手忍具\n或制作强化义手忍具\n\n若找到可用于忍义手之道具\n便去拜访佛师吧",
+      "en": "The Sculptor at the Dilapidated Temple specializes in Shinobi Prosthetic Tools.\n\nHe can be of great help when it comes to fitting new tools to the Shinobi Prosthetic, or upgrading existing ones.\n\nIf you find some Shinobi Tools or materials that seem like they could be useful,\nyou might want to pay him a visit.  ",
+      "jp": "荒れ寺にいる仏師は、忍義手の絡繰りに通じている\n\n仏師に頼めば、新たな義手忍具の仕込みや、\n強化義手忍具の作成を行うことができる\n\n忍義手に使えそうなものを見つけたならば、\n仏師を訪ねると良いだろう",
+      "cn_improved": "荒寺之佛师，精通忍义手机关\n\n可拜托佛师安装新取得的义手忍具\n或制作强化义手忍具\n\n若找到可用于忍义手之道具\n便去拜访佛师吧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 304,
+      "status": "from_improved",
+      "cn": "若得到传书\n便可解锁其流派之技能树\n\n解锁技能树\n便可习得该流派之技能",
+      "en": "Esoteric Texts unlock new skill trees.\n\nOnce a Skill Tree is unlocked, Skill Points can be spent to learn Combat Arts within that tree.",
+      "jp": "伝書を入手すれば、\n新しい流派のスキルツリーが解禁する\n\nスキルツリーが解禁すれば、\nその流派のスキルを習得できるようになる",
+      "cn_improved": "若得到传书\n便可解锁其流派之技能树\n\n解锁技能树\n便可习得该流派之技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 306,
+      "status": "from_improved",
+      "cn": "锋锐攻击可削减ＨＰ及体干，防者亦伤\n\n居合斩便是其中楚翘",
+      "en": "Piercing Attacks damage both Vitality and Posture, \neven if an enemy is guarding.\n\nThis is what makes techniques performed \nfrom a sheathed stance so effective.",
+      "jp": "鋭利な攻撃は、ＨＰと体幹をガード上からでも削る\n\n居合斬りは、その最たるものだろう",
+      "cn_improved": "锋锐攻击可削减ＨＰ及体干，防者亦伤\n\n居合斩便是其中楚翘",
+      "cn_resurrection": null
+    },
+    {
+      "id": 307,
+      "status": "from_improved",
+      "cn": "使用道具时长按<?kgToggleItems?>\n可跳至第一栏\n\n建议将【<?gdsparam@3000?>】等\n使用频率较高之道具装备于第一栏",
+      "en": "When using Quick Items, you can hold <?kgToggleItems?>\nto instantly jump to the Quick Item equipped in the first slot.\n\nPutting frequently used items such as the Healing Gourd in the first slot can be convenient in battle.",
+      "jp": "使用アイテムは\n<?kgToggleItems?>長押しで、先頭のスロットにジャンプする\n\n「<?gdsparam@3000?>」など、\n使用頻度の高いアイテムを、先頭スロットに装備しておくと良い",
+      "cn_improved": "使用道具时长按<?kgToggleItems?>\n可跳至第一栏\n\n建议将【<?gdsparam@3000?>】等\n使用频率较高之道具装备于第一栏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 311,
+      "status": "from_improved",
+      "cn": "忍者，可遗留其行动之幻影\n是为【残影】\n\n残影，乃众忍者为互励互勉而遗留之物\n时而为指路之良师\n时而为相竟之劲敌\n\n<?kgiconKc@44?>：打开残影菜单",
+      "en": "Shinobi may leave behind shadows of past actions known as \"Remnants\".\n\nRemnants are left to discipline one's peers.\nSome are masters of the way ahead, while others provoke sporting rivalries.\n\n<?kgiconKc@44?>: Open Remnant Menu",
+      "jp": "忍びは、その行動を幻影として残せる\nそれを「残影」と呼ぶ\n\n残影は忍びが、互いの修練のため残すものだ\nときに道を示す師であり、\nときに後を追うべき競争相手にもなる\n\n<?kgiconKc@44?>:残影メニューを開く",
+      "cn_improved": "忍者，可遗留其行动之幻影\n是为【残影】\n\n残影，乃众忍者为互励互勉而遗留之物\n时而为指路之良师\n时而为相竟之劲敌\n\n<?kgiconKc@44?>：打开残影菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 312,
+      "status": "from_improved",
+      "cn": "遇稀世强者而得胜\n便可于记忆之中与其再战\n\n与稀世强者之再战，可在鬼佛处进行",
+      "en": "Extraordinary foes conquered in battle can be faced once more within memories.\n\nAccess Reflection of Strength from the Sculptor's Idol Menu.",
+      "jp": "過去に打ち勝った類稀な強者と、\n記憶の中で再戦できる\n\n類稀な強者との再戦は、鬼仏で行う",
+      "cn_improved": "遇稀世强者而得胜\n便可于记忆之中与其再战\n\n与稀世强者之再战，可在鬼佛处进行",
+      "cn_resurrection": null
+    },
+    {
+      "id": 313,
+      "status": "from_improved",
+      "cn": "历战众稀世强者而皆得胜\n便可于记忆之中与众人连战\n\n直面自身记忆\n一如求取全新突破\n\n连战尽头，当有见地",
+      "en": "Extraordinary foes conquered in battle can be faced one after the other within memories.\n\nConfronting memories of the past is akin to the discovery of new possibilities.\n\nThe very ends of conflict may afford a new state of mind.",
+      "jp": "過去に打ち勝った類稀な強者たちと、\n記憶の中で連戦できる\n\n自らの記憶と向き合うのは、\n新たな可能性を見出すことに似ている\n\n戦いの果て、見える境地もあるだろうか",
+      "cn_improved": "历战众稀世强者而皆得胜\n便可于记忆之中与众人连战\n\n直面自身记忆\n一如求取全新突破\n\n连战尽头，当有见地",
+      "cn_resurrection": null
+    },
+    {
+      "id": 315,
+      "status": "from_improved",
+      "cn": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，改变狼的样貌\n不过，于能力并无影响\n\n即便接受了旁人残识\n也不过是一时之幻象罢了",
+      "en": "Memories left behind by another.\nOften referred to as feelings of remorse, though also expressing an attachment to certain ideas.\n\nHarbouring these innermost thoughts at a Sculptor's Idol will allow the Wolf to alter his form, though doing so will have no bearing on his ability.\n\nTaking charge of another's regret is but a fleeting thing, after all.",
+      "jp": "別の誰かが残した記憶\n心残り、あるいは執念とも呼べるもの\n\n鬼仏で心中に宿せば、狼の姿を変えられる\nただし、能力に影響することはない\n\n誰かの心残りを引き受けてやっても、\nそれは、かりそめにすぎないのだから",
+      "cn_improved": "彼之旁人留下的记忆\n残识，或称为执念之物\n\n在鬼佛处，可使其寄宿于心中，改变狼的样貌\n不过，于能力并无影响\n\n即便接受了旁人残识\n也不过是一时之幻象罢了",
+      "cn_resurrection": null
+    },
+    {
+      "id": 316,
+      "status": "from_improved",
+      "cn": "在空中长按で<?kgiconKc@20?>\n便可在落下过程中更易于攀附到崖边",
+      "en": "Holding <?kgiconKc@20?> while falling or jumping can make\nit easier to successfully grab a ledge.",
+      "jp": "空中で<?kgiconKc@20?>長押しすると\n落下中でもへりにぶら下がりやすくなる",
+      "cn_improved": "在空中长按で<?kgiconKc@20?>\n便可在落下过程中更易于攀附到崖边",
+      "cn_resurrection": null
+    }
+  ]
+}

@@ -1,0 +1,845 @@
+{
+  "fmg_id": 81,
+  "fmg_name": "項目ヘルプ",
+  "domain": "menu",
+  "count": 93,
+  "entries": [
+    {
+      "id": 1000,
+      "status": "from_improved",
+      "cn": "名前　：キャラクターの名前",
+      "en": "名前　：キャラクターの名前",
+      "jp": "名前　：キャラクターの名前",
+      "cn_improved": "名前　：キャラクターの名前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1001,
+      "status": "from_improved",
+      "cn": "性別　：男あるいは女。性別によって装備できない防具がある",
+      "en": "性別　：男あるいは女。性別によって装備できない防具がある",
+      "jp": "性別　：男あるいは女。性別によって装備できない防具がある",
+      "cn_improved": "性別　：男あるいは女。性別によって装備できない防具がある",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1002,
+      "status": "from_improved",
+      "cn": "生まれ　：キャラクターの生まれ",
+      "en": "生まれ　：キャラクターの生まれ",
+      "jp": "生まれ　：キャラクターの生まれ",
+      "cn_improved": "生まれ　：キャラクターの生まれ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1003,
+      "status": "from_improved",
+      "cn": "体力　：HP、所持重量に影響する",
+      "en": "体力　：HP、所持重量に影響する",
+      "jp": "体力　：HP、所持重量に影響する",
+      "cn_improved": "体力　：HP、所持重量に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1004,
+      "status": "from_improved",
+      "cn": "知力　：MP、魔法記憶数に影響する",
+      "en": "知力　：MP、魔法記憶数に影響する",
+      "jp": "知力　：MP、魔法記憶数に影響する",
+      "cn_improved": "知力　：MP、魔法記憶数に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1005,
+      "status": "from_improved",
+      "cn": "頑強　：スタミナ、装備重量、炎防御、出血および毒耐性に影響する",
+      "en": "頑強　：スタミナ、装備重量、炎防御、出血および毒耐性に影響する",
+      "jp": "頑強　：スタミナ、装備重量、炎防御、出血および毒耐性に影響する",
+      "cn_improved": "頑強　：スタミナ、装備重量、炎防御、出血および毒耐性に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1006,
+      "status": "from_improved",
+      "cn": "筋力　：攻撃ボーナスに影響する",
+      "en": "筋力　：攻撃ボーナスに影響する",
+      "jp": "筋力　：攻撃ボーナスに影響する",
+      "cn_improved": "筋力　：攻撃ボーナスに影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1007,
+      "status": "from_improved",
+      "cn": "技量　：攻撃ボーナス、落下によるダメージに影響する",
+      "en": "技量　：攻撃ボーナス、落下によるダメージに影響する",
+      "jp": "技量　：攻撃ボーナス、落下によるダメージに影響する",
+      "cn_improved": "技量　：攻撃ボーナス、落下によるダメージに影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1008,
+      "status": "from_improved",
+      "cn": "魔力　：魔法威力修正に影響する",
+      "en": "魔力　：魔法威力修正に影響する",
+      "jp": "魔力　：魔法威力修正に影響する",
+      "cn_improved": "魔力　：魔法威力修正に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1009,
+      "status": "from_improved",
+      "cn": "信仰　：奇跡威力修正、奇跡記憶数、魔法防御に影響する",
+      "en": "信仰　：奇跡威力修正、奇跡記憶数、魔法防御に影響する",
+      "jp": "信仰　：奇跡威力修正、奇跡記憶数、魔法防御に影響する",
+      "cn_improved": "信仰　：奇跡威力修正、奇跡記憶数、魔法防御に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1010,
+      "status": "from_improved",
+      "cn": "運　：アイテム出現率、疫病耐性に影響する",
+      "en": "運　：アイテム出現率、疫病耐性に影響する",
+      "jp": "運　：アイテム出現率、疫病耐性に影響する",
+      "cn_improved": "運　：アイテム出現率、疫病耐性に影響する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1011,
+      "status": "from_improved",
+      "cn": "ソウルレベル　：ソウルによる成長の度合い",
+      "en": "ソウルレベル　：ソウルによる成長の度合い",
+      "jp": "ソウルレベル　：ソウルによる成長の度合い",
+      "cn_improved": "ソウルレベル　：ソウルによる成長の度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1100,
+      "status": "from_improved",
+      "cn": "HP　：現在値/最大値。0になると死亡する。ソウルの体では、最大値が半分になる",
+      "en": "HP　：現在値/最大値。0になると死亡する。ソウルの体では、最大値が半分になる",
+      "jp": "HP　：現在値/最大値。0になると死亡する。ソウルの体では、最大値が半分になる",
+      "cn_improved": "HP　：現在値/最大値。0になると死亡する。ソウルの体では、最大値が半分になる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1101,
+      "status": "from_improved",
+      "cn": "MP　：現在値/最大値。魔法および奇跡の使用により消費する",
+      "en": "MP　：現在値/最大値。魔法および奇跡の使用により消費する",
+      "jp": "MP　：現在値/最大値。魔法および奇跡の使用により消費する",
+      "cn_improved": "MP　：現在値/最大値。魔法および奇跡の使用により消費する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1102,
+      "status": "from_improved",
+      "cn": "スタミナ　：攻撃、ダッシュ、回避などにより消費する。自動的に回復していく",
+      "en": "スタミナ　：攻撃、ダッシュ、回避などにより消費する。自動的に回復していく",
+      "jp": "スタミナ　：攻撃、ダッシュ、回避などにより消費する。自動的に回復していく",
+      "cn_improved": "スタミナ　：攻撃、ダッシュ、回避などにより消費する。自動的に回復していく",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1103,
+      "status": "from_improved",
+      "cn": "装備重量　：現在値/上限値。装備している武器、防具の重量の合計。上限値を超えると、著しく動きが遅くなる",
+      "en": "装備重量　：現在値/上限値。装備している武器、防具の重量の合計。上限値を超えると、著しく動きが遅くなる",
+      "jp": "装備重量　：現在値/上限値。装備している武器、防具の重量の合計。上限値を超えると、著しく動きが遅くなる",
+      "cn_improved": "装備重量　：現在値/上限値。装備している武器、防具の重量の合計。上限値を超えると、著しく動きが遅くなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1104,
+      "status": "from_improved",
+      "cn": "所持重量　：現在値/上限値。所持しているすべてのアイテムの重量の合計。上限値を越えた所持はできない",
+      "en": "所持重量　：現在値/上限値。所持しているすべてのアイテムの重量の合計。上限値を越えた所持はできない",
+      "jp": "所持重量　：現在値/上限値。所持しているすべてのアイテムの重量の合計。上限値を越えた所持はできない",
+      "cn_improved": "所持重量　：現在値/上限値。所持しているすべてのアイテムの重量の合計。上限値を越えた所持はできない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1105,
+      "status": "from_improved",
+      "cn": "指輪効果　：装備している指輪の特殊効果。指輪は2個まで装備できる",
+      "en": "指輪効果　：装備している指輪の特殊効果。指輪は2個まで装備できる",
+      "jp": "指輪効果　：装備している指輪の特殊効果。指輪は2個まで装備できる",
+      "cn_improved": "指輪効果　：装備している指輪の特殊効果。指輪は2個まで装備できる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1106,
+      "status": "from_improved",
+      "cn": "所持ソウル　：所持しているソウル。死亡により失われるが、血痕に触れることで取り戻すことができる",
+      "en": "所持ソウル　：所持しているソウル。死亡により失われるが、血痕に触れることで取り戻すことができる",
+      "jp": "所持ソウル　：所持しているソウル。死亡により失われるが、血痕に触れることで取り戻すことができる",
+      "cn_improved": "所持ソウル　：所持しているソウル。死亡により失われるが、血痕に触れることで取り戻すことができる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1107,
+      "status": "from_improved",
+      "cn": "－",
+      "en": "－",
+      "jp": "－",
+      "cn_improved": "－",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1200,
+      "status": "from_improved",
+      "cn": "右　第一武器　：右手に装備している武器の攻撃力",
+      "en": "右　第一武器　：右手に装備している武器の攻撃力",
+      "jp": "右　第一武器　：右手に装備している武器の攻撃力",
+      "cn_improved": "右　第一武器　：右手に装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1201,
+      "status": "from_improved",
+      "cn": "右　第二武器　：右手に装備している武器の攻撃力",
+      "en": "右　第二武器　：右手に装備している武器の攻撃力",
+      "jp": "右　第二武器　：右手に装備している武器の攻撃力",
+      "cn_improved": "右　第二武器　：右手に装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1202,
+      "status": "from_improved",
+      "cn": "左　第一武器　：左手に装備している武器の攻撃力",
+      "en": "左　第一武器　：左手に装備している武器の攻撃力",
+      "jp": "左　第一武器　：左手に装備している武器の攻撃力",
+      "cn_improved": "左　第一武器　：左手に装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1203,
+      "status": "from_improved",
+      "cn": "左　第二武器　：左手に装備している武器の攻撃力",
+      "en": "左　第二武器　：左手に装備している武器の攻撃力",
+      "jp": "左　第二武器　：左手に装備している武器の攻撃力",
+      "cn_improved": "左　第二武器　：左手に装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1204,
+      "status": "from_improved",
+      "cn": "物理防御力　：通常の攻撃に対する防御力。（）内は装備を外した場合",
+      "en": "物理防御力　：通常の攻撃に対する防御力。（）内は装備を外した場合",
+      "jp": "物理防御力　：通常の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_improved": "物理防御力　：通常の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1205,
+      "status": "from_improved",
+      "cn": "対斬撃　：特に斬撃に対する防御力。物理防御力がベースとなる",
+      "en": "対斬撃　：特に斬撃に対する防御力。物理防御力がベースとなる",
+      "jp": "対斬撃　：特に斬撃に対する防御力。物理防御力がベースとなる",
+      "cn_improved": "対斬撃　：特に斬撃に対する防御力。物理防御力がベースとなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1206,
+      "status": "from_improved",
+      "cn": "対打撃　：特に打撃に対する防御力。物理防御力がベースとなる",
+      "en": "対打撃　：特に打撃に対する防御力。物理防御力がベースとなる",
+      "jp": "対打撃　：特に打撃に対する防御力。物理防御力がベースとなる",
+      "cn_improved": "対打撃　：特に打撃に対する防御力。物理防御力がベースとなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1207,
+      "status": "from_improved",
+      "cn": "対刺突　：特に刺突に対する防御力。物理防御力がベースとなる",
+      "en": "対刺突　：特に刺突に対する防御力。物理防御力がベースとなる",
+      "jp": "対刺突　：特に刺突に対する防御力。物理防御力がベースとなる",
+      "cn_improved": "対刺突　：特に刺突に対する防御力。物理防御力がベースとなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1208,
+      "status": "from_improved",
+      "cn": "魔法防御力　：魔法の攻撃に対する防御力。（）内は装備を外した場合",
+      "en": "魔法防御力　：魔法の攻撃に対する防御力。（）内は装備を外した場合",
+      "jp": "魔法防御力　：魔法の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_improved": "魔法防御力　：魔法の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1209,
+      "status": "from_improved",
+      "cn": "炎防御力　：炎の攻撃に対する防御力。（）内は装備を外した場合",
+      "en": "炎防御力　：炎の攻撃に対する防御力。（）内は装備を外した場合",
+      "jp": "炎防御力　：炎の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_improved": "炎防御力　：炎の攻撃に対する防御力。（）内は装備を外した場合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1210,
+      "status": "from_improved",
+      "cn": "出血耐性　：出血に耐える力。高いほど、出血状態になりにくい",
+      "en": "出血耐性　：出血に耐える力。高いほど、出血状態になりにくい",
+      "jp": "出血耐性　：出血に耐える力。高いほど、出血状態になりにくい",
+      "cn_improved": "出血耐性　：出血に耐える力。高いほど、出血状態になりにくい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1211,
+      "status": "from_improved",
+      "cn": "毒耐性　：毒に耐える力。高いほど、毒状態になりにくい",
+      "en": "毒耐性　：毒に耐える力。高いほど、毒状態になりにくい",
+      "jp": "毒耐性　：毒に耐える力。高いほど、毒状態になりにくい",
+      "cn_improved": "毒耐性　：毒に耐える力。高いほど、毒状態になりにくい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 1212,
+      "status": "from_improved",
+      "cn": "疫病耐性　：疫病に耐える力。高いほど、疫病状態になりにくい",
+      "en": "疫病耐性　：疫病に耐える力。高いほど、疫病状態になりにくい",
+      "jp": "疫病耐性　：疫病に耐える力。高いほど、疫病状態になりにくい",
+      "cn_improved": "疫病耐性　：疫病に耐える力。高いほど、疫病状態になりにくい",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2200,
+      "status": "from_improved",
+      "cn": "重量",
+      "en": "重量",
+      "jp": "重量",
+      "cn_improved": "重量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2201,
+      "status": "from_improved",
+      "cn": "必要ソウル",
+      "en": "必要ソウル",
+      "jp": "必要ソウル",
+      "cn_improved": "必要ソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2202,
+      "status": "from_improved",
+      "cn": "耐久度",
+      "en": "耐久度",
+      "jp": "耐久度",
+      "cn_improved": "耐久度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2311,
+      "status": "from_improved",
+      "cn": "物理攻撃",
+      "en": "物理攻撃",
+      "jp": "物理攻撃",
+      "cn_improved": "物理攻撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2312,
+      "status": "from_improved",
+      "cn": "魔法攻撃",
+      "en": "魔法攻撃",
+      "jp": "魔法攻撃",
+      "cn_improved": "魔法攻撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2313,
+      "status": "from_improved",
+      "cn": "炎攻撃",
+      "en": "炎攻撃",
+      "jp": "炎攻撃",
+      "cn_improved": "炎攻撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2314,
+      "status": "from_improved",
+      "cn": "魔法威力修正",
+      "en": "魔法威力修正",
+      "jp": "魔法威力修正",
+      "cn_improved": "魔法威力修正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2315,
+      "status": "from_improved",
+      "cn": "奇跡威力修正",
+      "en": "奇跡威力修正",
+      "jp": "奇跡威力修正",
+      "cn_improved": "奇跡威力修正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2316,
+      "status": "from_improved",
+      "cn": "射程距離",
+      "en": "射程距離",
+      "jp": "射程距離",
+      "cn_improved": "射程距離",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2321,
+      "status": "from_improved",
+      "cn": "必要能力",
+      "en": "必要能力",
+      "jp": "必要能力",
+      "cn_improved": "必要能力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2344,
+      "status": "from_improved",
+      "cn": "ダメージカット率",
+      "en": "ダメージカット率",
+      "jp": "ダメージカット率",
+      "cn_improved": "ダメージカット率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2345,
+      "status": "from_improved",
+      "cn": "衝撃耐性",
+      "en": "衝撃耐性",
+      "jp": "衝撃耐性",
+      "cn_improved": "衝撃耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2351,
+      "status": "from_improved",
+      "cn": "付加パラメータ",
+      "en": "付加パラメータ",
+      "jp": "付加パラメータ",
+      "cn_improved": "付加パラメータ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2352,
+      "status": "from_improved",
+      "cn": "特殊効果",
+      "en": "特殊効果",
+      "jp": "特殊効果",
+      "cn_improved": "特殊効果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2411,
+      "status": "from_improved",
+      "cn": "装備可能性別",
+      "en": "装備可能性別",
+      "jp": "装備可能性別",
+      "cn_improved": "装備可能性別",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2421,
+      "status": "from_improved",
+      "cn": "物理防御力",
+      "en": "物理防御力",
+      "jp": "物理防御力",
+      "cn_improved": "物理防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2422,
+      "status": "from_improved",
+      "cn": "対斬撃",
+      "en": "対斬撃",
+      "jp": "対斬撃",
+      "cn_improved": "対斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2423,
+      "status": "from_improved",
+      "cn": "対打撃",
+      "en": "対打撃",
+      "jp": "対打撃",
+      "cn_improved": "対打撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2424,
+      "status": "from_improved",
+      "cn": "対刺突",
+      "en": "対刺突",
+      "jp": "対刺突",
+      "cn_improved": "対刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2425,
+      "status": "from_improved",
+      "cn": "魔法防御力",
+      "en": "魔法防御力",
+      "jp": "魔法防御力",
+      "cn_improved": "魔法防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2426,
+      "status": "from_improved",
+      "cn": "炎防御力",
+      "en": "炎防御力",
+      "jp": "炎防御力",
+      "cn_improved": "炎防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2431,
+      "status": "from_improved",
+      "cn": "耐性",
+      "en": "耐性",
+      "jp": "耐性",
+      "cn_improved": "耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2900,
+      "status": "from_improved",
+      "cn": "アイテム名称",
+      "en": "アイテム名称",
+      "jp": "アイテム名称",
+      "cn_improved": "アイテム名称",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2901,
+      "status": "from_improved",
+      "cn": "簡易説明",
+      "en": "簡易説明",
+      "jp": "簡易説明",
+      "cn_improved": "簡易説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101100,
+      "status": "from_improved",
+      "cn": "名前の説明",
+      "en": "名前の説明",
+      "jp": "名前の説明",
+      "cn_improved": "名前の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101101,
+      "status": "from_improved",
+      "cn": "性別の説明",
+      "en": "性別の説明",
+      "jp": "性別の説明",
+      "cn_improved": "性別の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101102,
+      "status": "from_improved",
+      "cn": "誓約の説明",
+      "en": "誓約の説明",
+      "jp": "誓約の説明",
+      "cn_improved": "誓約の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101103,
+      "status": "from_improved",
+      "cn": "体力の説明",
+      "en": "体力の説明",
+      "jp": "体力の説明",
+      "cn_improved": "体力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101104,
+      "status": "from_improved",
+      "cn": "精神力の説明",
+      "en": "精神力の説明",
+      "jp": "精神力の説明",
+      "cn_improved": "精神力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101105,
+      "status": "from_improved",
+      "cn": "持久力の説明",
+      "en": "持久力の説明",
+      "jp": "持久力の説明",
+      "cn_improved": "持久力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101106,
+      "status": "from_improved",
+      "cn": "筋力の説明",
+      "en": "筋力の説明",
+      "jp": "筋力の説明",
+      "cn_improved": "筋力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101107,
+      "status": "from_improved",
+      "cn": "技量の説明",
+      "en": "技量の説明",
+      "jp": "技量の説明",
+      "cn_improved": "技量の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101108,
+      "status": "from_improved",
+      "cn": "耐久力の説明",
+      "en": "耐久力の説明",
+      "jp": "耐久力の説明",
+      "cn_improved": "耐久力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101109,
+      "status": "from_improved",
+      "cn": "知力の説明",
+      "en": "知力の説明",
+      "jp": "知力の説明",
+      "cn_improved": "知力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101110,
+      "status": "from_improved",
+      "cn": "理力の説明",
+      "en": "理力の説明",
+      "jp": "理力の説明",
+      "cn_improved": "理力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101111,
+      "status": "from_improved",
+      "cn": "運　の説明",
+      "en": "運　の説明",
+      "jp": "運　の説明",
+      "cn_improved": "運　の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101112,
+      "status": "from_improved",
+      "cn": "レベルの説明",
+      "en": "レベルの説明",
+      "jp": "レベルの説明",
+      "cn_improved": "レベルの説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101130,
+      "status": "from_improved",
+      "cn": "HPの説明",
+      "en": "HPの説明",
+      "jp": "HPの説明",
+      "cn_improved": "HPの説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101131,
+      "status": "from_improved",
+      "cn": "MPの説明",
+      "en": "MPの説明",
+      "jp": "MPの説明",
+      "cn_improved": "MPの説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101132,
+      "status": "from_improved",
+      "cn": "スタミナの説明",
+      "en": "スタミナの説明",
+      "jp": "スタミナの説明",
+      "cn_improved": "スタミナの説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101133,
+      "status": "from_improved",
+      "cn": "出血耐性の説明",
+      "en": "出血耐性の説明",
+      "jp": "出血耐性の説明",
+      "cn_improved": "出血耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101134,
+      "status": "from_improved",
+      "cn": "毒耐性の説明",
+      "en": "毒耐性の説明",
+      "jp": "毒耐性の説明",
+      "cn_improved": "毒耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101135,
+      "status": "from_improved",
+      "cn": "疫病耐性の説明",
+      "en": "疫病耐性の説明",
+      "jp": "疫病耐性の説明",
+      "cn_improved": "疫病耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101136,
+      "status": "from_improved",
+      "cn": "呪耐性の説明",
+      "en": "呪耐性の説明",
+      "jp": "呪耐性の説明",
+      "cn_improved": "呪耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101137,
+      "status": "from_improved",
+      "cn": "ドロップ率の説明",
+      "en": "ドロップ率の説明",
+      "jp": "ドロップ率の説明",
+      "cn_improved": "ドロップ率の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101140,
+      "status": "from_improved",
+      "cn": "装備重量の説明",
+      "en": "装備重量の説明",
+      "jp": "装備重量の説明",
+      "cn_improved": "装備重量の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101141,
+      "status": "from_improved",
+      "cn": "所持ソウルの説明",
+      "en": "所持ソウルの説明",
+      "jp": "所持ソウルの説明",
+      "cn_improved": "所持ソウルの説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101142,
+      "status": "from_improved",
+      "cn": "右　第一武器の説明",
+      "en": "右　第一武器の説明",
+      "jp": "右　第一武器の説明",
+      "cn_improved": "右　第一武器の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101143,
+      "status": "from_improved",
+      "cn": "右　第二武器の説明",
+      "en": "右　第二武器の説明",
+      "jp": "右　第二武器の説明",
+      "cn_improved": "右　第二武器の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101144,
+      "status": "from_improved",
+      "cn": "左　第一武器の説明",
+      "en": "左　第一武器の説明",
+      "jp": "左　第一武器の説明",
+      "cn_improved": "左　第一武器の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101145,
+      "status": "from_improved",
+      "cn": "左　第二武器の説明",
+      "en": "左　第二武器の説明",
+      "jp": "左　第二武器の説明",
+      "cn_improved": "左　第二武器の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101146,
+      "status": "from_improved",
+      "cn": "物理防御力の説明",
+      "en": "物理防御力の説明",
+      "jp": "物理防御力の説明",
+      "cn_improved": "物理防御力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101147,
+      "status": "from_improved",
+      "cn": "対打撃の説明",
+      "en": "対打撃の説明",
+      "jp": "対打撃の説明",
+      "cn_improved": "対打撃の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101148,
+      "status": "from_improved",
+      "cn": "対暫撃の説明",
+      "en": "対暫撃の説明",
+      "jp": "対暫撃の説明",
+      "cn_improved": "対暫撃の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101149,
+      "status": "from_improved",
+      "cn": "対刺突の説明",
+      "en": "対刺突の説明",
+      "jp": "対刺突の説明",
+      "cn_improved": "対刺突の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101150,
+      "status": "from_improved",
+      "cn": "魔法防御力の説明",
+      "en": "魔法防御力の説明",
+      "jp": "魔法防御力の説明",
+      "cn_improved": "魔法防御力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101151,
+      "status": "from_improved",
+      "cn": "炎防御力の説明",
+      "en": "炎防御力の説明",
+      "jp": "炎防御力の説明",
+      "cn_improved": "炎防御力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101152,
+      "status": "from_improved",
+      "cn": "雷防御力の説明",
+      "en": "雷防御力の説明",
+      "jp": "雷防御力の説明",
+      "cn_improved": "雷防御力の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101160,
+      "status": "from_improved",
+      "cn": "魔法スロット数の説明",
+      "en": "魔法スロット数の説明",
+      "jp": "魔法スロット数の説明",
+      "cn_improved": "魔法スロット数の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101161,
+      "status": "from_improved",
+      "cn": "奇跡スロット数の説明",
+      "en": "奇跡スロット数の説明",
+      "jp": "奇跡スロット数の説明",
+      "cn_improved": "奇跡スロット数の説明",
+      "cn_resurrection": null
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "fmg_id": 24,
+  "fmg_name": "アイテムうんちく",
+  "domain": "item",
+  "count": 5,
+  "entries": [
+    {
+      "id": 0,
+      "status": "from_improved",
+      "cn": "NTCtext",
+      "en": null,
+      "jp": "NTCtext",
+      "cn_improved": "NTCtext",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2100,
+      "status": "from_improved",
+      "cn": "背后忍杀敌人后，按<?kgiconKc@16?>：血烟术\n在周围产生血之烟雾\n消耗形代以发动",
+      "en": "<?kgiconKc@16?> after a Backstab Deathblow:\nBloodsmoke Ninjutsu\n\nCalls forth a massive cloud of blood from the victim.  \nCosts Spirit Emblems to use.",
+      "jp": "敵を背後忍殺したあと<?kgiconKc@16?>:血煙の術\n周囲に血の煙幕を生み出す\n形代を消費して、使用する",
+      "cn_improved": "背后忍杀敌人后，按<?kgiconKc@16?>：血烟术\n在周围产生血之烟雾\n消耗形代以发动",
+      "cn_resurrection": "背后忍杀敌人后按<?kgiconKc@16?>：血烟术\n能向四周生出血之烟幕\n消耗纸人便可以使用"
+    },
+    {
+      "id": 2110,
+      "status": "from_improved",
+      "cn": "背后忍杀敌人后，按<?kgiconKc@16?>：傀儡术\n将忍杀后的敌人作为傀儡操纵\n消耗形代以发动",
+      "en": "<?kgiconKc@16?> after a Backstab Deathblow:\nPuppeteer Ninjutsu\n\nManipulates the victim, turning them against their allies.\nCosts Spirit Emblems to use.",
+      "jp": "敵を背後忍殺したあと<?kgiconKc@16?>:傀儡の術\n忍殺した者を傀儡として操る\n形代を消費して、使用する",
+      "cn_improved": "背后忍杀敌人后，按<?kgiconKc@16?>：傀儡术\n将忍杀后的敌人作为傀儡操纵\n消耗形代以发动",
+      "cn_resurrection": "背后忍杀敌人后按<?kgiconKc@16?>：傀儡术\n能将忍杀掉的人作为傀儡操控\n消耗纸人便可以使用"
+    },
+    {
+      "id": 2120,
+      "status": "from_improved",
+      "cn": "背后忍杀敌人后，按<?kgiconKc@16?>：血刀术\n将被忍杀者的血，缠于刀上\n消耗形代以发动",
+      "en": "<?kgiconKc@16?> after a Backstab Deathblow:\nBestowal Ninjutsu\n\nCoats your blade with the blood of your target.\nCosts Spirit Emblems to use.",
+      "jp": "敵を背後忍殺したあと<?kgiconKc@16?>:血刀の術\n忍殺した者の血を、刀に纏わせる\n形代を消費して、使用する",
+      "cn_improved": "背后忍杀敌人后，按<?kgiconKc@16?>：血刀术\n将被忍杀者的血，缠于刀上\n消耗形代以发动",
+      "cn_resurrection": "背后忍杀敌人后按<?kgiconKc@16?>：血刀术\n能将被忍杀者的血缠于刀上\n消耗纸人便可以使用"
+    },
+    {
+      "id": 2490,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Sakura Dance\nSpin to build momentum into a sequence of three leaping dance-like slashes.  Evade sweep attacks while delivering sharp cuts, dealing damage even through an enemy's guard.\n\nMid-air prosthetic attacks are possible after the attack has been performed.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘伝・桜舞い\n回転の勢いで舞うように跳び、三度斬りつける\n敵の下段攻撃を回避しつつ、鋭い斬撃で、\nガードの上からでもダメージを与える\n\n攻撃後は、空中での攻防に繋げることもできる\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘传·樱舞\n以旋转之势舞动般跳跃、挥斩三次\n在闪避敌方下段攻击的同时，发动凌厉的斩击\n即使敌人有所防御也能对其造成伤害\n\n攻击后亦能在空中进行攻防\n消耗纸人便可以使用"
+    }
+  ]
+}

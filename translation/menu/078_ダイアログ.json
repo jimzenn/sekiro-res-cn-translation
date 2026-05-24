@@ -1,0 +1,1457 @@
+{
+  "fmg_id": 78,
+  "fmg_name": "ダイアログ",
+  "domain": "menu",
+  "count": 161,
+  "entries": [
+    {
+      "id": 1,
+      "status": "from_improved",
+      "cn": "<?sysmsg@1?>",
+      "en": "<?sysmsg@1?>",
+      "jp": "<?sysmsg@1?>",
+      "cn_improved": "<?sysmsg@1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2,
+      "status": "from_improved",
+      "cn": "<?sysmsg@2?>",
+      "en": "<?sysmsg@2?>",
+      "jp": "<?sysmsg@2?>",
+      "cn_improved": "<?sysmsg@2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3,
+      "status": "from_improved",
+      "cn": "<?sysmsg@3?>",
+      "en": "<?sysmsg@3?>",
+      "jp": "<?sysmsg@3?>",
+      "cn_improved": "<?sysmsg@3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 4,
+      "status": "from_improved",
+      "cn": "<?sysmsg@4?>",
+      "en": "<?sysmsg@4?>",
+      "jp": "<?sysmsg@4?>",
+      "cn_improved": "<?sysmsg@4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 5,
+      "status": "from_improved",
+      "cn": "同意する",
+      "en": "Accept",
+      "jp": "同意する",
+      "cn_improved": "同意する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 6,
+      "status": "from_improved",
+      "cn": "同意しない",
+      "en": "Do Not Accept",
+      "jp": "同意しない",
+      "cn_improved": "同意しない",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11000,
+      "status": "from_improved",
+      "cn": "このアイテムを捨てます\n捨てる数を選択してください",
+      "en": "Drop item.\nSpecify quantity.",
+      "jp": "このアイテムを捨てます\n捨てる数を選択してください",
+      "cn_improved": "このアイテムを捨てます\n捨てる数を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11002,
+      "status": "from_improved",
+      "cn": "アイテムの並び順を初期状態に戻します",
+      "en": "Reset item order?",
+      "jp": "アイテムの並び順を初期状態に戻します",
+      "cn_improved": "アイテムの並び順を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11003,
+      "status": "from_improved",
+      "cn": "このアイテムを捨てます",
+      "en": "Drop item",
+      "jp": "このアイテムを捨てます",
+      "cn_improved": "このアイテムを捨てます",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12010,
+      "status": "from_improved",
+      "cn": "同じ指輪を装備することはできません",
+      "en": "Cannot equip duplicate rings",
+      "jp": "同じ指輪を装備することはできません",
+      "cn_improved": "同じ指輪を装備することはできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12021,
+      "status": "from_improved",
+      "cn": "記憶スロットが減少するため\n魔法「<?removeMagic?>」をはずします",
+      "en": "Loss of attunement slots will cause <?removeMagic?> to be removed",
+      "jp": "記憶スロットが減少するため\n魔法「<?removeMagic?>」をはずします",
+      "cn_improved": "記憶スロットが減少するため\n魔法「<?removeMagic?>」をはずします",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12030,
+      "status": "from_improved",
+      "cn": "この武器を片手で使用するには、筋力が足りません\n両手持ちの場合のみ、十分な性能を発揮します",
+      "en": "Insufficient strength to wield this weapon with one hand.\nHold with both hands to use effectively.",
+      "jp": "この武器を片手で使用するには、筋力が足りません\n両手持ちの場合のみ、十分な性能を発揮します",
+      "cn_improved": "この武器を片手で使用するには、筋力が足りません\n両手持ちの場合のみ、十分な性能を発揮します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12031,
+      "status": "from_improved",
+      "cn": "この武器を使用するには、必要能力値が足りません\n十分な性能を発揮しません",
+      "en": "Unable to wield this weapon effectively with present stats",
+      "jp": "この武器を使用するには、必要能力値が足りません\n十分な性能を発揮しません",
+      "cn_improved": "この武器を使用するには、必要能力値が足りません\n十分な性能を発揮しません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12040,
+      "status": "from_improved",
+      "cn": "この指輪は、装備をはずすと壊れてしまいます\n装備しますか？",
+      "en": "This ring breaks when removed.\nOK to equip this ring?",
+      "jp": "この指輪は、装備をはずすと壊れてしまいます\n装備しますか？",
+      "cn_improved": "この指輪は、装備をはずすと壊れてしまいます\n装備しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12041,
+      "status": "from_improved",
+      "cn": "この指輪は、装備をはずすと壊れてしまいます\n装備をはずしますか？",
+      "en": "This ring breaks when removed.\nOK to unequip this ring?",
+      "jp": "この指輪は、装備をはずすと壊れてしまいます\n装備をはずしますか？",
+      "cn_improved": "この指輪は、装備をはずすと壊れてしまいます\n装備をはずしますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16000,
+      "status": "from_improved",
+      "cn": "すべての設定を初期状態に戻します",
+      "en": "Restore all settings to default values",
+      "jp": "すべての設定を初期状態に戻します",
+      "cn_improved": "すべての設定を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16001,
+      "status": "from_improved",
+      "cn": "設定変更を破棄して戻ります",
+      "en": "Cancel changes and exit",
+      "jp": "設定変更を破棄して戻ります",
+      "cn_improved": "設定変更を破棄して戻ります",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16100,
+      "status": "from_improved",
+      "cn": "メッセージを削除します",
+      "en": "Delete the message.",
+      "jp": "メッセージを削除します",
+      "cn_improved": "メッセージを削除します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16500,
+      "status": "from_improved",
+      "cn": "ゲームを終了し、タイトル画面へ戻ります",
+      "en": "Are you sure you want to quit the game?",
+      "jp": "ゲームを終了し、タイトル画面へ戻ります",
+      "cn_improved": "ゲームを終了し、タイトル画面へ戻ります",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16600,
+      "status": "from_improved",
+      "cn": "ジェスチャーの並び順を初期状態に戻します",
+      "en": "Reset gesture order",
+      "jp": "ジェスチャーの並び順を初期状態に戻します",
+      "cn_improved": "ジェスチャーの並び順を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17800,
+      "status": "from_improved",
+      "cn": "未評価のプレイヤーが存在します",
+      "en": "Some players have not been evaluated",
+      "jp": "未評価のプレイヤーが存在します",
+      "cn_improved": "未評価のプレイヤーが存在します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17804,
+      "status": "from_improved",
+      "cn": "評価により<?getSoulNum?>のソウルを取得しました",
+      "en": "You've obtained <?getSoulNum?> Souls",
+      "jp": "評価により<?getSoulNum?>のソウルを取得しました",
+      "cn_improved": "評価により<?getSoulNum?>のソウルを取得しました",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18000,
+      "status": "from_improved",
+      "cn": "選択した篝火に転送します",
+      "en": "Warp to selected bonfire",
+      "jp": "選択した篝火に転送します",
+      "cn_improved": "選択した篝火に転送します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18001,
+      "status": "from_improved",
+      "cn": "転送できる篝火がありません",
+      "en": "No bonfires available for warping",
+      "jp": "転送できる篝火がありません",
+      "cn_improved": "転送できる篝火がありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18050,
+      "status": "from_improved",
+      "cn": "すでに誓約<?pcOath?>を交わしています",
+      "en": "You are bound by the <?pcOath?> Covenant",
+      "jp": "すでに誓約<?pcOath?>を交わしています",
+      "cn_improved": "すでに誓約<?pcOath?>を交わしています",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18051,
+      "status": "from_improved",
+      "cn": "これを破棄して、新しい誓約<?pcOath?>を交わしますか？",
+      "en": "Abandon and join the <?pcOath?> Covenant?",
+      "jp": "これを破棄して、新しい誓約<?pcOath?>を交わしますか？",
+      "cn_improved": "これを破棄して、新しい誓約<?pcOath?>を交わしますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18060,
+      "status": "from_improved",
+      "cn": "人間性を回復しますか？",
+      "en": "Restore your humanity?",
+      "jp": "人間性を回復しますか？",
+      "cn_improved": "人間性を回復しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18061,
+      "status": "from_improved",
+      "cn": "人間性を捧げますか？",
+      "en": "Offer your humanity?",
+      "jp": "人間性を捧げますか？",
+      "cn_improved": "人間性を捧げますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18100,
+      "status": "from_improved",
+      "cn": "選択した霊体を元の世界に送還しますか？",
+      "en": "Send this phantom home?",
+      "jp": "選択した霊体を元の世界に送還しますか？",
+      "cn_improved": "選択した霊体を元の世界に送還しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18101,
+      "status": "from_improved",
+      "cn": "送還できる霊体がいません",
+      "en": "No phantom to send home",
+      "jp": "送還できる霊体がいません",
+      "cn_improved": "送還できる霊体がいません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18200,
+      "status": "from_improved",
+      "cn": "告罪符は使用できません",
+      "en": "Cannot use indictment",
+      "jp": "告罪符は使用できません",
+      "cn_improved": "告罪符は使用できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18201,
+      "status": "from_improved",
+      "cn": "告罪符は使用できません",
+      "en": "Cannot use indictment",
+      "jp": "告罪符は使用できません",
+      "cn_improved": "告罪符は使用できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18400,
+      "status": "from_improved",
+      "cn": "このメッセージを評価しますか？",
+      "en": "Rate this message?",
+      "jp": "このメッセージを評価しますか？",
+      "cn_improved": "このメッセージを評価しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20020,
+      "status": "from_improved",
+      "cn": "強化項目を決定します",
+      "en": "Confirm reinforcement",
+      "jp": "強化項目を決定します",
+      "cn_improved": "強化項目を決定します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20021,
+      "status": "from_improved",
+      "cn": "強化内容を破棄します\nよろしいですか？",
+      "en": "This will cancel reinforcement.\nIs this OK?",
+      "jp": "強化内容を破棄します\nよろしいですか？",
+      "cn_improved": "強化内容を破棄します\nよろしいですか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20022,
+      "status": "from_improved",
+      "cn": "強化項目を初期化します\nよろしいですか？",
+      "en": "Reset reinforcement.\nIs this OK?",
+      "jp": "強化項目を初期化します\nよろしいですか？",
+      "cn_improved": "強化項目を初期化します\nよろしいですか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20120,
+      "status": "from_improved",
+      "cn": "人間性との交換を行います",
+      "en": "Trade for humanity",
+      "jp": "人間性との交換を行います",
+      "cn_improved": "人間性との交換を行います",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20121,
+      "status": "from_improved",
+      "cn": "交換内容を破棄します\nよろしいですか？",
+      "en": "This will cancel trade.\nIs this OK?",
+      "jp": "交換内容を破棄します\nよろしいですか？",
+      "cn_improved": "交換内容を破棄します\nよろしいですか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20122,
+      "status": "from_improved",
+      "cn": "初期化します\nよろしいですか？",
+      "en": "Parameters will be reset.\nIs this OK?",
+      "jp": "初期化します\nよろしいですか？",
+      "cn_improved": "初期化します\nよろしいですか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22001,
+      "status": "from_improved",
+      "cn": "すでに記憶しています",
+      "en": "Already attuned",
+      "jp": "すでに記憶しています",
+      "cn_improved": "すでに記憶しています",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22002,
+      "status": "from_improved",
+      "cn": "記憶スロットが足りません",
+      "en": "Insufficient attunement slots",
+      "jp": "記憶スロットが足りません",
+      "cn_improved": "記憶スロットが足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22003,
+      "status": "from_improved",
+      "cn": "記憶できる魔法がありません",
+      "en": "No magic to attune",
+      "jp": "記憶できる魔法がありません",
+      "cn_improved": "記憶できる魔法がありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22004,
+      "status": "from_improved",
+      "cn": "この魔法を使用するには、必要能力値が足りません",
+      "en": "Insufficient stats to use this magic",
+      "jp": "この魔法を使用するには、必要能力値が足りません",
+      "cn_improved": "この魔法を使用するには、必要能力値が足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22005,
+      "status": "from_improved",
+      "cn": "この魔法を使用するには、誓約が不適切です",
+      "en": "Wrong covenant for this magic",
+      "jp": "この魔法を使用するには、誓約が不適切です",
+      "cn_improved": "この魔法を使用するには、誓約が不適切です",
+      "cn_resurrection": null
+    },
+    {
+      "id": 23006,
+      "status": "from_improved",
+      "cn": "これ以上、アイテムを預けることはできません",
+      "en": "Cannot deposit additional items",
+      "jp": "これ以上、アイテムを預けることはできません",
+      "cn_improved": "これ以上、アイテムを預けることはできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 23007,
+      "status": "from_improved",
+      "cn": "これ以上、アイテムを所持することはできません",
+      "en": "Cannot hold additional items",
+      "jp": "これ以上、アイテムを所持することはできません",
+      "cn_improved": "これ以上、アイテムを所持することはできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30000,
+      "status": "from_improved",
+      "cn": "<?demandSoul?>ソウルで購入しますか？",
+      "en": "Purchase for <?demandSoul?> souls?",
+      "jp": "<?demandSoul?>ソウルで購入しますか？",
+      "cn_improved": "<?demandSoul?>ソウルで購入しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30001,
+      "status": "from_improved",
+      "cn": "<?demandSoul?>ソウルで購入しますか？",
+      "en": "Purchase for <?demandSoul?> souls?",
+      "jp": "<?demandSoul?>ソウルで購入しますか？",
+      "cn_improved": "<?demandSoul?>ソウルで購入しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30002,
+      "status": "from_improved",
+      "cn": "ソウルが足りません",
+      "en": "Insufficient souls",
+      "jp": "ソウルが足りません",
+      "cn_improved": "ソウルが足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30003,
+      "status": "from_improved",
+      "cn": "このアイテムを\nこれ以上所持することはできません",
+      "en": "Your stock of this\nitem is at maximum",
+      "jp": "このアイテムを\nこれ以上所持することはできません",
+      "cn_improved": "このアイテムを\nこれ以上所持することはできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30006,
+      "status": "from_improved",
+      "cn": "購入できるアイテムがありません",
+      "en": "No items to purchase",
+      "jp": "購入できるアイテムがありません",
+      "cn_improved": "購入できるアイテムがありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30007,
+      "status": "from_improved",
+      "cn": "これ以上、アイテムを所持することはできません",
+      "en": "Cannot hold additional items",
+      "jp": "これ以上、アイテムを所持することはできません",
+      "cn_improved": "これ以上、アイテムを所持することはできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30100,
+      "status": "from_improved",
+      "cn": "食べさせる数を選択してください\n入手ソウル：<?sellSouls?>",
+      "en": "Specify quantity to feed.\nSouls gained: <?sellSouls?>",
+      "jp": "食べさせる数を選択してください\n入手ソウル：<?sellSouls?>",
+      "cn_improved": "食べさせる数を選択してください\n入手ソウル：<?sellSouls?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30101,
+      "status": "from_improved",
+      "cn": "このアイテムは食べさせられません",
+      "en": "Cannot feed this item",
+      "jp": "このアイテムは食べさせられません",
+      "cn_improved": "このアイテムは食べさせられません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30102,
+      "status": "from_improved",
+      "cn": "食べさせるアイテムがありません",
+      "en": "No items to feed",
+      "jp": "食べさせるアイテムがありません",
+      "cn_improved": "食べさせるアイテムがありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30103,
+      "status": "from_improved",
+      "cn": "このアイテムを食べさせますか？",
+      "en": "Feed this item?",
+      "jp": "このアイテムを食べさせますか？",
+      "cn_improved": "このアイテムを食べさせますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31000,
+      "status": "from_improved",
+      "cn": "<?demandSoul?>ソウルで修理しますか？",
+      "en": "Repair for <?demandSoul?> souls?",
+      "jp": "<?demandSoul?>ソウルで修理しますか？",
+      "cn_improved": "<?demandSoul?>ソウルで修理しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31001,
+      "status": "from_improved",
+      "cn": "ソウルが足りません",
+      "en": "Insufficient souls",
+      "jp": "ソウルが足りません",
+      "cn_improved": "ソウルが足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31002,
+      "status": "from_improved",
+      "cn": "修理が必要な武器、防具はありません",
+      "en": "No equipment requires repair",
+      "jp": "修理が必要な武器、防具はありません",
+      "cn_improved": "修理が必要な武器、防具はありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31003,
+      "status": "from_improved",
+      "cn": "結晶武器は修理できません",
+      "en": "Cannot repair crystal weapon",
+      "jp": "結晶武器は修理できません",
+      "cn_improved": "結晶武器は修理できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32000,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "en": "Reinforce <?itemNameBeforeForge?>\ninto <?itemNameAfterForge?>?",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32001,
+      "status": "from_improved",
+      "cn": "ソウルが足りません",
+      "en": "Insufficient souls",
+      "jp": "ソウルが足りません",
+      "cn_improved": "ソウルが足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32002,
+      "status": "from_improved",
+      "cn": "素材が足りません",
+      "en": "Insufficient materials",
+      "jp": "素材が足りません",
+      "cn_improved": "素材が足りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32003,
+      "status": "from_improved",
+      "cn": "強化できる武器がありません",
+      "en": "No weapons for reinforcement",
+      "jp": "強化できる武器がありません",
+      "cn_improved": "強化できる武器がありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32006,
+      "status": "from_improved",
+      "cn": "進化をリセットしますか？\nリセットしても、今まで使用した素材は戻りません",
+      "en": "Undo ascension?\nMaterials used for ascension will be lost.",
+      "jp": "進化をリセットしますか？\nリセットしても、今まで使用した素材は戻りません",
+      "cn_improved": "進化をリセットしますか？\nリセットしても、今まで使用した素材は戻りません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32007,
+      "status": "from_improved",
+      "cn": "強化後の武器が所持可能個数を越えてしまいます\nこの武器を強化できません",
+      "en": "Cannot reinforce this weapon.\nReinforcement would result in exceeding inventory limit.",
+      "jp": "強化後の武器が所持可能個数を越えてしまいます\nこの武器を強化できません",
+      "cn_improved": "強化後の武器が所持可能個数を越えてしまいます\nこの武器を強化できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32009,
+      "status": "from_improved",
+      "cn": "結晶の武器はリセットできません",
+      "en": "Cannot restore crystal weapons",
+      "jp": "結晶の武器はリセットできません",
+      "cn_improved": "結晶の武器はリセットできません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32010,
+      "status": "from_improved",
+      "cn": "強化できる防具がありません",
+      "en": "No armor for reinforcing",
+      "jp": "強化できる防具がありません",
+      "cn_improved": "強化できる防具がありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32011,
+      "status": "from_improved",
+      "cn": "進化できる武器がありません",
+      "en": "No weapons for ascension",
+      "jp": "進化できる武器がありません",
+      "cn_improved": "進化できる武器がありません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32012,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "en": "Reinforce <?itemNameBeforeForge?>\ninto <?itemNameAfterForge?>?",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32013,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させますか？",
+      "en": "Ascend <?itemNameBeforeForge?>\nto <?itemNameAfterForge?>?",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させますか？",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32014,
+      "status": "from_improved",
+      "cn": "強化後の防具が所持可能個数を越えてしまいます\nこの防具を強化できません",
+      "en": "Cannot reinforce this armor.\nReinforcement would result in exceeding inventory limit.",
+      "jp": "強化後の防具が所持可能個数を越えてしまいます\nこの防具を強化できません",
+      "cn_improved": "強化後の防具が所持可能個数を越えてしまいます\nこの防具を強化できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32015,
+      "status": "from_improved",
+      "cn": "進化後の武器が所持可能個数を越えてしまいます\nこの武器を進化できません",
+      "en": "Cannot ascend this armor.\nAscension would result in exceeding inventory limit.",
+      "jp": "進化後の武器が所持可能個数を越えてしまいます\nこの武器を進化できません",
+      "cn_improved": "進化後の武器が所持可能個数を越えてしまいます\nこの武器を進化できません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32020,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "en": "<?itemNameBeforeForge?>\nreinforced into <?itemNameAfterForge?>.",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32021,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化をリセットしました",
+      "en": "Restored <?itemNameBeforeForge?>\nto <?itemNameAfterForge?>.",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化をリセットしました",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化をリセットしました",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32022,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させました",
+      "en": "<?itemNameBeforeForge?>\nascended to <?itemNameAfterForge?>.",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させました",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に進化させました",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32023,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "en": "<?itemNameBeforeForge?>\nreinforced into <?itemNameAfterForge?>.",
+      "jp": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "cn_improved": "<?itemNameBeforeForge?>から\n<?itemNameAfterForge?>に強化しました",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@41000?>",
+      "en": "<?sysmsg@41000?>",
+      "jp": "<?sysmsg@41000?>",
+      "cn_improved": "<?sysmsg@41000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42000,
+      "status": "from_improved",
+      "cn": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "en": "Cancel character creation and return to title screen?",
+      "jp": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "cn_improved": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42001,
+      "status": "from_improved",
+      "cn": "キャラクターの名前が入力されていません",
+      "en": "Character name required",
+      "jp": "キャラクターの名前が入力されていません",
+      "cn_improved": "キャラクターの名前が入力されていません",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42002,
+      "status": "from_improved",
+      "cn": "キャラクターの名前を入力します",
+      "en": "Enter character name",
+      "jp": "キャラクターの名前を入力します",
+      "cn_improved": "キャラクターの名前を入力します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42003,
+      "status": "from_improved",
+      "cn": "このキャラクターでゲームをはじめます。よろしいですか？",
+      "en": "OK to start game with this character?",
+      "jp": "このキャラクターでゲームをはじめます。よろしいですか？",
+      "cn_improved": "このキャラクターでゲームをはじめます。よろしいですか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42500,
+      "status": "from_improved",
+      "cn": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "en": "Cancel character creation and return to\ntitle screen?",
+      "jp": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "cn_improved": "作成中のキャラクターを破棄してタイトルに戻りますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43001,
+      "status": "from_improved",
+      "cn": "性別を変更すると\n編集した顔の内容が失われます\n変更しますか？",
+      "en": "Changing gender will cause\nedited face data to be lost.\nChange gender?",
+      "jp": "性別を変更すると\n編集した顔の内容が失われます\n変更しますか？",
+      "cn_improved": "性別を変更すると\n編集した顔の内容が失われます\n変更しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44000,
+      "status": "from_improved",
+      "cn": "このメッセージを書きますか？",
+      "en": "Leave this message?",
+      "jp": "このメッセージを書きますか？",
+      "cn_improved": "このメッセージを書きますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44010,
+      "status": "from_improved",
+      "cn": "メッセージを書きますか？",
+      "en": "Leave a message?",
+      "jp": "メッセージを書きますか？",
+      "cn_improved": "メッセージを書きますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44500,
+      "status": "from_improved",
+      "cn": "このメッセージを消しますか？",
+      "en": "Erase this message?",
+      "jp": "このメッセージを消しますか？",
+      "cn_improved": "このメッセージを消しますか？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45000?>",
+      "en": "<?sysmsg@45000?>",
+      "jp": "<?sysmsg@45000?>",
+      "cn_improved": "<?sysmsg@45000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45001,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45001?>",
+      "en": "<?sysmsg@45001?>",
+      "jp": "<?sysmsg@45001?>",
+      "cn_improved": "<?sysmsg@45001?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45100,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45100?>",
+      "en": "<?sysmsg@45100?>",
+      "jp": "<?sysmsg@45100?>",
+      "cn_improved": "<?sysmsg@45100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45103,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45103?>",
+      "en": "<?sysmsg@45103?>",
+      "jp": "<?sysmsg@45103?>",
+      "cn_improved": "<?sysmsg@45103?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45110,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45110?>",
+      "en": "<?sysmsg@45110?>",
+      "jp": "<?sysmsg@45110?>",
+      "cn_improved": "<?sysmsg@45110?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45111,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45111?>",
+      "en": "<?sysmsg@45111?>",
+      "jp": "<?sysmsg@45111?>",
+      "cn_improved": "<?sysmsg@45111?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45120,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45120?>",
+      "en": "<?sysmsg@45120?>",
+      "jp": "<?sysmsg@45120?>",
+      "cn_improved": "<?sysmsg@45120?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45121,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45121?>",
+      "en": "<?sysmsg@45121?>",
+      "jp": "<?sysmsg@45121?>",
+      "cn_improved": "<?sysmsg@45121?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45122,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45122?>",
+      "en": "<?sysmsg@45122?>",
+      "jp": "<?sysmsg@45122?>",
+      "cn_improved": "<?sysmsg@45122?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45200,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45200?>",
+      "en": "<?sysmsg@45200?>",
+      "jp": "<?sysmsg@45200?>",
+      "cn_improved": "<?sysmsg@45200?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45201,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45201?>",
+      "en": "<?sysmsg@45201?>",
+      "jp": "<?sysmsg@45201?>",
+      "cn_improved": "<?sysmsg@45201?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45250,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45250?>",
+      "en": "<?sysmsg@45250?>",
+      "jp": "<?sysmsg@45250?>",
+      "cn_improved": "<?sysmsg@45250?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45400,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45400?>",
+      "en": "<?sysmsg@45400?>",
+      "jp": "<?sysmsg@45400?>",
+      "cn_improved": "<?sysmsg@45400?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45500,
+      "status": "from_improved",
+      "cn": "<?sysmsg@45500?>",
+      "en": "<?sysmsg@45500?>",
+      "jp": "<?sysmsg@45500?>",
+      "cn_improved": "<?sysmsg@45500?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47000?>",
+      "en": "<?sysmsg@47000?>",
+      "jp": "<?sysmsg@47000?>",
+      "cn_improved": "<?sysmsg@47000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47100,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47100?>",
+      "en": "<?sysmsg@47100?>",
+      "jp": "<?sysmsg@47100?>",
+      "cn_improved": "<?sysmsg@47100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47101,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47101?>",
+      "en": "<?sysmsg@47101?>",
+      "jp": "<?sysmsg@47101?>",
+      "cn_improved": "<?sysmsg@47101?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47102,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47102?>",
+      "en": "<?sysmsg@47102?>",
+      "jp": "<?sysmsg@47102?>",
+      "cn_improved": "<?sysmsg@47102?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47110,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47110?>",
+      "en": "<?sysmsg@47110?>",
+      "jp": "<?sysmsg@47110?>",
+      "cn_improved": "<?sysmsg@47110?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47111,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47111?>",
+      "en": "<?sysmsg@47111?>",
+      "jp": "<?sysmsg@47111?>",
+      "cn_improved": "<?sysmsg@47111?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47112,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47112?>",
+      "en": "<?sysmsg@47112?>",
+      "jp": "<?sysmsg@47112?>",
+      "cn_improved": "<?sysmsg@47112?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47113,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47113?>",
+      "en": "<?sysmsg@47113?>",
+      "jp": "<?sysmsg@47113?>",
+      "cn_improved": "<?sysmsg@47113?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47120,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47120?>",
+      "en": "<?sysmsg@47120?>",
+      "jp": "<?sysmsg@47120?>",
+      "cn_improved": "<?sysmsg@47120?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 47121,
+      "status": "from_improved",
+      "cn": "<?sysmsg@47121?>",
+      "en": "<?sysmsg@47121?>",
+      "jp": "<?sysmsg@47121?>",
+      "cn_improved": "<?sysmsg@47121?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 48000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@48000?>",
+      "en": "<?sysmsg@48000?>",
+      "jp": "<?sysmsg@48000?>",
+      "cn_improved": "<?sysmsg@48000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50000?>",
+      "en": "<?sysmsg@50000?>",
+      "jp": "<?sysmsg@50000?>",
+      "cn_improved": "<?sysmsg@50000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50001,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50001?>",
+      "en": "<?sysmsg@50001?>",
+      "jp": "<?sysmsg@50001?>",
+      "cn_improved": "<?sysmsg@50001?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50002,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50002?>",
+      "en": "<?sysmsg@50002?>",
+      "jp": "<?sysmsg@50002?>",
+      "cn_improved": "<?sysmsg@50002?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50501,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50501?>",
+      "en": "<?sysmsg@50501?>",
+      "jp": "<?sysmsg@50501?>",
+      "cn_improved": "<?sysmsg@50501?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50502,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50502?>",
+      "en": "<?sysmsg@50502?>",
+      "jp": "<?sysmsg@50502?>",
+      "cn_improved": "<?sysmsg@50502?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50503,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50503?>",
+      "en": "<?sysmsg@50503?>",
+      "jp": "<?sysmsg@50503?>",
+      "cn_improved": "<?sysmsg@50503?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50504,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50504?>",
+      "en": "<?sysmsg@50504?>",
+      "jp": "<?sysmsg@50504?>",
+      "cn_improved": "<?sysmsg@50504?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50505,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50505?>",
+      "en": "<?sysmsg@50505?>",
+      "jp": "<?sysmsg@50505?>",
+      "cn_improved": "<?sysmsg@50505?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50506,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50506?>",
+      "en": "<?sysmsg@50506?>",
+      "jp": "<?sysmsg@50506?>",
+      "cn_improved": "<?sysmsg@50506?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 50507,
+      "status": "from_improved",
+      "cn": "<?sysmsg@50507?>",
+      "en": "<?sysmsg@50507?>",
+      "jp": "<?sysmsg@50507?>",
+      "cn_improved": "<?sysmsg@50507?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 51100,
+      "status": "from_improved",
+      "cn": "<?sysmsg@51100?>",
+      "en": "<?sysmsg@51100?>",
+      "jp": "<?sysmsg@51100?>",
+      "cn_improved": "<?sysmsg@51100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65000?>",
+      "en": "<?sysmsg@65000?>",
+      "jp": "<?sysmsg@65000?>",
+      "cn_improved": "<?sysmsg@65000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65001,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65001?>",
+      "en": "<?sysmsg@65001?>",
+      "jp": "<?sysmsg@65001?>",
+      "cn_improved": "<?sysmsg@65001?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65002,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65002?>",
+      "en": "<?sysmsg@65002?>",
+      "jp": "<?sysmsg@65002?>",
+      "cn_improved": "<?sysmsg@65002?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65003,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65003?>",
+      "en": "<?sysmsg@65003?>",
+      "jp": "<?sysmsg@65003?>",
+      "cn_improved": "<?sysmsg@65003?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65004,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65004?>",
+      "en": "<?sysmsg@65004?>",
+      "jp": "<?sysmsg@65004?>",
+      "cn_improved": "<?sysmsg@65004?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65005,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65005?>",
+      "en": "<?sysmsg@65005?>",
+      "jp": "<?sysmsg@65005?>",
+      "cn_improved": "<?sysmsg@65005?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65100,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65100?>",
+      "en": "<?sysmsg@65100?>",
+      "jp": "<?sysmsg@65100?>",
+      "cn_improved": "<?sysmsg@65100?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65101,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65101?>",
+      "en": "<?sysmsg@65101?>",
+      "jp": "<?sysmsg@65101?>",
+      "cn_improved": "<?sysmsg@65101?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65200,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65200?>",
+      "en": "<?sysmsg@65200?>",
+      "jp": "<?sysmsg@65200?>",
+      "cn_improved": "<?sysmsg@65200?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65201,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65201?>",
+      "en": "<?sysmsg@65201?>",
+      "jp": "<?sysmsg@65201?>",
+      "cn_improved": "<?sysmsg@65201?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65202,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65202?>",
+      "en": "<?sysmsg@65202?>",
+      "jp": "<?sysmsg@65202?>",
+      "cn_improved": "<?sysmsg@65202?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65203,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65203?>",
+      "en": "<?sysmsg@65203?>",
+      "jp": "<?sysmsg@65203?>",
+      "cn_improved": "<?sysmsg@65203?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65204,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65204?>",
+      "en": "<?sysmsg@65204?>",
+      "jp": "<?sysmsg@65204?>",
+      "cn_improved": "<?sysmsg@65204?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65205,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65205?>",
+      "en": "<?sysmsg@65205?>",
+      "jp": "<?sysmsg@65205?>",
+      "cn_improved": "<?sysmsg@65205?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65206,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65206?>",
+      "en": "<?sysmsg@65206?>",
+      "jp": "<?sysmsg@65206?>",
+      "cn_improved": "<?sysmsg@65206?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65207,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65207?>",
+      "en": "<?sysmsg@65207?>",
+      "jp": "<?sysmsg@65207?>",
+      "cn_improved": "<?sysmsg@65207?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65208,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65208?>",
+      "en": "<?sysmsg@65208?>",
+      "jp": "<?sysmsg@65208?>",
+      "cn_improved": "<?sysmsg@65208?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65209,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65209?>",
+      "en": "<?sysmsg@65209?>",
+      "jp": "<?sysmsg@65209?>",
+      "cn_improved": "<?sysmsg@65209?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65210,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65210?>",
+      "en": "<?sysmsg@65210?>",
+      "jp": "<?sysmsg@65210?>",
+      "cn_improved": "<?sysmsg@65210?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65211,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65211?>",
+      "en": "<?sysmsg@65211?>",
+      "jp": "<?sysmsg@65211?>",
+      "cn_improved": "<?sysmsg@65211?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65212,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65212?>",
+      "en": "<?sysmsg@65212?>",
+      "jp": "<?sysmsg@65212?>",
+      "cn_improved": "<?sysmsg@65212?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65213,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65213?>",
+      "en": "<?sysmsg@65213?>",
+      "jp": "<?sysmsg@65213?>",
+      "cn_improved": "<?sysmsg@65213?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65214,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65214?>",
+      "en": "<?sysmsg@65214?>",
+      "jp": "<?sysmsg@65214?>",
+      "cn_improved": "<?sysmsg@65214?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65215,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65215?>",
+      "en": "<?sysmsg@65215?>",
+      "jp": "<?sysmsg@65215?>",
+      "cn_improved": "<?sysmsg@65215?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65216,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65216?>",
+      "en": "<?sysmsg@65216?>",
+      "jp": "<?sysmsg@65216?>",
+      "cn_improved": "<?sysmsg@65216?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65217,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65217?>",
+      "en": "<?sysmsg@65217?>",
+      "jp": "<?sysmsg@65217?>",
+      "cn_improved": "<?sysmsg@65217?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65218,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65218?>",
+      "en": "<?sysmsg@65218?>",
+      "jp": "<?sysmsg@65218?>",
+      "cn_improved": "<?sysmsg@65218?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65219,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65219?>",
+      "en": "<?sysmsg@65219?>",
+      "jp": "<?sysmsg@65219?>",
+      "cn_improved": "<?sysmsg@65219?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65220,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65220?>",
+      "en": "<?sysmsg@65220?>",
+      "jp": "<?sysmsg@65220?>",
+      "cn_improved": "<?sysmsg@65220?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65300,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65300?>",
+      "en": "<?sysmsg@65300?>",
+      "jp": "<?sysmsg@65300?>",
+      "cn_improved": "<?sysmsg@65300?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65301,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65301?>",
+      "en": "<?sysmsg@65301?>",
+      "jp": "<?sysmsg@65301?>",
+      "cn_improved": "<?sysmsg@65301?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65400,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65400?>",
+      "en": "<?sysmsg@65400?>",
+      "jp": "<?sysmsg@65400?>",
+      "cn_improved": "<?sysmsg@65400?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65401,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65401?>",
+      "en": "<?sysmsg@65401?>",
+      "jp": "<?sysmsg@65401?>",
+      "cn_improved": "<?sysmsg@65401?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65410,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65410?>",
+      "en": "<?sysmsg@65410?>",
+      "jp": "<?sysmsg@65410?>",
+      "cn_improved": "<?sysmsg@65410?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65411,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65411?>",
+      "en": "<?sysmsg@65411?>",
+      "jp": "<?sysmsg@65411?>",
+      "cn_improved": "<?sysmsg@65411?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65412,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65412?>",
+      "en": "<?sysmsg@65412?>",
+      "jp": "<?sysmsg@65412?>",
+      "cn_improved": "<?sysmsg@65412?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 65413,
+      "status": "from_improved",
+      "cn": "<?sysmsg@65413?>",
+      "en": "<?sysmsg@65413?>",
+      "jp": "<?sysmsg@65413?>",
+      "cn_improved": "<?sysmsg@65413?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 70000,
+      "status": "from_improved",
+      "cn": "<?sysmsg@70000?>",
+      "en": "<?sysmsg@70000?>",
+      "jp": "<?sysmsg@70000?>",
+      "cn_improved": "<?sysmsg@70000?>",
+      "cn_resurrection": null
+    }
+  ]
+}

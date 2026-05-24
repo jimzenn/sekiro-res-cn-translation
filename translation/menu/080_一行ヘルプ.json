@@ -1,0 +1,1007 @@
+{
+  "fmg_id": 80,
+  "fmg_name": "一行ヘルプ",
+  "domain": "menu",
+  "count": 111,
+  "entries": [
+    {
+      "id": 10001,
+      "status": "from_improved",
+      "cn": "アイテムを確認、使用します",
+      "en": "Browse and use items",
+      "jp": "アイテムを確認、使用します",
+      "cn_improved": "アイテムを確認、使用します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10002,
+      "status": "from_improved",
+      "cn": "武器、防具などを装備します",
+      "en": "Change equipment",
+      "jp": "武器、防具などを装備します",
+      "cn_improved": "武器、防具などを装備します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10003,
+      "status": "from_improved",
+      "cn": "ステータスを確認します",
+      "en": "View status",
+      "jp": "ステータスを確認します",
+      "cn_improved": "ステータスを確認します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10004,
+      "status": "from_improved",
+      "cn": "環境設定を行うか、ゲームを終了します",
+      "en": "Configure options or quit the game",
+      "jp": "環境設定を行うか、ゲームを終了します",
+      "cn_improved": "環境設定を行うか、ゲームを終了します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11000,
+      "status": "from_improved",
+      "cn": "確認、使用するアイテムを選択してください",
+      "en": "Select an item to examine or use",
+      "jp": "確認、使用するアイテムを選択してください",
+      "cn_improved": "確認、使用するアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11001,
+      "status": "from_improved",
+      "cn": "確認するアイテムを選択してください",
+      "en": "Select an item to examine",
+      "jp": "確認するアイテムを選択してください",
+      "cn_improved": "確認するアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11002,
+      "status": "from_improved",
+      "cn": "並び位置を変更するアイテムを選択してください",
+      "en": "Select an item to move",
+      "jp": "並び位置を変更するアイテムを選択してください",
+      "cn_improved": "並び位置を変更するアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11003,
+      "status": "from_improved",
+      "cn": "選択したアイテムの並び位置を決めてください",
+      "en": "Select a new spot for selected item",
+      "jp": "選択したアイテムの並び位置を決めてください",
+      "cn_improved": "選択したアイテムの並び位置を決めてください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11004,
+      "status": "from_improved",
+      "cn": "選択したアイテムを捨てます",
+      "en": "Drop selected item",
+      "jp": "選択したアイテムを捨てます",
+      "cn_improved": "選択したアイテムを捨てます",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11005,
+      "status": "from_improved",
+      "cn": "アイテムの並び順を変更します",
+      "en": "Rearrange item order",
+      "jp": "アイテムの並び順を変更します",
+      "cn_improved": "アイテムの並び順を変更します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11006,
+      "status": "from_improved",
+      "cn": "アイテムの並び順を初期状態に戻します",
+      "en": "Reset item order",
+      "jp": "アイテムの並び順を初期状態に戻します",
+      "cn_improved": "アイテムの並び順を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11007,
+      "status": "from_improved",
+      "cn": "選択したアイテムを使用します",
+      "en": "Use selected item",
+      "jp": "選択したアイテムを使用します",
+      "cn_improved": "選択したアイテムを使用します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12000,
+      "status": "from_improved",
+      "cn": "装備する場所を選択してください",
+      "en": "Select item to equip",
+      "jp": "装備する場所を選択してください",
+      "cn_improved": "装備する場所を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12001,
+      "status": "from_improved",
+      "cn": "装備するアイテムを選択してください",
+      "en": "Select item to equip",
+      "jp": "装備するアイテムを選択してください",
+      "cn_improved": "装備するアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 14000,
+      "status": "from_improved",
+      "cn": "ステータスを確認します",
+      "en": "Check status",
+      "jp": "ステータスを確認します",
+      "cn_improved": "ステータスを確認します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16000,
+      "status": "from_improved",
+      "cn": "環境設定を変更してください",
+      "en": "Configure options",
+      "jp": "環境設定を変更してください",
+      "cn_improved": "環境設定を変更してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16001,
+      "status": "from_improved",
+      "cn": "環境設定を調整してください",
+      "en": "Configure options",
+      "jp": "環境設定を調整してください",
+      "cn_improved": "環境設定を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16003,
+      "status": "from_improved",
+      "cn": "設定変更を確定します",
+      "en": "Apply changes",
+      "jp": "設定変更を確定します",
+      "cn_improved": "設定変更を確定します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16004,
+      "status": "from_improved",
+      "cn": "設定を確定して次へ進みます",
+      "en": "Apply changes and proceed",
+      "jp": "設定を確定して次へ進みます",
+      "cn_improved": "設定を確定して次へ進みます",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16005,
+      "status": "from_improved",
+      "cn": "設定を初期状態に戻します",
+      "en": "Initialize settings",
+      "jp": "設定を初期状態に戻します",
+      "cn_improved": "設定を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16006,
+      "status": "from_improved",
+      "cn": "設定を初期状態に戻します",
+      "en": "Initialize settings",
+      "jp": "設定を初期状態に戻します",
+      "cn_improved": "設定を初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16010,
+      "status": "from_improved",
+      "cn": "輝度設定を変更してください",
+      "en": "Change brightness",
+      "jp": "輝度設定を変更してください",
+      "cn_improved": "輝度設定を変更してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16011,
+      "status": "from_improved",
+      "cn": "輝度設定を調整してください",
+      "en": "Adjust brightness",
+      "jp": "輝度設定を調整してください",
+      "cn_improved": "輝度設定を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16100,
+      "status": "from_improved",
+      "cn": "自分で書いたメッセージの一覧です",
+      "en": "List of your messages",
+      "jp": "自分で書いたメッセージの一覧です",
+      "cn_improved": "自分で書いたメッセージの一覧です",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16500,
+      "status": "from_improved",
+      "cn": "環境設定を変更します",
+      "en": "Change options",
+      "jp": "環境設定を変更します",
+      "cn_improved": "環境設定を変更します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16502,
+      "status": "from_improved",
+      "cn": "ゲームを終了し、タイトル画面へ戻ります",
+      "en": "Quit the game",
+      "jp": "ゲームを終了し、タイトル画面へ戻ります",
+      "cn_improved": "ゲームを終了し、タイトル画面へ戻ります",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16503,
+      "status": "from_improved",
+      "cn": "輝度設定を変更します",
+      "en": "Change brightness",
+      "jp": "輝度設定を変更します",
+      "cn_improved": "輝度設定を変更します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16600,
+      "status": "from_improved",
+      "cn": "使用するジェスチャーを選択してください",
+      "en": "Select gesture to use",
+      "jp": "使用するジェスチャーを選択してください",
+      "cn_improved": "使用するジェスチャーを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16601,
+      "status": "from_improved",
+      "cn": "セットするジェスチャーを選択してください",
+      "en": "Select gesture to assign",
+      "jp": "セットするジェスチャーを選択してください",
+      "cn_improved": "セットするジェスチャーを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18000,
+      "status": "from_improved",
+      "cn": "転送する篝火を選択してください",
+      "en": "Select bonfire to warp to",
+      "jp": "転送する篝火を選択してください",
+      "cn_improved": "転送する篝火を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18200,
+      "status": "from_improved",
+      "cn": "世界の罪人たち",
+      "en": "Most Wanted",
+      "jp": "世界の罪人たち",
+      "cn_improved": "世界の罪人たち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18201,
+      "status": "from_improved",
+      "cn": "罪人の詳細情報です",
+      "en": "Advanced data on Most Wanted",
+      "jp": "罪人の詳細情報です",
+      "cn_improved": "罪人の詳細情報です",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18210,
+      "status": "from_improved",
+      "cn": "混沌の従者たち",
+      "en": "Servants of Chaos",
+      "jp": "混沌の従者たち",
+      "cn_improved": "混沌の従者たち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18211,
+      "status": "from_improved",
+      "cn": "従者の詳細情報です",
+      "en": "Advanced data on Servants of Chaos",
+      "jp": "従者の詳細情報です",
+      "cn_improved": "従者の詳細情報です",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18300,
+      "status": "from_improved",
+      "cn": "世界の罪人たち",
+      "en": "Most Wanted",
+      "jp": "世界の罪人たち",
+      "cn_improved": "世界の罪人たち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18301,
+      "status": "from_improved",
+      "cn": "プレイヤーの詳細情報です",
+      "en": "Display player status information when cleared",
+      "jp": "プレイヤーの詳細情報です",
+      "cn_improved": "プレイヤーの詳細情報です",
+      "cn_resurrection": null
+    },
+    {
+      "id": 18310,
+      "status": "from_improved",
+      "cn": "混沌の従者たち",
+      "en": "Servants of Chaos",
+      "jp": "混沌の従者たち",
+      "cn_improved": "混沌の従者たち",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20000,
+      "status": "from_improved",
+      "cn": "成長させる能力値を選択してください",
+      "en": "Select a parameter to boost",
+      "jp": "成長させる能力値を選択してください",
+      "cn_improved": "成長させる能力値を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 20001,
+      "status": "from_improved",
+      "cn": "成長させる能力値を選択してください",
+      "en": "Select a parameter to boost",
+      "jp": "成長させる能力値を選択してください",
+      "cn_improved": "成長させる能力値を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22010,
+      "status": "from_improved",
+      "cn": "魔法を記憶するスロットを選択してください",
+      "en": "Select slots to attune magic",
+      "jp": "魔法を記憶するスロットを選択してください",
+      "cn_improved": "魔法を記憶するスロットを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 22011,
+      "status": "from_improved",
+      "cn": "記憶する魔法を選択してください",
+      "en": "Select magic to attune",
+      "jp": "記憶する魔法を選択してください",
+      "cn_improved": "記憶する魔法を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30000,
+      "status": "from_improved",
+      "cn": "購入するアイテムを選択してください",
+      "en": "Select item to purchase",
+      "jp": "購入するアイテムを選択してください",
+      "cn_improved": "購入するアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 30100,
+      "status": "from_improved",
+      "cn": "食べさせるアイテムを選択してください",
+      "en": "Select item to feed",
+      "jp": "食べさせるアイテムを選択してください",
+      "cn_improved": "食べさせるアイテムを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 31000,
+      "status": "from_improved",
+      "cn": "修理する武器、防具を選択してください",
+      "en": "Select weapon or armor to repair",
+      "jp": "修理する武器、防具を選択してください",
+      "cn_improved": "修理する武器、防具を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32000,
+      "status": "from_improved",
+      "cn": "強化する武器を選択してください",
+      "en": "Select weapon to reinforce",
+      "jp": "強化する武器を選択してください",
+      "cn_improved": "強化する武器を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32001,
+      "status": "from_improved",
+      "cn": "強化する防具を選択してください",
+      "en": "Select armor to reinforce",
+      "jp": "強化する防具を選択してください",
+      "cn_improved": "強化する防具を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 32002,
+      "status": "from_improved",
+      "cn": "進化させる武器を選択してください",
+      "en": "Change equipment stats",
+      "jp": "進化させる武器を選択してください",
+      "cn_improved": "進化させる武器を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41000,
+      "status": "from_improved",
+      "cn": "ロードするデータを選択してください",
+      "en": "Select data to load",
+      "jp": "ロードするデータを選択してください",
+      "cn_improved": "ロードするデータを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41001,
+      "status": "from_improved",
+      "cn": "削除するデータを選択してください",
+      "en": "Select data to delete",
+      "jp": "削除するデータを選択してください",
+      "cn_improved": "削除するデータを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 41002,
+      "status": "from_improved",
+      "cn": "ロードするデータを選択してください",
+      "en": "Select data to load",
+      "jp": "ロードするデータを選択してください",
+      "cn_improved": "ロードするデータを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42100,
+      "status": "from_improved",
+      "cn": "キャラクターの性別を選択してください",
+      "en": "Select sex",
+      "jp": "キャラクターの性別を選択してください",
+      "cn_improved": "キャラクターの性別を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42101,
+      "status": "from_improved",
+      "cn": "キャラクターの名前を入力してください",
+      "en": "Enter name",
+      "jp": "キャラクターの名前を入力してください",
+      "cn_improved": "キャラクターの名前を入力してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42102,
+      "status": "from_improved",
+      "cn": "キャラクターの素性を選択してください",
+      "en": "Select class",
+      "jp": "キャラクターの素性を選択してください",
+      "cn_improved": "キャラクターの素性を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42103,
+      "status": "from_improved",
+      "cn": "キャラクターの贈り物を選択してください",
+      "en": "Select gift",
+      "jp": "キャラクターの贈り物を選択してください",
+      "cn_improved": "キャラクターの贈り物を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42104,
+      "status": "from_improved",
+      "cn": "キャラクターの体型を選択してください",
+      "en": "Select physique",
+      "jp": "キャラクターの体型を選択してください",
+      "cn_improved": "キャラクターの体型を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42105,
+      "status": "from_improved",
+      "cn": "キャラクターの顔を選択してください",
+      "en": "Select face",
+      "jp": "キャラクターの顔を選択してください",
+      "cn_improved": "キャラクターの顔を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42106,
+      "status": "from_improved",
+      "cn": "キャラクターの髪型を選択してください",
+      "en": "Select hair",
+      "jp": "キャラクターの髪型を選択してください",
+      "cn_improved": "キャラクターの髪型を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42107,
+      "status": "from_improved",
+      "cn": "キャラクターの髪と瞳の色を選択してください",
+      "en": "Select hair and eye color",
+      "jp": "キャラクターの髪と瞳の色を選択してください",
+      "cn_improved": "キャラクターの髪と瞳の色を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42108,
+      "status": "from_improved",
+      "cn": "キャラクターの顔を詳細に編集します",
+      "en": "Customize face",
+      "jp": "キャラクターの顔を詳細に編集します",
+      "cn_improved": "キャラクターの顔を詳細に編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42109,
+      "status": "from_improved",
+      "cn": "キャラクターの作成を完了します",
+      "en": "Confirm character",
+      "jp": "キャラクターの作成を完了します",
+      "cn_improved": "キャラクターの作成を完了します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42120,
+      "status": "from_improved",
+      "cn": "キャラクターの性別を選択します",
+      "en": "Select sex",
+      "jp": "キャラクターの性別を選択します",
+      "cn_improved": "キャラクターの性別を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42122,
+      "status": "from_improved",
+      "cn": "キャラクターの素性を選択します",
+      "en": "Select class",
+      "jp": "キャラクターの素性を選択します",
+      "cn_improved": "キャラクターの素性を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42123,
+      "status": "from_improved",
+      "cn": "キャラクターの贈り物を選択します",
+      "en": "Select gift",
+      "jp": "キャラクターの贈り物を選択します",
+      "cn_improved": "キャラクターの贈り物を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42124,
+      "status": "from_improved",
+      "cn": "キャラクターの体型を選択します",
+      "en": "Select body type",
+      "jp": "キャラクターの体型を選択します",
+      "cn_improved": "キャラクターの体型を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42125,
+      "status": "from_improved",
+      "cn": "キャラクターの顔を選択します",
+      "en": "Select face",
+      "jp": "キャラクターの顔を選択します",
+      "cn_improved": "キャラクターの顔を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42126,
+      "status": "from_improved",
+      "cn": "キャラクターの髪型を選択します",
+      "en": "Select hair",
+      "jp": "キャラクターの髪型を選択します",
+      "cn_improved": "キャラクターの髪型を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 42127,
+      "status": "from_improved",
+      "cn": "キャラクターの髪と瞳の色を選択します",
+      "en": "Select hair and eye color",
+      "jp": "キャラクターの髪と瞳の色を選択します",
+      "cn_improved": "キャラクターの髪と瞳の色を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43001,
+      "status": "from_improved",
+      "cn": "ベースタイプを選択してください",
+      "en": "Select general type",
+      "jp": "ベースタイプを選択してください",
+      "cn_improved": "ベースタイプを選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43002,
+      "status": "from_improved",
+      "cn": "ベースタイプからランダムに顔を生成します",
+      "en": "Generate random face based on general type",
+      "jp": "ベースタイプからランダムに顔を生成します",
+      "cn_improved": "ベースタイプからランダムに顔を生成します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43003,
+      "status": "from_improved",
+      "cn": "編集した顔データを初期状態に戻します",
+      "en": "Restore edited face to default settings",
+      "jp": "編集した顔データを初期状態に戻します",
+      "cn_improved": "編集した顔データを初期状態に戻します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43004,
+      "status": "from_improved",
+      "cn": "若さ、老いを調整してください",
+      "en": "Adjust age",
+      "jp": "若さ、老いを調整してください",
+      "cn_improved": "若さ、老いを調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43005,
+      "status": "from_improved",
+      "cn": "男性らしさ、女性らしさを調整してください",
+      "en": "Adjust femininity/masculinity",
+      "jp": "男性らしさ、女性らしさを調整してください",
+      "cn_improved": "男性らしさ、女性らしさを調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43006,
+      "status": "from_improved",
+      "cn": "更に詳細に顔を編集します",
+      "en": "Customize face further",
+      "jp": "更に詳細に顔を編集します",
+      "cn_improved": "更に詳細に顔を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43007,
+      "status": "from_improved",
+      "cn": "ベースタイプに似た顔をランダムに生成します",
+      "en": "Generate random face similar to general type",
+      "jp": "ベースタイプに似た顔をランダムに生成します",
+      "cn_improved": "ベースタイプに似た顔をランダムに生成します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43011,
+      "status": "from_improved",
+      "cn": "髪型を選択します",
+      "en": "Select a hairstyle",
+      "jp": "髪型を選択します",
+      "cn_improved": "髪型を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43012,
+      "status": "from_improved",
+      "cn": "髪と瞳の色を選択します",
+      "en": "Select hair and eye color",
+      "jp": "髪と瞳の色を選択します",
+      "cn_improved": "髪と瞳の色を選択します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43013,
+      "status": "from_improved",
+      "cn": "特徴の強弱を調整してください",
+      "en": "Adjust features",
+      "jp": "特徴の強弱を調整してください",
+      "cn_improved": "特徴の強弱を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43101,
+      "status": "from_improved",
+      "cn": "全体バランスと色調を編集します",
+      "en": "Configure overall balance and color tone",
+      "jp": "全体バランスと色調を編集します",
+      "cn_improved": "全体バランスと色調を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43102,
+      "status": "from_improved",
+      "cn": "額と眉間の数値を編集します",
+      "en": "Configure forehead and brow line",
+      "jp": "額と眉間の数値を編集します",
+      "cn_improved": "額と眉間の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43103,
+      "status": "from_improved",
+      "cn": "眉骨と眉毛の数値を編集します",
+      "en": "Configure eyebrow areas",
+      "jp": "眉骨と眉毛の数値を編集します",
+      "cn_improved": "眉骨と眉毛の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43104,
+      "status": "from_improved",
+      "cn": "瞳と目元の数値を編集します",
+      "en": "Configure pupils and eye area",
+      "jp": "瞳と目元の数値を編集します",
+      "cn_improved": "瞳と目元の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43105,
+      "status": "from_improved",
+      "cn": "鼻筋と小鼻の数値を編集します",
+      "en": "Configure nose ridge and nostrils",
+      "jp": "鼻筋と小鼻の数値を編集します",
+      "cn_improved": "鼻筋と小鼻の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43106,
+      "status": "from_improved",
+      "cn": "頬の数値を編集します",
+      "en": "Configure cheeks",
+      "jp": "頬の数値を編集します",
+      "cn_improved": "頬の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43107,
+      "status": "from_improved",
+      "cn": "唇/口/口紅の数値を編集します",
+      "en": "Configure lips, mouth, and lipstick",
+      "jp": "唇/口/口紅の数値を編集します",
+      "cn_improved": "唇/口/口紅の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43108,
+      "status": "from_improved",
+      "cn": "上顎、下顎、髯の数値を編集します",
+      "en": "Configure upper jaw, lower jaw, and beard",
+      "jp": "上顎、下顎、髯の数値を編集します",
+      "cn_improved": "上顎、下顎、髯の数値を編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43109,
+      "status": "from_improved",
+      "cn": "髪の色を詳細に編集します",
+      "en": "Customize hair color",
+      "jp": "髪の色を詳細に編集します",
+      "cn_improved": "髪の色を詳細に編集します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43201,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43202,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43203,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43204,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43205,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43206,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43207,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43208,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43209,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43210,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43211,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43212,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43213,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43214,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43215,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43216,
+      "status": "from_improved",
+      "cn": "編集する項目を選択してください",
+      "en": "Select item to configure",
+      "jp": "編集する項目を選択してください",
+      "cn_improved": "編集する項目を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43501,
+      "status": "from_improved",
+      "cn": "数値を調整してください",
+      "en": "Adjust values",
+      "jp": "数値を調整してください",
+      "cn_improved": "数値を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43502,
+      "status": "from_improved",
+      "cn": "内容を選択してください",
+      "en": "Make a selection",
+      "jp": "内容を選択してください",
+      "cn_improved": "内容を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 43503,
+      "status": "from_improved",
+      "cn": "編集を確定して戻ります",
+      "en": "Confirm changes and go back",
+      "jp": "編集を確定して戻ります",
+      "cn_improved": "編集を確定して戻ります",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44000,
+      "status": "from_improved",
+      "cn": "ベース文を選択してください",
+      "en": "Select text body",
+      "jp": "ベース文を選択してください",
+      "cn_improved": "ベース文を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 44001,
+      "status": "from_improved",
+      "cn": "未確定部に使用する単語を選択してください",
+      "en": "Select a word for the space",
+      "jp": "未確定部に使用する単語を選択してください",
+      "cn_improved": "未確定部に使用する単語を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45000,
+      "status": "from_improved",
+      "cn": "アイテムを箱から出し入れします",
+      "en": "Move items in and out of box",
+      "jp": "アイテムを箱から出し入れします",
+      "cn_improved": "アイテムを箱から出し入れします",
+      "cn_resurrection": null
+    },
+    {
+      "id": 45001,
+      "status": "from_improved",
+      "cn": "アイテムを箱から出し入れします",
+      "en": "Move items in and out of box",
+      "jp": "アイテムを箱から出し入れします",
+      "cn_improved": "アイテムを箱から出し入れします",
+      "cn_resurrection": null
+    },
+    {
+      "id": 46000,
+      "status": "from_improved",
+      "cn": "犠牲にする能力値を選択してください",
+      "en": "Select parameter to sacrifice",
+      "jp": "犠牲にする能力値を選択してください",
+      "cn_improved": "犠牲にする能力値を選択してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 46001,
+      "status": "from_improved",
+      "cn": "犠牲にする能力値を選択してください",
+      "en": "Select parameter to sacrifice",
+      "jp": "犠牲にする能力値を選択してください",
+      "cn_improved": "犠牲にする能力値を選択してください",
+      "cn_resurrection": null
+    }
+  ]
+}

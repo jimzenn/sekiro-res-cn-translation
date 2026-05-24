@@ -1,0 +1,1070 @@
+{
+  "fmg_id": 201,
+  "fmg_name": "NTC_一行ヘルプ",
+  "domain": "menu",
+  "count": 118,
+  "entries": [
+    {
+      "id": 40331,
+      "status": "from_improved",
+      "cn": "确定设定内容并进入下一个画面",
+      "en": "Confirm settings and proceed to the next screen.",
+      "jp": "設定内容を確定して次の画面に進みます",
+      "cn_improved": "确定设定内容并进入下一个画面",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40500,
+      "status": "from_improved",
+      "cn": "将所有设定恢复至初始状态",
+      "en": "Restore default settings.",
+      "jp": "すべての設定を初期状態に戻します",
+      "cn_improved": "将所有设定恢复至初始状态",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101000,
+      "status": "from_improved",
+      "cn": "确认及变更装备内容",
+      "en": "Replace and confirm equipped items.",
+      "jp": "装備内容の確認と変更を行います",
+      "cn_improved": "确认及变更装备内容",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101500,
+      "status": "from_improved",
+      "cn": "请选择要装备的项目",
+      "en": "Choose item to equip.",
+      "jp": "装備する項目を選択してください",
+      "cn_improved": "请选择要装备的项目",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102000,
+      "status": "from_improved",
+      "cn": "确认持有道具",
+      "en": "Use and confirm items in possession.",
+      "jp": "所持アイテムを確認します",
+      "cn_improved": "确认持有道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102001,
+      "status": "from_improved",
+      "cn": "确认持有道具或使用所选道具",
+      "en": "Check and use items in your possession.",
+      "jp": "所持アイテムの確認と、選択したアイテムを使用します",
+      "cn_improved": "确认持有道具或使用所选道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103000,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104000,
+      "status": "from_improved",
+      "cn": "确认目前所在地",
+      "en": "Displays current location.",
+      "jp": "現在地を確認します",
+      "cn_improved": "确认目前所在地",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105000,
+      "status": "from_improved",
+      "cn": "确认已习得的技能",
+      "en": "View unlocked Skills",
+      "jp": "習得済みのスキルを確認します",
+      "cn_improved": "确认已习得的技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110001,
+      "status": "from_improved",
+      "cn": "设定视角的上下操作",
+      "en": "Change up/down camera movement.",
+      "jp": "カメラの上下操作を設定します",
+      "cn_improved": "设定视角的上下操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110002,
+      "status": "from_improved",
+      "cn": "设定视角的水平操作",
+      "en": "Change left/right camera movement.",
+      "jp": "カメラの左右操作を設定します",
+      "cn_improved": "设定视角的水平操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110003,
+      "status": "from_improved",
+      "cn": "设定重置视角时是否重置上下位置",
+      "en": "Camera reset also resets the camera y-axis.",
+      "jp": "カメラリセット時の、上下位置リセットを設定します",
+      "cn_improved": "设定重置视角时是否重置上下位置",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110004,
+      "status": "from_improved",
+      "cn": "设定视角的移动速度",
+      "en": "Set camera movement speed.",
+      "jp": "カメラの動く速さを設定します",
+      "cn_improved": "设定视角的移动速度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110005,
+      "status": "from_improved",
+      "cn": "设定固定目标的对象死亡时，是否自动切换对象",
+      "en": "Set auto lock-on to new target when former target dies.",
+      "jp": "ターゲット固定対象死亡時の、対象の自動切替を設定します",
+      "cn_improved": "设定固定目标的对象死亡时，是否自动切换对象",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110006,
+      "status": "from_improved",
+      "cn": "设定非固定目标时，是否自动捕捉攻击对象",
+      "en": "Set automated targeting assistance when not locked on.",
+      "jp": "非ターゲット固定時の、攻撃対象の自動捕捉を設定します",
+      "cn_improved": "设定非固定目标时，是否自动捕捉攻击对象",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110007,
+      "status": "from_improved",
+      "cn": "设定视角接触墙壁时是否自动避开",
+      "en": "Set whether the camera automatically avoids walls.",
+      "jp": "カメラの壁接触時の、自動回避を設定します",
+      "cn_improved": "设定视角接触墙壁时是否自动避开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110101,
+      "status": "from_improved",
+      "cn": "设定血腥效果",
+      "en": "Switch depiction of blood on or off, or set to mild.",
+      "jp": "流血の表現を設定します",
+      "cn_improved": "设定血腥效果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110102,
+      "status": "from_improved",
+      "cn": "设定字幕显示",
+      "en": "Switch in-game subtitles on or off.",
+      "jp": "字幕の表示を設定します",
+      "cn_improved": "设定字幕显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110103,
+      "status": "from_improved",
+      "cn": "设定HUD显示",
+      "en": "Configure how in-game HUD is displayed.",
+      "jp": "HUDの表示を設定します",
+      "cn_improved": "设定HUD显示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110105,
+      "status": "from_improved",
+      "cn": "设定背景音乐音量",
+      "en": "Adjust music and cut scene volume.",
+      "jp": "BGMの音量を設定します",
+      "cn_improved": "设定背景音乐音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110106,
+      "status": "from_improved",
+      "cn": "设定音效音量",
+      "en": "Adjust sound effect volume.",
+      "jp": "SEの音量を設定します",
+      "cn_improved": "设定音效音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110107,
+      "status": "from_improved",
+      "cn": "设定语音音量",
+      "en": "Adjust voice volume.",
+      "jp": "ボイスの音量を設定します",
+      "cn_improved": "设定语音音量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110201,
+      "status": "from_improved",
+      "cn": "设定画面亮度",
+      "en": "Adjust screen brightness.",
+      "jp": "画面の明るさを設定します",
+      "cn_improved": "设定画面亮度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110202,
+      "status": "from_improved",
+      "cn": "调整HDR开启时的画质",
+      "en": "Adjust picture quality when HDR is enabled.",
+      "jp": "HDR有効時の画質調整を行います",
+      "cn_improved": "调整HDR开启时的画质",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110209,
+      "status": "from_improved",
+      "cn": "设定HDR的有效/无效",
+      "en": "HDR On/Off.",
+      "jp": "HDRの有効/無効を設定します",
+      "cn_improved": "设定HDR的有效/无效",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110401,
+      "status": "from_improved",
+      "cn": "设定文字使用语言",
+      "en": "Change text language.",
+      "jp": "テキストに用いる言語を設定します",
+      "cn_improved": "设定文字使用语言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110402,
+      "status": "from_improved",
+      "cn": "设定语音使用语言",
+      "en": "Change spoken dialogue language.",
+      "jp": "ボイスに用いる言語を設定します",
+      "cn_improved": "设定语音使用语言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110500,
+      "status": "from_improved",
+      "cn": "保存游戏进度，返回标题画面",
+      "en": "Save the game and return to the Title Menu.",
+      "jp": "ゲームを保存して、タイトル画面に戻ります",
+      "cn_improved": "保存游戏进度，返回标题画面",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110501,
+      "status": "from_improved",
+      "cn": "结束游戏，返回标题画面",
+      "en": "Quit game and return to title menu.",
+      "jp": "ゲームを終了して、タイトル画面に戻ります",
+      "cn_improved": "结束游戏，返回标题画面",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110600,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110601,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110602,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110603,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110604,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110605,
+      "status": "from_improved",
+      "cn": "确认及变更设定",
+      "en": "View and change settings",
+      "jp": "設定の確認と変更を行います",
+      "cn_improved": "确认及变更设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110701,
+      "status": "from_improved",
+      "cn": "设定以在线模式或离线模式来启动游戏",
+      "en": "Set game to online/offline mode at boot",
+      "jp": "オンラインプレイ/オフラインプレイの、どちらでゲームを起動するのか設定します",
+      "cn_improved": "设定以在线模式或离线模式来启动游戏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111000,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111010,
+      "status": "from_improved",
+      "cn": "设定在操作指南显示按键的设备",
+      "en": "Set the device to display buttons for the Controls Guide.",
+      "jp": "操作ガイドにボタン表示するデバイスを設定します",
+      "cn_improved": "设定在操作指南显示按键的设备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111020,
+      "status": "from_improved",
+      "cn": "设定通过鼠标移动视角的灵敏度",
+      "en": "Set sensitivity for camera movement with the mouse.",
+      "jp": "マウスによるカメラ移動の感度を設定します",
+      "cn_improved": "设定通过鼠标移动视角的灵敏度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111022,
+      "status": "from_improved",
+      "cn": "设定通过鼠标操作水平视角",
+      "en": "Set the camera's left and right movements with the mouse.",
+      "jp": "マウスによるカメラの左右操作を設定します",
+      "cn_improved": "设定通过鼠标操作水平视角",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111023,
+      "status": "from_improved",
+      "cn": "设定通过鼠标操作上下视角",
+      "en": "Set the camera's up and down movements with the mouse.",
+      "jp": "マウスによるカメラの上下操作を設定します",
+      "cn_improved": "设定通过鼠标操作上下视角",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111024,
+      "status": "from_improved",
+      "cn": "设定对应动作的按键分配",
+      "en": "Set key bindings for actions.",
+      "jp": "アクションに対するキーの割り当てを設定します",
+      "cn_improved": "设定对应动作的按键分配",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111030,
+      "status": "from_improved",
+      "cn": "设定对应动作的按键分配",
+      "en": "Set button bindings for actions.",
+      "jp": "アクションに対するボタンの割り当てを設定します",
+      "cn_improved": "设定对应动作的按键分配",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111100,
+      "status": "from_improved",
+      "cn": "确认及变更各种设定",
+      "en": "Check and make changes to various settings.",
+      "jp": "各種設定の確認と変更を行います",
+      "cn_improved": "确认及变更各种设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111110,
+      "status": "from_improved",
+      "cn": "设定以全屏启动游戏，还是以窗口模式启动",
+      "en": "Set whether the game launches in Fullscreen or Windowed mode.",
+      "jp": "ゲームをフルスクリーンで起動するか、ウィンドウモードで起動するかを設定します",
+      "cn_improved": "设定以全屏启动游戏，还是以窗口模式启动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111111,
+      "status": "from_improved",
+      "cn": "选择屏幕分辨率",
+      "en": "Select screen resolution.",
+      "jp": "画面解像度を選択します",
+      "cn_improved": "选择屏幕分辨率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111112,
+      "status": "from_improved",
+      "cn": "设定性能下降时是否简化绘图",
+      "en": "Set whether rendering is simplified when performance drops.",
+      "jp": "パフォーマンス低下時に描画を簡易化するかどうかを設定します",
+      "cn_improved": "设定性能下降时是否简化绘图",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111113,
+      "status": "from_improved",
+      "cn": "设定图象质量",
+      "en": "Set graphics quality.",
+      "jp": "グラフィックの品質を設定します",
+      "cn_improved": "设定图象质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111114,
+      "status": "from_improved",
+      "cn": "设定具体图象质量",
+      "en": "Set specific graphics quality options.",
+      "jp": "グラフィックの品質を詳細に設定します",
+      "cn_improved": "设定具体图象质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111210,
+      "status": "from_improved",
+      "cn": "选择纹理质量",
+      "en": "Select texture quality.",
+      "jp": "テクスチャの品質を選択します",
+      "cn_improved": "选择纹理质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111211,
+      "status": "from_improved",
+      "cn": "选择是否应用抗锯齿",
+      "en": "Select whether antialiasing is applied.",
+      "jp": "アンチエイリアスを適用するかどうかを選択します",
+      "cn_improved": "选择是否应用抗锯齿",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111212,
+      "status": "from_improved",
+      "cn": "选择SSAO质量",
+      "en": "Select SSAO quality.",
+      "jp": "SSAOの品質を選択します",
+      "cn_improved": "选择SSAO质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111213,
+      "status": "from_improved",
+      "cn": "选择景深表现的质量",
+      "en": "Select depth of field quality.",
+      "jp": "被写界深度表現の品質を選択します",
+      "cn_improved": "选择景深表现的质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111214,
+      "status": "from_improved",
+      "cn": "选择动态模糊的质量",
+      "en": "Select motion blur quality.",
+      "jp": "モーションブラーの品質を選択します",
+      "cn_improved": "选择动态模糊的质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111215,
+      "status": "from_improved",
+      "cn": "选择阴影质量",
+      "en": "Select shadow quality.",
+      "jp": "影の品質を選択します",
+      "cn_improved": "选择阴影质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111216,
+      "status": "from_improved",
+      "cn": "选择光的表现质量",
+      "en": "Select light quality.",
+      "jp": "光の表現の品質を選択します",
+      "cn_improved": "选择光的表现质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111217,
+      "status": "from_improved",
+      "cn": "选择效果质量",
+      "en": "Select effects quality.",
+      "jp": "エフェクトの品質を選択します",
+      "cn_improved": "选择效果质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111218,
+      "status": "from_improved",
+      "cn": "选择立体面质量",
+      "en": "Select volumetric quality.",
+      "jp": "ボリュームメトリックの品質を選択します",
+      "cn_improved": "选择立体面质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111219,
+      "status": "from_improved",
+      "cn": "选择反射表现的质量",
+      "en": "Select reflections quality.",
+      "jp": "反射表現の品質を選択します",
+      "cn_improved": "选择反射表现的质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111220,
+      "status": "from_improved",
+      "cn": "选择水面质量",
+      "en": "Select water surface quality.",
+      "jp": "水面の品質を選択します",
+      "cn_improved": "选择水面质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111221,
+      "status": "from_improved",
+      "cn": "选择着色器质量",
+      "en": "Select shader quality.",
+      "jp": "シェーダーの品質を選択します",
+      "cn_improved": "选择着色器质量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 119000,
+      "status": "from_improved",
+      "cn": "保存设定完成初始设定",
+      "en": "Save settings and finish setup.",
+      "jp": "設定を保存して初期設定を完了します",
+      "cn_improved": "保存设定完成初始设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 211000,
+      "status": "from_improved",
+      "cn": "请选择要进行佛渡的鬼佛",
+      "en": "Select Sculptor's Idol destination.",
+      "jp": "仏渡りをする鬼仏を選択してください",
+      "cn_improved": "请选择要进行佛渡的鬼佛",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220000,
+      "status": "from_improved",
+      "cn": "请选择想要再战的稀世强者",
+      "en": "Choose which extraordinary foe to face",
+      "jp": "再戦する類稀な強者を選択してください",
+      "cn_improved": "请选择想要再战的稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220001,
+      "status": "from_improved",
+      "cn": "请选择稀世强者",
+      "en": "Select extraordinary foe ",
+      "jp": "類稀な強者を選択してください",
+      "cn_improved": "请选择稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220002,
+      "status": "from_improved",
+      "cn": "请选择稀世强者",
+      "en": "Select extraordinary foe ",
+      "jp": "類稀な強者を選択してください",
+      "cn_improved": "请选择稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220003,
+      "status": "from_improved",
+      "cn": "请选择稀世强者",
+      "en": "Select extraordinary foe ",
+      "jp": "類稀な強者を選択してください",
+      "cn_improved": "请选择稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220004,
+      "status": "from_improved",
+      "cn": "请选择稀世强者",
+      "en": "Select extraordinary foe ",
+      "jp": "類稀な強者を選択してください",
+      "cn_improved": "请选择稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220005,
+      "status": "from_improved",
+      "cn": "请选择稀世强者",
+      "en": "Select extraordinary foe ",
+      "jp": "類稀な強者を選択してください",
+      "cn_improved": "请选择稀世强者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 225000,
+      "status": "from_improved",
+      "cn": "请选择想要改变的样貌",
+      "en": "Select Wolf's appearance",
+      "jp": "変更する狼の姿を選択してください",
+      "cn_improved": "请选择想要改变的样貌",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230000,
+      "status": "from_improved",
+      "cn": "请选择要购买的道具",
+      "en": "Select an item to purchase.",
+      "jp": "購入するアイテムを選択してください",
+      "cn_improved": "请选择要购买的道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232000,
+      "status": "from_improved",
+      "cn": "请选择要交换的道具",
+      "en": "Select an item to sell.",
+      "jp": "交換するアイテムを選択してください",
+      "cn_improved": "请选择要交换的道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240000,
+      "status": "from_improved",
+      "cn": "请选择要变卖的道具",
+      "en": "Select items to sell.",
+      "jp": "売却するアイテムを選択してください",
+      "cn_improved": "请选择要变卖的道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250000,
+      "status": "from_improved",
+      "cn": "请选择要装入的义手忍具",
+      "en": "Select a Prosthetic Tool to Craft.",
+      "jp": "仕込む義手忍具を選択してください",
+      "cn_improved": "请选择要装入的义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260000,
+      "status": "from_improved",
+      "cn": "请选择要制作的强化义手忍具",
+      "en": "Select a Prosthetic Tool to Upgrade.",
+      "jp": "作成する強化義手忍具を選択してください",
+      "cn_improved": "请选择要制作的强化义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270000,
+      "status": "from_improved",
+      "cn": "确认及习得技能",
+      "en": "Review and Acquire Skills.",
+      "jp": "スキルの確認と習得を行います",
+      "cn_improved": "确认及习得技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280005,
+      "status": "from_improved",
+      "cn": "请选择想要变更配置的动作",
+      "en": "Choose an Action to assign.",
+      "jp": "割り当てを変更したいアクションを選択してください",
+      "cn_improved": "请选择想要变更配置的动作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280010,
+      "status": "from_improved",
+      "cn": "请输入想要配置的按键",
+      "en": "Press the button you want to assign.",
+      "jp": "割り当てたいボタンを入力してください",
+      "cn_improved": "请输入想要配置的按键",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280011,
+      "status": "from_improved",
+      "cn": "请输入想要配置的按键",
+      "en": "Enter the key you want to assign.",
+      "jp": "割り当てたいキーを入力してください",
+      "cn_improved": "请输入想要配置的按键",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280100,
+      "status": "from_improved",
+      "cn": "移动中输入可进行缓慢移动",
+      "en": "Slow to a walk when already in motion.",
+      "jp": "移動中に入力することで、歩いて移動します",
+      "cn_improved": "移动中输入可进行缓慢移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280101,
+      "status": "from_improved",
+      "cn": "向前方移动",
+      "en": "Move forward.",
+      "jp": "前方向に移動します",
+      "cn_improved": "向前方移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280102,
+      "status": "from_improved",
+      "cn": "向后方移动",
+      "en": "Move backward.",
+      "jp": "後方向に移動します",
+      "cn_improved": "向后方移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280103,
+      "status": "from_improved",
+      "cn": "向左方移动",
+      "en": "Move left.",
+      "jp": "左方向に移動します",
+      "cn_improved": "向左方移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280104,
+      "status": "from_improved",
+      "cn": "向右方移动",
+      "en": "Move right.",
+      "jp": "右方向に移動します",
+      "cn_improved": "向右方移动",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280105,
+      "status": "from_improved",
+      "cn": "进行垫步。移动中长按可进行冲刺",
+      "en": "Perform Step Dodge.  Sprint by holding while moving.",
+      "jp": "ステップを行います。移動中に長押しする事でダッシュを行います",
+      "cn_improved": "进行垫步。移动中长按可进行冲刺",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280106,
+      "status": "from_improved",
+      "cn": "进行跳跃",
+      "en": "Jump.",
+      "jp": "ジャンプを行います",
+      "cn_improved": "进行跳跃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280107,
+      "status": "from_improved",
+      "cn": "进行站立与下蹲状态的切换",
+      "en": "Toggle between standing and crouching position.",
+      "jp": "立ち状態としゃがみ状態の切り替えを行います",
+      "cn_improved": "进行站立与下蹲状态的切换",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280200,
+      "status": "from_improved",
+      "cn": "向上方移动视角。固定目标时向上方切换目标",
+      "en": "Move camera up.  Switch target upwards during lock on.",
+      "jp": "カメラを上に移動します。ターゲット固定時には上方向にターゲットを切り替えます",
+      "cn_improved": "向上方移动视角。固定目标时向上方切换目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280201,
+      "status": "from_improved",
+      "cn": "向下方移动视角。固定目标时向下方切换目标",
+      "en": "Move camera down.  Switch target downwards during lock on.",
+      "jp": "カメラを下に移動します。ターゲット固定時には下方向にターゲットを切り替えます",
+      "cn_improved": "向下方移动视角。固定目标时向下方切换目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280202,
+      "status": "from_improved",
+      "cn": "向左方移动视角。固定目标时向左方切换目标",
+      "en": "Move camera left.  Switch target to the left during lock on.",
+      "jp": "カメラを左に移動します。ターゲット固定時には左方向にターゲットを切り替えます",
+      "cn_improved": "向左方移动视角。固定目标时向左方切换目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280203,
+      "status": "from_improved",
+      "cn": "向右方移动视角。固定目标时向右方切换目标",
+      "en": "Move camera right.  Switch target to the right during lock on.",
+      "jp": "カメラを右に移動します。ターゲット固定時には右方向にターゲットを切り替えます",
+      "cn_improved": "向右方移动视角。固定目标时向右方切换目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280204,
+      "status": "from_improved",
+      "cn": "重置视角位置。有目标对象时进行固定目标/解除固定目标",
+      "en": "Reset camera position.  Lock on/off if there is a locked on target.",
+      "jp": "カメラ位置をリセットします。ターゲット対象がいる場合はターゲット固定/ターゲット固定解除を行います",
+      "cn_improved": "重置视角位置。有目标对象时进行固定目标/解除固定目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280300,
+      "status": "from_improved",
+      "cn": "切换使用道具",
+      "en": "Toggle active consumable.",
+      "jp": "使用アイテムの切り替えを行います",
+      "cn_improved": "切换使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280301,
+      "status": "from_improved",
+      "cn": "切换使用道具（逆向）",
+      "en": "Toggle active consumable (reverse direction).",
+      "jp": "使用アイテムの切り替えを行います (逆送り)",
+      "cn_improved": "切换使用道具（逆向）",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280302,
+      "status": "from_improved",
+      "cn": "进行义手忍具的切换",
+      "en": "Cycle between Prosthetic Tools.",
+      "jp": "義手忍具の切り替えを行います",
+      "cn_improved": "进行义手忍具的切换",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280400,
+      "status": "from_improved",
+      "cn": "进行普通攻击",
+      "en": "Perform regular attack.",
+      "jp": "通常攻撃を行います",
+      "cn_improved": "进行普通攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280401,
+      "status": "from_improved",
+      "cn": "使用义手忍具",
+      "en": "Use Prosthetic Tool.",
+      "jp": "義手忍具を使用します",
+      "cn_improved": "使用义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280402,
+      "status": "from_improved",
+      "cn": "弹开，（长按）防御",
+      "en": "Deflect, (Hold) Guard.",
+      "jp": "弾き、(長押し) ガードを行います",
+      "cn_improved": "弹开，（长按）防御",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280403,
+      "status": "from_improved",
+      "cn": "使用钩绳",
+      "en": "Use Grappling Hook.",
+      "jp": "鉤縄を使用します",
+      "cn_improved": "使用钩绳",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280404,
+      "status": "from_improved",
+      "cn": "进行各种各样的动作，（长按）获取遗物",
+      "en": "Contextual action, (Hold) Collect Loot.",
+      "jp": "様々なアクション、(長押し)遺物取得を行います",
+      "cn_improved": "进行各种各样的动作，（长按）获取遗物",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280405,
+      "status": "from_improved",
+      "cn": "使用道具",
+      "en": "Use item.",
+      "jp": "アイテムを使用します",
+      "cn_improved": "使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280406,
+      "status": "from_improved",
+      "cn": "进行窃听",
+      "en": "Eavesdrop, Confirm Remnant",
+      "jp": "盗み聞き、残影の確認を行います",
+      "cn_improved": "进行窃听",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280500,
+      "status": "from_improved",
+      "cn": "显示暂停菜单",
+      "en": "Open Pause Menu.",
+      "jp": "ポーズメニューを表示します",
+      "cn_improved": "显示暂停菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280700,
+      "status": "from_improved",
+      "cn": "打开残影菜单，或是中止残影的记录",
+      "en": "Open Remnant menu, Stop recording",
+      "jp": "残影メニューを開く、もしくは残影記録の中断を行います",
+      "cn_improved": "打开残影菜单，或是中止残影的记录",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291000,
+      "status": "from_improved",
+      "cn": "编辑留言的内容",
+      "en": "Edit message",
+      "jp": "覚え書きを編集します",
+      "cn_improved": "编辑留言的内容",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291001,
+      "status": "from_improved",
+      "cn": "选择附加幻影的时间",
+      "en": "Select the timer for attached remnant",
+      "jp": "付与する幻影の時間を選択します",
+      "cn_improved": "选择附加幻影的时间",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291002,
+      "status": "from_improved",
+      "cn": "设定留言，并开始记录残影",
+      "en": "Remnant recording will begin",
+      "jp": "覚え書きを設定して、残影の記録を開始します",
+      "cn_improved": "设定留言，并开始记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291003,
+      "status": "from_improved",
+      "cn": "更新留言",
+      "en": "Update message",
+      "jp": "覚え書きを更新します",
+      "cn_improved": "更新留言",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291004,
+      "status": "from_improved",
+      "cn": "编辑留言的结构",
+      "en": "Choose message composition",
+      "jp": "覚え書きの構成を編集します",
+      "cn_improved": "编辑留言的结构",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291005,
+      "status": "from_improved",
+      "cn": "请选择单词的分类",
+      "en": "Select word category",
+      "jp": "単語のカテゴリを選択してください",
+      "cn_improved": "请选择单词的分类",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291006,
+      "status": "from_improved",
+      "cn": "请选择基础语句",
+      "en": "Select templates",
+      "jp": "ベース文を選択してください",
+      "cn_improved": "请选择基础语句",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291007,
+      "status": "from_improved",
+      "cn": "请选择单词",
+      "en": "Select words",
+      "jp": "単語を選択してください",
+      "cn_improved": "请选择单词",
+      "cn_resurrection": null
+    },
+    {
+      "id": 291008,
+      "status": "from_improved",
+      "cn": "请选择连接语",
+      "en": "Select conjunctions",
+      "jp": "接続詞を選択してください",
+      "cn_improved": "请选择连接语",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292000,
+      "status": "from_improved",
+      "cn": "记录残影",
+      "en": "Record Remnant",
+      "jp": "残影を記録します",
+      "cn_improved": "记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 292001,
+      "status": "from_improved",
+      "cn": "重新记录残影",
+      "en": "Overwrite",
+      "jp": "上書きして残影を記録します",
+      "cn_improved": "重新记录残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 294000,
+      "status": "from_improved",
+      "cn": "确认最近触碰的残影",
+      "en": "View recent Remnants you've touched",
+      "jp": "最近触れた残影を確認します",
+      "cn_improved": "确认最近触碰的残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406000,
+      "status": "from_improved",
+      "cn": "请选择要载入的游玩记录",
+      "en": "Select a Profile to load.",
+      "jp": "読み込むプロファイルを選択してください",
+      "cn_improved": "请选择要载入的游玩记录",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406001,
+      "status": "from_improved",
+      "cn": "请选择要删除的游玩记录",
+      "en": "Select a Profile to delete.",
+      "jp": "削除するプロファイルを選択してください",
+      "cn_improved": "请选择要删除的游玩记录",
+      "cn_resurrection": null
+    }
+  ]
+}

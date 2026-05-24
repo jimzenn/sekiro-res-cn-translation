@@ -1,0 +1,782 @@
+{
+  "fmg_id": 206,
+  "fmg_name": "ローディングタイトル",
+  "domain": "menu",
+  "count": 86,
+  "entries": [
+    {
+      "id": 50,
+      "status": "from_improved",
+      "cn": "锁定目标",
+      "en": "Lock On to target",
+      "jp": "ターゲット固定",
+      "cn_improved": "锁定目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 51,
+      "status": "from_improved",
+      "cn": "突刺攻击",
+      "en": "Thrust Attack",
+      "jp": "突き攻撃",
+      "cn_improved": "突刺攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 52,
+      "status": "from_improved",
+      "cn": "垫步",
+      "en": "Step Dodge",
+      "jp": "ステップ",
+      "cn_improved": "垫步",
+      "cn_resurrection": null
+    },
+    {
+      "id": 53,
+      "status": "from_improved",
+      "cn": "看破",
+      "en": "Mikiri Counter",
+      "jp": "見切り",
+      "cn_improved": "看破",
+      "cn_resurrection": null
+    },
+    {
+      "id": 54,
+      "status": "from_improved",
+      "cn": "使用道具",
+      "en": "Quick Items",
+      "jp": "使用アイテム",
+      "cn_improved": "使用道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 55,
+      "status": "from_improved",
+      "cn": "冲刺跳跃",
+      "en": "Sprint Jump",
+      "jp": "ダッシュジャンプ",
+      "cn_improved": "冲刺跳跃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 56,
+      "status": "from_improved",
+      "cn": "踩踏",
+      "en": "Jump-Kick Counter",
+      "jp": "踏みつけ",
+      "cn_improved": "踩踏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 57,
+      "status": "from_improved",
+      "cn": "崩势绕袭",
+      "en": "Vault Over",
+      "jp": "崩し裏回り",
+      "cn_improved": "崩势绕袭",
+      "cn_resurrection": null
+    },
+    {
+      "id": 58,
+      "status": "from_improved",
+      "cn": "窃听",
+      "en": "Eavesdrop",
+      "jp": "盗み聞き",
+      "cn_improved": "窃听",
+      "cn_resurrection": null
+    },
+    {
+      "id": 59,
+      "status": "from_improved",
+      "cn": "冲刺斩",
+      "en": "Sprint attack",
+      "jp": "ダッシュ斬り",
+      "cn_improved": "冲刺斩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 60,
+      "status": "from_improved",
+      "cn": "翻滚闪避",
+      "en": "Safety Roll",
+      "jp": "転がり回避",
+      "cn_improved": "翻滚闪避",
+      "cn_resurrection": null
+    },
+    {
+      "id": 61,
+      "status": "from_improved",
+      "cn": "雷电奉还",
+      "en": "Lightning Reversal",
+      "jp": "雷返し",
+      "cn_improved": "雷电奉还",
+      "cn_resurrection": null
+    },
+    {
+      "id": 70,
+      "status": "from_improved",
+      "cn": "取得遗物",
+      "en": "Acquiring Enemy Loot",
+      "jp": "遺物取得",
+      "cn_improved": "取得遗物",
+      "cn_resurrection": null
+    },
+    {
+      "id": 100,
+      "status": "from_improved",
+      "cn": "<?gdsparam@4400?>",
+      "en": "<?gdsparam@4400?>",
+      "jp": "<?gdsparam@4400?>",
+      "cn_improved": "<?gdsparam@4400?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101,
+      "status": "from_improved",
+      "cn": "体之力成长",
+      "en": "Enhancing Physical Attributes",
+      "jp": "身体力の成長",
+      "cn_improved": "体之力成长",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102,
+      "status": "from_improved",
+      "cn": "攻之力成长",
+      "en": "Enhancing Attack Power",
+      "jp": "攻め力の成長",
+      "cn_improved": "攻之力成长",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103,
+      "status": "from_improved",
+      "cn": "隐身效果",
+      "en": "Stealth Effect",
+      "jp": "隠密効果",
+      "cn_improved": "隐身效果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104,
+      "status": "from_improved",
+      "cn": "ＨＰ与体干",
+      "en": "Vitality and Posture",
+      "jp": "ＨＰと体幹",
+      "cn_improved": "ＨＰ与体干",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105,
+      "status": "from_improved",
+      "cn": "炎上",
+      "en": "Burn",
+      "jp": "炎上",
+      "cn_improved": "炎上",
+      "cn_resurrection": null
+    },
+    {
+      "id": 106,
+      "status": "from_improved",
+      "cn": "警戒标记",
+      "en": "Alert Indicators",
+      "jp": "警戒表示",
+      "cn_improved": "警戒标记",
+      "cn_resurrection": null
+    },
+    {
+      "id": 107,
+      "status": "from_improved",
+      "cn": "鬼佛",
+      "en": "Sculptor's Idol",
+      "jp": "鬼仏",
+      "cn_improved": "鬼佛",
+      "cn_resurrection": null
+    },
+    {
+      "id": 108,
+      "status": "from_improved",
+      "cn": "夜目",
+      "en": "<?gdsparam@2390?>",
+      "jp": "夜目",
+      "cn_improved": "夜目",
+      "cn_resurrection": null
+    },
+    {
+      "id": 109,
+      "status": "from_improved",
+      "cn": "回生之力",
+      "en": "Resurrective Power",
+      "jp": "回生の力",
+      "cn_improved": "回生之力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110,
+      "status": "from_improved",
+      "cn": "中毒",
+      "en": "Poison",
+      "jp": "中毒",
+      "cn_improved": "中毒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111,
+      "status": "from_improved",
+      "cn": "怖气",
+      "en": "Terror",
+      "jp": "怖気",
+      "cn_improved": "怖气",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112,
+      "status": "from_improved",
+      "cn": "打雷",
+      "en": "Shock",
+      "jp": "打雷",
+      "cn_improved": "打雷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 113,
+      "status": "from_improved",
+      "cn": "技能习得",
+      "en": "Acquiring Skills",
+      "jp": "スキル習得",
+      "cn_improved": "技能习得",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114,
+      "status": "from_improved",
+      "cn": "忍技",
+      "en": "Shinobi Style",
+      "jp": "忍び技",
+      "cn_improved": "忍技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 115,
+      "status": "from_improved",
+      "cn": "忍者义手流",
+      "en": "Prosthetic Style",
+      "jp": "忍び義手流",
+      "cn_improved": "忍者义手流",
+      "cn_resurrection": null
+    },
+    {
+      "id": 116,
+      "status": "from_improved",
+      "cn": "苇名流",
+      "en": "Ashina Style",
+      "jp": "葦名流",
+      "cn_improved": "苇名流",
+      "cn_resurrection": null
+    },
+    {
+      "id": 117,
+      "status": "from_improved",
+      "cn": "仙峯寺拳法",
+      "en": "Senpou Temple Combat Style",
+      "jp": "仙峯寺拳法",
+      "cn_improved": "仙峯寺拳法",
+      "cn_resurrection": null
+    },
+    {
+      "id": 118,
+      "status": "from_improved",
+      "cn": "强化义手忍具的制作",
+      "en": "Creating Upgraded Prosthetic Tools",
+      "jp": "強化義手忍具の作成",
+      "cn_improved": "强化义手忍具的制作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 119,
+      "status": "from_improved",
+      "cn": "鬼佛储备",
+      "en": "Sculptor's Idol Storage",
+      "jp": "鬼仏の蓄え",
+      "cn_improved": "鬼佛储备",
+      "cn_resurrection": null
+    },
+    {
+      "id": 120,
+      "status": "from_improved",
+      "cn": "逢魔之刻",
+      "en": "Twilight",
+      "jp": "逢魔が刻",
+      "cn_improved": "逢魔之刻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 121,
+      "status": "from_improved",
+      "cn": "<?gdsparam@1000?>",
+      "en": "<?gdsparam@1000?>",
+      "jp": "<?gdsparam@1000?>",
+      "cn_improved": "<?gdsparam@1000?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 122,
+      "status": "from_improved",
+      "cn": "爬地壁虎",
+      "en": "Crawling Gecko",
+      "jp": "地を這うヤモリ",
+      "cn_improved": "爬地壁虎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 123,
+      "status": "from_improved",
+      "cn": "终结忍杀",
+      "en": "Finisher Deathblow",
+      "jp": "とどめ忍殺",
+      "cn_improved": "终结忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 124,
+      "status": "from_improved",
+      "cn": "再次发动回生",
+      "en": "Repeated Resurrection",
+      "jp": "回生の再発動",
+      "cn_improved": "再次发动回生",
+      "cn_resurrection": null
+    },
+    {
+      "id": 125,
+      "status": "from_improved",
+      "cn": "冥助概率",
+      "en": "Unseen Aid Chance",
+      "jp": "冥助確率",
+      "cn_improved": "冥助概率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 126,
+      "status": "from_improved",
+      "cn": "咳声",
+      "en": "Rot Essence",
+      "jp": "咳の音",
+      "cn_improved": "咳声",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127,
+      "status": "from_improved",
+      "cn": "<?gdsparam@5600?>",
+      "en": "Dragon's Blood Droplet",
+      "jp": "<?gdsparam@5600?>",
+      "cn_improved": "<?gdsparam@5600?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 128,
+      "status": "from_improved",
+      "cn": "龙咳",
+      "en": "Dragonrot",
+      "jp": "竜咳",
+      "cn_improved": "龙咳",
+      "cn_resurrection": null
+    },
+    {
+      "id": 129,
+      "status": "from_improved",
+      "cn": "消耗形代的流派技",
+      "en": "Combat Arts that cost Spirit Emblems ",
+      "jp": "形代を消費する流派技 ",
+      "cn_improved": "消耗形代的流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130,
+      "status": "from_improved",
+      "cn": "敌方突刺攻击",
+      "en": "Enemy Thrust Attacks",
+      "jp": "敵の突き攻撃",
+      "cn_improved": "敌方突刺攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 131,
+      "status": "from_improved",
+      "cn": "敌方下段攻击",
+      "en": "Enemy Sweep Attacks",
+      "jp": "敵の下段攻撃",
+      "cn_improved": "敌方下段攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 132,
+      "status": "from_improved",
+      "cn": "敌方擒拿攻击",
+      "en": "Enemy Grab Attacks",
+      "jp": "敵の掴み攻撃",
+      "cn_improved": "敌方擒拿攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 133,
+      "status": "from_improved",
+      "cn": "连续弹开",
+      "en": "Consecutive Deflections",
+      "jp": "連続弾き",
+      "cn_improved": "连续弹开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 134,
+      "status": "from_improved",
+      "cn": "修练",
+      "en": "Training",
+      "jp": "修練",
+      "cn_improved": "修练",
+      "cn_resurrection": null
+    },
+    {
+      "id": 135,
+      "status": "from_improved",
+      "cn": "模拟战",
+      "en": "Free Combat",
+      "jp": "模擬戦",
+      "cn_improved": "模拟战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 136,
+      "status": "from_improved",
+      "cn": "强化义手忍具",
+      "en": "Upgraded Prosthetic Tools",
+      "jp": "強化義手忍具",
+      "cn_improved": "强化义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 150,
+      "status": "from_improved",
+      "cn": "体干与忍杀",
+      "en": "Posture and Deathblows",
+      "jp": "体幹と忍殺",
+      "cn_improved": "体干与忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 151,
+      "status": "from_improved",
+      "cn": "弹开",
+      "en": "Deflect",
+      "jp": "弾き",
+      "cn_improved": "弹开",
+      "cn_resurrection": null
+    },
+    {
+      "id": 152,
+      "status": "from_improved",
+      "cn": "反斩攻击",
+      "en": "Counter-slash Attack",
+      "jp": "斬り返し攻撃",
+      "cn_improved": "反斩攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 153,
+      "status": "from_improved",
+      "cn": "伤药葫芦",
+      "en": "Healing Gourd",
+      "jp": "傷薬瓢箪",
+      "cn_improved": "伤药葫芦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 154,
+      "status": "from_improved",
+      "cn": "悬垂忍杀",
+      "en": "Ledge Hang Deathblow",
+      "jp": "ぶら下がり忍殺",
+      "cn_improved": "悬垂忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 155,
+      "status": "from_improved",
+      "cn": "贴墙忍杀",
+      "en": "Wall Hug Deathblow",
+      "jp": "壁張り付き忍殺",
+      "cn_improved": "贴墙忍杀",
+      "cn_resurrection": null
+    },
+    {
+      "id": 156,
+      "status": "from_improved",
+      "cn": "义手忍具的灵活运用",
+      "en": "Using Prosthetic Tools",
+      "jp": "義手忍具の使い分け",
+      "cn_improved": "义手忍具的灵活运用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 157,
+      "status": "from_improved",
+      "cn": "红眼赤目",
+      "en": "Red Eyes",
+      "jp": "赤目",
+      "cn_improved": "红眼赤目",
+      "cn_resurrection": null
+    },
+    {
+      "id": 158,
+      "status": "from_improved",
+      "cn": "远处的钩绳目标",
+      "en": "Distant Grappling Hook Targets",
+      "jp": "遠くの鉤縄ターゲット",
+      "cn_improved": "远处的钩绳目标",
+      "cn_resurrection": null
+    },
+    {
+      "id": 159,
+      "status": "from_improved",
+      "cn": "野兽",
+      "en": "Beasts",
+      "jp": "獣",
+      "cn_improved": "野兽",
+      "cn_resurrection": null
+    },
+    {
+      "id": 160,
+      "status": "from_improved",
+      "cn": "破坏木盾",
+      "en": "Breaking Wooden Shields",
+      "jp": "木盾の破壊",
+      "cn_improved": "破坏木盾",
+      "cn_resurrection": null
+    },
+    {
+      "id": 161,
+      "status": "from_improved",
+      "cn": "剥甲",
+      "en": "Stripping Armor",
+      "jp": "鎧剥ぎ",
+      "cn_improved": "剥甲",
+      "cn_resurrection": null
+    },
+    {
+      "id": 162,
+      "status": "from_improved",
+      "cn": "防御时体干的恢复速度",
+      "en": "Posture Recovery Speed when Guarding",
+      "jp": "ガード中の体幹回復速度",
+      "cn_improved": "防御时体干的恢复速度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 163,
+      "status": "from_improved",
+      "cn": "青锈之毒",
+      "en": "Blue Rust Poison",
+      "jp": "青錆の毒",
+      "cn_improved": "青锈之毒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 164,
+      "status": "from_improved",
+      "cn": "手里剑",
+      "en": "Shuriken",
+      "jp": "手裏剣",
+      "cn_improved": "手里剑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 165,
+      "status": "from_improved",
+      "cn": "降灵糖",
+      "en": "Spiritfall Candy",
+      "jp": "御霊降ろしの飴",
+      "cn_improved": "降灵糖",
+      "cn_resurrection": null
+    },
+    {
+      "id": 166,
+      "status": "from_improved",
+      "cn": "流派技",
+      "en": "Combat Arts",
+      "jp": "流派技",
+      "cn_improved": "流派技",
+      "cn_resurrection": null
+    },
+    {
+      "id": 167,
+      "status": "from_improved",
+      "cn": "技能分类",
+      "en": "Skill Types",
+      "jp": "スキルの分類",
+      "cn_improved": "技能分类",
+      "cn_resurrection": null
+    },
+    {
+      "id": 168,
+      "status": "from_improved",
+      "cn": "弹反时机",
+      "en": "Deflect Timing",
+      "jp": "弾きは刹那",
+      "cn_improved": "弹反时机",
+      "cn_resurrection": null
+    },
+    {
+      "id": 169,
+      "status": "from_improved",
+      "cn": "居于毒地者",
+      "en": "Those who live in Poisonous Areas",
+      "jp": "毒地で暮らすもの",
+      "cn_improved": "居于毒地者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 170,
+      "status": "from_improved",
+      "cn": "射击武器的对策",
+      "en": "Countering Enemy Projectiles",
+      "jp": "飛び道具への対処",
+      "cn_improved": "射击武器的对策",
+      "cn_resurrection": null
+    },
+    {
+      "id": 171,
+      "status": "from_improved",
+      "cn": "敌方体干恢复",
+      "en": "Enemy Posture Recovery",
+      "jp": "敵の体幹回復",
+      "cn_improved": "敌方体干恢复",
+      "cn_resurrection": null
+    },
+    {
+      "id": 172,
+      "status": "from_improved",
+      "cn": "派生攻击",
+      "en": "Prosthetic Follow-up Attacks",
+      "jp": "派生攻撃",
+      "cn_improved": "派生攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 173,
+      "status": "from_improved",
+      "cn": "派生攻击·追斩",
+      "en": "Prosthetic Follow-up Attack - Chasing Slice",
+      "jp": "派生攻撃・追い斬り",
+      "cn_improved": "派生攻击·追斩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 300,
+      "status": "from_improved",
+      "cn": "供养众",
+      "en": "Memorial Mob",
+      "jp": "供養衆",
+      "cn_improved": "供养众",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301,
+      "status": "from_improved",
+      "cn": "<?npcName@931012?>",
+      "en": "<?npcName@931012?>",
+      "jp": "<?npcName@931012?>",
+      "cn_improved": "<?npcName@931012?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302,
+      "status": "from_improved",
+      "cn": "宝鲤",
+      "en": "Treasure Carp",
+      "jp": "宝鯉",
+      "cn_improved": "宝鲤",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303,
+      "status": "from_improved",
+      "cn": "佛师",
+      "en": "Sculptor",
+      "jp": "仏師",
+      "cn_improved": "佛师",
+      "cn_resurrection": null
+    },
+    {
+      "id": 304,
+      "status": "from_improved",
+      "cn": "传书",
+      "en": "Esoteric Texts",
+      "jp": "伝書",
+      "cn_improved": "传书",
+      "cn_resurrection": null
+    },
+    {
+      "id": 306,
+      "status": "from_improved",
+      "cn": "锋锐的攻击",
+      "en": "Piercing Attack",
+      "jp": "鋭利な攻撃",
+      "cn_improved": "锋锐的攻击",
+      "cn_resurrection": null
+    },
+    {
+      "id": 307,
+      "status": "from_improved",
+      "cn": "跳至使用道具的第一栏",
+      "en": "Assigning Quick items to first item slot",
+      "jp": "使用アイテムの先頭スロットへのジャンプ",
+      "cn_improved": "跳至使用道具的第一栏",
+      "cn_resurrection": null
+    },
+    {
+      "id": 311,
+      "status": "from_improved",
+      "cn": "残影",
+      "en": "Remnant",
+      "jp": "残影",
+      "cn_improved": "残影",
+      "cn_resurrection": null
+    },
+    {
+      "id": 312,
+      "status": "from_improved",
+      "cn": "与稀世强者再战",
+      "en": "Reflection of Strength",
+      "jp": "類稀な強者との再戦",
+      "cn_improved": "与稀世强者再战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 313,
+      "status": "from_improved",
+      "cn": "与稀世强者连战",
+      "en": "Gauntlet of Strength",
+      "jp": "類稀な強者との連戦",
+      "cn_improved": "与稀世强者连战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 315,
+      "status": "from_improved",
+      "cn": "彼之记忆",
+      "en": "Memories of Another",
+      "jp": "別の記憶",
+      "cn_improved": "彼之记忆",
+      "cn_resurrection": null
+    },
+    {
+      "id": 316,
+      "status": "from_improved",
+      "cn": "跳跃中攀附崖边的技巧",
+      "en": "Mid-air Ledge Grab",
+      "jp": "ジャンプぶら下がりのコツ",
+      "cn_improved": "跳跃中攀附崖边的技巧",
+      "cn_resurrection": null
+    }
+  ]
+}

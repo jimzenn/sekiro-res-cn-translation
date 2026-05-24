@@ -1,0 +1,1583 @@
+{
+  "fmg_id": 25,
+  "fmg_name": "武器うんちく",
+  "domain": "item",
+  "count": 175,
+  "entries": [
+    {
+      "id": 5000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 5100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：旋风斩\n回旋，同时斩击周遭",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Whirlwind Slash\nA Combat Art executed by spinning the entire body while attacking.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:旋風斬り\n回転しながら、周囲を斬りつける",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：旋风斩\n回旋，同时斩击周遭",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:旋风斩\n一边旋转一边斩向四周"
+    },
+    {
+      "id": 5200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash\nLeap in with a spin and slash at the enemy.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鷹斬り\n回転して飛び込みつつ、斬りつける",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鹰斩\n旋身跃进的同时进行劈斩"
+    },
+    {
+      "id": 5201,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash\nLeap in with a spin and slash away at the\nenemy.\n\nWhile locked-on, hold <?kgiconKc@2?> \nin the opposite direction of the enemy, then \n<?kgiconKc@18?>+<?kgiconKc@16?>: Reversal \nSlash at the target, then somersault away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鷹斬り\n回転して飛び込みつつ、斬りつける\n\nターゲット固定中、\n<?kgiconKc@2?>を背後方向に入力し<?kgiconKc@18?>+<?kgiconKc@16?>:逆さ回し\n斬りつけて、宙返りして下がる",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鹰斩\n旋身跃进的同时进行劈斩\n\n固定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>:反向回旋\n斩击后，空翻后退"
+    },
+    {
+      "id": 5300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji\nPerform a heavy overhead strike.\nRecovers Posture when stepping in.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji\nGather strength and release a full-powered overhead strike.\nRecovers Posture when stepping in.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:一文字\n上段からの重い面打ち\n踏み込み時に、体幹を回復する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:専心一文字\n専心し繰り出す、上段からの渾身の面打ち\n踏み込み時に、体幹を回復する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:一字斩\n来自上段的沉重击面\n垫步时可恢复躯干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一字斩\n集中精力使出从上段竭尽全力的击面\n垫步时可恢复躯干"
+    },
+    {
+      "id": 5301,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji\nPerform a heavy overhead strike.\nRecovers Posture when stepping in.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji\nGather strength and release a full-powered overhead strike.\nRecovers Posture when stepping in.\n\n<?kgiconKc@16?> after Ichimonji or Honed Ichimonji: \nFollow-up Ichimonji\nPerform a second overhead strike to cut down counterattacks.  \nRestores Posture when stepping in.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:一文字\n上段からの重い面打ち\n踏み込み時に、体幹を回復する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:専心一文字\n専心し繰り出す、上段からの渾身の面打ち\n踏み込み時に、体幹を回復する\n\n一文字 or 専心一文字後に<?kgiconKc@16?>:追い一文字\n反撃を打ち落とす、二撃目の面打ち\n踏み込み時に、体幹を回復する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:一字斩\n来自上段的沉重击面\n垫步时可恢复躯干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一字斩\n集中精力使出从上段竭尽全力的击面\n垫步时可恢复躯干\n\n一字斩 or 专心一字斩后按<?kgiconKc@16?>:追击一字斩\n打落反击的第二次击面\n垫步时可恢复躯干"
+    },
+    {
+      "id": 5400,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：拔刀纵斩\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n继而有冲击波贴地而出\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Quick Draw\nDraw your sword from its sheath to slice at high speed.  Costs Spirit Emblems to use.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Dragon Flash\nDraw your sword from its sheath to slice at high speed.\nConsume Spirit Emblems to unleash a shockwave together with the slash.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:抜刀斬り下ろし\n刃を抜き放ち、高速で斬り下ろす\n斬り下ろしには、真空波が伴う\n形代を消費して、使用する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:竜閃\n刃を抜き放ち、高速で斬り下ろす\n斬り下ろしには、真空波が伴い、\nその後、地を這う衝撃波が飛ぶ\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：拔刀纵斩\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n继而有冲击波贴地而出\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:拔刀纵斩\n拔出刀刃，快速斩下\n纵斩将伴有真空波\n消耗纸人便可以使用\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔出刀刃，快速斩下\n纵斩将伴有真空波\n然后飞出贴地冲击波\n消耗纸人便可以使用"
+    },
+    {
+      "id": 5500,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十文字\n拔刀并快速劈出十文字\n消耗形代以发动",
+      "en": "Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance\nEnter the sheathed battle stance.\n\nRelease <?kgiconKc@18?>: Cancel Sheathed Stance\nLeave sheathed battle stance.\n\nRelease <?kgiconKc@16?>: Ashina Cross\nDraw your sword from its sheath and slice in a cross pattern at high speed.  Costs Spirit Emblems.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>長押し:居合い構え開始\n刃を鞘に納め、居合いの構えを取る\n\n<?kgiconKc@18?>解除:居合い構え中断\n居合いの構えをやめる\n\n<?kgiconKc@16?>解除:抜刀十文字\n抜刀し、高速で十文字に切り裂く\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十文字\n拔刀并快速劈出十文字\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n收刀入鞘，采取居合的架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十字斩\n拔刀并快速劈出十字斩\n消耗纸人便可以使用"
+    },
+    {
+      "id": 5600,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：浮舟渡\n打出英姿如舞之五连击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Floating Passage\nDeliver five dancing, consecutive attacks.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:浮き舟渡り\n舞うように五連撃を繰り出す",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：浮舟渡\n打出英姿如舞之五连击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:飞渡浮舟\n翩翩起舞般使出五连击"
+    },
+    {
+      "id": 5601,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Spiral Cloud Passage\nDeliver nine dancing, consecutive attacks.  \nThese attacks emit powerful shockwaves.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:渦雲渡り\n舞うように九連撃を繰り出し、\n周囲に真空波を巻き起こす\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:飞渡漩涡云\n翩翩起舞般使出九连击\n并向四周掀起真空波\n消耗纸人便可以使用"
+    },
+    {
+      "id": 5700,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw\nDraw the Mortal Blade and cut through enemies with an extended-range sword attack.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斬り\n不死斬りを抜き、長射程の刃で敵をなぎ払う\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斩\n拔刀不死斩，以长射程利刃横扫敌人\n消耗纸人便可以使用"
+    },
+    {
+      "id": 5701,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw\nDraw the Mortal Blade and cut through enemies with an extended-range sword attack.\nCosts Spirit Emblems to use.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Empowered Mortal Draw\nFocus and cut through enemies with an extended-range, even more powerful sword attack.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斬り\n不死斬りを抜き、長射程の刃で敵をなぎ払う\n形代を消費して、使用する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し→<?kgiconKc@16?>長押し:溜め不死斬り\n念を込め、\nさらに威力が高く、射程の長い斬撃を繰り出す\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斩\n拔刀不死斩，以长射程利刃横扫敌人\n消耗纸人便可以使用\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n倾注意念\n发动威力更大、射程更长的斩击\n消耗纸人便可以使用"
+    },
+    {
+      "id": 5800,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks\nKick repeatedly after leaping.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峯脚\n飛び込みからの、連続蹴り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峰脚\n飞身跃进后连续踢击"
+    },
+    {
+      "id": 5801,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks\nKick repeatedly after leaping.\n\n<?kgiconKc@16?> after Senpou Leaping Kicks →<?kgiconKc@16?>: High Monk\nPerform several sword attacks and finish with a jumping forward kick.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峯脚\n飛び込みからの、連続蹴り\n\n仙峯脚後に<?kgiconKc@16?>→<?kgiconKc@16?>:菩薩脚\n連続の斬撃からの、前方への蹴り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峰脚\n飞身跳跃的同时连续踢击\n\n在仙峰脚后按<?kgiconKc@16?>→<?kgiconKc@16?>:菩萨脚\n连续斩击后向前方踢击"
+    },
+    {
+      "id": 5900,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes\nRepeated palm strikes following elbow strikes.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:拝み連拳\n肘打ちから、掌底の連撃",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:叩拜连击拳\n肘击后进行掌根连击"
+    },
+    {
+      "id": 5901,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes\nRepeated palm strikes following elbow strikes.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>, or after Praying Strikes <?kgiconKc@16?>: \nExorcism\nHurl your body into an enemy, knocking them away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:拝み連拳\n肘打ちから、掌底の連撃\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し or 拝み連拳後に<?kgiconKc@16?>:破魔の背撃\n背中からの重い体当たり",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:叩拜连击拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 叩拜连击拳后按<?kgiconKc@16?>:破魔背击\n从背后的猛力冲撞"
+    },
+    {
+      "id": 6000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush\nPerform a long-range rushing thrust attack.\nUpon connecting with an enemy Wolf will jump off of them, leaping in the air.\nLeaping in the air costs Spirit Emblems.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Perform a Shadowrush attack with extended range.\nLeaping in the air costs Spirit Emblems.\n",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:大忍び刺し\n遠距離から届く突き攻撃\n突き刺したあと、敵を踏み台に飛びあがる\n飛びあがるときに、形代を消費する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:溜め大忍び刺し\n突きの射程が伸びた、大忍び刺し\n飛びあがるときに、形代を消費する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:巨型忍者突刺\n由远距离发动的突刺攻击\n突刺后，将敌人当作垫脚石高高跃起\n飞身跃起时将消耗纸人\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力巨型忍者突刺\n突刺射程变长的巨型忍者突刺\n飞身跃起时将消耗纸人"
+    },
+    {
+      "id": 6001,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush\nPerform a long-range rushing thrust attack.\nUpon connecting with an enemy Wolf will jump off of them, leaping in the air.\nLeaping in the air costs Spirit Emblems.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Charged Shadowrush\nSpend Spirit Emblems to perform a Shadowrush attack with extended range.\n\n<?kgiconKc@16?> after leaping: Shadowfall\nPerform a spinning slice while falling to the ground.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:大忍び刺し\n遠距離から届く突き攻撃\n突き刺したあと、敵を踏み台に飛びあがる\n飛びあがるときに、形代を消費する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:溜め大忍び刺し\n突きの射程が伸びた、大忍び刺し\n飛びあがるときに、形代を消費する\n\n飛びあがり後に<?kgiconKc@16?>:大忍び落とし\n降下しながらの回転斬り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:巨型忍者突刺\n由远距离发动的突刺攻击\n突刺后，将敌人当作垫脚石高高跃起\n飞身跃起时将消耗纸人\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力巨型忍者突刺\n突刺射程加长的巨型忍者突刺\n飞身跃起时将消耗纸人\n\n飞身跃起后按<?kgiconKc@16?>:巨型忍者落杀\n下落的同时发动回旋斩"
+    },
+    {
+      "id": 6100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀，以无影之神速斩进\n消耗形代以发动\n\n一心之后按<?kgiconKc@16?>：居合追击\n前踏，出居合之追击",
+      "en": "Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance\nAssume the sheathed battle stance.\n\nRelease <?kgiconKc@18?>: Cancel Sheathed Stance\nLeave the sheathed battle stance.\n\nRelease <?kgiconKc@16?>: One Mind\nSpend Spirit Emblems to strike once, then perform a flurry of attacks at a speed so fast it cannot be seen by the human eye.\n\n<?kgiconKc@16?> After One Mind: Follow-up attack\nStep forward and perform a follow-up attack.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>長押し:居合い構え開始\n刃を鞘に納め、居合いの構えを取る\n\n<?kgiconKc@18?>解除:居合い構え中断\n居合いの構えをやめる\n\n<?kgiconKc@16?>解除:一心\n抜刀し、見えぬほどの速さで敵を斬り刻む\n形代を消費して、使用する\n\n一心の後に<?kgiconKc@16?>:居合追撃\n前方に踏み込む居合いの追撃",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀，以无影之神速斩进\n消耗形代以发动\n\n一心之后按<?kgiconKc@16?>：居合追击\n前踏，出居合之追击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n收刀入鞘，采取居合的架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀以快到无形的速度斩削敌人\n消耗纸人便可以使用\n\n一心之后按<?kgiconKc@16?>:居合追击\n向前方垫步的居合斩追击"
+    },
+    {
+      "id": 7000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash\nLeap in with a spin and slash away at the\nenemy.\n\nWhile locked-on, hold <?kgiconKc@2?> \nin the opposite direction of the enemy, then \n<?kgiconKc@18?>+<?kgiconKc@16?>: Reversal \nSlash at the target, then somersault away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鷹斬り\n回転して飛び込みつつ、斬りつける\n\nターゲット固定中、\n<?kgiconKc@2?>を背後方向に入力し<?kgiconKc@18?>+<?kgiconKc@16?>:逆さ回し\n斬りつけて、宙返りして下がる",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鹰斩\n旋身跃进的同时进行劈斩\n\n固定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>:反向回旋\n斩击后，空翻后退"
+    },
+    {
+      "id": 7100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji\nPerform a heavy overhead strike.\nRecovers Posture when stepping in.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji\nGather strength and release a full-powered overhead strike.\nRecovers Posture when stepping in.\n\n<?kgiconKc@16?> after Ichimonji or Honed Ichimonji: \nFollow-up Ichimonji\nPerform a second overhead strike to cut down counterattacks.  \nRestores Posture when stepping in.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:一文字\n上段からの重い面打ち\n踏み込み時に、体幹を回復する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:専心一文字\n専心し繰り出す、上段からの渾身の面打ち\n踏み込み時に、体幹を回復する\n\n一文字 or 専心一文字後に<?kgiconKc@16?>:追い一文字\n反撃を打ち落とす、二撃目の面打ち\n踏み込み時に、体幹を回復する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:一字斩\n来自上段的沉重击面\n垫步时可恢复躯干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一字斩\n集中精力使出从上段竭尽全力的击面\n垫步时可恢复躯干\n\n一字斩 or 专心一字斩后按<?kgiconKc@16?>:追击一字斩\n打落反击的第二次击面\n垫步时可恢复躯干"
+    },
+    {
+      "id": 7200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Spiral Cloud Passage\nDeliver nine dancing, consecutive attacks.  \nThese attacks emit powerful shockwaves.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:渦雲渡り\n舞うように九連撃を繰り出し、\n周囲に真空波を巻き起こす\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:飞渡漩涡云\n翩翩起舞般使出九连击\n并向四周掀起真空波\n消耗纸人便可以使用"
+    },
+    {
+      "id": 7300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw\nDraw the Mortal Blade and cut through enemies with an extended-range sword attack.\nCosts Spirit Emblems to use.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Empowered Mortal Draw\nFocus and cut through enemies with an extended-range, even more powerful sword attack.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斬り\n不死斬りを抜き、長射程の刃で敵をなぎ払う\n形代を消費して、使用する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し→<?kgiconKc@16?>長押し:溜め不死斬り\n念を込め、\nさらに威力が高く、射程の長い斬撃を繰り出す\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斩\n拔刀不死斩，以长射程利刃横扫敌人\n消耗纸人便可以使用\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n倾注意念\n发动威力更大、射程更长的斩击\n消耗纸人便可以使用"
+    },
+    {
+      "id": 7400,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks\nKick repeatedly after leaping.\n\n<?kgiconKc@16?> after Senpou Leaping Kicks →<?kgiconKc@16?>: High Monk\nPerform several sword attacks and finish with a jumping forward kick.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峯脚\n飛び込みからの、連続蹴り\n\n仙峯脚後に<?kgiconKc@16?>→<?kgiconKc@16?>:菩薩脚\n連続の斬撃からの、前方への蹴り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峰脚\n飞身跳跃的同时连续踢击\n\n在仙峰脚后按<?kgiconKc@16?>→<?kgiconKc@16?>:菩萨脚\n连续斩击后向前方踢击"
+    },
+    {
+      "id": 7500,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes\nRepeated palm strikes following elbow strikes.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>, or after Praying Strikes <?kgiconKc@16?>: \nExorcism\nHurl your body into an enemy, knocking them away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:拝み連拳\n肘打ちから、掌底の連撃\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し or 拝み連拳後に<?kgiconKc@16?>:破魔の背撃\n背中からの重い体当たり",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:叩拜连击拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 叩拜连击拳后按<?kgiconKc@16?>:破魔背击\n从背后的猛力冲撞"
+    },
+    {
+      "id": 7600,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush\nPerform a long-range rushing thrust attack.\nUpon connecting with an enemy Wolf will jump off of them, leaping in the air.\nLeaping in the air costs Spirit Emblems.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Charged Shadowrush\nSpend Spirit Emblems to perform a Shadowrush attack with extended range.\n\n<?kgiconKc@16?> after leaping: Shadowfall\nPerform a spinning slice while falling to the ground.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:大忍び刺し\n遠距離から届く突き攻撃\n突き刺したあと、敵を踏み台に飛びあがる\n飛びあがるときに、形代を消費する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:溜め大忍び刺し\n突きの射程が伸びた、大忍び刺し\n飛びあがるときに、形代を消費する\n\n飛びあがり後に<?kgiconKc@16?>:大忍び落とし\n降下しながらの回転斬り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:巨型忍者突刺\n由远距离发动的突刺攻击\n突刺后，将敌人当作垫脚石高高跃起\n飞身跃起时将消耗纸人\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力巨型忍者突刺\n突刺射程加长的巨型忍者突刺\n飞身跃起时将消耗纸人\n\n飞身跃起后按<?kgiconKc@16?>:巨型忍者落杀\n下落的同时发动回旋斩"
+    },
+    {
+      "id": 7700,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Sakura Dance\nSpin to build momentum into a sequence of three leaping dance-like slashes.  Evade sweep attacks while delivering sharp cuts, dealing damage even through an enemy's guard.\n\nMid-air prosthetic attacks are possible after the attack has been performed.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘伝・桜舞い\n回転の勢いで舞うように跳び、三度斬りつける\n敵の下段攻撃を回避しつつ、鋭い斬撃で、\nガードの上からでもダメージを与える\n\n攻撃後は、空中での攻防に繋げることもできる\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘传·樱舞\n以旋转之势舞动般跳跃、挥斩三次\n在闪避敌方下段攻击的同时，发动凌厉的斩击\n即使敌人有所防御也能对其造成伤害\n\n攻击后亦能在空中进行攻防\n消耗纸人便可以使用"
+    },
+    {
+      "id": 70000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑",
+      "en": "<?kgiconKc@17?>:Shuriken Throw\nAttack by throwing a shuriken.",
+      "jp": "<?kgiconKc@17?>:手裏剣打ち\n手裏剣を投げ打つ",
+      "cn_improved": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑",
+      "cn_resurrection": "<?kgiconKc@17?>:手里剑攻击\n投掷手里剑"
+    },
+    {
+      "id": 70100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>:Shuriken Throw\nAttack by throwing a shuriken.\n\n<?kgiconKc@17?>Hold: Spinning Shuriken Throw\nCharge the rotational power of the shuriken before throwing.  Hits the enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:手裏剣打ち\n手裏剣を投げ打つ\n\n<?kgiconKc@17?>長押し:回転打ち\n手裏剣に回転の力を溜め、投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:旋转攻击\n给手里剑蓄积旋转的力道再掷出\n可连续击中敌人"
+    },
+    {
+      "id": 70200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：手里剑攻击\n掷出磨砺之锋锐手里剑\n贯敌而出，其势不竭\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>: Shuriken Throw\nAttack by throwing a sharp-edged shuriken.\nIt has a penetrating effect that damages Vitality and Posture even when guarded.\n\nHold <?kgiconKc@17?>: Spinning Shuriken Throw\nCharges the rotational power of the shuriken before throwing.  Hits the enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:手裏剣打ち\n鋭利な刃の手裏剣を、投げ打つ\n貫通効果も持ち\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>長押し:回転打ち\n手裏剣に回転の力を溜め、投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：手里剑攻击\n掷出磨砺之锋锐手里剑\n贯敌而出，其势不竭\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:手里剑攻击\n投掷具有利刃的手里剑\n具有穿透效果\n即使敌人有所防御，也能削减其ＨＰ和躯干\n\n<?kgiconKc@17?>长按:旋转攻击\n蓄积旋转力至手里剑再掷出\n可连续击中敌人"
+    },
+    {
+      "id": 70300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：幻蝶\n投掷苦无，其后有幻蝶相随\n蝶群追敌而舞\n防者亦伤\n\n<?kgiconKc@17?>长按:幻蝶·群舞\n蓄力后可放飞更多幻蝶",
+      "en": "<?kgiconKc@17?>: Phantom Butterflies\nPhantom butterflies fly out after throwing kunai.\nThe phantom butterflies chase after\nenemies and can also inflict damage to\nguarding enemies.\n\nHold <?kgiconKc@17?>: Swarming Dance\nCharge to release more butterflies.",
+      "jp": "<?kgiconKc@17?>:まぼろし蝶々\nクナイを投げ、その後をまぼろしの蝶が飛ぶ\nまぼろしの蝶は、敵を追尾して飛び、\nガードの上からでも、ダメージを与える\n\n<?kgiconKc@17?>長押し:まぼろし蝶々・群舞\n溜めることで、まぼろし蝶を多く飛ばす",
+      "cn_improved": "<?kgiconKc@17?>：幻蝶\n投掷苦无，其后有幻蝶相随\n蝶群追敌而舞\n防者亦伤\n\n<?kgiconKc@17?>长按:幻蝶·群舞\n蓄力后可放飞更多幻蝶",
+      "cn_resurrection": "<?kgiconKc@17?>:幻蝶\n掷出苦无后，幻蝶将随其后飞舞\n幻蝶可追踪敌人飞行\n亦可从敌人的防御之上给予其伤害\n\n<?kgiconKc@17?>长按:幻蝶群舞\n蓄力后可放飞更多的幻蝶"
+    },
+    {
+      "id": 70400,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:一掷千金\n将大量钱币呈放射状掷出\n\n依所持金钱多寡，所出钱币亦有所增减\n\n    贫寒所出，微尘也\n    穷者所出，小金也\n    富庶所出，大财也\n    豪侠所出，乃一掷千金",
+      "en": "<?kgiconKc@17?>: Sen Throw\nThrow coins\n\nHold <?kgiconKc@17?>: Raining Money\nScatters a large amount of sen \n\nThe amount of sen thrown varies depending on how much is in your possession.\n\n  \"The dirt poor throw dust,\n   The poor throw a little money,\n   The rich throw a lot of money,\n   and the filthy rich throw enough\n   money to make all of the rest cry.\"",
+      "jp": "<?kgiconKc@17?>:銭つぶて\n複数の銭を、まとめて放つ\n\n<?kgiconKc@17?>長押し:大盤振る舞い\n多くの銭を放射状にばら撒く\n\n所持金に応じて、銭つぶての数は変わる\n\n　素寒貧は、ほこりしか出ない\n　貧乏人は、少し銭を投げる\n　金持ちは、多く銭を投げる\n　大金持ちは、たくさん銭を投げる",
+      "cn_improved": "<?kgiconKc@17?>：金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:一掷千金\n将大量钱币呈放射状掷出\n\n依所持金钱多寡，所出钱币亦有所增减\n\n    贫寒所出，微尘也\n    穷者所出，小金也\n    富庶所出，大财也\n    豪侠所出，乃一掷千金",
+      "cn_resurrection": "<?kgiconKc@17?>:金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:盛宴\n将大量钱币呈放射状掷出\n\n金钱镖的数量将根据持有金钱变化\n\n　身无分文只会掷出灰尘\n　穷人能掷出很少的钱\n　富人能掷很多钱\n　大富豪能掷出很多很多钱"
+    },
+    {
+      "id": 70500,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：琉璃手里剑\n投掷琉璃之锋锐手里剑\n有贯穿效果\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋劲，掷出琉璃手里剑\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>: Lazulite Shuriken\nThrow extremely sharp Lazulite Shuriken.\nIts piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  \n\nHold <?kgiconKc@17?>: Lazulite Spinning Shuriken\nBring the shuriken to a powerful spin before throwing.  Hits enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:瑠璃の手裏剣\n瑠璃の鋭利な手裏剣を、投げ打つ\n貫通効果を持ち、\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>長押し:瑠璃の独楽手裏剣\n回転の力を溜め、瑠璃の手裏剣を投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：琉璃手里剑\n投掷琉璃之锋锐手里剑\n有贯穿效果\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋劲，掷出琉璃手里剑\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:琉璃手里剑\n投掷琉璃之锋利手里剑\n具有穿刺效果\n可从敌人的防御之上削减其ＨＰ与躯干\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋力，掷出琉璃手里剑\n可连续击中敌人"
+    },
+    {
+      "id": 71000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物",
+      "en": "<?kgiconKc@17?>: Shinobi Firecracker\nScatter a flash of gunpowder in front of you.\nEasily frightens beasts.",
+      "jp": "<?kgiconKc@17?>:爆竹\n爆竹を前方にばらまく\n獣は大きく怯む",
+      "cn_improved": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物",
+      "cn_resurrection": "<?kgiconKc@17?>:爆竹\n向前方抛撒爆竹\n野兽会非常惧怕"
+    },
+    {
+      "id": 71100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:爆竹·弹簧式\n以弹簧机括蓄力\n将爆竹回旋抛撒至周遭四方",
+      "en": "<?kgiconKc@17?>: Shinobi Firecracker\nScatter a flash of gunpowder in front of you.\nEasily frightens beasts.\n\nHold <?kgiconKc@17?>: Spring-load Firecracker\nCharge up the spring mechanism to scatter a flash of gunpowder in all directions while spinning.",
+      "jp": "<?kgiconKc@17?>:爆竹\n爆竹を前方にばらまく\n獣は大きく怯む\n\n<?kgiconKc@17?>長押し:爆竹・バネ式\nバネ絡繰りで力を溜め\n回転しながら、爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:爆竹·弹簧式\n以弹簧机括蓄力\n将爆竹回旋抛撒至周遭四方",
+      "cn_resurrection": "<?kgiconKc@17?>:爆竹\n向前方抛撒爆竹\n野兽会非常惧怕\n\n<?kgiconKc@17?>长按:填充爆竹\n填充火药\n一边旋转一边朝所有方向撒开爆竹"
+    },
+    {
+      "id": 71200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：长火花\n向前方抛撒长效之爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:长火花·弹簧式\n以弹簧机括蓄力\n向四方抛撒长效之爆竹",
+      "en": "<?kgiconKc@17?>: Long Spark\nScatter a long-lasting flash of gunpowder in front of you.\nEasily frightens beasts.\n\nHold <?kgiconKc@17?>: Spring-load Long Spark\nCharge up the spring mechanism to scatter a long-lasting flash of gunpowder in all directions.",
+      "jp": "<?kgiconKc@17?>:長火花\n長時間残る爆竹を、前方にばらまく\n獣は大きく怯む\n\n<?kgiconKc@17?>長押し:長火花・バネ式\nバネ絡繰りで力を溜め、\n長時間残る爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：长火花\n向前方抛撒长效之爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:长火花·弹簧式\n以弹簧机括蓄力\n向四方抛撒长效之爆竹",
+      "cn_resurrection": "<?kgiconKc@17?>:长效火花\n向前方抛撒效果长时间残留的爆竹\n野兽会非常惧怕\n\n<?kgiconKc@17?>长按:填充长效火花\n填充火药\n朝所有方向撒开效果长时间残留的爆竹"
+    },
+    {
+      "id": 71300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：紫烟火花\n向前方抛撒升腾紫烟之爆竹\n较通常爆竹更晚炸裂\n因爆竹而胆怯者\n所受ＨＰ·体干伤害会略有增加\n\n<?kgiconKc@17?>长按:紫烟火花·弹簧式\n以弹簧机关蓄力\n将爆竹回旋抛撒至周遭四方",
+      "en": "<?kgiconKc@17?>: Purple Fume Spark\nScatter a purple smoke emitting flash of gunpowder in front of you.\nTakes longer to explode than other firecrackers.\nEnemies blinded by the blast take slightly more Vitality and Posture damage for a brief period of time.\n\nHold <?kgiconKc@17?>: Spring-load Purple Fume Spark\nCharge the spring mechanism to scatter a flash of gunpowder in all directions while spinning.",
+      "jp": "<?kgiconKc@17?>:紫煙火花\n紫煙が立ちのぼる爆竹を、前方にばらまく\n通常の爆竹よりも、遅れて炸裂する\n爆竹で怯んだ直後の敵に対しては、\n与えるＨＰ・体幹ダメージが微増する\n\n<?kgiconKc@17?>長押し:紫煙火花・バネ式\nバネ絡繰りで力を溜め、\n回転しながら、爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：紫烟火花\n向前方抛撒升腾紫烟之爆竹\n较通常爆竹更晚炸裂\n因爆竹而胆怯者\n所受ＨＰ·体干伤害会略有增加\n\n<?kgiconKc@17?>长按:紫烟火花·弹簧式\n以弹簧机关蓄力\n将爆竹回旋抛撒至周遭四方",
+      "cn_resurrection": "<?kgiconKc@17?>:紫烟火花\n向前方抛撒会升起紫烟的爆竹\n会比通常的爆竹迟些炸裂\n对因爆竹而畏缩的敌人\n给予其ＨＰ与躯干的伤害将有少量增加\n\n<?kgiconKc@17?>长按:弹簧式紫烟火花\n以弹簧机关蓄力\n一边旋转一边朝所有方向撒开爆竹"
+    },
+    {
+      "id": 72000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：吹火\n向前方喷出火焰",
+      "en": "<?kgiconKc@17?>: Fire Breath\nShoots a blast of fire in front of you.",
+      "jp": "<?kgiconKc@17?>:火吹き\n前方に火を吹き出す",
+      "cn_improved": "<?kgiconKc@17?>：吹火\n向前方喷出火焰",
+      "cn_resurrection": "<?kgiconKc@17?>:吹火\n向前方喷出火焰"
+    },
+    {
+      "id": 72100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人",
+      "en": "<?kgiconKc@17?>: Fire Breath\nShoot fire in front of you.\n\nHold <?kgiconKc@17?>: Flame Blast\nCharge up the spring mechanism to unleash a fire blast in front of you.\nThe flame blast knocks enemies backward.",
+      "jp": "<?kgiconKc@17?>:火吹き\n前方に火を吹き出す\n\n<?kgiconKc@17?>長押し:爆炎\nバネ絡繰りで力を溜め、前方に爆炎を放つ\n爆炎は、敵を吹き飛ばす",
+      "cn_improved": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n填充火药，向前方放出爆炎\n爆炎可轰飞敌人"
+    },
+    {
+      "id": 72200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰",
+      "en": "<?kgiconKc@17?>: Fire Breath\nShoots a blast of fire in front of you.\n\nHold <?kgiconKc@17?>: Flame Blast\nCharge up the spring mechanism to release a huge blast of fire before you.\nThe powerful blast knocks enemies backward.\n\n<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Flames\nA continuous spray of fire before you.",
+      "jp": "<?kgiconKc@17?>:火吹き\n前方に火を吹き出す\n\n<?kgiconKc@17?>長押し:爆炎\n火薬を充填し、前方に爆炎を放つ\n爆炎は、敵を吹き飛ばす\n\n<?kgiconKc@17?>→<?kgiconKc@17?>長押し:火炎流し\n前方に火を吹き出し続ける",
+      "cn_improved": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰",
+      "cn_resurrection": "<?kgiconKc@17?>:吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n填充火药，向前方放出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰"
+    },
+    {
+      "id": 72300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：净火\n向前方喷出宿有神力之爆炎\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力之爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力之火焰",
+      "en": "<?kgiconKc@17?>: Sacred Flame\nShoot flames of holy power before you.\nEffective against apparitions.\n\nHold <?kgiconKc@17?>: Sacred Flame Blast\nRelease a blast of holy flame before you.\nThe powerful blast knocks enemies backward.\n\n<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Sacred Flames\nA continuous spray of holy flame before you.",
+      "jp": "<?kgiconKc@17?>:浄火\n前方に神宿りの火を吹き出す\n怨霊への攻撃が有効\n\n<?kgiconKc@17?>長押し:浄爆炎\n前方に神宿りの爆炎を放つ\n爆炎は、敵を吹き飛ばす\n\n<?kgiconKc@17?>→<?kgiconKc@17?>長押し:浄火流し\n前方に神宿りの火を吹き出し続ける",
+      "cn_improved": "<?kgiconKc@17?>：净火\n向前方喷出宿有神力之爆炎\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力之爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力之火焰",
+      "cn_resurrection": "<?kgiconKc@17?>:净火\n向前方喷出宿有神力的火焰\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力的火焰\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力的火焰"
+    },
+    {
+      "id": 73000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之",
+      "en": "<?kgiconKc@17?>: Strike\nSwing the axe down from above to strike an enemy.\nDestroys wooden shields.",
+      "jp": "<?kgiconKc@17?>:叩きつけ\n斧を振り下ろして、叩きつける\n木盾程度のものは破壊する",
+      "cn_improved": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之",
+      "cn_resurrection": "<?kgiconKc@17?>:砍劈\n挥下斧头砍劈\n可破坏木盾类物品"
+    },
+    {
+      "id": 73100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之\n\n<?kgiconKc@17?>长按:回旋叩击\n以斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Strike\nSwing the axe down from above to strike an enemy.\nDestroys wooden shields.\n\nHold <?kgiconKc@17?>: Whirling Strike\nWhirl the axe in circles to strike enemies.\nPressing <?kgiconKc@17?> during Whirling Strike will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:叩きつけ\n斧を振り下ろして、叩きつける\n木盾程度のものは破壊する\n\n<?kgiconKc@17?>長押し:ぶん回し叩きつけ\n斧を横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之\n\n<?kgiconKc@17?>长按:回旋叩击\n以斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:砍劈\n挥下斧头砍劈\n可破坏木盾类物品\n\n长按<?kgiconKc@17?>:横抡砍劈\n抡动斧头回旋横扫并砍劈\n抡斧时按<?kgiconKc@17?>可反复抡斧"
+    },
+    {
+      "id": 73200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：火镰\n以缠火之斧挥下叩击\n木盾之流，可轻易破之\n叩击时会掀起爆炎\n\n<?kgiconKc@17?>长按:回旋叩击\n以缠火之斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Spark\nBring a flaming axe down from above to strike an enemy.\nDestroys shields made of wood,\nand creates a roar of flames on hit.\n\nHold <?kgiconKc@17?>: Whirling Strike\nWhirl the flaming axe around\nin circles to strike enemies.\nPressing <?kgiconKc@17?> during Whirling Strike will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:火打ち\n火を纏った斧を振り下ろして、叩きつける\n木盾程度のものは破壊し、\n叩きつけたときに爆炎を起こす\n\n<?kgiconKc@17?>長押し:ぶん回し叩きつけ\n火を纏った斧を\n横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：火镰\n以缠火之斧挥下叩击\n木盾之流，可轻易破之\n叩击时会掀起爆炎\n\n<?kgiconKc@17?>长按:回旋叩击\n以缠火之斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:火镰\n挥下带有火焰的斧头砍劈\n可破坏木盾类物品\n砍劈时会引起爆炎\n\n长按<?kgiconKc@17?>:横抡砍劈\n抡动带有火焰的斧头\n回旋横扫并砍劈\n抡斧时按<?kgiconKc@17?>可反复抡斧"
+    },
+    {
+      "id": 73300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：琉璃击\n以琉璃重斧叩击\n释放消除幻影之冲击波\n\n<?kgiconKc@17?>长按:琉璃回旋叩击\n以琉璃重斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Lazulite Strike\nSwing the heavy Lazulite axe downward, causing a sound shockwave that dispels illusions.\n\nHold <?kgiconKc@17?>: Lazulite Scythe\nWhirl the heavy Lazulite axe around\nin circles to strike enemies.\nPressing <?kgiconKc@17?> during Lazulite Scythe will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:瑠璃打ち\n瑠璃の重い斧を叩きつけ、\nまぼろしを消す音の衝撃波を放つ\n\n<?kgiconKc@17?>長押し:瑠璃薙ぎ叩きつけ\n瑠璃の重い斧を\n横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：琉璃击\n以琉璃重斧叩击\n释放消除幻影之冲击波\n\n<?kgiconKc@17?>长按:琉璃回旋叩击\n以琉璃重斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:琉璃攻击\n以琉璃重斧砍劈\n并释放能消除幻影的冲击音波\n\n长按<?kgiconKc@17?>:琉璃横扫砍劈\n抡动琉璃重斧回旋横扫并砍劈\n抡斧时按<?kgiconKc@17?>可反复抡斧"
+    },
+    {
+      "id": 74000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向",
+      "en": "<?kgiconKc@17?>: Mist Stance\nWhen attacked in this stance, instantly move in the direction chosen with <?kgMove?>.",
+      "jp": "<?kgiconKc@17?>:霧構え\n構えを取り、攻撃を受けると\n<?kgMove?>の方向に瞬時に移動する",
+      "cn_improved": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向",
+      "cn_resurrection": "<?kgiconKc@17?>:迷雾架势\n摆好架势，一旦受到攻击\n便会向<?kgMove?>的方向瞬间移动"
+    },
+    {
+      "id": 74100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n\n受到攻击后按<?kgiconKc@17?>：雾鸦\n瞬移至<?kgMove?>之方向",
+      "en": "<?kgiconKc@17?>: Mist Stance\nWhen attacked in this stance, instantly move in the direction chosen with <?kgMove?>.\n\n<?kgiconKc@17?> after being attacked: Mist Raven\nInstantly move in the direction chosen with <?kgMove?>.",
+      "jp": "<?kgiconKc@17?>:霧構え\n構えを取り、攻撃を受けると\n<?kgMove?>の方向に瞬時に移動する\n\n攻撃を受けた後に<?kgiconKc@17?>:霧がらす\n<?kgMove?>の方向に瞬時に移動する",
+      "cn_improved": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n\n受到攻击后按<?kgiconKc@17?>：雾鸦\n瞬移至<?kgMove?>之方向",
+      "cn_resurrection": "<?kgiconKc@17?>:迷雾架势\n摆好架势，一旦受到攻击\n便会向<?kgMove?>的方向瞬间移动\n\n受到攻击后按<?kgiconKc@17?>:雾鸦\n向<?kgMove?>的方向瞬间移动"
+    },
+    {
+      "id": 74200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：绯雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰\n\n受到攻击后按<?kgiconKc@17?>：绯红雾鸦\n瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰",
+      "en": "<?kgiconKc@17?>: Red Mist Stance\nWhen attacked in this stance, instantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.\n\n<?kgiconKc@17?> after taking damage: Red Mist Raven\nInstantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.",
+      "jp": "<?kgiconKc@17?>:緋の霧構え\n構えを取り、攻撃を受けると\n<?kgMove?>の方向に瞬時に移動する\n残した羽が、燃え盛る炎となる\n\n攻撃を受けた後に<?kgiconKc@17?>:緋の霧がらす\n<?kgMove?>の方向に瞬時に移動する\n残した羽が、燃え盛る炎となる",
+      "cn_improved": "<?kgiconKc@17?>：绯雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰\n\n受到攻击后按<?kgiconKc@17?>：绯红雾鸦\n瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰",
+      "cn_resurrection": "<?kgiconKc@17?>:绯雾架势\n摆好架势，一旦受到攻击\n便会向<?kgMove?>的方向瞬间移动\n留下的羽毛将化为熊熊烈火\n\n受到攻击后按<?kgiconKc@17?>:绯红雾鸦\n向<?kgMove?>的方向瞬间移动\n留下的羽毛将化为熊熊烈火"
+    },
+    {
+      "id": 75000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击\n使用锈丸与楔丸之快速连击\n锈丸若击中可陷敌于【中毒】状态",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both the\nsword and Sabimaru. Sabimaru's attacks\ninflict the \"Poison\" status abnormality.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃\n錆び丸と刀を使った、素早い連撃\n錆び丸の攻撃は、敵を「中毒」状態にする",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击\n使用锈丸与楔丸之快速连击\n锈丸若击中可陷敌于【中毒】状态",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击\n使用锈丸与刀的快速连击\n锈丸的攻击将使敌人陷入“中毒”状态"
+    },
+    {
+      "id": 75100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both the\nsword and Sabimaru.\n\nDuring the Combo, <?kgiconKc@16?>:\nCombo Change Attack\nPerform a sword attack that toggles the\ncurrent attack combo. This turns your body\nand can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 75200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n锋刃之锈丸\n可削敌ＨＰ及体干，防者亦伤\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both your sword and Sabimaru.  \nSabimaru's sharpened blade will damage enemy Vitality and Posture, even if guarded.\n\n<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack\nPerform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n鋭利な刃の錆び丸は、\n敵のＨＰと体幹をガードの上からでも削る\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n锋刃之锈丸\n可削敌ＨＰ及体干，防者亦伤\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n刀刃锋利的锈丸\n即使被防御也能削减敌人的ＨＰ和躯干\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 75300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n每次挥击锈丸，则有毒雾生出\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo \nPerform a flurry of attacks with both the sword and Sabimaru.  \nA poison mist erupts from every swing of Sabimaru.\n\n<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack\nPerform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n錆び丸を振るうたび、毒霧が生じる\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n每次挥击锈丸，则有毒雾生出\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n每次挥起锈丸，便会产生毒雾\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 76000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> the moment enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击"
+    },
+    {
+      "id": 76100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 76200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 76300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 77000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：集风\n挥团扇，集旋风以缠身\n\n集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n\n除部分强敌外，亦可使其迷失自身",
+      "en": "<?kgiconKc@17?>: Gathering Vortex\nUse the fan of leaves to wrap yourself in whirling winds.  \n\nWhile using Gathering Vortex, <?kgiconKc@17?>: Divine Abduction\nRelease the winds around the enemy, making them suddenly face the opposite direction.\n\nAside from certain strong enemies,\nthey will lose sight of you and be vulnerable to a Deathblow.",
+      "jp": "<?kgiconKc@17?>:渦風集め\nうちわを扇ぎ、渦風を集めて身に纏う\n\n渦風集め中に<?kgiconKc@17?>:神隠し\n渦風を解き放ち、正面の敵に背後を向かせる\n\n一部の強敵を除き、\n自身の姿を見失わせることもできる",
+      "cn_improved": "<?kgiconKc@17?>：集风\n挥团扇，集旋风以缠身\n\n集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n\n除部分强敌外，亦可使其迷失自身",
+      "cn_resurrection": "<?kgiconKc@17?>:旋风聚集\n扇起蒲扇，聚集旋风缠绕于身\n\n旋风聚集时按<?kgiconKc@17?>:神隐\n释放旋风，使正面的敌人面向后方\n\n除部分强敌外，也可以使其迷失自身"
+    },
+    {
+      "id": 77100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：大集风\n挥团扇，集大旋风以缠身\n\n大集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "en": "<?kgiconKc@17?>: Gathering Maelstrom\nUse the fan of leaves to wrap yourself in a whirling maelstrom.\n\nWhile using Gathering Maelstrom, <?kgiconKc@17?>: Divine Abduction\nRelease the winds around the enemy, making them face the opposite direction.\nCan be released twice.\n\nAside from certain strong enemies,\nthey will lose sight of you and be vulnerable to a Deathblow.",
+      "jp": "<?kgiconKc@17?>:大渦集め\nうちわを扇ぎ、大きな渦風を集めて身に纏う\n\n大渦集め中に<?kgiconKc@17?>:神隠し\n渦風を解き放ち、正面の敵に背後を向かせる\n二度続けて放つことができる\n\n一部の強敵を除き、\n自身の姿を見失わせることもできる",
+      "cn_improved": "<?kgiconKc@17?>：大集风\n挥团扇，集大旋风以缠身\n\n大集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "cn_resurrection": "<?kgiconKc@17?>:大旋风聚集\n扇起蒲扇，聚集巨大旋风缠绕于身\n\n大旋风聚集时按<?kgiconKc@17?>:神隐\n释放旋风，使正面的敌人面向后方\n可以连续释放两次\n\n除部分强敌外，也可以使其迷失自身"
+    },
+    {
+      "id": 77200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：黄金之集风\n挥团扇，集黄金之旋风以缠身\n\n黄金之集风时按<?kgiconKc@17?>：善财广进\n释放旋风，使面向我方之敌人转至背对\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "en": "<?kgiconKc@17?>:Gathering Golden Vortex\nUse the fan of leaves to wrap yourself in a whirling golden vortex.  \n\nWhile using Gathering Golden Vortex, <?kgiconKc@17?>: Donation Whirl\nRelease the winds around the enemy, making them face the opposite direction.  Additionally, they will drop items and sen.\nCan be released twice.\n\nAside from certain strong enemies,\nthey will lose sight of you and be vulnerable to a Deathblow.",
+      "jp": "<?kgiconKc@17?>:黄金の渦集め\nうちわを扇ぎ、黄金の渦風を集めて身に纏う\n\n大渦集め中に<?kgiconKc@17?>:御寄進回し\n渦風を解き放ち、正面の敵に背後を向かせ、\nアイテムや銭を落とさせる\n二度続けて放つことができる\n\n一部の強敵を除き、\n自身の姿を見失わせることもできる",
+      "cn_improved": "<?kgiconKc@17?>：黄金之集风\n挥团扇，集黄金之旋风以缠身\n\n黄金之集风时按<?kgiconKc@17?>：善财广进\n释放旋风，使面向我方之敌人转至背对\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "cn_resurrection": "<?kgiconKc@17?>:金旋风聚集\n扇起蒲扇，聚集金色旋风缠绕于身\n\n金旋风聚集时按<?kgiconKc@17?>:捐赠簿\n释放旋风，使正面的敌人面向后方\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，也可以使其迷失自身"
+    },
+    {
+      "id": 78000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落",
+      "en": "<?kgiconKc@17?>: Thrust\nA frontward thrust with the spear.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.",
+      "jp": "<?kgiconKc@17?>:突き\n正面を槍で突く\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる",
+      "cn_improved": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落",
+      "cn_resurrection": "<?kgiconKc@17?>:突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近被长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲"
+    },
+    {
+      "id": 78100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击",
+      "en": "<?kgiconKc@17?>: Thrust\nA frontward thrust with the spear.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Rush\nReady your spear and rush straight ahead.",
+      "jp": "<?kgiconKc@17?>:突き\n正面を槍で突く\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:突撃\n槍を構え、正面に突撃する",
+      "cn_improved": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击",
+      "cn_resurrection": "<?kgiconKc@17?>:突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近被长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击"
+    },
+    {
+      "id": 78200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:横扫\n蓄力并顺势横扫敌人",
+      "en": "<?kgiconKc@17?>: Thrust\nA frontward thrust with the spear.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Cleave\nCharge up your strength, then cleave through surrounding enemies.",
+      "jp": "<?kgiconKc@17?>:突き\n正面を槍で突く\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:薙ぎ払い\n力を溜め、その勢いで薙ぎ払う",
+      "cn_improved": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:横扫\n蓄力并顺势横扫敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近被长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:横扫\n蓄力并趁势横扫敌人"
+    },
+    {
+      "id": 78300,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：螺旋突刺\n自正面施展螺旋回转之锐利突刺\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:螺旋突击\n架枪，施展螺旋回转之锐利突击",
+      "en": "<?kgiconKc@17?>: Corkscrew Thrust\nRelease a spinning corkscrew thrust at an enemy before you.\nThis will damage their Vitality and Posture, even if guarded.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Corkscrew Rush\nReady your spear and unleash a keen, spinning corkscrew rush.",
+      "jp": "<?kgiconKc@17?>:螺旋突き\n正面に螺旋回転の鋭利な突きを放つ\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:螺旋突撃\n槍を構え、螺旋回転の鋭利な突撃を繰り出す",
+      "cn_improved": "<?kgiconKc@17?>：螺旋突刺\n自正面施展螺旋回转之锐利突刺\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:螺旋突击\n架枪，施展螺旋回转之锐利突击",
+      "cn_resurrection": "<?kgiconKc@17?>:螺旋突刺\n向正面发动螺旋回转的锋利突刺\n即使敌人有所防御，仍可削减其ＨＰ与躯干\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近用长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:螺旋突击\n拿起长枪，使出螺旋回转的锋利突击"
+    },
+    {
+      "id": 78400,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "en": "<?kgiconKc@17?>: Blazing Thrust\nA frontward thrust with the spear wreathed in flames.  Applies Burn status abnormality to enemies.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Leaping Flame\nCharge up your strength, then cleave through surrounding enemies and set them on fire.",
+      "jp": "<?kgiconKc@17?>:火炎突き\n正面に火炎を纏った突きを放つ\n敵を状態異常「炎上」にする\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:火走り\n力を溜め、その勢いで火炎とともに薙ぎ払う",
+      "cn_improved": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:火焰突刺\n向正面发动缠绕着火焰的突刺\n可使敌人陷入“燃烧”的异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近用长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:火舌\n蓄力并趁势用火焰横扫敌人"
+    },
+    {
+      "id": 79000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "en": "<?kgiconKc@17?>: Finger Whistle\nAttract enemy attention by blowing the Finger Whistle.  Enrages beasts, making them unable to discern between friend and foe.\n\nOnly the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.",
+      "jp": "<?kgiconKc@17?>:指笛\n指笛を吹き、敵の注意を引く\n獣を狂わせ、敵味方の区別なく攻撃させる\n\n指笛の音は、ターゲット固定中は\n狙った敵のみに聴こえ、\nそうでないときは周囲の敵すべてに聴こえる",
+      "cn_improved": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "cn_resurrection": "<?kgiconKc@17?>:口哨\n吹响口哨可吸引敌人注意\n也可使野兽发狂，不分敌我地发动攻击\n\n口哨的声音在固定目标时\n只有瞄准的敌人能听见\n除此之外的时候周围的所有敌人皆能听见"
+    },
+    {
+      "id": 79100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "en": "<?kgiconKc@17?>: Finger Whistle\nAttract enemy attention by blowing the Finger Whistle.  Enrages beasts, making them unable to discern between friend and foe.\n\nHold <?kgiconKc@17?>: Mountain Echo\nProduces a delayed sound after blowing the Finger Whistle.\n\nOnly the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.",
+      "jp": "<?kgiconKc@17?>:指笛\n指笛を吹き、敵の注意を引く\n獣を狂わせ、敵味方の区別なく攻撃させる\n\n<?kgiconKc@17?>長押し:山びこ吹き\n指笛を吹いたあと、遅れて音を発生させる\n\n指笛の音は、ターゲット固定中は\n狙った敵のみに聴こえ、\nそうでないときは周囲の敵すべてに聴こえる",
+      "cn_improved": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "cn_resurrection": "<?kgiconKc@17?>:口哨\n吹响口哨可吸引敌人注意\n也可使野兽发狂，不分敌我地发动攻击\n\n<?kgiconKc@17?>长按:回声口哨\n吹响口哨后，发声将滞后\n\n口哨的声音在固定目标时\n只有瞄准的敌人能听见\n除此之外的时候周围的所有敌人皆能听见"
+    },
+    {
+      "id": 79200,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：爱哭鬼之指笛\n吹响指笛，诱敌注意\n亦可使怨灵之属倍感苦闷，以为破绽\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "en": "<?kgiconKc@17?>: Malcontent Finger Whistle\nAttract enemy attention by blowing the Finger Whistle.  Creates an opening by causing anguish in apparition-type enemies.\n\nHold <?kgiconKc@17?>: Mountain Echo\nPerform a delayed whistle, where no sound occurs until several seconds after the whistle was blown.\n\nOnly the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.",
+      "jp": "<?kgiconKc@17?>:泣き虫の指笛\n指笛を吹き、敵の注意を引く\n怨霊を苦悶させ、隙を作る\n\n<?kgiconKc@17?>長押し:山びこ吹き\n指笛を吹いたあと、遅れて音を発生させる\n\n指笛の音は、ターゲット固定中は\n狙った敵のみに聴こえ、\nそうでないときは周囲の敵すべてに聴こえる",
+      "cn_improved": "<?kgiconKc@17?>：爱哭鬼之指笛\n吹响指笛，诱敌注意\n亦可使怨灵之属倍感苦闷，以为破绽\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "cn_resurrection": "<?kgiconKc@17?>:爱哭鬼的口哨\n吹响口哨可吸引敌人注意\n也可使怨灵感到痛苦，从而制造破绽\n\n<?kgiconKc@17?>长按:回声口哨\n吹响口哨后，发声将滞后\n\n口哨的声音在固定目标时\n只有瞄准的敌人能听见\n除此之外的时候周围的所有敌人皆能听见"
+    },
+    {
+      "id": 200000,
+      "status": "from_improved",
+      "cn": "用钩绳移动时按<?kgiconKc@16?>：钩绳攻击\n借钩绳移动之势斩击",
+      "en": "<?kgiconKc@16?> during Grappling Hook movement: Grappling Hook Attack\nUse the forward momentum of your landing to perform a powerful sword attack.",
+      "jp": "鉤縄移動中、<?kgiconKc@16?>:鉤縄攻撃\n鉤縄移動の勢いで、斬りかかる",
+      "cn_improved": "用钩绳移动时按<?kgiconKc@16?>：钩绳攻击\n借钩绳移动之势斩击",
+      "cn_resurrection": "用钩绳移动时按<?kgiconKc@16?>:钩绳攻击\n借钩绳移动的势头斩击"
+    },
+    {
+      "id": 200100,
+      "status": "from_improved",
+      "cn": "在空中按<?kgiconKc@18?>：空中防御\n在空中防御敌人之攻击\n\n在空中配合敌人攻击按<?kgiconKc@18?>：空中弹开\n在空中弹开敌人攻击",
+      "en": "<?kgiconKc@18?> in mid-air: Mid-air Guard\nGuard against enemy attacks in mid-air.\n\n<?kgiconKc@18?> the moment an enemy attack lands while in the air: Mid-air Deflect\nDeflect enemy attacks in mid-air.",
+      "jp": "空中で<?kgiconKc@18?>:空中ガード\n空中で敵の攻撃を、ガードする\n\n空中で敵の攻撃に合わせて<?kgiconKc@18?>:空中弾き\n空中で敵の攻撃を、弾く\n",
+      "cn_improved": "在空中按<?kgiconKc@18?>：空中防御\n在空中防御敌人之攻击\n\n在空中配合敌人攻击按<?kgiconKc@18?>：空中弹开\n在空中弹开敌人攻击",
+      "cn_resurrection": "在空中按<?kgiconKc@18?>:空中防御\n在空中防御敌人的攻击\n\n在空中配合敌人的攻击按<?kgiconKc@18?>:空中弹开\n在空中弹开敌人的攻击"
+    },
+    {
+      "id": 200200,
+      "status": "from_improved",
+      "cn": "在空中按<?kgiconKc@17?>：空中义手忍具\n在空中使用义手忍具",
+      "en": "<?kgiconKc@17?> in mid-air: Mid-air Prosthetic Tool\nUse Prosthetic Tools in mid-air.",
+      "jp": "空中で、<?kgiconKc@17?>:空中義手忍具\n空中で義手忍具を使う",
+      "cn_improved": "在空中按<?kgiconKc@17?>：空中义手忍具\n在空中使用义手忍具",
+      "cn_resurrection": "在空中按<?kgiconKc@17?>:空中义手忍具\n在空中使用义手忍具"
+    },
+    {
+      "id": 200300,
+      "status": "from_improved",
+      "cn": "配合敌人之突刺攻击按<?kgiconKc@5?>：看破\n踏其刃，使其突刺攻击无效\n伤敌体干尤甚",
+      "en": "<?kgiconKc@5?> the moment an enemy thrust attack lands: Mikiri Counter\nStomp on the enemy's sword to render a thrust ineffective and deal a large amount of posture damage.",
+      "jp": "敵の突き攻撃に合わせて<?kgiconKc@5?>:見切り\n刃を踏みつけ、突き攻撃を無効化し、\n体幹に大ダメージ",
+      "cn_improved": "配合敌人之突刺攻击按<?kgiconKc@5?>：看破\n踏其刃，使其突刺攻击无效\n伤敌体干尤甚",
+      "cn_resurrection": "配合敌人的突刺攻击按<?kgiconKc@5?>:识破\n踏住敌人的刀刃，使对方的突刺攻击无效\n并使其躯干受到大伤害"
+    },
+    {
+      "id": 200400,
+      "status": "from_improved",
+      "cn": "冲刺中按<?kgiconKc@7?>：冲刺隐蔽\n奔跑中，以滑步下蹲",
+      "en": " <?kgiconKc@7?> while sprinting: Slide\nEnd a sprint by sliding, which puts you in a crouched position.",
+      "jp": "ダッシュ中、<?kgiconKc@7?>:駆け伏せ\nダッシュから、スライディングでしゃがみ込む",
+      "cn_improved": "冲刺中按<?kgiconKc@7?>：冲刺隐蔽\n奔跑中，以滑步下蹲",
+      "cn_resurrection": "冲刺中按<?kgiconKc@7?>:冲刺隐蔽\n由冲刺滑行下蹲"
+    },
+    {
+      "id": 200500,
+      "status": "from_improved",
+      "cn": "在空中按<?kgiconKc@18?>+<?kgiconKc@16?>：空中流派技",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?> in mid-air: Mid-air Combat Art",
+      "jp": "空中で、<?kgiconKc@18?> + <?kgiconKc@16?>:空中流派技",
+      "cn_improved": "在空中按<?kgiconKc@18?>+<?kgiconKc@16?>：空中流派技",
+      "cn_resurrection": "在空中按<?kgiconKc@18?>+<?kgiconKc@16?>:空中流派招式"
+    },
+    {
+      "id": 200600,
+      "status": "from_improved",
+      "cn": "崩破敌人之体势后按<?kgiconKc@6?>：崩势绕袭\n绕至敌人背后",
+      "en": "<?kgiconKc@6?> on posture-broken enemy: Vault Over\nJump over and behind the enemy.",
+      "jp": "敵が体勢を崩した際、<?kgiconKc@6?>:崩し裏回り\n敵の背後に回り込む",
+      "cn_improved": "崩破敌人之体势后按<?kgiconKc@6?>：崩势绕袭\n绕至敌人背后",
+      "cn_resurrection": "敌人姿势失衡时按<?kgiconKc@6?>:失衡绕袭\n绕至敌人背后"
+    },
+    {
+      "id": 210000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：旋风斩\n回旋，同时斩击周遭",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Whirlwind Slash\nA Combat Art executed by spinning the entire body while attacking.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:旋風斬り\n回転しながら、周囲を斬りつける",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：旋风斩\n回旋，同时斩击周遭",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:旋风斩\n一边旋转一边斩向四周"
+    },
+    {
+      "id": 211000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush\nPerform a long-range rushing thrust attack.\nUpon connecting with an enemy Wolf will jump off of them, leaping in the air.\nLeaping in the air costs Spirit Emblems.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Perform a Shadowrush attack with extended range.\nLeaping in the air costs Spirit Emblems.\n",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:大忍び刺し\n遠距離から届く突き攻撃\n突き刺したあと、敵を踏み台に飛びあがる\n飛びあがるときに、形代を消費する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:溜め大忍び刺し\n突きの射程が伸びた、大忍び刺し\n飛びあがるときに、形代を消費する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:巨型忍者突刺\n由远距离发动的突刺攻击\n突刺后，将敌人当作垫脚石高高跃起\n飞身跃起时将消耗纸人\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力巨型忍者突刺\n突刺射程变长的巨型忍者突刺\n飞身跃起时将消耗纸人"
+    },
+    {
+      "id": 301000,
+      "status": "from_improved",
+      "cn": "使用部分义手忍具后按<?kgiconKc@16?>：追斩\n大幅踏向前方之横扫攻击\n\n■对象义手忍具\n<?wepTextCS@70000?>\n\n<?wepTextCS@71000?>\n\n<?wepTextCS@78000?>",
+      "en": "After using certain Prosthetic Tools, \n<?kgiconKc@16?>: Chasing Slice\nTake a leap forward and perform a wide slicing attack.\n\nApplicable Prosthetic Tools:\n<?wepTextCS@70000?>\n\n<?wepTextCS@71000?>\n\n<?wepTextCS@78000?>",
+      "jp": "一部の義手忍具使用後、<?kgiconKc@16?>:追い斬り\n前方に大きく踏み込む薙ぎ払い\n\n■対象義手忍具\n<?wepTextCS@70000?>\n\n<?wepTextCS@71000?>\n\n<?wepTextCS@78000?>",
+      "cn_improved": "使用部分义手忍具后按<?kgiconKc@16?>：追斩\n大幅踏向前方之横扫攻击\n\n■对象义手忍具\n<?wepTextCS@70000?>\n\n<?wepTextCS@71000?>\n\n<?wepTextCS@78000?>",
+      "cn_resurrection": "使用部分义手忍具后按<?kgiconKc@16?>:追斩\n大幅踏向前方的横扫攻击\n\n■对象义手忍具\n<?wepTextCS@70000?>\n\n<?wepTextCS@71000?>\n\n<?wepTextCS@78000?>"
+    },
+    {
+      "id": 301100,
+      "status": "from_improved",
+      "cn": "使用部分义手忍具后按<?kgiconKc@16?>：连斩\n同时或连续使用义手忍具与刀发动攻击\n\n■对象义手忍具\n<?wepTextSS@73000?>\n\n<?wepTextSS@78000?>\n\n<?wepTextSS@74000?>",
+      "en": "After using certain Prosthetic Tools, \n<?kgiconKc@16?>: Fang and Blade\nAttack with the tool and sword\nsimultaneously, or one after the other.\n\nApplicable Prosthetic Tools:\n<?wepTextSS@73000?>\n\n<?wepTextSS@78000?>\n\n<?wepTextSS@74000?>",
+      "jp": "一部の義手忍具使用後、<?kgiconKc@16?>:連ね斬り\n義手忍具と刀を、同時あるいは連続で振るう\n\n■対象義手忍具\n<?wepTextSS@73000?>\n\n<?wepTextSS@78000?>\n\n<?wepTextSS@74000?>",
+      "cn_improved": "使用部分义手忍具后按<?kgiconKc@16?>：连斩\n同时或连续使用义手忍具与刀发动攻击\n\n■对象义手忍具\n<?wepTextSS@73000?>\n\n<?wepTextSS@78000?>\n\n<?wepTextSS@74000?>",
+      "cn_resurrection": "使用部分义手忍具后按<?kgiconKc@16?>:连斩\n同时或连续使用义手忍具与刀发动攻击\n\n■对象义手忍具\n<?wepTextSS@73000?>\n\n<?wepTextSS@78000?>\n\n<?wepTextSS@74000?>"
+    },
+    {
+      "id": 301200,
+      "status": "from_improved",
+      "cn": "使用部分义手忍具后按<?kgiconKc@16?>：释斩\n向前方释放义手忍具效果之攻击\n\n■对象义手忍具\n<?wepTextPS@76000?>\n\n<?wepTextPS@79000?>",
+      "en": "After using certain Prosthetic Tools, \n<?kgiconKc@16?>: Projected Force\nAn attack that unleashes the effects of the Prosthetic Tool in front of you.\n\nApplicable Prosthetic Tools:\n<?wepTextPS@76000?>\n\n<?wepTextPS@79000?>",
+      "jp": "一部の義手忍具使用後、<?kgiconKc@16?>:放ち斬り\n義手忍具の効果を、前方に放つ攻撃\n\n■対象義手忍具\n<?wepTextPS@76000?>\n\n<?wepTextPS@79000?>",
+      "cn_improved": "使用部分义手忍具后按<?kgiconKc@16?>：释斩\n向前方释放义手忍具效果之攻击\n\n■对象义手忍具\n<?wepTextPS@76000?>\n\n<?wepTextPS@79000?>",
+      "cn_resurrection": "使用部分义手忍具后按<?kgiconKc@16?>:释放斩\n向前方释放义手忍具效果的攻击\n\n■对象义手忍具\n<?wepTextPS@76000?>\n\n<?wepTextPS@79000?>"
+    },
+    {
+      "id": 301300,
+      "status": "from_improved",
+      "cn": "使用部分义手忍具后按<?kgiconKc@16?>：缠斩\n将义手忍具之效果附于刀上进行攻击\n\n■对象义手忍具\n<?wepTextES@72000?>\n\n<?wepTextES@77000?>",
+      "en": "After using certain Prosthetic Tools, <?kgiconKc@16?>: Living Force\nThe sword is imbued with the Tool's effect.\n\nApplicable Prosthetic Tools:\n<?wepTextES@72000?>\n\n<?wepTextES@77000?>",
+      "jp": "一部の義手忍具使用後、<?kgiconKc@16?>:纏い斬り\n刀に義手忍具の効果を、纏わせる攻撃\n\n■対象義手忍具\n<?wepTextES@72000?>\n\n<?wepTextES@77000?>",
+      "cn_improved": "使用部分义手忍具后按<?kgiconKc@16?>：缠斩\n将义手忍具之效果附于刀上进行攻击\n\n■对象义手忍具\n<?wepTextES@72000?>\n\n<?wepTextES@77000?>",
+      "cn_resurrection": "使用部分义手忍具后按<?kgiconKc@16?>:附牙斩\n将义手忍具的效果附于刀上进行攻击\n\n■对象义手忍具\n<?wepTextES@72000?>\n\n<?wepTextES@77000?>"
+    },
+    {
+      "id": 310000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash\nLeap in with a spin and slash at the enemy.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鷹斬り\n回転して飛び込みつつ、斬りつける",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鹰斩\n旋身跃进的同时进行劈斩"
+    },
+    {
+      "id": 310100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Nightjar Slash\nLeap in with a spin and slash away at the\nenemy.\n\nWhile locked-on, hold <?kgiconKc@2?> \nin the opposite direction of the enemy, then \n<?kgiconKc@18?>+<?kgiconKc@16?>: Reversal \nSlash at the target, then somersault away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鷹斬り\n回転して飛び込みつつ、斬りつける\n\nターゲット固定中、\n<?kgiconKc@2?>を背後方向に入力し<?kgiconKc@18?>+<?kgiconKc@16?>:逆さ回し\n斬りつけて、宙返りして下がる",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：寄鹰斩\n回旋跃进，并施斩击\n\n锁定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>：逆旋\n斩击后，空翻后退",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:寄鹰斩\n旋身跃进的同时进行劈斩\n\n固定目标时\n向背后方向推动<?kgiconKc@2?>并按下\n<?kgiconKc@18?>+<?kgiconKc@16?>:反向回旋\n斩击后，空翻后退"
+    },
+    {
+      "id": 410000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji\nPerform a heavy overhead strike.\nRecovers Posture when stepping in.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji\nGather strength and release a full-powered overhead strike.\nRecovers Posture when stepping in.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:一文字\n上段からの重い面打ち\n踏み込み時に、体幹を回復する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:専心一文字\n専心し繰り出す、上段からの渾身の面打ち\n踏み込み時に、体幹を回復する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:一字斩\n来自上段的沉重击面\n垫步时可恢复躯干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一字斩\n集中精力使出从上段竭尽全力的击面\n垫步时可恢复躯干"
+    },
+    {
+      "id": 410100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Ichimonji\nPerform a heavy overhead strike.\nRecovers Posture when stepping in.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Honed Ichimonji\nGather strength and release a full-powered overhead strike.\nRecovers Posture when stepping in.\n\n<?kgiconKc@16?> after Ichimonji or Honed Ichimonji: \nFollow-up Ichimonji\nPerform a second overhead strike to cut down counterattacks.  \nRestores Posture when stepping in.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:一文字\n上段からの重い面打ち\n踏み込み時に、体幹を回復する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:専心一文字\n専心し繰り出す、上段からの渾身の面打ち\n踏み込み時に、体幹を回復する\n\n一文字 or 専心一文字後に<?kgiconKc@16?>:追い一文字\n反撃を打ち落とす、二撃目の面打ち\n踏み込み時に、体幹を回復する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：一文字\n来自上段之沉重击面\n垫步时可恢复体干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一文字\n集中精力，使出自上段之全力击面\n垫步时可恢复体干\n\n一文字 or 专心一文字后按<?kgiconKc@16?>：追击一文字\n打落反击之第二次击面\n垫步时可恢复体干",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:一字斩\n来自上段的沉重击面\n垫步时可恢复躯干\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:专心一字斩\n集中精力使出从上段竭尽全力的击面\n垫步时可恢复躯干\n\n一字斩 or 专心一字斩后按<?kgiconKc@16?>:追击一字斩\n打落反击的第二次击面\n垫步时可恢复躯干"
+    },
+    {
+      "id": 411000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十文字\n拔刀并快速劈出十文字\n消耗形代以发动",
+      "en": "Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance\nEnter the sheathed battle stance.\n\nRelease <?kgiconKc@18?>: Cancel Sheathed Stance\nLeave sheathed battle stance.\n\nRelease <?kgiconKc@16?>: Ashina Cross\nDraw your sword from its sheath and slice in a cross pattern at high speed.  Costs Spirit Emblems.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>長押し:居合い構え開始\n刃を鞘に納め、居合いの構えを取る\n\n<?kgiconKc@18?>解除:居合い構え中断\n居合いの構えをやめる\n\n<?kgiconKc@16?>解除:抜刀十文字\n抜刀し、高速で十文字に切り裂く\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十文字\n拔刀并快速劈出十文字\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n收刀入鞘，采取居合的架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:拔刀十字斩\n拔刀并快速劈出十字斩\n消耗纸人便可以使用"
+    },
+    {
+      "id": 510000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes\nRepeated palm strikes following elbow strikes.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:拝み連拳\n肘打ちから、掌底の連撃",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:叩拜连击拳\n肘击后进行掌根连击"
+    },
+    {
+      "id": 510100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Praying Strikes\nRepeated palm strikes following elbow strikes.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>, or after Praying Strikes <?kgiconKc@16?>: \nExorcism\nHurl your body into an enemy, knocking them away.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:拝み連拳\n肘打ちから、掌底の連撃\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し or 拝み連拳後に<?kgiconKc@16?>:破魔の背撃\n背中からの重い体当たり",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：拜连拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 拜连拳后按<?kgiconKc@16?>：破魔背击\n以背部重撞",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:叩拜连击拳\n肘击后进行掌根连击\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按 or 叩拜连击拳后按<?kgiconKc@16?>:破魔背击\n从背后的猛力冲撞"
+    },
+    {
+      "id": 511000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks\nKick repeatedly after leaping.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峯脚\n飛び込みからの、連続蹴り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峰脚\n飞身跃进后连续踢击"
+    },
+    {
+      "id": 511100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Senpou Leaping Kicks\nKick repeatedly after leaping.\n\n<?kgiconKc@16?> after Senpou Leaping Kicks →<?kgiconKc@16?>: High Monk\nPerform several sword attacks and finish with a jumping forward kick.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峯脚\n飛び込みからの、連続蹴り\n\n仙峯脚後に<?kgiconKc@16?>→<?kgiconKc@16?>:菩薩脚\n連続の斬撃からの、前方への蹴り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：仙峯脚\n飞身跃近后连续踢击\n\n跃起踢击后按<?kgiconKc@16?>→<?kgiconKc@16?>：菩萨脚\n连续斩击后向前方踢击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:仙峰脚\n飞身跳跃的同时连续踢击\n\n在仙峰脚后按<?kgiconKc@16?>→<?kgiconKc@16?>:菩萨脚\n连续斩击后向前方踢击"
+    },
+    {
+      "id": 610100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Shadowrush\nPerform a long-range rushing thrust attack.\nUpon connecting with an enemy Wolf will jump off of them, leaping in the air.\nLeaping in the air costs Spirit Emblems.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Charged Shadowrush\nSpend Spirit Emblems to perform a Shadowrush attack with extended range.\n\n<?kgiconKc@16?> after leaping: Shadowfall\nPerform a spinning slice while falling to the ground.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:大忍び刺し\n遠距離から届く突き攻撃\n突き刺したあと、敵を踏み台に飛びあがる\n飛びあがるときに、形代を消費する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:溜め大忍び刺し\n突きの射程が伸びた、大忍び刺し\n飛びあがるときに、形代を消費する\n\n飛びあがり後に<?kgiconKc@16?>:大忍び落とし\n降下しながらの回転斬り",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：大忍突刺\n施展从远处突进之锋锐一击\n再以所刺之敌为踏板一跃而起\n跃起时，会消耗形代\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力大忍突刺\n突进距离加长之大忍突刺\n跃起时，会消耗形代\n\n飞身跃起后按<?kgiconKc@16?>：大忍落杀\n下落的同时发动回旋斩",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:巨型忍者突刺\n由远距离发动的突刺攻击\n突刺后，将敌人当作垫脚石高高跃起\n飞身跃起时将消耗纸人\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:蓄力巨型忍者突刺\n突刺射程加长的巨型忍者突刺\n飞身跃起时将消耗纸人\n\n飞身跃起后按<?kgiconKc@16?>:巨型忍者落杀\n下落的同时发动回旋斩"
+    },
+    {
+      "id": 611100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Spiral Cloud Passage\nDeliver nine dancing, consecutive attacks.  \nThese attacks emit powerful shockwaves.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:渦雲渡り\n舞うように九連撃を繰り出し、\n周囲に真空波を巻き起こす\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：涡云渡\n打出英姿如舞之九连击\n并在周遭卷起真空波\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:飞渡漩涡云\n翩翩起舞般使出九连击\n并向四周掀起真空波\n消耗纸人便可以使用"
+    },
+    {
+      "id": 612100,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw\nDraw the Mortal Blade and cut through enemies with an extended-range sword attack.\nCosts Spirit Emblems to use.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Empowered Mortal Draw\nFocus and cut through enemies with an extended-range, even more powerful sword attack.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斬り\n不死斬りを抜き、長射程の刃で敵をなぎ払う\n形代を消費して、使用する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し→<?kgiconKc@16?>長押し:溜め不死斬り\n念を込め、\nさらに威力が高く、射程の長い斬撃を繰り出す\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n入念\n施展威力更高之长程斩击\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斩\n拔刀不死斩，以长射程利刃横扫敌人\n消耗纸人便可以使用\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按→<?kgiconKc@16?>长按:蓄力不死斩\n倾注意念\n发动威力更大、射程更长的斩击\n消耗纸人便可以使用"
+    },
+    {
+      "id": 620000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 620100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 630000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 630100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 640000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 640100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 640200,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 640300,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 640400,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 650000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 650100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 650200,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 650300,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 650400,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660200,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660300,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660400,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660500,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660600,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660700,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 660800,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 670000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>: Mortal Draw\nDraw the Mortal Blade and cut through enemies with an extended-range sword attack.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斬り\n不死斬りを抜き、長射程の刃で敵をなぎ払う\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>：不死斩\n拔不死斩，以长程利刃横扫敌人\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>:不死斩\n拔刀不死斩，以长射程利刃横扫敌人\n消耗纸人便可以使用"
+    },
+    {
+      "id": 671000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：拔刀纵斩\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n继而有冲击波贴地而出\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Quick Draw\nDraw your sword from its sheath to slice at high speed.  Costs Spirit Emblems to use.\n\nHold <?kgiconKc@18?>+<?kgiconKc@16?>: Dragon Flash\nDraw your sword from its sheath to slice at high speed.\nConsume Spirit Emblems to unleash a shockwave together with the slash.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:抜刀斬り下ろし\n刃を抜き放ち、高速で斬り下ろす\n斬り下ろしには、真空波が伴う\n形代を消費して、使用する\n\n<?kgiconKc@18?>+<?kgiconKc@16?>長押し:竜閃\n刃を抜き放ち、高速で斬り下ろす\n斬り下ろしには、真空波が伴い、\nその後、地を這う衝撃波が飛ぶ\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：拔刀纵斩\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n消耗形代以发动\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔刀，以高速斩下\n斩下之刃，有真空波相随\n继而有冲击波贴地而出\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:拔刀纵斩\n拔出刀刃，快速斩下\n纵斩将伴有真空波\n消耗纸人便可以使用\n\n<?kgiconKc@18?>+<?kgiconKc@16?>长按:龙闪\n拔出刀刃，快速斩下\n纵斩将伴有真空波\n然后飞出贴地冲击波\n消耗纸人便可以使用"
+    },
+    {
+      "id": 672000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：浮舟渡\n打出英姿如舞之五连击",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>: Floating Passage\nDeliver five dancing, consecutive attacks.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:浮き舟渡り\n舞うように五連撃を繰り出す",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>：浮舟渡\n打出英姿如舞之五连击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>→<?kgiconKc@16?>→<?kgiconKc@16?>:飞渡浮舟\n翩翩起舞般使出五连击"
+    },
+    {
+      "id": 673000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀，以无影之神速斩进\n消耗形代以发动\n\n一心之后按<?kgiconKc@16?>：居合追击\n前踏，出居合之追击",
+      "en": "Hold <?kgiconKc@18?>+<?kgiconKc@16?>: Enter Sheathed Stance\nAssume the sheathed battle stance.\n\nRelease <?kgiconKc@18?>: Cancel Sheathed Stance\nLeave the sheathed battle stance.\n\nRelease <?kgiconKc@16?>: One Mind\nSpend Spirit Emblems to strike once, then perform a flurry of attacks at a speed so fast it cannot be seen by the human eye.\n\n<?kgiconKc@16?> After One Mind: Follow-up attack\nStep forward and perform a follow-up attack.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>長押し:居合い構え開始\n刃を鞘に納め、居合いの構えを取る\n\n<?kgiconKc@18?>解除:居合い構え中断\n居合いの構えをやめる\n\n<?kgiconKc@16?>解除:一心\n抜刀し、見えぬほどの速さで敵を斬り刻む\n形代を消費して、使用する\n\n一心の後に<?kgiconKc@16?>:居合追撃\n前方に踏み込む居合いの追撃",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n纳刀入鞘，采取居合架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀，以无影之神速斩进\n消耗形代以发动\n\n一心之后按<?kgiconKc@16?>：居合追击\n前踏，出居合之追击",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>长按:摆出居合架势\n收刀入鞘，采取居合的架势\n\n<?kgiconKc@18?>解除:中断居合架势\n取消居合架势\n\n<?kgiconKc@16?>解除:一心\n拔刀以快到无形的速度斩削敌人\n消耗纸人便可以使用\n\n一心之后按<?kgiconKc@16?>:居合追击\n向前方垫步的居合斩追击"
+    },
+    {
+      "id": 674000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?>: Sakura Dance\nSpin to build momentum into a sequence of three leaping dance-like slashes.  Evade sweep attacks while delivering sharp cuts, dealing damage even through an enemy's guard.\n\nMid-air prosthetic attacks are possible after the attack has been performed.\nCosts Spirit Emblems to use.",
+      "jp": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘伝・桜舞い\n回転の勢いで舞うように跳び、三度斬りつける\n敵の下段攻撃を回避しつつ、鋭い斬撃で、\nガードの上からでもダメージを与える\n\n攻撃後は、空中での攻防に繋げることもできる\n形代を消費して、使用する",
+      "cn_improved": "<?kgiconKc@18?>+<?kgiconKc@16?>：秘传·樱舞\n以回转之势凌空飞舞，挥出三连击\n兼回避敌人下段攻击，同时施以凌厉斩击\n防者亦伤\n\n攻击后，亦可衔接空中攻防招式\n消耗形代以发动",
+      "cn_resurrection": "<?kgiconKc@18?>+<?kgiconKc@16?>:秘传·樱舞\n以旋转之势舞动般跳跃、挥斩三次\n在闪避敌方下段攻击的同时，发动凌厉的斩击\n即使敌人有所防御也能对其造成伤害\n\n攻击后亦能在空中进行攻防\n消耗纸人便可以使用"
+    },
+    {
+      "id": 680000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 681000,
+      "status": "from_improved",
+      "cn": "在高高跃起之敌人附近按<?kgiconKc@6?>：对空忍杀\n于空中忍杀敌人",
+      "en": "<?kgiconKc@16?> near an enemy high up in the air: Anti-air Deathblow\nPerform a Deathblow on an airborne enemy.",
+      "jp": "高く跳び上がった敵の近くで<?kgiconKc@16?>:対空忍殺\n空中で敵を忍殺する",
+      "cn_improved": "在高高跃起之敌人附近按<?kgiconKc@6?>：对空忍杀\n于空中忍杀敌人",
+      "cn_resurrection": "在高高跃起的敌人附近按<?kgiconKc@6?>:对空忍杀\n于空中忍杀敌人"
+    },
+    {
+      "id": 681999,
+      "status": "needs_translation",
+      "cn": "",
+      "en": "",
+      "jp": "",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682000,
+      "status": "needs_translation",
+      "cn": "<?kgiconKc@16?> after deflecting heavy attack:\nRecoil Counter\nRecoil Counter riposte slash.\n\nHold <?kgiconKc@16?> quickly after deflecting heavy attack:\nRecoil Counter Thrust\nRecoil Counter riposte thrust.",
+      "en": "<?kgiconKc@16?> after deflecting heavy attack:\nRecoil Counter\nRecoil Counter riposte slash.\n\nHold <?kgiconKc@16?> quickly after deflecting heavy attack:\nRecoil Counter Thrust\nRecoil Counter riposte thrust.",
+      "jp": "攻撃を弾いた後、素早く <?kgiconKc@16?> :弾きカウンター\n弾きの反動を利用して、敵を斬りつける\n\n攻撃を弾いた後、素早く <?kgiconKc@16?> 長押し:\n弾きカウンター・突き\n弾きの反動を利用し、距離を詰めて突く",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682100,
+      "status": "needs_translation",
+      "cn": "<?kgiconKc@18?>+<?kgiconKc@16?> after deflecting heavy attack:\nCombat Art Quick-draw\nUtilize certain Prosthetic Tools as an advanced riposte.\n\nApplicable Prosthetic Tools: \n<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@73100?>, <?acquiredWeaponNameId@73200?>, <?acquiredWeaponNameId@73300?>,\n<?acquiredWeaponNameId@75000?>, <?acquiredWeaponNameId@75100?>, <?acquiredWeaponNameId@75200?>, <?acquiredWeaponNameId@75300?>\n\n<?kgiconKc@17?> after deflecting heavy attack:\nProsthetics Quick-draw\nUtilize certain Combat Arts as an advanced riposte.\n\nApplicable Combat Arts:\n<?acquiredWeaponNameId@410000?>, <?acquiredWeaponNameId@410100?>, <?acquiredWeaponNameId@411000?>,\n<?acquiredWeaponNameId@211000?>, <?acquiredWeaponNameId@610100?>, <?acquiredWeaponNameId@673000?>, <?acquiredWeaponNameId@671000?>",
+      "en": "<?kgiconKc@18?>+<?kgiconKc@16?> after deflecting heavy attack:\nCombat Art Quick-draw\nUtilize certain Prosthetic Tools as an advanced riposte.\n\nApplicable Prosthetic Tools: \n<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@73100?>, <?acquiredWeaponNameId@73200?>, <?acquiredWeaponNameId@73300?>,\n<?acquiredWeaponNameId@75000?>, <?acquiredWeaponNameId@75100?>, <?acquiredWeaponNameId@75200?>, <?acquiredWeaponNameId@75300?>\n\n<?kgiconKc@17?> after deflecting heavy attack:\nProsthetics Quick-draw\nUtilize certain Combat Arts as an advanced riposte.\n\nApplicable Combat Arts:\n<?acquiredWeaponNameId@410000?>, <?acquiredWeaponNameId@410100?>, <?acquiredWeaponNameId@411000?>,\n<?acquiredWeaponNameId@211000?>, <?acquiredWeaponNameId@610100?>, <?acquiredWeaponNameId@673000?>, <?acquiredWeaponNameId@671000?>",
+      "jp": "攻撃を弾いた後、素早く <?kgiconKc@18?> + <?kgiconKc@16?> :\n弾きカウンター・流派技\n弾きの反動を利用して、素早く流派技を放つ\n\n対応流派技:\n<?acquiredWeaponNameId@410000?>, <?acquiredWeaponNameId@410100?>, <?acquiredWeaponNameId@411000?>,\n<?acquiredWeaponNameId@211000?>, <?acquiredWeaponNameId@610100?>, <?acquiredWeaponNameId@673000?>, <?acquiredWeaponNameId@671000?>\n\n攻撃を弾いた後、素早く <?kgiconKc@17?> :\n弾きカウンター・義手忍具\n弾きの反動を利用して、素早く義手忍具を使う\n\n対応義手忍具:\n<?acquiredWeaponNameId@73000?>, <?acquiredWeaponNameId@73100?>, <?acquiredWeaponNameId@73200?>, <?acquiredWeaponNameId@73300?>,\n<?acquiredWeaponNameId@75000?>, <?acquiredWeaponNameId@75100?>, <?acquiredWeaponNameId@75200?>, <?acquiredWeaponNameId@75300?>",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682200,
+      "status": "needs_translation",
+      "cn": "Hold <?kgiconKc@18?> to guard against projectiles.\nWhen stance is charged, release and tap <?kgiconKc@18?> in the moment the projectile hits: \nProjectile Reflection\n\n<?kgiconKc@16?> immediately after successful Projectile Reflection:\nGrappling\nUse grappling hook to close the distance. ",
+      "en": "Hold <?kgiconKc@18?> to guard against projectiles.\nWhen stance is charged, release and tap <?kgiconKc@18?> in the moment the projectile hits: \nProjectile Reflection\n\n<?kgiconKc@16?> immediately after successful Projectile Reflection:\nGrappling\nUse grappling hook to close the distance. ",
+      "jp": "短い間、<?kgiconKc@18?>長押しで構え続け\n飛び道具の着弾の瞬間に、再び<?kgiconKc@18?>:飛び道具返し\n\n飛び道具返しが成功すれば、\n<?kgiconKc@16?>で鈎縄を投げ、距離を詰められる",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 682300,
+      "status": "needs_translation",
+      "cn": "<?kgiconKc@18?> the moment a projectile hits while in the air:\nAerial Projectile Reflection\n\n<?kgiconKc@16?> immediately after successful Projectile Reflection:\nGrappling\nUse grappling hook to close the distance.",
+      "en": "<?kgiconKc@18?> the moment a projectile hits while in the air:\nAerial Projectile Reflection\n\n<?kgiconKc@16?> immediately after successful Projectile Reflection:\nGrappling\nUse grappling hook to close the distance.",
+      "jp": "空中で着弾の瞬間に<?kgiconKc@18?>:空中飛び道具返し\n敵の飛び道具を弾いて、敵に撃ち返す\n\n飛び道具返しが成功すれば、\n<?kgiconKc@16?>で鈎縄を投げ、距離を詰められる",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 683000,
+      "status": "needs_translation",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": null,
+      "cn_resurrection": null
+    },
+    {
+      "id": 690000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 690100,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 690200,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 690300,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 690400,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 699000,
+      "status": "from_improved",
+      "cn": "<?null?>",
+      "en": "<?null?>",
+      "jp": "<?null?>",
+      "cn_improved": "<?null?>",
+      "cn_resurrection": "<?null?>"
+    },
+    {
+      "id": 701000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>:Shuriken Throw\nAttack by throwing a shuriken.\n\n<?kgiconKc@17?>Hold: Spinning Shuriken Throw\nCharge the rotational power of the shuriken before throwing.  Hits the enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:手裏剣打ち\n手裏剣を投げ打つ\n\n<?kgiconKc@17?>長押し:回転打ち\n手裏剣に回転の力を溜め、投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:手里剑攻击\n投掷手里剑\n\n<?kgiconKc@17?>长按:旋转攻击\n给手里剑蓄积旋转的力道再掷出\n可连续击中敌人"
+    },
+    {
+      "id": 702000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：手里剑攻击\n掷出磨砺之锋锐手里剑\n贯敌而出，其势不竭\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>: Shuriken Throw\nAttack by throwing a sharp-edged shuriken.\nIt has a penetrating effect that damages Vitality and Posture even when guarded.\n\nHold <?kgiconKc@17?>: Spinning Shuriken Throw\nCharges the rotational power of the shuriken before throwing.  Hits the enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:手裏剣打ち\n鋭利な刃の手裏剣を、投げ打つ\n貫通効果も持ち\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>長押し:回転打ち\n手裏剣に回転の力を溜め、投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：手里剑攻击\n掷出磨砺之锋锐手里剑\n贯敌而出，其势不竭\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:回旋投掷\n为手里剑蓄积回旋力道后掷出\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:手里剑攻击\n投掷具有利刃的手里剑\n具有穿透效果\n即使敌人有所防御，也能削减其ＨＰ和躯干\n\n<?kgiconKc@17?>长按:旋转攻击\n蓄积旋转力至手里剑再掷出\n可连续击中敌人"
+    },
+    {
+      "id": 703000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：幻蝶\n投掷苦无，其后有幻蝶相随\n蝶群追敌而舞\n防者亦伤\n\n<?kgiconKc@17?>长按:幻蝶·群舞\n蓄力后可放飞更多幻蝶",
+      "en": "<?kgiconKc@17?>: Phantom Butterflies\nPhantom butterflies fly out after throwing kunai.\nThe phantom butterflies chase after\nenemies and can also inflict damage to\nguarding enemies.\n\nHold <?kgiconKc@17?>: Swarming Dance\nCharge to release more butterflies.",
+      "jp": "<?kgiconKc@17?>:まぼろし蝶々\nクナイを投げ、その後をまぼろしの蝶が飛ぶ\nまぼろしの蝶は、敵を追尾して飛び、\nガードの上からでも、ダメージを与える\n\n<?kgiconKc@17?>長押し:まぼろし蝶々・群舞\n溜めることで、まぼろし蝶を多く飛ばす",
+      "cn_improved": "<?kgiconKc@17?>：幻蝶\n投掷苦无，其后有幻蝶相随\n蝶群追敌而舞\n防者亦伤\n\n<?kgiconKc@17?>长按:幻蝶·群舞\n蓄力后可放飞更多幻蝶",
+      "cn_resurrection": "<?kgiconKc@17?>:幻蝶\n掷出苦无后，幻蝶将随其后飞舞\n幻蝶可追踪敌人飞行\n亦可从敌人的防御之上给予其伤害\n\n<?kgiconKc@17?>长按:幻蝶群舞\n蓄力后可放飞更多的幻蝶"
+    },
+    {
+      "id": 704000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:一掷千金\n将大量钱币呈放射状掷出\n\n依所持金钱多寡，所出钱币亦有所增减\n\n    贫寒所出，微尘也\n    穷者所出，小金也\n    富庶所出，大财也\n    豪侠所出，乃一掷千金",
+      "en": "<?kgiconKc@17?>: Sen Throw\nThrow coins\n\nHold <?kgiconKc@17?>: Raining Money\nScatters a large amount of sen \n\nThe amount of sen thrown varies depending on how much is in your possession.\n\n  \"The dirt poor throw dust,\n   The poor throw a little money,\n   The rich throw a lot of money,\n   and the filthy rich throw enough\n   money to make all of the rest cry.\"",
+      "jp": "<?kgiconKc@17?>:銭つぶて\n複数の銭を、まとめて放つ\n\n<?kgiconKc@17?>長押し:大盤振る舞い\n多くの銭を放射状にばら撒く\n\n所持金に応じて、銭つぶての数は変わる\n\n　素寒貧は、ほこりしか出ない\n　貧乏人は、少し銭を投げる\n　金持ちは、多く銭を投げる\n　大金持ちは、たくさん銭を投げる",
+      "cn_improved": "<?kgiconKc@17?>：金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:一掷千金\n将大量钱币呈放射状掷出\n\n依所持金钱多寡，所出钱币亦有所增减\n\n    贫寒所出，微尘也\n    穷者所出，小金也\n    富庶所出，大财也\n    豪侠所出，乃一掷千金",
+      "cn_resurrection": "<?kgiconKc@17?>:金钱镖\n同时掷出多枚钱币\n\n<?kgiconKc@17?>长按:盛宴\n将大量钱币呈放射状掷出\n\n金钱镖的数量将根据持有金钱变化\n\n　身无分文只会掷出灰尘\n　穷人能掷出很少的钱\n　富人能掷很多钱\n　大富豪能掷出很多很多钱"
+    },
+    {
+      "id": 705000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：琉璃手里剑\n投掷琉璃之锋锐手里剑\n有贯穿效果\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋劲，掷出琉璃手里剑\n可连续击中敌人",
+      "en": "<?kgiconKc@17?>: Lazulite Shuriken\nThrow extremely sharp Lazulite Shuriken.\nIts piercing edge heavily damages Vitality, and damages Vitality and Posture even if guarded.  \n\nHold <?kgiconKc@17?>: Lazulite Spinning Shuriken\nBring the shuriken to a powerful spin before throwing.  Hits enemy multiple times.",
+      "jp": "<?kgiconKc@17?>:瑠璃の手裏剣\n瑠璃の鋭利な手裏剣を、投げ打つ\n貫通効果を持ち、\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>長押し:瑠璃の独楽手裏剣\n回転の力を溜め、瑠璃の手裏剣を投げ打つ\n敵に連続で攻撃が当たる",
+      "cn_improved": "<?kgiconKc@17?>：琉璃手里剑\n投掷琉璃之锋锐手里剑\n有贯穿效果\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋劲，掷出琉璃手里剑\n可连续击中敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:琉璃手里剑\n投掷琉璃之锋利手里剑\n具有穿刺效果\n可从敌人的防御之上削减其ＨＰ与躯干\n\n<?kgiconKc@17?>长按:琉璃陀螺手里剑\n蓄积回旋力，掷出琉璃手里剑\n可连续击中敌人"
+    },
+    {
+      "id": 711000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:爆竹·弹簧式\n以弹簧机括蓄力\n将爆竹回旋抛撒至周遭四方",
+      "en": "<?kgiconKc@17?>: Shinobi Firecracker\nScatter a flash of gunpowder in front of you.\nEasily frightens beasts.\n\nHold <?kgiconKc@17?>: Spring-load Firecracker\nCharge up the spring mechanism to scatter a flash of gunpowder in all directions while spinning.",
+      "jp": "<?kgiconKc@17?>:爆竹\n爆竹を前方にばらまく\n獣は大きく怯む\n\n<?kgiconKc@17?>長押し:爆竹・バネ式\nバネ絡繰りで力を溜め\n回転しながら、爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：爆竹\n向前方抛撒爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:爆竹·弹簧式\n以弹簧机括蓄力\n将爆竹回旋抛撒至周遭四方",
+      "cn_resurrection": "<?kgiconKc@17?>:爆竹\n向前方抛撒爆竹\n野兽会非常惧怕\n\n<?kgiconKc@17?>长按:填充爆竹\n填充火药\n一边旋转一边朝所有方向撒开爆竹"
+    },
+    {
+      "id": 712000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：长火花\n向前方抛撒长效之爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:长火花·弹簧式\n以弹簧机括蓄力\n向四方抛撒长效之爆竹",
+      "en": "<?kgiconKc@17?>: Long Spark\nScatter a long-lasting flash of gunpowder in front of you.\nEasily frightens beasts.\n\nHold <?kgiconKc@17?>: Spring-load Long Spark\nCharge up the spring mechanism to scatter a long-lasting flash of gunpowder in all directions.",
+      "jp": "<?kgiconKc@17?>:長火花\n長時間残る爆竹を、前方にばらまく\n獣は大きく怯む\n\n<?kgiconKc@17?>長押し:長火花・バネ式\nバネ絡繰りで力を溜め、\n長時間残る爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：长火花\n向前方抛撒长效之爆竹\n野兽尤惧此物\n\n<?kgiconKc@17?>长按:长火花·弹簧式\n以弹簧机括蓄力\n向四方抛撒长效之爆竹",
+      "cn_resurrection": "<?kgiconKc@17?>:长效火花\n向前方抛撒效果长时间残留的爆竹\n野兽会非常惧怕\n\n<?kgiconKc@17?>长按:填充长效火花\n填充火药\n朝所有方向撒开效果长时间残留的爆竹"
+    },
+    {
+      "id": 713000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：紫烟火花\n向前方抛撒升腾紫烟之爆竹\n较通常爆竹更晚炸裂\n因爆竹而胆怯者\n所受ＨＰ·体干伤害会略有增加\n\n<?kgiconKc@17?>长按:紫烟火花·弹簧式\n以弹簧机关蓄力\n将爆竹回旋抛撒至周遭四方",
+      "en": "<?kgiconKc@17?>: Purple Fume Spark\nScatter a purple smoke emitting flash of gunpowder in front of you.\nTakes longer to explode than other firecrackers.\nEnemies blinded by the blast take slightly more Vitality and Posture damage for a brief period of time.\n\nHold <?kgiconKc@17?>: Spring-load Purple Fume Spark\nCharge the spring mechanism to scatter a flash of gunpowder in all directions while spinning.",
+      "jp": "<?kgiconKc@17?>:紫煙火花\n紫煙が立ちのぼる爆竹を、前方にばらまく\n通常の爆竹よりも、遅れて炸裂する\n爆竹で怯んだ直後の敵に対しては、\n与えるＨＰ・体幹ダメージが微増する\n\n<?kgiconKc@17?>長押し:紫煙火花・バネ式\nバネ絡繰りで力を溜め、\n回転しながら、爆竹を全方位にばらまく",
+      "cn_improved": "<?kgiconKc@17?>：紫烟火花\n向前方抛撒升腾紫烟之爆竹\n较通常爆竹更晚炸裂\n因爆竹而胆怯者\n所受ＨＰ·体干伤害会略有增加\n\n<?kgiconKc@17?>长按:紫烟火花·弹簧式\n以弹簧机关蓄力\n将爆竹回旋抛撒至周遭四方",
+      "cn_resurrection": "<?kgiconKc@17?>:紫烟火花\n向前方抛撒会升起紫烟的爆竹\n会比通常的爆竹迟些炸裂\n对因爆竹而畏缩的敌人\n给予其ＨＰ与躯干的伤害将有少量增加\n\n<?kgiconKc@17?>长按:弹簧式紫烟火花\n以弹簧机关蓄力\n一边旋转一边朝所有方向撒开爆竹"
+    },
+    {
+      "id": 721000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人",
+      "en": "<?kgiconKc@17?>: Fire Breath\nShoot fire in front of you.\n\nHold <?kgiconKc@17?>: Flame Blast\nCharge up the spring mechanism to unleash a fire blast in front of you.\nThe flame blast knocks enemies backward.",
+      "jp": "<?kgiconKc@17?>:火吹き\n前方に火を吹き出す\n\n<?kgiconKc@17?>長押し:爆炎\nバネ絡繰りで力を溜め、前方に爆炎を放つ\n爆炎は、敵を吹き飛ばす",
+      "cn_improved": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n填充火药，向前方放出爆炎\n爆炎可轰飞敌人"
+    },
+    {
+      "id": 722000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰",
+      "en": "<?kgiconKc@17?>: Fire Breath\nShoots a blast of fire in front of you.\n\nHold <?kgiconKc@17?>: Flame Blast\nCharge up the spring mechanism to release a huge blast of fire before you.\nThe powerful blast knocks enemies backward.\n\n<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Flames\nA continuous spray of fire before you.",
+      "jp": "<?kgiconKc@17?>:火吹き\n前方に火を吹き出す\n\n<?kgiconKc@17?>長押し:爆炎\n火薬を充填し、前方に爆炎を放つ\n爆炎は、敵を吹き飛ばす\n\n<?kgiconKc@17?>→<?kgiconKc@17?>長押し:火炎流し\n前方に火を吹き出し続ける",
+      "cn_improved": "<?kgiconKc@17?>：吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n以弹簧机括蓄力，向前方喷出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰",
+      "cn_resurrection": "<?kgiconKc@17?>:吹火\n向前方喷出火焰\n\n<?kgiconKc@17?>长按:爆炎\n填充火药，向前方放出爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:火焰流\n向前方持续喷出火焰"
+    },
+    {
+      "id": 723000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：净火\n向前方喷出宿有神力之爆炎\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力之爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力之火焰",
+      "en": "<?kgiconKc@17?>: Sacred Flame\nShoot flames of holy power before you.\nEffective against apparitions.\n\nHold <?kgiconKc@17?>: Sacred Flame Blast\nRelease a blast of holy flame before you.\nThe powerful blast knocks enemies backward.\n\n<?kgiconKc@17?>→Hold <?kgiconKc@17?>: Flowing Sacred Flames\nA continuous spray of holy flame before you.",
+      "jp": "<?kgiconKc@17?>:浄火\n前方に神宿りの火を吹き出す\n怨霊への攻撃が有効\n\n<?kgiconKc@17?>長押し:浄爆炎\n前方に神宿りの爆炎を放つ\n爆炎は、敵を吹き飛ばす\n\n<?kgiconKc@17?>→<?kgiconKc@17?>長押し:浄火流し\n前方に神宿りの火を吹き出し続ける",
+      "cn_improved": "<?kgiconKc@17?>：净火\n向前方喷出宿有神力之爆炎\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力之爆炎\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力之火焰",
+      "cn_resurrection": "<?kgiconKc@17?>:净火\n向前方喷出宿有神力的火焰\n能使攻击对怨灵类奏效\n\n<?kgiconKc@17?>长按:净爆炎\n向前方喷出宿有神力的火焰\n爆炎可轰飞敌人\n\n<?kgiconKc@17?>→<?kgiconKc@17?>长按:净火流\n向前方持续喷出宿有神力的火焰"
+    },
+    {
+      "id": 731000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之\n\n<?kgiconKc@17?>长按:回旋叩击\n以斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Strike\nSwing the axe down from above to strike an enemy.\nDestroys wooden shields.\n\nHold <?kgiconKc@17?>: Whirling Strike\nWhirl the axe in circles to strike enemies.\nPressing <?kgiconKc@17?> during Whirling Strike will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:叩きつけ\n斧を振り下ろして、叩きつける\n木盾程度のものは破壊する\n\n<?kgiconKc@17?>長押し:ぶん回し叩きつけ\n斧を横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：叩击\n落斧之叩击\n木盾之流，可轻易破之\n\n<?kgiconKc@17?>长按:回旋叩击\n以斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:砍劈\n挥下斧头砍劈\n可破坏木盾类物品\n\n长按<?kgiconKc@17?>:抡砍\n抡动斧头回旋横扫并砍劈"
+    },
+    {
+      "id": 732000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：火镰\n以缠火之斧挥下叩击\n木盾之流，可轻易破之\n叩击时会掀起爆炎\n\n<?kgiconKc@17?>长按:回旋叩击\n以缠火之斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Spark\nBring a flaming axe down from above to strike an enemy.\nDestroys shields made of wood,\nand creates a roar of flames on hit.\n\nHold <?kgiconKc@17?>: Whirling Strike\nWhirl the flaming axe around\nin circles to strike enemies.\nPressing <?kgiconKc@17?> during Whirling Strike will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:火打ち\n火を纏った斧を振り下ろして、叩きつける\n木盾程度のものは破壊し、\n叩きつけたときに爆炎を起こす\n\n<?kgiconKc@17?>長押し:ぶん回し叩きつけ\n火を纏った斧を\n横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：火镰\n以缠火之斧挥下叩击\n木盾之流，可轻易破之\n叩击时会掀起爆炎\n\n<?kgiconKc@17?>长按:回旋叩击\n以缠火之斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:火镰\n挥下带有火焰的斧头砍劈\n可破坏木盾类物品\n砍劈时会引起爆炎\n\n长按<?kgiconKc@17?>:抡砍\n抡动带有火焰的斧头\n回旋横扫并砍劈"
+    },
+    {
+      "id": 733000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：琉璃击\n以琉璃重斧叩击\n释放消除幻影之冲击波\n\n<?kgiconKc@17?>长按:琉璃回旋叩击\n以琉璃重斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "en": "<?kgiconKc@17?>: Lazulite Strike\nSwing the heavy Lazulite axe downward, causing a sound shockwave that dispels illusions.\n\nHold <?kgiconKc@17?>: Lazulite Scythe\nWhirl the heavy Lazulite axe around\nin circles to strike enemies.\nPressing <?kgiconKc@17?> during Lazulite Scythe will\ncause one to whirl again, continuing the attack.",
+      "jp": "<?kgiconKc@17?>:瑠璃打ち\n瑠璃の重い斧を叩きつけ、\nまぼろしを消す音の衝撃波を放つ\n\n<?kgiconKc@17?>長押し:瑠璃薙ぎ叩きつけ\n瑠璃の重い斧を\n横なぎに振り回し、叩きつける\n振り回し中に<?kgiconKc@17?>で、繰り返し振り回せる",
+      "cn_improved": "<?kgiconKc@17?>：琉璃击\n以琉璃重斧叩击\n释放消除幻影之冲击波\n\n<?kgiconKc@17?>长按:琉璃回旋叩击\n以琉璃重斧横扫，回旋一周后叩击\n回旋中按<?kgiconKc@17?>，可连续回旋",
+      "cn_resurrection": "<?kgiconKc@17?>:琉璃攻击\n以琉璃重斧砍劈\n并释放能消除幻影的冲击音波\n\n长按<?kgiconKc@17?>:琉璃横砍\n抡动宿有神力的重斧\n回旋横扫并砍劈"
+    },
+    {
+      "id": 741000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n\n受到攻击后按<?kgiconKc@17?>：雾鸦\n瞬移至<?kgMove?>之方向",
+      "en": "<?kgiconKc@17?>: Mist Stance\nWhen attacked in this stance, instantly move in the direction chosen with <?kgMove?>.\n\n<?kgiconKc@17?> after being attacked: Mist Raven\nInstantly move in the direction chosen with <?kgMove?>.",
+      "jp": "<?kgiconKc@17?>:霧構え\n構えを取り、攻撃を受けると\n<?kgMove?>の方向に瞬時に移動する\n\n攻撃を受けた後に<?kgiconKc@17?>:霧がらす\n<?kgMove?>の方向に瞬時に移動する",
+      "cn_improved": "<?kgiconKc@17?>：雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n\n受到攻击后按<?kgiconKc@17?>：雾鸦\n瞬移至<?kgMove?>之方向",
+      "cn_resurrection": "<?kgiconKc@17?>:迷雾架势\n摆好架势，一旦受到攻击\n便会向<?kgMove?>的方向瞬间移动\n\n受到攻击后按<?kgiconKc@17?>:雾鸦\n向<?kgMove?>的方向瞬间移动"
+    },
+    {
+      "id": 742000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：绯雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰\n\n受到攻击后按<?kgiconKc@17?>：绯红雾鸦\n瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰",
+      "en": "<?kgiconKc@17?>: Red Mist Stance\nWhen attacked in this stance, instantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.\n\n<?kgiconKc@17?> after taking damage: Red Mist Raven\nInstantly move in the direction chosen with <?kgMove?>.  The feathers left behind alight and burn enemies along your path.",
+      "jp": "<?kgiconKc@17?>:緋の霧構え\n構えを取り、攻撃を受けると\n<?kgMove?>の方向に瞬時に移動する\n残した羽が、燃え盛る炎となる\n\n攻撃を受けた後に<?kgiconKc@17?>:緋の霧がらす\n<?kgMove?>の方向に瞬時に移動する\n残した羽が、燃え盛る炎となる",
+      "cn_improved": "<?kgiconKc@17?>：绯雾之架势\n摆好架势，一旦受到攻击\n便会瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰\n\n受到攻击后按<?kgiconKc@17?>：绯红雾鸦\n瞬移至<?kgMove?>之方向\n所留飞羽则化为烈焰",
+      "cn_resurrection": "<?kgiconKc@17?>:绯雾架势\n摆好架势，一旦受到攻击\n便会向<?kgMove?>的方向瞬间移动\n留下的羽毛将化为熊熊烈火\n\n受到攻击后按<?kgiconKc@17?>:绯红雾鸦\n向<?kgMove?>的方向瞬间移动\n留下的羽毛将化为熊熊烈火"
+    },
+    {
+      "id": 751000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both the\nsword and Sabimaru.\n\nDuring the Combo, <?kgiconKc@16?>:\nCombo Change Attack\nPerform a sword attack that toggles the\ncurrent attack combo. This turns your body\nand can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 752000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n锋刃之锈丸\n可削敌ＨＰ及体干，防者亦伤\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both your sword and Sabimaru.  \nSabimaru's sharpened blade will damage enemy Vitality and Posture, even if guarded.\n\n<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack\nPerform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n鋭利な刃の錆び丸は、\n敵のＨＰと体幹をガードの上からでも削る\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n锋刃之锈丸\n可削敌ＨＰ及体干，防者亦伤\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n刀刃锋利的锈丸\n即使被防御也能削减敌人的ＨＰ和躯干\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 753000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n每次挥击锈丸，则有毒雾生出\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo \nPerform a flurry of attacks with both the sword and Sabimaru.  \nA poison mist erupts from every swing of Sabimaru.\n\n<?kgiconKc@17?>→<?kgiconKc@16?>: Combo Change Attack\nPerform a sword attack that toggles the current attack combo.  This turns your body and can also be used for evasion.",
+      "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃（表/裏）\n錆び丸と刀を使った、表裏で異なる連撃\n錆び丸を振るうたび、毒霧が生じる\n\n連撃（表/裏）中に<?kgiconKc@16?>:表裏切替攻撃\n表裏の連撃を切り替える刀攻撃\n身を翻すこの攻撃は、回避としても使える",
+      "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击（表/里）\n使用锈丸与楔丸，表里各异之连击\n每次挥击锈丸，则有毒雾生出\n\n连击（表/里）时按<?kgiconKc@16?>：表里切换攻击\n切换表里挥刀连击\n如此翻身攻击，亦有回避之效",
+      "cn_resurrection": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:连击（表/里）\n使用锈丸与刀的表里不同的连击\n每次挥起锈丸，便会产生毒雾\n\n连击（表/里）时按<?kgiconKc@16?>:表里切换攻击\n切换表里连击的挥刀攻击\n此种翻转身体的攻击，也可作为闪避使用"
+    },
+    {
+      "id": 761000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 762000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 763000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "en": "Hold <?kgiconKc@17?>: Shelter\nSpread the Loaded Umbrella to guard from attacks in all directions.  You can also move with the fan deployed, and it will continue to block lighter attacks as you move.\n\n<?kgiconKc@17?> as enemy attack lands: Umbrella Deflect\nSpread the Umbrella to Deflect enemy attacks.  Umbrella Deflects are easier to time than sword Deflects.\nWhile using Shelter, <?kgiconKc@18?> as enemy attack lands: \nUmbrella Spin\nSpin the Umbrella to Deflect enemy attacks.",
+      "jp": "<?kgiconKc@17?>長押し:雨宿り\n鉄扇を傘のように開き、全方位ガード\n軽い攻撃は、受けながら移動できる\n\n敵の攻撃に合わせて<?kgiconKc@17?>:露弾き\n鉄扇を広げ、敵の攻撃を弾く\n刀の弾きよりも、攻撃に合わせやすい\n\n雨宿り中に敵の攻撃に合わせて<?kgiconKc@18?>:傘回し\n開いた傘を回して、敵の攻撃を弾く",
+      "cn_improved": "<?kgiconKc@17?>长按:避雨\n将铁扇以伞状撑开，可防御八方攻击\n若只是抵御轻微攻击，亦可同时移动\n\n配合敌人攻击按<?kgiconKc@17?>：弹露\n张开铁扇，弹开敌人攻击\n相比持刀弹开，更易应对敌人攻击\n\n避雨中配合敌人攻击按<?kgiconKc@18?>：转伞\n旋转满开之伞，弹开敌人攻击",
+      "cn_resurrection": "<?kgiconKc@17?>长按:避雨\n像伞一样打开铁扇，全方位防御\n可以一边承受轻攻击一边移动\n\n配合敌人的攻击按<?kgiconKc@17?>:弹露\n打开铁扇，弹开敌人攻击\n比用刀的弹开，更容易配合攻击\n\n避雨中配合敌人的攻击按<?kgiconKc@18?>:转伞\n旋转撑开的伞，弹开敌人攻击"
+    },
+    {
+      "id": 771000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：大集风\n挥团扇，集大旋风以缠身\n\n大集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "en": "<?kgiconKc@17?>: Gathering Maelstrom\nUse the fan of leaves to wrap yourself in a whirling maelstrom.\n\nWhile using Gathering Maelstrom, <?kgiconKc@17?>: Divine Abduction\nRelease the winds around the enemy, making them face the opposite direction.\nCan be released twice.\n\nAside from certain strong enemies,\nthey will lose sight of you and be vulnerable to a Deathblow.",
+      "jp": "<?kgiconKc@17?>:大渦集め\nうちわを扇ぎ、大きな渦風を集めて身に纏う\n\n大渦集め中に<?kgiconKc@17?>:神隠し\n渦風を解き放ち、正面の敵に背後を向かせる\n二度続けて放つことができる\n\n一部の強敵を除き、\n自身の姿を見失わせることもできる",
+      "cn_improved": "<?kgiconKc@17?>：大集风\n挥团扇，集大旋风以缠身\n\n大集风时按<?kgiconKc@17?>：神隐\n释放旋风，使面向我方之敌人转至背对\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "cn_resurrection": "<?kgiconKc@17?>:大旋风聚集\n扇起蒲扇，聚集巨大旋风缠绕于身\n\n大旋风聚集时按<?kgiconKc@17?>:神隐\n释放旋风，使正面的敌人面向后方\n可以连续释放两次\n\n除部分强敌外，也可以使其迷失自身"
+    },
+    {
+      "id": 772000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：黄金之集风\n挥团扇，集黄金之旋风以缠身\n\n金集风时按<?kgiconKc@17?>：善财广进\n释放旋风，使面向我方之敌人转至背对\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "en": "<?kgiconKc@17?>:Gathering Golden Vortex\nUse the fan of leaves to wrap yourself in a whirling golden vortex.  \n\nWhile using Gathering Golden Vortex, <?kgiconKc@17?>: Donation Whirl\nRelease the winds around the enemy, making them face the opposite direction.  Additionally, they will drop items and sen.\nCan be released twice.\n\nAside from certain strong enemies,\nthey will lose sight of you and be vulnerable to a Deathblow.",
+      "jp": "<?kgiconKc@17?>:黄金の渦集め\nうちわを扇ぎ、黄金の渦風を集めて身に纏う\n\n大渦集め中に<?kgiconKc@17?>:御寄進回し\n渦風を解き放ち、正面の敵に背後を向かせ、\nアイテムや銭を落とさせる\n二度続けて放つことができる\n\n一部の強敵を除き、\n自身の姿を見失わせることもできる",
+      "cn_improved": "<?kgiconKc@17?>：黄金之集风\n挥团扇，集黄金之旋风以缠身\n\n金集风时按<?kgiconKc@17?>：善财广进\n释放旋风，使面向我方之敌人转至背对\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，亦可使其迷失自身",
+      "cn_resurrection": "<?kgiconKc@17?>:金旋风聚集\n扇起蒲扇，聚集金色旋风缠绕于身\n\n金旋风聚集时按<?kgiconKc@17?>:捐赠簿\n释放旋风，使正面的敌人面向后方\n并掉落道具或钱\n可以连续释放两次\n\n除部分强敌外，也可以使其迷失自身"
+    },
+    {
+      "id": 781000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击",
+      "en": "<?kgiconKc@17?>: Thrust\nA frontward thrust with the spear.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Rush\nReady your spear and rush straight ahead.",
+      "jp": "<?kgiconKc@17?>:突き\n正面を槍で突く\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:突撃\n槍を構え、正面に突撃する",
+      "cn_improved": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击",
+      "cn_resurrection": "<?kgiconKc@17?>:突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近被长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:突击\n举起长枪，正面突击"
+    },
+    {
+      "id": 782000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:横扫\n蓄力并顺势横扫敌人",
+      "en": "<?kgiconKc@17?>: Thrust\nA frontward thrust with the spear.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Cleave\nCharge up your strength, then cleave through surrounding enemies.",
+      "jp": "<?kgiconKc@17?>:突き\n正面を槍で突く\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:薙ぎ払い\n力を溜め、その勢いで薙ぎ払う",
+      "cn_improved": "<?kgiconKc@17?>：突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:横扫\n蓄力并顺势横扫敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:突刺\n以长枪正面突刺\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近被长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:横扫\n蓄力并趁势横扫敌人"
+    },
+    {
+      "id": 783000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：螺旋突刺\n自正面施展螺旋回转之锐利突刺\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:螺旋突击\n架枪，施展螺旋回转之锐利突击",
+      "en": "<?kgiconKc@17?>: Corkscrew Thrust\nRelease a spinning corkscrew thrust at an enemy before you.\nThis will damage their Vitality and Posture, even if guarded.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Corkscrew Rush\nReady your spear and unleash a keen, spinning corkscrew rush.",
+      "jp": "<?kgiconKc@17?>:螺旋突き\n正面に螺旋回転の鋭利な突きを放つ\n敵のＨＰと体幹をガード上からでも削る\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:螺旋突撃\n槍を構え、螺旋回転の鋭利な突撃を繰り出す",
+      "cn_improved": "<?kgiconKc@17?>：螺旋突刺\n自正面施展螺旋回转之锐利突刺\n可削敌ＨＰ及体干，防者亦伤\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:螺旋突击\n架枪，施展螺旋回转之锐利突击",
+      "cn_resurrection": "<?kgiconKc@17?>:螺旋突刺\n向正面发动螺旋回转的锋利突刺\n即使敌人有所防御，仍可削减其ＨＰ与躯干\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近用长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:螺旋突击\n拿起长枪，使出螺旋回转的锋利突击"
+    },
+    {
+      "id": 784000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "en": "<?kgiconKc@17?>: Blazing Thrust\nA frontward thrust with the spear wreathed in flames.  Applies Burn status abnormality to enemies.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Leaping Flame\nCharge up your strength, then cleave through surrounding enemies and set them on fire.",
+      "jp": "<?kgiconKc@17?>:火炎突き\n正面に火炎を纏った突きを放つ\n敵を状態異常「炎上」にする\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:火走り\n力を溜め、その勢いで火炎とともに薙ぎ払う",
+      "cn_improved": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "cn_resurrection": "<?kgiconKc@17?>:火焰突刺\n向正面发动缠绕着火焰的突刺\n可使敌人陷入“燃烧”的异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:拉近\n拉近用长枪击中的敌人\n可剥离魁梧之人身着的\n不合身铠甲\n\n<?kgiconKc@17?>长按:火舌\n蓄力并趁势用火焰横扫敌人"
+    },
+    {
+      "id": 791000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "en": "<?kgiconKc@17?>: Finger Whistle\nAttract enemy attention by blowing the Finger Whistle.  Enrages beasts, making them unable to discern between friend and foe.\n\nHold <?kgiconKc@17?>: Mountain Echo\nProduces a delayed sound after blowing the Finger Whistle.\n\nOnly the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.",
+      "jp": "<?kgiconKc@17?>:指笛\n指笛を吹き、敵の注意を引く\n獣を狂わせ、敵味方の区別なく攻撃させる\n\n<?kgiconKc@17?>長押し:山びこ吹き\n指笛を吹いたあと、遅れて音を発生させる\n\n指笛の音は、ターゲット固定中は\n狙った敵のみに聴こえ、\nそうでないときは周囲の敵すべてに聴こえる",
+      "cn_improved": "<?kgiconKc@17?>：指笛\n吹响指笛，诱敌注意\n亦可使兽类发狂，敌我不辨\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "cn_resurrection": "<?kgiconKc@17?>:口哨\n吹响口哨可吸引敌人注意\n也可使野兽发狂，不分敌我地发动攻击\n\n<?kgiconKc@17?>长按:回声口哨\n吹响口哨后，发声将滞后\n\n口哨的声音在固定目标时\n只有瞄准的敌人能听见\n除此之外的时候周围的所有敌人皆能听见"
+    },
+    {
+      "id": 792000,
+      "status": "from_improved",
+      "cn": "<?kgiconKc@17?>：爱哭鬼之指笛\n吹响指笛，诱敌注意\n亦可使怨灵之属倍感苦闷，以为破绽\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "en": "<?kgiconKc@17?>: Malcontent Finger Whistle\nAttract enemy attention by blowing the Finger Whistle.  Creates an opening by causing anguish in apparition-type enemies.\n\nHold <?kgiconKc@17?>: Mountain Echo\nPerform a delayed whistle, where no sound occurs until several seconds after the whistle was blown.\n\nOnly the targeted enemy can hear the finger whistle when locked on.  If no target is locked, all surrounding enemies will hear the sound.",
+      "jp": "<?kgiconKc@17?>:泣き虫の指笛\n指笛を吹き、敵の注意を引く\n怨霊を苦悶させ、隙を作る\n\n<?kgiconKc@17?>長押し:山びこ吹き\n指笛を吹いたあと、遅れて音を発生させる\n\n指笛の音は、ターゲット固定中は\n狙った敵のみに聴こえ、\nそうでないときは周囲の敵すべてに聴こえる",
+      "cn_improved": "<?kgiconKc@17?>：爱哭鬼之指笛\n吹响指笛，诱敌注意\n亦可使怨灵之属倍感苦闷，以为破绽\n\n<?kgiconKc@17?>长按:山彦（回声）\n笛音先发而后至\n\n若已锁定目标\n亦可使仅此一人得闻此声\n否则周遭敌人皆可闻之",
+      "cn_resurrection": "<?kgiconKc@17?>:爱哭鬼的口哨\n吹响口哨可吸引敌人注意\n也可使怨灵感到痛苦，从而制造破绽\n\n<?kgiconKc@17?>长按:回声口哨\n吹响口哨后，发声将滞后\n\n口哨的声音在固定目标时\n只有瞄准的敌人能听见\n除此之外的时候周围的所有敌人皆能听见"
+    },
+    {
+      "id": 1700000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1710000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1720000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1730000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1740000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1750000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1760000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1770000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1780000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 1790000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    },
+    {
+      "id": 2700000,
+      "status": "from_improved",
+      "cn": "? ? ?",
+      "en": "? ? ?",
+      "jp": "? ? ?",
+      "cn_improved": "? ? ?",
+      "cn_resurrection": "? ? ?"
+    }
+  ]
+}

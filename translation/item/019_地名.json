@@ -1,0 +1,116 @@
+{
+  "fmg_id": 19,
+  "fmg_name": "地名",
+  "domain": "item",
+  "count": 12,
+  "entries": [
+    {
+      "id": 1000,
+      "status": "from_improved",
+      "cn": "龙泉川端　平田庄",
+      "en": "Hirata Estate",
+      "jp": "竜泉川端　平田屋敷",
+      "cn_improved": "龙泉川端　平田庄",
+      "cn_resurrection": "龙泉河畔 平田宅邸"
+    },
+    {
+      "id": 1100,
+      "status": "from_improved",
+      "cn": "苇名城　城下",
+      "en": "Ashina Outskirts",
+      "jp": "葦名城　城下",
+      "cn_improved": "苇名城　城下",
+      "cn_resurrection": "苇名城 城邑"
+    },
+    {
+      "id": 1110,
+      "status": "from_improved",
+      "cn": "苇名城　本城",
+      "en": "Ashina Castle",
+      "jp": "葦名城　本城",
+      "cn_improved": "苇名城　本城",
+      "cn_resurrection": "苇名城 主城"
+    },
+    {
+      "id": 1120,
+      "status": "from_improved",
+      "cn": "苇名城　水手曲轮",
+      "en": "Ashina Reservoir",
+      "jp": "葦名城　水手曲輪",
+      "cn_improved": "苇名城　水手曲轮",
+      "cn_resurrection": "苇名城 贮水城区"
+    },
+    {
+      "id": 1300,
+      "status": "from_improved",
+      "cn": "弃牢",
+      "en": "Abandoned Dungeon",
+      "jp": "捨て牢",
+      "cn_improved": "弃牢",
+      "cn_resurrection": "地牢"
+    },
+    {
+      "id": 1500,
+      "status": "from_improved",
+      "cn": "水生村",
+      "en": "Mibu Village",
+      "jp": "水生村",
+      "cn_improved": "水生村",
+      "cn_resurrection": "水生村"
+    },
+    {
+      "id": 1510,
+      "status": "from_improved",
+      "cn": "苇名之底",
+      "en": "Ashina Depths",
+      "jp": "葦名の底",
+      "cn_improved": "苇名之底",
+      "cn_resurrection": "苇名之底"
+    },
+    {
+      "id": 1700,
+      "status": "from_improved",
+      "cn": "坠落谷",
+      "en": "Sunken Valley",
+      "jp": "落ち谷",
+      "cn_improved": "坠落谷",
+      "cn_resurrection": "坠落之谷"
+    },
+    {
+      "id": 1710,
+      "status": "from_improved",
+      "cn": "坠落谷　内廊下",
+      "en": "Sunken Valley Passage",
+      "jp": "落ち谷　奥廊下",
+      "cn_improved": "坠落谷　内廊下",
+      "cn_resurrection": "坠落之谷 深处回廊"
+    },
+    {
+      "id": 2000,
+      "status": "from_improved",
+      "cn": "金刚山　仙峯寺",
+      "en": "Senpou Temple, Mt.  Kongo",
+      "jp": "金剛山　仙峯寺",
+      "cn_improved": "金刚山　仙峯寺",
+      "cn_resurrection": "金刚山 仙峰寺"
+    },
+    {
+      "id": 2500,
+      "status": "from_improved",
+      "cn": "源之宫",
+      "en": "Fountainhead Palace",
+      "jp": "源の宮",
+      "cn_improved": "源之宫",
+      "cn_resurrection": "源之宫"
+    },
+    {
+      "id": 7000,
+      "status": "needs_translation",
+      "cn": "Inner Dojo",
+      "en": "Inner Dojo",
+      "jp": null,
+      "cn_improved": null,
+      "cn_resurrection": null
+    }
+  ]
+}

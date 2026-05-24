@@ -1,0 +1,6506 @@
+{
+  "fmg_id": 76,
+  "fmg_name": "メニュー共通テキスト",
+  "domain": "menu",
+  "count": 722,
+  "entries": [
+    {
+      "id": 1000,
+      "status": "from_improved",
+      "cn": "∞",
+      "en": "∞",
+      "jp": "∞",
+      "cn_improved": "∞",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3000,
+      "status": "from_improved",
+      "cn": "OK",
+      "en": "OK",
+      "jp": "OK",
+      "cn_improved": "OK",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3001,
+      "status": "from_improved",
+      "cn": "CANCEL",
+      "en": "CANCEL",
+      "jp": "CANCEL",
+      "cn_improved": "CANCEL",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3002,
+      "status": "from_improved",
+      "cn": "YES",
+      "en": "YES",
+      "jp": "YES",
+      "cn_improved": "YES",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3003,
+      "status": "from_improved",
+      "cn": "NO",
+      "en": "NO",
+      "jp": "NO",
+      "cn_improved": "NO",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3004,
+      "status": "from_improved",
+      "cn": "決定",
+      "en": "決定",
+      "jp": "決定",
+      "cn_improved": "決定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3005,
+      "status": "from_improved",
+      "cn": "キャンセル",
+      "en": "キャンセル",
+      "jp": "キャンセル",
+      "cn_improved": "キャンセル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10000,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10001,
+      "status": "from_improved",
+      "cn": "標準",
+      "en": "標準",
+      "jp": "標準",
+      "cn_improved": "標準",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10010,
+      "status": "from_improved",
+      "cn": "打撃",
+      "en": "打撃",
+      "jp": "打撃",
+      "cn_improved": "打撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10011,
+      "status": "from_improved",
+      "cn": "標準/打撃",
+      "en": "標準/打撃",
+      "jp": "標準/打撃",
+      "cn_improved": "標準/打撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10100,
+      "status": "from_improved",
+      "cn": "斬撃",
+      "en": "斬撃",
+      "jp": "斬撃",
+      "cn_improved": "斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10101,
+      "status": "from_improved",
+      "cn": "標準/斬撃",
+      "en": "標準/斬撃",
+      "jp": "標準/斬撃",
+      "cn_improved": "標準/斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10110,
+      "status": "from_improved",
+      "cn": "打撃/斬撃",
+      "en": "打撃/斬撃",
+      "jp": "打撃/斬撃",
+      "cn_improved": "打撃/斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 10111,
+      "status": "from_improved",
+      "cn": "標準/打撃/斬撃",
+      "en": "標準/打撃/斬撃",
+      "jp": "標準/打撃/斬撃",
+      "cn_improved": "標準/打撃/斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11000,
+      "status": "from_improved",
+      "cn": "刺突",
+      "en": "刺突",
+      "jp": "刺突",
+      "cn_improved": "刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11001,
+      "status": "from_improved",
+      "cn": "標準/刺突",
+      "en": "標準/刺突",
+      "jp": "標準/刺突",
+      "cn_improved": "標準/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11010,
+      "status": "from_improved",
+      "cn": "打撃/刺突",
+      "en": "打撃/刺突",
+      "jp": "打撃/刺突",
+      "cn_improved": "打撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11011,
+      "status": "from_improved",
+      "cn": "標準/打撃/刺突",
+      "en": "標準/打撃/刺突",
+      "jp": "標準/打撃/刺突",
+      "cn_improved": "標準/打撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11100,
+      "status": "from_improved",
+      "cn": "斬撃/刺突",
+      "en": "斬撃/刺突",
+      "jp": "斬撃/刺突",
+      "cn_improved": "斬撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11101,
+      "status": "from_improved",
+      "cn": "標準/斬撃/刺突",
+      "en": "標準/斬撃/刺突",
+      "jp": "標準/斬撃/刺突",
+      "cn_improved": "標準/斬撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11110,
+      "status": "from_improved",
+      "cn": "打撃/斬撃/刺突",
+      "en": "打撃/斬撃/刺突",
+      "jp": "打撃/斬撃/刺突",
+      "cn_improved": "打撃/斬撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11111,
+      "status": "from_improved",
+      "cn": "標準/打撃/斬撃/刺突",
+      "en": "標準/打撃/斬撃/刺突",
+      "jp": "標準/打撃/斬撃/刺突",
+      "cn_improved": "標準/打撃/斬撃/刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101000,
+      "status": "from_improved",
+      "cn": "名前",
+      "en": "名前",
+      "jp": "名前",
+      "cn_improved": "名前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101001,
+      "status": "from_improved",
+      "cn": "性別",
+      "en": "性別",
+      "jp": "性別",
+      "cn_improved": "性別",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101002,
+      "status": "from_improved",
+      "cn": "誓約",
+      "en": "誓約",
+      "jp": "誓約",
+      "cn_improved": "誓約",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101003,
+      "status": "from_improved",
+      "cn": "体力",
+      "en": "体力",
+      "jp": "体力",
+      "cn_improved": "体力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101004,
+      "status": "from_improved",
+      "cn": "記憶力",
+      "en": "記憶力",
+      "jp": "記憶力",
+      "cn_improved": "記憶力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101005,
+      "status": "from_improved",
+      "cn": "持久力",
+      "en": "持久力",
+      "jp": "持久力",
+      "cn_improved": "持久力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101006,
+      "status": "from_improved",
+      "cn": "筋力",
+      "en": "筋力",
+      "jp": "筋力",
+      "cn_improved": "筋力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101007,
+      "status": "from_improved",
+      "cn": "技量",
+      "en": "技量",
+      "jp": "技量",
+      "cn_improved": "技量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101008,
+      "status": "from_improved",
+      "cn": "耐久力",
+      "en": "耐久力",
+      "jp": "耐久力",
+      "cn_improved": "耐久力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101009,
+      "status": "from_improved",
+      "cn": "理力",
+      "en": "理力",
+      "jp": "理力",
+      "cn_improved": "理力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101010,
+      "status": "from_improved",
+      "cn": "信仰",
+      "en": "信仰",
+      "jp": "信仰",
+      "cn_improved": "信仰",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101011,
+      "status": "from_improved",
+      "cn": "運　",
+      "en": "運　",
+      "jp": "運　",
+      "cn_improved": "運　",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101012,
+      "status": "from_improved",
+      "cn": "人間性",
+      "en": "人間性",
+      "jp": "人間性",
+      "cn_improved": "人間性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101013,
+      "status": "from_improved",
+      "cn": "レベル",
+      "en": "レベル",
+      "jp": "レベル",
+      "cn_improved": "レベル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101014,
+      "status": "from_improved",
+      "cn": "贈り物",
+      "en": "贈り物",
+      "jp": "贈り物",
+      "cn_improved": "贈り物",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101016,
+      "status": "from_improved",
+      "cn": "プレイ時間",
+      "en": "プレイ時間",
+      "jp": "プレイ時間",
+      "cn_improved": "プレイ時間",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101017,
+      "status": "from_improved",
+      "cn": "素性",
+      "en": "素性",
+      "jp": "素性",
+      "cn_improved": "素性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101018,
+      "status": "from_improved",
+      "cn": "場所",
+      "en": "場所",
+      "jp": "場所",
+      "cn_improved": "場所",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101030,
+      "status": "from_improved",
+      "cn": "HP",
+      "en": "HP",
+      "jp": "HP",
+      "cn_improved": "HP",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101032,
+      "status": "from_improved",
+      "cn": "スタミナ",
+      "en": "スタミナ",
+      "jp": "スタミナ",
+      "cn_improved": "スタミナ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101033,
+      "status": "from_improved",
+      "cn": "出血耐性",
+      "en": "出血耐性",
+      "jp": "出血耐性",
+      "cn_improved": "出血耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101034,
+      "status": "from_improved",
+      "cn": "毒耐性",
+      "en": "毒耐性",
+      "jp": "毒耐性",
+      "cn_improved": "毒耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101035,
+      "status": "from_improved",
+      "cn": "猛毒耐性",
+      "en": "猛毒耐性",
+      "jp": "猛毒耐性",
+      "cn_improved": "猛毒耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101036,
+      "status": "from_improved",
+      "cn": "呪耐性",
+      "en": "呪耐性",
+      "jp": "呪耐性",
+      "cn_improved": "呪耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101037,
+      "status": "from_improved",
+      "cn": "アイテム発見力",
+      "en": "アイテム発見力",
+      "jp": "アイテム発見力",
+      "cn_improved": "アイテム発見力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101040,
+      "status": "from_improved",
+      "cn": "装備重量",
+      "en": "装備重量",
+      "jp": "装備重量",
+      "cn_improved": "装備重量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101041,
+      "status": "from_improved",
+      "cn": "所持ソウル",
+      "en": "所持ソウル",
+      "jp": "所持ソウル",
+      "cn_improved": "所持ソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101042,
+      "status": "from_improved",
+      "cn": "右　武器１",
+      "en": "右　武器１",
+      "jp": "右　武器１",
+      "cn_improved": "右　武器１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101043,
+      "status": "from_improved",
+      "cn": "右　武器２",
+      "en": "右　武器２",
+      "jp": "右　武器２",
+      "cn_improved": "右　武器２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101044,
+      "status": "from_improved",
+      "cn": "左　武器１",
+      "en": "左　武器１",
+      "jp": "左　武器１",
+      "cn_improved": "左　武器１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101045,
+      "status": "from_improved",
+      "cn": "左　武器２",
+      "en": "左　武器２",
+      "jp": "左　武器２",
+      "cn_improved": "左　武器２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101046,
+      "status": "from_improved",
+      "cn": "物理防御力",
+      "en": "物理防御力",
+      "jp": "物理防御力",
+      "cn_improved": "物理防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101047,
+      "status": "from_improved",
+      "cn": "対打撃",
+      "en": "対打撃",
+      "jp": "対打撃",
+      "cn_improved": "対打撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101048,
+      "status": "from_improved",
+      "cn": "対斬撃",
+      "en": "対斬撃",
+      "jp": "対斬撃",
+      "cn_improved": "対斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101049,
+      "status": "from_improved",
+      "cn": "対刺突",
+      "en": "対刺突",
+      "jp": "対刺突",
+      "cn_improved": "対刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101050,
+      "status": "from_improved",
+      "cn": "魔法防御力",
+      "en": "魔法防御力",
+      "jp": "魔法防御力",
+      "cn_improved": "魔法防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101051,
+      "status": "from_improved",
+      "cn": "炎防御力",
+      "en": "炎防御力",
+      "jp": "炎防御力",
+      "cn_improved": "炎防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101052,
+      "status": "from_improved",
+      "cn": "雷防御力",
+      "en": "雷防御力",
+      "jp": "雷防御力",
+      "cn_improved": "雷防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101053,
+      "status": "from_improved",
+      "cn": "強靭度",
+      "en": "強靭度",
+      "jp": "強靭度",
+      "cn_improved": "強靭度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101060,
+      "status": "from_improved",
+      "cn": "記憶スロット数",
+      "en": "記憶スロット数",
+      "jp": "記憶スロット数",
+      "cn_improved": "記憶スロット数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101062,
+      "status": "from_improved",
+      "cn": "使用回数",
+      "en": "使用回数",
+      "jp": "使用回数",
+      "cn_improved": "使用回数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 101063,
+      "status": "from_improved",
+      "cn": "合計使用回数",
+      "en": "合計使用回数",
+      "jp": "合計使用回数",
+      "cn_improved": "合計使用回数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102000,
+      "status": "from_improved",
+      "cn": "重量",
+      "en": "重量",
+      "jp": "重量",
+      "cn_improved": "重量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102001,
+      "status": "from_improved",
+      "cn": "耐久度",
+      "en": "耐久度",
+      "jp": "耐久度",
+      "cn_improved": "耐久度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102100,
+      "status": "from_improved",
+      "cn": "攻撃力",
+      "en": "攻撃力",
+      "jp": "攻撃力",
+      "cn_improved": "攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102101,
+      "status": "from_improved",
+      "cn": "物理",
+      "en": "物理",
+      "jp": "物理",
+      "cn_improved": "物理",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102102,
+      "status": "from_improved",
+      "cn": "魔法",
+      "en": "魔法",
+      "jp": "魔法",
+      "cn_improved": "魔法",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102103,
+      "status": "from_improved",
+      "cn": "炎",
+      "en": "炎",
+      "jp": "炎",
+      "cn_improved": "炎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102104,
+      "status": "from_improved",
+      "cn": "雷",
+      "en": "雷",
+      "jp": "雷",
+      "cn_improved": "雷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102105,
+      "status": "from_improved",
+      "cn": "致命",
+      "en": "致命",
+      "jp": "致命",
+      "cn_improved": "致命",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102106,
+      "status": "from_improved",
+      "cn": "魔法威力修正",
+      "en": "魔法威力修正",
+      "jp": "魔法威力修正",
+      "cn_improved": "魔法威力修正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102107,
+      "status": "from_improved",
+      "cn": "奇跡威力修正",
+      "en": "奇跡威力修正",
+      "jp": "奇跡威力修正",
+      "cn_improved": "奇跡威力修正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102108,
+      "status": "from_improved",
+      "cn": "射程距離",
+      "en": "射程距離",
+      "jp": "射程距離",
+      "cn_improved": "射程距離",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102109,
+      "status": "from_improved",
+      "cn": "呪術威力修正",
+      "en": "呪術威力修正",
+      "jp": "呪術威力修正",
+      "cn_improved": "呪術威力修正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102120,
+      "status": "from_improved",
+      "cn": "ダメージカット率",
+      "en": "ダメージカット率",
+      "jp": "ダメージカット率",
+      "cn_improved": "ダメージカット率",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102121,
+      "status": "from_improved",
+      "cn": "物理",
+      "en": "物理",
+      "jp": "物理",
+      "cn_improved": "物理",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102122,
+      "status": "from_improved",
+      "cn": "魔法",
+      "en": "魔法",
+      "jp": "魔法",
+      "cn_improved": "魔法",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102123,
+      "status": "from_improved",
+      "cn": "炎",
+      "en": "炎",
+      "jp": "炎",
+      "cn_improved": "炎",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102124,
+      "status": "from_improved",
+      "cn": "雷",
+      "en": "雷",
+      "jp": "雷",
+      "cn_improved": "雷",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102125,
+      "status": "from_improved",
+      "cn": "受け能力",
+      "en": "受け能力",
+      "jp": "受け能力",
+      "cn_improved": "受け能力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102130,
+      "status": "from_improved",
+      "cn": "能力補正",
+      "en": "能力補正",
+      "jp": "能力補正",
+      "cn_improved": "能力補正",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102131,
+      "status": "from_improved",
+      "cn": "特殊効果",
+      "en": "特殊効果",
+      "jp": "特殊効果",
+      "cn_improved": "特殊効果",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102132,
+      "status": "from_improved",
+      "cn": "必要能力値",
+      "en": "必要能力値",
+      "jp": "必要能力値",
+      "cn_improved": "必要能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102150,
+      "status": "from_improved",
+      "cn": "-",
+      "en": "-",
+      "jp": "-",
+      "cn_improved": "-",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102151,
+      "status": "from_improved",
+      "cn": "S",
+      "en": "S",
+      "jp": "S",
+      "cn_improved": "S",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102152,
+      "status": "from_improved",
+      "cn": "A",
+      "en": "A",
+      "jp": "A",
+      "cn_improved": "A",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102153,
+      "status": "from_improved",
+      "cn": "B",
+      "en": "B",
+      "jp": "B",
+      "cn_improved": "B",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102154,
+      "status": "from_improved",
+      "cn": "C",
+      "en": "C",
+      "jp": "C",
+      "cn_improved": "C",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102155,
+      "status": "from_improved",
+      "cn": "D",
+      "en": "D",
+      "jp": "D",
+      "cn_improved": "D",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102156,
+      "status": "from_improved",
+      "cn": "E",
+      "en": "E",
+      "jp": "E",
+      "cn_improved": "E",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102160,
+      "status": "from_improved",
+      "cn": "攻撃属性：",
+      "en": "攻撃属性：",
+      "jp": "攻撃属性：",
+      "cn_improved": "攻撃属性：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102170,
+      "status": "from_improved",
+      "cn": "武器種別：",
+      "en": "武器種別：",
+      "jp": "武器種別：",
+      "cn_improved": "武器種別：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102200,
+      "status": "from_improved",
+      "cn": "物理防御力",
+      "en": "物理防御力",
+      "jp": "物理防御力",
+      "cn_improved": "物理防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102201,
+      "status": "from_improved",
+      "cn": "対斬撃",
+      "en": "対斬撃",
+      "jp": "対斬撃",
+      "cn_improved": "対斬撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102202,
+      "status": "from_improved",
+      "cn": "対打撃",
+      "en": "対打撃",
+      "jp": "対打撃",
+      "cn_improved": "対打撃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102203,
+      "status": "from_improved",
+      "cn": "対刺突",
+      "en": "対刺突",
+      "jp": "対刺突",
+      "cn_improved": "対刺突",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102204,
+      "status": "from_improved",
+      "cn": "魔法防御力",
+      "en": "魔法防御力",
+      "jp": "魔法防御力",
+      "cn_improved": "魔法防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102205,
+      "status": "from_improved",
+      "cn": "炎防御力",
+      "en": "炎防御力",
+      "jp": "炎防御力",
+      "cn_improved": "炎防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102206,
+      "status": "from_improved",
+      "cn": "雷防御力",
+      "en": "雷防御力",
+      "jp": "雷防御力",
+      "cn_improved": "雷防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102207,
+      "status": "from_improved",
+      "cn": "強靭度",
+      "en": "強靭度",
+      "jp": "強靭度",
+      "cn_improved": "強靭度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102210,
+      "status": "from_improved",
+      "cn": "出血耐性",
+      "en": "出血耐性",
+      "jp": "出血耐性",
+      "cn_improved": "出血耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102211,
+      "status": "from_improved",
+      "cn": "毒耐性",
+      "en": "毒耐性",
+      "jp": "毒耐性",
+      "cn_improved": "毒耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102212,
+      "status": "from_improved",
+      "cn": "猛毒耐性",
+      "en": "猛毒耐性",
+      "jp": "猛毒耐性",
+      "cn_improved": "猛毒耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102213,
+      "status": "from_improved",
+      "cn": "呪耐性",
+      "en": "呪耐性",
+      "jp": "呪耐性",
+      "cn_improved": "呪耐性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102220,
+      "status": "from_improved",
+      "cn": "男女両用",
+      "en": "男女両用",
+      "jp": "男女両用",
+      "cn_improved": "男女両用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102221,
+      "status": "from_improved",
+      "cn": "男性専用",
+      "en": "男性専用",
+      "jp": "男性専用",
+      "cn_improved": "男性専用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102222,
+      "status": "from_improved",
+      "cn": "女性専用",
+      "en": "女性専用",
+      "jp": "女性専用",
+      "cn_improved": "女性専用",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103001,
+      "status": "from_improved",
+      "cn": "威力",
+      "en": "威力",
+      "jp": "威力",
+      "cn_improved": "威力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103002,
+      "status": "from_improved",
+      "cn": "魔法種別：",
+      "en": "魔法種別：",
+      "jp": "魔法種別：",
+      "cn_improved": "魔法種別：",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103003,
+      "status": "from_improved",
+      "cn": "使用スロット",
+      "en": "使用スロット",
+      "jp": "使用スロット",
+      "cn_improved": "使用スロット",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103004,
+      "status": "from_improved",
+      "cn": "必要理力",
+      "en": "必要理力",
+      "jp": "必要理力",
+      "cn_improved": "必要理力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103005,
+      "status": "from_improved",
+      "cn": "必要信仰",
+      "en": "必要信仰",
+      "jp": "必要信仰",
+      "cn_improved": "必要信仰",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103010,
+      "status": "from_improved",
+      "cn": "魔術",
+      "en": "魔術",
+      "jp": "魔術",
+      "cn_improved": "魔術",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103011,
+      "status": "from_improved",
+      "cn": "呪術",
+      "en": "呪術",
+      "jp": "呪術",
+      "cn_improved": "呪術",
+      "cn_resurrection": null
+    },
+    {
+      "id": 103012,
+      "status": "from_improved",
+      "cn": "奇跡",
+      "en": "奇跡",
+      "jp": "奇跡",
+      "cn_improved": "奇跡",
+      "cn_resurrection": null
+    },
+    {
+      "id": 104000,
+      "status": "from_improved",
+      "cn": "プレイ時間",
+      "en": "プレイ時間",
+      "jp": "プレイ時間",
+      "cn_improved": "プレイ時間",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105000,
+      "status": "from_improved",
+      "cn": "所持数",
+      "en": "所持数",
+      "jp": "所持数",
+      "cn_improved": "所持数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105001,
+      "status": "from_improved",
+      "cn": "必要ソウル",
+      "en": "必要ソウル",
+      "jp": "必要ソウル",
+      "cn_improved": "必要ソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105002,
+      "status": "from_improved",
+      "cn": "必要アイテム",
+      "en": "必要アイテム",
+      "jp": "必要アイテム",
+      "cn_improved": "必要アイテム",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105100,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105101,
+      "status": "from_improved",
+      "cn": "白教",
+      "en": "白教",
+      "jp": "白教",
+      "cn_improved": "白教",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105102,
+      "status": "from_improved",
+      "cn": "王女の守り",
+      "en": "王女の守り",
+      "jp": "王女の守り",
+      "cn_improved": "王女の守り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105103,
+      "status": "from_improved",
+      "cn": "太陽の戦士",
+      "en": "太陽の戦士",
+      "jp": "太陽の戦士",
+      "cn_improved": "太陽の戦士",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105104,
+      "status": "from_improved",
+      "cn": "ダークレイス",
+      "en": "ダークレイス",
+      "jp": "ダークレイス",
+      "cn_improved": "ダークレイス",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105105,
+      "status": "from_improved",
+      "cn": "古竜への道",
+      "en": "古竜への道",
+      "jp": "古竜への道",
+      "cn_improved": "古竜への道",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105106,
+      "status": "from_improved",
+      "cn": "墓王の眷属",
+      "en": "墓王の眷属",
+      "jp": "墓王の眷属",
+      "cn_improved": "墓王の眷属",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105107,
+      "status": "from_improved",
+      "cn": "森の狩猟者",
+      "en": "森の狩猟者",
+      "jp": "森の狩猟者",
+      "cn_improved": "森の狩猟者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105108,
+      "status": "from_improved",
+      "cn": "暗月の剣",
+      "en": "暗月の剣",
+      "jp": "暗月の剣",
+      "cn_improved": "暗月の剣",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105109,
+      "status": "from_improved",
+      "cn": "混沌の従者",
+      "en": "混沌の従者",
+      "jp": "混沌の従者",
+      "cn_improved": "混沌の従者",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105110,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105111,
+      "status": "from_improved",
+      "cn": "白教＋１",
+      "en": "白教＋１",
+      "jp": "白教＋１",
+      "cn_improved": "白教＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105112,
+      "status": "from_improved",
+      "cn": "王女の守り＋１",
+      "en": "王女の守り＋１",
+      "jp": "王女の守り＋１",
+      "cn_improved": "王女の守り＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105113,
+      "status": "from_improved",
+      "cn": "太陽の戦士＋１",
+      "en": "太陽の戦士＋１",
+      "jp": "太陽の戦士＋１",
+      "cn_improved": "太陽の戦士＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105114,
+      "status": "from_improved",
+      "cn": "ダークレイス＋１",
+      "en": "ダークレイス＋１",
+      "jp": "ダークレイス＋１",
+      "cn_improved": "ダークレイス＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105115,
+      "status": "from_improved",
+      "cn": "古竜への道＋１",
+      "en": "古竜への道＋１",
+      "jp": "古竜への道＋１",
+      "cn_improved": "古竜への道＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105116,
+      "status": "from_improved",
+      "cn": "墓王の眷属＋１",
+      "en": "墓王の眷属＋１",
+      "jp": "墓王の眷属＋１",
+      "cn_improved": "墓王の眷属＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105117,
+      "status": "from_improved",
+      "cn": "森の狩猟者＋１",
+      "en": "森の狩猟者＋１",
+      "jp": "森の狩猟者＋１",
+      "cn_improved": "森の狩猟者＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105118,
+      "status": "from_improved",
+      "cn": "暗月の剣＋１",
+      "en": "暗月の剣＋１",
+      "jp": "暗月の剣＋１",
+      "cn_improved": "暗月の剣＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105119,
+      "status": "from_improved",
+      "cn": "混沌の従者＋１",
+      "en": "混沌の従者＋１",
+      "jp": "混沌の従者＋１",
+      "cn_improved": "混沌の従者＋１",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105120,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105121,
+      "status": "from_improved",
+      "cn": "白教＋２",
+      "en": "白教＋２",
+      "jp": "白教＋２",
+      "cn_improved": "白教＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105122,
+      "status": "from_improved",
+      "cn": "王女の守り＋２",
+      "en": "王女の守り＋２",
+      "jp": "王女の守り＋２",
+      "cn_improved": "王女の守り＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105123,
+      "status": "from_improved",
+      "cn": "太陽の戦士＋２",
+      "en": "太陽の戦士＋２",
+      "jp": "太陽の戦士＋２",
+      "cn_improved": "太陽の戦士＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105124,
+      "status": "from_improved",
+      "cn": "ダークレイス＋２",
+      "en": "ダークレイス＋２",
+      "jp": "ダークレイス＋２",
+      "cn_improved": "ダークレイス＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105125,
+      "status": "from_improved",
+      "cn": "古竜への道＋２",
+      "en": "古竜への道＋２",
+      "jp": "古竜への道＋２",
+      "cn_improved": "古竜への道＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105126,
+      "status": "from_improved",
+      "cn": "墓王の眷属＋２",
+      "en": "墓王の眷属＋２",
+      "jp": "墓王の眷属＋２",
+      "cn_improved": "墓王の眷属＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105127,
+      "status": "from_improved",
+      "cn": "森の狩猟者＋２",
+      "en": "森の狩猟者＋２",
+      "jp": "森の狩猟者＋２",
+      "cn_improved": "森の狩猟者＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105128,
+      "status": "from_improved",
+      "cn": "暗月の剣＋２",
+      "en": "暗月の剣＋２",
+      "jp": "暗月の剣＋２",
+      "cn_improved": "暗月の剣＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105129,
+      "status": "from_improved",
+      "cn": "混沌の従者＋２",
+      "en": "混沌の従者＋２",
+      "jp": "混沌の従者＋２",
+      "cn_improved": "混沌の従者＋２",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105130,
+      "status": "from_improved",
+      "cn": "なし",
+      "en": "なし",
+      "jp": "なし",
+      "cn_improved": "なし",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105131,
+      "status": "from_improved",
+      "cn": "白教＋３",
+      "en": "白教＋３",
+      "jp": "白教＋３",
+      "cn_improved": "白教＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105132,
+      "status": "from_improved",
+      "cn": "王女の守り＋３",
+      "en": "王女の守り＋３",
+      "jp": "王女の守り＋３",
+      "cn_improved": "王女の守り＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105133,
+      "status": "from_improved",
+      "cn": "太陽の戦士＋３",
+      "en": "太陽の戦士＋３",
+      "jp": "太陽の戦士＋３",
+      "cn_improved": "太陽の戦士＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105134,
+      "status": "from_improved",
+      "cn": "ダークレイス＋３",
+      "en": "ダークレイス＋３",
+      "jp": "ダークレイス＋３",
+      "cn_improved": "ダークレイス＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105135,
+      "status": "from_improved",
+      "cn": "古竜への道＋３",
+      "en": "古竜への道＋３",
+      "jp": "古竜への道＋３",
+      "cn_improved": "古竜への道＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105136,
+      "status": "from_improved",
+      "cn": "墓王の眷属＋３",
+      "en": "墓王の眷属＋３",
+      "jp": "墓王の眷属＋３",
+      "cn_improved": "墓王の眷属＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105137,
+      "status": "from_improved",
+      "cn": "森の狩猟者＋３",
+      "en": "森の狩猟者＋３",
+      "jp": "森の狩猟者＋３",
+      "cn_improved": "森の狩猟者＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105138,
+      "status": "from_improved",
+      "cn": "暗月の剣＋３",
+      "en": "暗月の剣＋３",
+      "jp": "暗月の剣＋３",
+      "cn_improved": "暗月の剣＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 105139,
+      "status": "from_improved",
+      "cn": "混沌の従者＋３",
+      "en": "混沌の従者＋３",
+      "jp": "混沌の従者＋３",
+      "cn_improved": "混沌の従者＋３",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201000,
+      "status": "from_improved",
+      "cn": "<?pcName?>",
+      "en": "<?pcName?>",
+      "jp": "<?pcName?>",
+      "cn_improved": "<?pcName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201001,
+      "status": "from_improved",
+      "cn": "<?pcGender?>",
+      "en": "<?pcGender?>",
+      "jp": "<?pcGender?>",
+      "cn_improved": "<?pcGender?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201002,
+      "status": "from_improved",
+      "cn": "<?pcOath?>",
+      "en": "<?pcOath?>",
+      "jp": "<?pcOath?>",
+      "cn_improved": "<?pcOath?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201003,
+      "status": "from_improved",
+      "cn": "<?pcVitality?>",
+      "en": "<?pcVitality?>",
+      "jp": "<?pcVitality?>",
+      "cn_improved": "<?pcVitality?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201004,
+      "status": "from_improved",
+      "cn": "<?pcWill?>",
+      "en": "<?pcWill?>",
+      "jp": "<?pcWill?>",
+      "cn_improved": "<?pcWill?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201005,
+      "status": "from_improved",
+      "cn": "<?pcEndur?>",
+      "en": "<?pcEndur?>",
+      "jp": "<?pcEndur?>",
+      "cn_improved": "<?pcEndur?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201006,
+      "status": "from_improved",
+      "cn": "<?pcStrength?>",
+      "en": "<?pcStrength?>",
+      "jp": "<?pcStrength?>",
+      "cn_improved": "<?pcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201007,
+      "status": "from_improved",
+      "cn": "<?pcDexter?>",
+      "en": "<?pcDexter?>",
+      "jp": "<?pcDexter?>",
+      "cn_improved": "<?pcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201008,
+      "status": "from_improved",
+      "cn": "<?pcDurability?>",
+      "en": "<?pcDurability?>",
+      "jp": "<?pcDurability?>",
+      "cn_improved": "<?pcDurability?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201009,
+      "status": "from_improved",
+      "cn": "<?pcIntellect?>",
+      "en": "<?pcIntellect?>",
+      "jp": "<?pcIntellect?>",
+      "cn_improved": "<?pcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201010,
+      "status": "from_improved",
+      "cn": "<?pcForce?>",
+      "en": "<?pcForce?>",
+      "jp": "<?pcForce?>",
+      "cn_improved": "<?pcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201011,
+      "status": "from_improved",
+      "cn": "<?pcLuck?>",
+      "en": "<?pcLuck?>",
+      "jp": "<?pcLuck?>",
+      "cn_improved": "<?pcLuck?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201012,
+      "status": "from_improved",
+      "cn": "<?pcHeroic?>",
+      "en": "<?pcHeroic?>",
+      "jp": "<?pcHeroic?>",
+      "cn_improved": "<?pcHeroic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201013,
+      "status": "from_improved",
+      "cn": "<?pcLevel?>",
+      "en": "<?pcLevel?>",
+      "jp": "<?pcLevel?>",
+      "cn_improved": "<?pcLevel?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201014,
+      "status": "from_improved",
+      "cn": "<?pcGift?>",
+      "en": "<?pcGift?>",
+      "jp": "<?pcGift?>",
+      "cn_improved": "<?pcGift?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201015,
+      "status": "from_improved",
+      "cn": "<?pcAppearance?>",
+      "en": "<?pcAppearance?>",
+      "jp": "<?pcAppearance?>",
+      "cn_improved": "<?pcAppearance?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201016,
+      "status": "from_improved",
+      "cn": "<?pcPlayTime?>",
+      "en": "<?pcPlayTime?>",
+      "jp": "<?pcPlayTime?>",
+      "cn_improved": "<?pcPlayTime?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201017,
+      "status": "from_improved",
+      "cn": "<?pcFeature?>",
+      "en": "<?pcFeature?>",
+      "jp": "<?pcFeature?>",
+      "cn_improved": "<?pcFeature?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201018,
+      "status": "from_improved",
+      "cn": "<?mapName?>",
+      "en": "<?mapName?>",
+      "jp": "<?mapName?>",
+      "cn_improved": "<?mapName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201025,
+      "status": "from_improved",
+      "cn": "<?pcFaceType?>",
+      "en": "<?pcFaceType?>",
+      "jp": "<?pcFaceType?>",
+      "cn_improved": "<?pcFaceType?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201026,
+      "status": "from_improved",
+      "cn": "<?pcHairType?>",
+      "en": "<?pcHairType?>",
+      "jp": "<?pcHairType?>",
+      "cn_improved": "<?pcHairType?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201027,
+      "status": "from_improved",
+      "cn": "<?pcHairEyeColor?>",
+      "en": "<?pcHairEyeColor?>",
+      "jp": "<?pcHairEyeColor?>",
+      "cn_improved": "<?pcHairEyeColor?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201028,
+      "status": "from_improved",
+      "cn": "<?warpName7?>",
+      "en": "<?warpName7?>",
+      "jp": "<?warpName7?>",
+      "cn_improved": "<?warpName7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201029,
+      "status": "from_improved",
+      "cn": "<?warpName8?>",
+      "en": "<?warpName8?>",
+      "jp": "<?warpName8?>",
+      "cn_improved": "<?warpName8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201030,
+      "status": "from_improved",
+      "cn": "<?pcHP?>/<?pcMaxHp?>",
+      "en": "<?pcHP?>/<?pcMaxHp?>",
+      "jp": "<?pcHP?>/<?pcMaxHp?>",
+      "cn_improved": "<?pcHP?>/<?pcMaxHp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201031,
+      "status": "from_improved",
+      "cn": "<?pcMP?>/<?pcMaxMp?>",
+      "en": "<?pcMP?>/<?pcMaxMp?>",
+      "jp": "<?pcMP?>/<?pcMaxMp?>",
+      "cn_improved": "<?pcMP?>/<?pcMaxMp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201032,
+      "status": "from_improved",
+      "cn": "<?pcMaxStamina?>",
+      "en": "<?pcMaxStamina?>",
+      "jp": "<?pcMaxStamina?>",
+      "cn_improved": "<?pcMaxStamina?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201033,
+      "status": "from_improved",
+      "cn": "<?resistBleedingTotal?>",
+      "en": "<?resistBleedingTotal?>",
+      "jp": "<?resistBleedingTotal?>",
+      "cn_improved": "<?resistBleedingTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201034,
+      "status": "from_improved",
+      "cn": "<?resistPoisonTotal?>",
+      "en": "<?resistPoisonTotal?>",
+      "jp": "<?resistPoisonTotal?>",
+      "cn_improved": "<?resistPoisonTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201035,
+      "status": "from_improved",
+      "cn": "<?resistPlagueTotal?>",
+      "en": "<?resistPlagueTotal?>",
+      "jp": "<?resistPlagueTotal?>",
+      "cn_improved": "<?resistPlagueTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201036,
+      "status": "from_improved",
+      "cn": "<?resistCurseTotal?>",
+      "en": "<?resistCurseTotal?>",
+      "jp": "<?resistCurseTotal?>",
+      "cn_improved": "<?resistCurseTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201037,
+      "status": "from_improved",
+      "cn": "<?pcItemOccur?>",
+      "en": "<?pcItemOccur?>",
+      "jp": "<?pcItemOccur?>",
+      "cn_improved": "<?pcItemOccur?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201038,
+      "status": "from_improved",
+      "cn": "<?magicCount?>/<?magicMaxCount?>",
+      "en": "<?magicCount?>/<?magicMaxCount?>",
+      "jp": "<?magicCount?>/<?magicMaxCount?>",
+      "cn_improved": "<?magicCount?>/<?magicMaxCount?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201040,
+      "status": "from_improved",
+      "cn": "<?equipWeight?>/<?maxEquipWeight?>",
+      "en": "<?equipWeight?>/<?maxEquipWeight?>",
+      "jp": "<?equipWeight?>/<?maxEquipWeight?>",
+      "cn_improved": "<?equipWeight?>/<?maxEquipWeight?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201041,
+      "status": "from_improved",
+      "cn": "<?souls?>",
+      "en": "<?souls?>",
+      "jp": "<?souls?>",
+      "cn_improved": "<?souls?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201042,
+      "status": "from_improved",
+      "cn": "<?atckR1?>",
+      "en": "<?atckR1?>",
+      "jp": "<?atckR1?>",
+      "cn_improved": "<?atckR1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201043,
+      "status": "from_improved",
+      "cn": "<?atckR2?>",
+      "en": "<?atckR2?>",
+      "jp": "<?atckR2?>",
+      "cn_improved": "<?atckR2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201044,
+      "status": "from_improved",
+      "cn": "<?atckL1?>",
+      "en": "<?atckL1?>",
+      "jp": "<?atckL1?>",
+      "cn_improved": "<?atckL1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201045,
+      "status": "from_improved",
+      "cn": "<?atckL2?>",
+      "en": "<?atckL2?>",
+      "jp": "<?atckL2?>",
+      "cn_improved": "<?atckL2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201046,
+      "status": "from_improved",
+      "cn": "<?defPhysicalTotal?>(<?defPhysicalPC?>)",
+      "en": "<?defPhysicalTotal?>(<?defPhysicalPC?>)",
+      "jp": "<?defPhysicalTotal?>(<?defPhysicalPC?>)",
+      "cn_improved": "<?defPhysicalTotal?>(<?defPhysicalPC?>)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201047,
+      "status": "from_improved",
+      "cn": "<?defBluntTotal?>",
+      "en": "<?defBluntTotal?>",
+      "jp": "<?defBluntTotal?>",
+      "cn_improved": "<?defBluntTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201048,
+      "status": "from_improved",
+      "cn": "<?defCutTotal?>",
+      "en": "<?defCutTotal?>",
+      "jp": "<?defCutTotal?>",
+      "cn_improved": "<?defCutTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201049,
+      "status": "from_improved",
+      "cn": "<?defStabTotal?>",
+      "en": "<?defStabTotal?>",
+      "jp": "<?defStabTotal?>",
+      "cn_improved": "<?defStabTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201050,
+      "status": "from_improved",
+      "cn": "<?defMagicTotal?>(<?defMagicPC?>)",
+      "en": "<?defMagicTotal?>(<?defMagicPC?>)",
+      "jp": "<?defMagicTotal?>(<?defMagicPC?>)",
+      "cn_improved": "<?defMagicTotal?>(<?defMagicPC?>)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201051,
+      "status": "from_improved",
+      "cn": "<?defFireTotal?>(<?defFirePC?>)",
+      "en": "<?defFireTotal?>(<?defFirePC?>)",
+      "jp": "<?defFireTotal?>(<?defFirePC?>)",
+      "cn_improved": "<?defFireTotal?>(<?defFirePC?>)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201052,
+      "status": "from_improved",
+      "cn": "<?defThunderboltTotal?>(<?defThunderboltPC?>)",
+      "en": "<?defThunderboltTotal?>(<?defThunderboltPC?>)",
+      "jp": "<?defThunderboltTotal?>(<?defThunderboltPC?>)",
+      "cn_improved": "<?defThunderboltTotal?>(<?defThunderboltPC?>)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201053,
+      "status": "from_improved",
+      "cn": "<?defSAToughnessTotal?>",
+      "en": "<?defSAToughnessTotal?>",
+      "jp": "<?defSAToughnessTotal?>",
+      "cn_improved": "<?defSAToughnessTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201060,
+      "status": "from_improved",
+      "cn": "<?magicSlotNum?>",
+      "en": "<?magicSlotNum?>",
+      "jp": "<?magicSlotNum?>",
+      "cn_improved": "<?magicSlotNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201061,
+      "status": "from_improved",
+      "cn": "<?miracleSlotNum?>",
+      "en": "<?miracleSlotNum?>",
+      "jp": "<?miracleSlotNum?>",
+      "cn_improved": "<?miracleSlotNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201070,
+      "status": "from_improved",
+      "cn": "<?lvUpAfterSouls?>",
+      "en": "<?lvUpAfterSouls?>",
+      "jp": "<?lvUpAfterSouls?>",
+      "cn_improved": "<?lvUpAfterSouls?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201071,
+      "status": "from_improved",
+      "cn": "<?lvUpCostSouls?>",
+      "en": "<?lvUpCostSouls?>",
+      "jp": "<?lvUpCostSouls?>",
+      "cn_improved": "<?lvUpCostSouls?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201080,
+      "status": "from_improved",
+      "cn": "<?pcMaxHp?>",
+      "en": "<?pcMaxHp?>",
+      "jp": "<?pcMaxHp?>",
+      "cn_improved": "<?pcMaxHp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201081,
+      "status": "from_improved",
+      "cn": "<?pcMaxMp?>",
+      "en": "<?pcMaxMp?>",
+      "jp": "<?pcMaxMp?>",
+      "cn_improved": "<?pcMaxMp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201082,
+      "status": "from_improved",
+      "cn": "<?defPhysicalTotal?>",
+      "en": "<?defPhysicalTotal?>",
+      "jp": "<?defPhysicalTotal?>",
+      "cn_improved": "<?defPhysicalTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201083,
+      "status": "from_improved",
+      "cn": "<?defMagicTotal?>",
+      "en": "<?defMagicTotal?>",
+      "jp": "<?defMagicTotal?>",
+      "cn_improved": "<?defMagicTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201084,
+      "status": "from_improved",
+      "cn": "<?defFireTotal?>",
+      "en": "<?defFireTotal?>",
+      "jp": "<?defFireTotal?>",
+      "cn_improved": "<?defFireTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201085,
+      "status": "from_improved",
+      "cn": "<?defThunderboltTotal?>",
+      "en": "<?defThunderboltTotal?>",
+      "jp": "<?defThunderboltTotal?>",
+      "cn_improved": "<?defThunderboltTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201086,
+      "status": "from_improved",
+      "cn": "<?maxEquipWeight?>",
+      "en": "<?maxEquipWeight?>",
+      "jp": "<?maxEquipWeight?>",
+      "cn_improved": "<?maxEquipWeight?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201103,
+      "status": "from_improved",
+      "cn": "<?lvUpPcVitality?>",
+      "en": "<?lvUpPcVitality?>",
+      "jp": "<?lvUpPcVitality?>",
+      "cn_improved": "<?lvUpPcVitality?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201104,
+      "status": "from_improved",
+      "cn": "<?lvUpPcWill?>",
+      "en": "<?lvUpPcWill?>",
+      "jp": "<?lvUpPcWill?>",
+      "cn_improved": "<?lvUpPcWill?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201105,
+      "status": "from_improved",
+      "cn": "<?lvUpPcEndur?>",
+      "en": "<?lvUpPcEndur?>",
+      "jp": "<?lvUpPcEndur?>",
+      "cn_improved": "<?lvUpPcEndur?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201106,
+      "status": "from_improved",
+      "cn": "<?lvUpPcStrength?>",
+      "en": "<?lvUpPcStrength?>",
+      "jp": "<?lvUpPcStrength?>",
+      "cn_improved": "<?lvUpPcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201107,
+      "status": "from_improved",
+      "cn": "<?lvUpPcDexter?>",
+      "en": "<?lvUpPcDexter?>",
+      "jp": "<?lvUpPcDexter?>",
+      "cn_improved": "<?lvUpPcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201108,
+      "status": "from_improved",
+      "cn": "<?lvUpPcDurability?>",
+      "en": "<?lvUpPcDurability?>",
+      "jp": "<?lvUpPcDurability?>",
+      "cn_improved": "<?lvUpPcDurability?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201109,
+      "status": "from_improved",
+      "cn": "<?lvUpPcIntellect?>",
+      "en": "<?lvUpPcIntellect?>",
+      "jp": "<?lvUpPcIntellect?>",
+      "cn_improved": "<?lvUpPcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201110,
+      "status": "from_improved",
+      "cn": "<?lvUpPcForce?>",
+      "en": "<?lvUpPcForce?>",
+      "jp": "<?lvUpPcForce?>",
+      "cn_improved": "<?lvUpPcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201111,
+      "status": "from_improved",
+      "cn": "<?lvUpPcLuck?>",
+      "en": "<?lvUpPcLuck?>",
+      "jp": "<?lvUpPcLuck?>",
+      "cn_improved": "<?lvUpPcLuck?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201112,
+      "status": "from_improved",
+      "cn": "<?lvUpPcHeroic?>",
+      "en": "<?lvUpPcHeroic?>",
+      "jp": "<?lvUpPcHeroic?>",
+      "cn_improved": "<?lvUpPcHeroic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201113,
+      "status": "from_improved",
+      "cn": "<?lvUpPcLevel?>",
+      "en": "<?lvUpPcLevel?>",
+      "jp": "<?lvUpPcLevel?>",
+      "cn_improved": "<?lvUpPcLevel?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201132,
+      "status": "from_improved",
+      "cn": "<?lvUpPcMaxStamina?>",
+      "en": "<?lvUpPcMaxStamina?>",
+      "jp": "<?lvUpPcMaxStamina?>",
+      "cn_improved": "<?lvUpPcMaxStamina?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201133,
+      "status": "from_improved",
+      "cn": "<?lvUpResistBleedingTotal?>",
+      "en": "<?lvUpResistBleedingTotal?>",
+      "jp": "<?lvUpResistBleedingTotal?>",
+      "cn_improved": "<?lvUpResistBleedingTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201134,
+      "status": "from_improved",
+      "cn": "<?lvUpResistPoisonTotal?>",
+      "en": "<?lvUpResistPoisonTotal?>",
+      "jp": "<?lvUpResistPoisonTotal?>",
+      "cn_improved": "<?lvUpResistPoisonTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201135,
+      "status": "from_improved",
+      "cn": "<?lvUpResistPlagueTotal?>",
+      "en": "<?lvUpResistPlagueTotal?>",
+      "jp": "<?lvUpResistPlagueTotal?>",
+      "cn_improved": "<?lvUpResistPlagueTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201136,
+      "status": "from_improved",
+      "cn": "<?lvUpResistCurseTotal?>",
+      "en": "<?lvUpResistCurseTotal?>",
+      "jp": "<?lvUpResistCurseTotal?>",
+      "cn_improved": "<?lvUpResistCurseTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201137,
+      "status": "from_improved",
+      "cn": "<?lvUpPcItemOccur?>",
+      "en": "<?lvUpPcItemOccur?>",
+      "jp": "<?lvUpPcItemOccur?>",
+      "cn_improved": "<?lvUpPcItemOccur?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201140,
+      "status": "from_improved",
+      "cn": "<?lvUpMaxEquipWeight?>",
+      "en": "<?lvUpMaxEquipWeight?>",
+      "jp": "<?lvUpMaxEquipWeight?>",
+      "cn_improved": "<?lvUpMaxEquipWeight?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201142,
+      "status": "from_improved",
+      "cn": "<?lvUpAtkR1?>",
+      "en": "<?lvUpAtkR1?>",
+      "jp": "<?lvUpAtkR1?>",
+      "cn_improved": "<?lvUpAtkR1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201143,
+      "status": "from_improved",
+      "cn": "<?lvUpAtkR2?>",
+      "en": "<?lvUpAtkR2?>",
+      "jp": "<?lvUpAtkR2?>",
+      "cn_improved": "<?lvUpAtkR2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201144,
+      "status": "from_improved",
+      "cn": "<?lvUpAtkL1?>",
+      "en": "<?lvUpAtkL1?>",
+      "jp": "<?lvUpAtkL1?>",
+      "cn_improved": "<?lvUpAtkL1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201145,
+      "status": "from_improved",
+      "cn": "<?lvUpAtkL2?>",
+      "en": "<?lvUpAtkL2?>",
+      "jp": "<?lvUpAtkL2?>",
+      "cn_improved": "<?lvUpAtkL2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201147,
+      "status": "from_improved",
+      "cn": "<?lvUpDefBlunt?>",
+      "en": "<?lvUpDefBlunt?>",
+      "jp": "<?lvUpDefBlunt?>",
+      "cn_improved": "<?lvUpDefBlunt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201148,
+      "status": "from_improved",
+      "cn": "<?lvUpDefCut?>",
+      "en": "<?lvUpDefCut?>",
+      "jp": "<?lvUpDefCut?>",
+      "cn_improved": "<?lvUpDefCut?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201149,
+      "status": "from_improved",
+      "cn": "<?lvUpDefStab?>",
+      "en": "<?lvUpDefStab?>",
+      "jp": "<?lvUpDefStab?>",
+      "cn_improved": "<?lvUpDefStab?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201160,
+      "status": "from_improved",
+      "cn": "<?lvUpMagicSlotNum?>",
+      "en": "<?lvUpMagicSlotNum?>",
+      "jp": "<?lvUpMagicSlotNum?>",
+      "cn_improved": "<?lvUpMagicSlotNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201161,
+      "status": "from_improved",
+      "cn": "<?lvUpMiracleSlotNum?>",
+      "en": "<?lvUpMiracleSlotNum?>",
+      "jp": "<?lvUpMiracleSlotNum?>",
+      "cn_improved": "<?lvUpMiracleSlotNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201180,
+      "status": "from_improved",
+      "cn": "<?lvUpPcMaxHp?>",
+      "en": "<?lvUpPcMaxHp?>",
+      "jp": "<?lvUpPcMaxHp?>",
+      "cn_improved": "<?lvUpPcMaxHp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201181,
+      "status": "from_improved",
+      "cn": "<?lvUpPcMaxMp?>",
+      "en": "<?lvUpPcMaxMp?>",
+      "jp": "<?lvUpPcMaxMp?>",
+      "cn_improved": "<?lvUpPcMaxMp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201182,
+      "status": "from_improved",
+      "cn": "<?lvUpDefPhysicalTotal?>",
+      "en": "<?lvUpDefPhysicalTotal?>",
+      "jp": "<?lvUpDefPhysicalTotal?>",
+      "cn_improved": "<?lvUpDefPhysicalTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201183,
+      "status": "from_improved",
+      "cn": "<?lvUpDefMagicTotal?>",
+      "en": "<?lvUpDefMagicTotal?>",
+      "jp": "<?lvUpDefMagicTotal?>",
+      "cn_improved": "<?lvUpDefMagicTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201184,
+      "status": "from_improved",
+      "cn": "<?lvUpDefFireTotal?>",
+      "en": "<?lvUpDefFireTotal?>",
+      "jp": "<?lvUpDefFireTotal?>",
+      "cn_improved": "<?lvUpDefFireTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201185,
+      "status": "from_improved",
+      "cn": "<?lvUpDefThunderboltTotal?>",
+      "en": "<?lvUpDefThunderboltTotal?>",
+      "jp": "<?lvUpDefThunderboltTotal?>",
+      "cn_improved": "<?lvUpDefThunderboltTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201187,
+      "status": "from_improved",
+      "cn": "<?lvUpDefSAToughnessTotal?>",
+      "en": "<?lvUpDefSAToughnessTotal?>",
+      "jp": "<?lvUpDefSAToughnessTotal?>",
+      "cn_improved": "<?lvUpDefSAToughnessTotal?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201190,
+      "status": "from_improved",
+      "cn": "<?lvUpWpPhysicalAtkPlus?>",
+      "en": "<?lvUpWpPhysicalAtkPlus?>",
+      "jp": "<?lvUpWpPhysicalAtkPlus?>",
+      "cn_improved": "<?lvUpWpPhysicalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201191,
+      "status": "from_improved",
+      "cn": "<?lvUpWpAttributeAtkPlus?>",
+      "en": "<?lvUpWpAttributeAtkPlus?>",
+      "jp": "<?lvUpWpAttributeAtkPlus?>",
+      "cn_improved": "<?lvUpWpAttributeAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201192,
+      "status": "from_improved",
+      "cn": "<?lvUpWpCriticalAtkPlus?>",
+      "en": "<?lvUpWpCriticalAtkPlus?>",
+      "jp": "<?lvUpWpCriticalAtkPlus?>",
+      "cn_improved": "<?lvUpWpCriticalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201193,
+      "status": "from_improved",
+      "cn": "<?lvUpWpMagicAtkPlus?>",
+      "en": "<?lvUpWpMagicAtkPlus?>",
+      "jp": "<?lvUpWpMagicAtkPlus?>",
+      "cn_improved": "<?lvUpWpMagicAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201194,
+      "status": "from_improved",
+      "cn": "<?lvUpWpFireAtkPlus?>",
+      "en": "<?lvUpWpFireAtkPlus?>",
+      "jp": "<?lvUpWpFireAtkPlus?>",
+      "cn_improved": "<?lvUpWpFireAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201195,
+      "status": "from_improved",
+      "cn": "<?lvUpWpThunderboltAtkPlus?>",
+      "en": "<?lvUpWpThunderboltAtkPlus?>",
+      "jp": "<?lvUpWpThunderboltAtkPlus?>",
+      "cn_improved": "<?lvUpWpThunderboltAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201196,
+      "status": "from_improved",
+      "cn": "<?lvUpWpMagicAdjust?>",
+      "en": "<?lvUpWpMagicAdjust?>",
+      "jp": "<?lvUpWpMagicAdjust?>",
+      "cn_improved": "<?lvUpWpMagicAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 201197,
+      "status": "from_improved",
+      "cn": "<?lvUpWpMiracleAdjust?>",
+      "en": "<?lvUpWpMiracleAdjust?>",
+      "jp": "<?lvUpWpMiracleAdjust?>",
+      "cn_improved": "<?lvUpWpMiracleAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202000,
+      "status": "from_improved",
+      "cn": "<?itemListName1?>",
+      "en": "<?itemListName1?>",
+      "jp": "<?itemListName1?>",
+      "cn_improved": "<?itemListName1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202001,
+      "status": "from_improved",
+      "cn": "<?itemListName2?>",
+      "en": "<?itemListName2?>",
+      "jp": "<?itemListName2?>",
+      "cn_improved": "<?itemListName2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202002,
+      "status": "from_improved",
+      "cn": "<?itemListName3?>",
+      "en": "<?itemListName3?>",
+      "jp": "<?itemListName3?>",
+      "cn_improved": "<?itemListName3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202003,
+      "status": "from_improved",
+      "cn": "<?itemListName4?>",
+      "en": "<?itemListName4?>",
+      "jp": "<?itemListName4?>",
+      "cn_improved": "<?itemListName4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202004,
+      "status": "from_improved",
+      "cn": "<?itemListName5?>",
+      "en": "<?itemListName5?>",
+      "jp": "<?itemListName5?>",
+      "cn_improved": "<?itemListName5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202010,
+      "status": "from_improved",
+      "cn": "<?itemListNum1?>",
+      "en": "<?itemListNum1?>",
+      "jp": "<?itemListNum1?>",
+      "cn_improved": "<?itemListNum1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202011,
+      "status": "from_improved",
+      "cn": "<?itemListNum2?>",
+      "en": "<?itemListNum2?>",
+      "jp": "<?itemListNum2?>",
+      "cn_improved": "<?itemListNum2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202012,
+      "status": "from_improved",
+      "cn": "<?itemListNum3?>",
+      "en": "<?itemListNum3?>",
+      "jp": "<?itemListNum3?>",
+      "cn_improved": "<?itemListNum3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202013,
+      "status": "from_improved",
+      "cn": "<?itemListNum4?>",
+      "en": "<?itemListNum4?>",
+      "jp": "<?itemListNum4?>",
+      "cn_improved": "<?itemListNum4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202014,
+      "status": "from_improved",
+      "cn": "<?itemListNum5?>",
+      "en": "<?itemListNum5?>",
+      "jp": "<?itemListNum5?>",
+      "cn_improved": "<?itemListNum5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202020,
+      "status": "from_improved",
+      "cn": "<?itemListLineMsg1?>",
+      "en": "<?itemListLineMsg1?>",
+      "jp": "<?itemListLineMsg1?>",
+      "cn_improved": "<?itemListLineMsg1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202021,
+      "status": "from_improved",
+      "cn": "<?itemListLineMsg2?>",
+      "en": "<?itemListLineMsg2?>",
+      "jp": "<?itemListLineMsg2?>",
+      "cn_improved": "<?itemListLineMsg2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202022,
+      "status": "from_improved",
+      "cn": "<?itemListLineMsg3?>",
+      "en": "<?itemListLineMsg3?>",
+      "jp": "<?itemListLineMsg3?>",
+      "cn_improved": "<?itemListLineMsg3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202023,
+      "status": "from_improved",
+      "cn": "<?itemListLineMsg4?>",
+      "en": "<?itemListLineMsg4?>",
+      "jp": "<?itemListLineMsg4?>",
+      "cn_improved": "<?itemListLineMsg4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202024,
+      "status": "from_improved",
+      "cn": "<?itemListLineMsg5?>",
+      "en": "<?itemListLineMsg5?>",
+      "jp": "<?itemListLineMsg5?>",
+      "cn_improved": "<?itemListLineMsg5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202030,
+      "status": "from_improved",
+      "cn": "<?itemListWeight1?>",
+      "en": "<?itemListWeight1?>",
+      "jp": "<?itemListWeight1?>",
+      "cn_improved": "<?itemListWeight1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202031,
+      "status": "from_improved",
+      "cn": "<?itemListWeight2?>",
+      "en": "<?itemListWeight2?>",
+      "jp": "<?itemListWeight2?>",
+      "cn_improved": "<?itemListWeight2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202032,
+      "status": "from_improved",
+      "cn": "<?itemListWeight3?>",
+      "en": "<?itemListWeight3?>",
+      "jp": "<?itemListWeight3?>",
+      "cn_improved": "<?itemListWeight3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202033,
+      "status": "from_improved",
+      "cn": "<?itemListWeight4?>",
+      "en": "<?itemListWeight4?>",
+      "jp": "<?itemListWeight4?>",
+      "cn_improved": "<?itemListWeight4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202034,
+      "status": "from_improved",
+      "cn": "<?itemListWeight5?>",
+      "en": "<?itemListWeight5?>",
+      "jp": "<?itemListWeight5?>",
+      "cn_improved": "<?itemListWeight5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202035,
+      "status": "from_improved",
+      "cn": "<?itemListDuration1?>",
+      "en": "<?itemListDuration1?>",
+      "jp": "<?itemListDuration1?>",
+      "cn_improved": "<?itemListDuration1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202036,
+      "status": "from_improved",
+      "cn": "<?itemListDuration2?>",
+      "en": "<?itemListDuration2?>",
+      "jp": "<?itemListDuration2?>",
+      "cn_improved": "<?itemListDuration2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202037,
+      "status": "from_improved",
+      "cn": "<?itemListDuration3?>",
+      "en": "<?itemListDuration3?>",
+      "jp": "<?itemListDuration3?>",
+      "cn_improved": "<?itemListDuration3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202038,
+      "status": "from_improved",
+      "cn": "<?itemListDuration4?>",
+      "en": "<?itemListDuration4?>",
+      "jp": "<?itemListDuration4?>",
+      "cn_improved": "<?itemListDuration4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202039,
+      "status": "from_improved",
+      "cn": "<?itemListDuration5?>",
+      "en": "<?itemListDuration5?>",
+      "jp": "<?itemListDuration5?>",
+      "cn_improved": "<?itemListDuration5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202040,
+      "status": "from_improved",
+      "cn": "<?itemListWpPhysicalAtk1?>",
+      "en": "<?itemListWpPhysicalAtk1?>",
+      "jp": "<?itemListWpPhysicalAtk1?>",
+      "cn_improved": "<?itemListWpPhysicalAtk1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202041,
+      "status": "from_improved",
+      "cn": "<?itemListWpPhysicalAtk2?>",
+      "en": "<?itemListWpPhysicalAtk2?>",
+      "jp": "<?itemListWpPhysicalAtk2?>",
+      "cn_improved": "<?itemListWpPhysicalAtk2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202042,
+      "status": "from_improved",
+      "cn": "<?itemListWpPhysicalAtk3?>",
+      "en": "<?itemListWpPhysicalAtk3?>",
+      "jp": "<?itemListWpPhysicalAtk3?>",
+      "cn_improved": "<?itemListWpPhysicalAtk3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202043,
+      "status": "from_improved",
+      "cn": "<?itemListWpPhysicalAtk4?>",
+      "en": "<?itemListWpPhysicalAtk4?>",
+      "jp": "<?itemListWpPhysicalAtk4?>",
+      "cn_improved": "<?itemListWpPhysicalAtk4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202044,
+      "status": "from_improved",
+      "cn": "<?itemListWpPhysicalAtk5?>",
+      "en": "<?itemListWpPhysicalAtk5?>",
+      "jp": "<?itemListWpPhysicalAtk5?>",
+      "cn_improved": "<?itemListWpPhysicalAtk5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202045,
+      "status": "from_improved",
+      "cn": "<?itemListWpAttributeAtk1?>",
+      "en": "<?itemListWpAttributeAtk1?>",
+      "jp": "<?itemListWpAttributeAtk1?>",
+      "cn_improved": "<?itemListWpAttributeAtk1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202046,
+      "status": "from_improved",
+      "cn": "<?itemListWpAttributeAtk2?>",
+      "en": "<?itemListWpAttributeAtk2?>",
+      "jp": "<?itemListWpAttributeAtk2?>",
+      "cn_improved": "<?itemListWpAttributeAtk2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202047,
+      "status": "from_improved",
+      "cn": "<?itemListWpAttributeAtk3?>",
+      "en": "<?itemListWpAttributeAtk3?>",
+      "jp": "<?itemListWpAttributeAtk3?>",
+      "cn_improved": "<?itemListWpAttributeAtk3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202048,
+      "status": "from_improved",
+      "cn": "<?itemListWpAttributeAtk4?>",
+      "en": "<?itemListWpAttributeAtk4?>",
+      "jp": "<?itemListWpAttributeAtk4?>",
+      "cn_improved": "<?itemListWpAttributeAtk4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202049,
+      "status": "from_improved",
+      "cn": "<?itemListWpAttributeAtk5?>",
+      "en": "<?itemListWpAttributeAtk5?>",
+      "jp": "<?itemListWpAttributeAtk5?>",
+      "cn_improved": "<?itemListWpAttributeAtk5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202050,
+      "status": "from_improved",
+      "cn": "<?itemListDefPhysical1?>",
+      "en": "<?itemListDefPhysical1?>",
+      "jp": "<?itemListDefPhysical1?>",
+      "cn_improved": "<?itemListDefPhysical1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202051,
+      "status": "from_improved",
+      "cn": "<?itemListDefPhysical2?>",
+      "en": "<?itemListDefPhysical2?>",
+      "jp": "<?itemListDefPhysical2?>",
+      "cn_improved": "<?itemListDefPhysical2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202052,
+      "status": "from_improved",
+      "cn": "<?itemListDefPhysical3?>",
+      "en": "<?itemListDefPhysical3?>",
+      "jp": "<?itemListDefPhysical3?>",
+      "cn_improved": "<?itemListDefPhysical3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202053,
+      "status": "from_improved",
+      "cn": "<?itemListDefPhysical4?>",
+      "en": "<?itemListDefPhysical4?>",
+      "jp": "<?itemListDefPhysical4?>",
+      "cn_improved": "<?itemListDefPhysical4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202054,
+      "status": "from_improved",
+      "cn": "<?itemListDefPhysical5?>",
+      "en": "<?itemListDefPhysical5?>",
+      "jp": "<?itemListDefPhysical5?>",
+      "cn_improved": "<?itemListDefPhysical5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202055,
+      "status": "from_improved",
+      "cn": "<?itemListDefMagic1?>",
+      "en": "<?itemListDefMagic1?>",
+      "jp": "<?itemListDefMagic1?>",
+      "cn_improved": "<?itemListDefMagic1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202056,
+      "status": "from_improved",
+      "cn": "<?itemListDefMagic2?>",
+      "en": "<?itemListDefMagic2?>",
+      "jp": "<?itemListDefMagic2?>",
+      "cn_improved": "<?itemListDefMagic2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202057,
+      "status": "from_improved",
+      "cn": "<?itemListDefMagic3?>",
+      "en": "<?itemListDefMagic3?>",
+      "jp": "<?itemListDefMagic3?>",
+      "cn_improved": "<?itemListDefMagic3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202058,
+      "status": "from_improved",
+      "cn": "<?itemListDefMagic4?>",
+      "en": "<?itemListDefMagic4?>",
+      "jp": "<?itemListDefMagic4?>",
+      "cn_improved": "<?itemListDefMagic4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202059,
+      "status": "from_improved",
+      "cn": "<?itemListDefMagic5?>",
+      "en": "<?itemListDefMagic5?>",
+      "jp": "<?itemListDefMagic5?>",
+      "cn_improved": "<?itemListDefMagic5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202060,
+      "status": "from_improved",
+      "cn": "<?itemListDefFire1?>",
+      "en": "<?itemListDefFire1?>",
+      "jp": "<?itemListDefFire1?>",
+      "cn_improved": "<?itemListDefFire1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202061,
+      "status": "from_improved",
+      "cn": "<?itemListDefFire2?>",
+      "en": "<?itemListDefFire2?>",
+      "jp": "<?itemListDefFire2?>",
+      "cn_improved": "<?itemListDefFire2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202062,
+      "status": "from_improved",
+      "cn": "<?itemListDefFire3?>",
+      "en": "<?itemListDefFire3?>",
+      "jp": "<?itemListDefFire3?>",
+      "cn_improved": "<?itemListDefFire3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202063,
+      "status": "from_improved",
+      "cn": "<?itemListDefFire4?>",
+      "en": "<?itemListDefFire4?>",
+      "jp": "<?itemListDefFire4?>",
+      "cn_improved": "<?itemListDefFire4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202064,
+      "status": "from_improved",
+      "cn": "<?itemListDefFire5?>",
+      "en": "<?itemListDefFire5?>",
+      "jp": "<?itemListDefFire5?>",
+      "cn_improved": "<?itemListDefFire5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202065,
+      "status": "from_improved",
+      "cn": "<?itemListDefThunderbolt1?>",
+      "en": "<?itemListDefThunderbolt1?>",
+      "jp": "<?itemListDefThunderbolt1?>",
+      "cn_improved": "<?itemListDefThunderbolt1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202066,
+      "status": "from_improved",
+      "cn": "<?itemListDefThunderbolt2?>",
+      "en": "<?itemListDefThunderbolt2?>",
+      "jp": "<?itemListDefThunderbolt2?>",
+      "cn_improved": "<?itemListDefThunderbolt2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202067,
+      "status": "from_improved",
+      "cn": "<?itemListDefThunderbolt3?>",
+      "en": "<?itemListDefThunderbolt3?>",
+      "jp": "<?itemListDefThunderbolt3?>",
+      "cn_improved": "<?itemListDefThunderbolt3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202068,
+      "status": "from_improved",
+      "cn": "<?itemListDefThunderbolt4?>",
+      "en": "<?itemListDefThunderbolt4?>",
+      "jp": "<?itemListDefThunderbolt4?>",
+      "cn_improved": "<?itemListDefThunderbolt4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202069,
+      "status": "from_improved",
+      "cn": "<?itemListDefThunderbolt5?>",
+      "en": "<?itemListDefThunderbolt5?>",
+      "jp": "<?itemListDefThunderbolt5?>",
+      "cn_improved": "<?itemListDefThunderbolt5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202080,
+      "status": "from_improved",
+      "cn": "<?itemName?>",
+      "en": "<?itemName?>",
+      "jp": "<?itemName?>",
+      "cn_improved": "<?itemName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202081,
+      "status": "from_improved",
+      "cn": "<?itemLineMsg?>",
+      "en": "<?itemLineMsg?>",
+      "jp": "<?itemLineMsg?>",
+      "cn_improved": "<?itemLineMsg?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202082,
+      "status": "from_improved",
+      "cn": "<?itemDetail?>",
+      "en": "<?itemDetail?>",
+      "jp": "<?itemDetail?>",
+      "cn_improved": "<?itemDetail?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202083,
+      "status": "from_improved",
+      "cn": "<?itemNum?>",
+      "en": "<?itemNum?>",
+      "jp": "<?itemNum?>",
+      "cn_improved": "<?itemNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202084,
+      "status": "from_improved",
+      "cn": "<?duration?>",
+      "en": "<?duration?>",
+      "jp": "<?duration?>",
+      "cn_improved": "<?duration?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202085,
+      "status": "from_improved",
+      "cn": "<?maxDuration?>",
+      "en": "<?maxDuration?>",
+      "jp": "<?maxDuration?>",
+      "cn_improved": "<?maxDuration?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202086,
+      "status": "from_improved",
+      "cn": "<?weight?>",
+      "en": "<?weight?>",
+      "jp": "<?weight?>",
+      "cn_improved": "<?weight?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202087,
+      "status": "from_improved",
+      "cn": "<?itemNameBeforeForge?>",
+      "en": "<?itemNameBeforeForge?>",
+      "jp": "<?itemNameBeforeForge?>",
+      "cn_improved": "<?itemNameBeforeForge?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202088,
+      "status": "from_improved",
+      "cn": "<?itemNameAfterForge?>",
+      "en": "<?itemNameAfterForge?>",
+      "jp": "<?itemNameAfterForge?>",
+      "cn_improved": "<?itemNameAfterForge?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202100,
+      "status": "from_improved",
+      "cn": "<?wpAtkType?>",
+      "en": "<?wpAtkType?>",
+      "jp": "<?wpAtkType?>",
+      "cn_improved": "<?wpAtkType?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202101,
+      "status": "from_improved",
+      "cn": "<?wpType?>",
+      "en": "<?wpType?>",
+      "jp": "<?wpType?>",
+      "cn_improved": "<?wpType?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202102,
+      "status": "from_improved",
+      "cn": "<?wpPhysicalAtk?>",
+      "en": "<?wpPhysicalAtk?>",
+      "jp": "<?wpPhysicalAtk?>",
+      "cn_improved": "<?wpPhysicalAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202103,
+      "status": "from_improved",
+      "cn": "<?wpAttributeAtk?>",
+      "en": "<?wpAttributeAtk?>",
+      "jp": "<?wpAttributeAtk?>",
+      "cn_improved": "<?wpAttributeAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202104,
+      "status": "from_improved",
+      "cn": "<?wpCriticalAtk?>",
+      "en": "<?wpCriticalAtk?>",
+      "jp": "<?wpCriticalAtk?>",
+      "cn_improved": "<?wpCriticalAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202105,
+      "status": "from_improved",
+      "cn": "<?wpPhysicalAtkPlus?>",
+      "en": "<?wpPhysicalAtkPlus?>",
+      "jp": "<?wpPhysicalAtkPlus?>",
+      "cn_improved": "<?wpPhysicalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202106,
+      "status": "from_improved",
+      "cn": "<?wpAttributeAtkPlus?>",
+      "en": "<?wpAttributeAtkPlus?>",
+      "jp": "<?wpAttributeAtkPlus?>",
+      "cn_improved": "<?wpAttributeAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202107,
+      "status": "from_improved",
+      "cn": "<?wpCriticalAtkPlus?>",
+      "en": "<?wpCriticalAtkPlus?>",
+      "jp": "<?wpCriticalAtkPlus?>",
+      "cn_improved": "<?wpCriticalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202108,
+      "status": "from_improved",
+      "cn": "<?wpShotRange?>",
+      "en": "<?wpShotRange?>",
+      "jp": "<?wpShotRange?>",
+      "cn_improved": "<?wpShotRange?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202110,
+      "status": "from_improved",
+      "cn": "<?wpCutPhysical?>",
+      "en": "<?wpCutPhysical?>",
+      "jp": "<?wpCutPhysical?>",
+      "cn_improved": "<?wpCutPhysical?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202111,
+      "status": "from_improved",
+      "cn": "<?wpCutMagic?>",
+      "en": "<?wpCutMagic?>",
+      "jp": "<?wpCutMagic?>",
+      "cn_improved": "<?wpCutMagic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202112,
+      "status": "from_improved",
+      "cn": "<?wpCutFire?>",
+      "en": "<?wpCutFire?>",
+      "jp": "<?wpCutFire?>",
+      "cn_improved": "<?wpCutFire?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202113,
+      "status": "from_improved",
+      "cn": "<?wpCutThunderbolt?>",
+      "en": "<?wpCutThunderbolt?>",
+      "jp": "<?wpCutThunderbolt?>",
+      "cn_improved": "<?wpCutThunderbolt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202114,
+      "status": "from_improved",
+      "cn": "<?wpHitRes?>",
+      "en": "<?wpHitRes?>",
+      "jp": "<?wpHitRes?>",
+      "cn_improved": "<?wpHitRes?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202115,
+      "status": "from_improved",
+      "cn": "<?atkPlusPcStrength?>",
+      "en": "<?atkPlusPcStrength?>",
+      "jp": "<?atkPlusPcStrength?>",
+      "cn_improved": "<?atkPlusPcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202116,
+      "status": "from_improved",
+      "cn": "<?atkPlusPcDexter?>",
+      "en": "<?atkPlusPcDexter?>",
+      "jp": "<?atkPlusPcDexter?>",
+      "cn_improved": "<?atkPlusPcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202117,
+      "status": "from_improved",
+      "cn": "<?atkPlusPcIntellect?>",
+      "en": "<?atkPlusPcIntellect?>",
+      "jp": "<?atkPlusPcIntellect?>",
+      "cn_improved": "<?atkPlusPcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202118,
+      "status": "from_improved",
+      "cn": "<?atkPlusPcForce?>",
+      "en": "<?atkPlusPcForce?>",
+      "jp": "<?atkPlusPcForce?>",
+      "cn_improved": "<?atkPlusPcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202119,
+      "status": "from_improved",
+      "cn": "<?reqPcStrength?>",
+      "en": "<?reqPcStrength?>",
+      "jp": "<?reqPcStrength?>",
+      "cn_improved": "<?reqPcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202120,
+      "status": "from_improved",
+      "cn": "<?reqPcDexter?>",
+      "en": "<?reqPcDexter?>",
+      "jp": "<?reqPcDexter?>",
+      "cn_improved": "<?reqPcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202121,
+      "status": "from_improved",
+      "cn": "<?reqPcIntellect?>",
+      "en": "<?reqPcIntellect?>",
+      "jp": "<?reqPcIntellect?>",
+      "cn_improved": "<?reqPcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202122,
+      "status": "from_improved",
+      "cn": "<?reqPcForce?>",
+      "en": "<?reqPcForce?>",
+      "jp": "<?reqPcForce?>",
+      "cn_improved": "<?reqPcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202123,
+      "status": "from_improved",
+      "cn": "<?effectBleeding?>",
+      "en": "<?effectBleeding?>",
+      "jp": "<?effectBleeding?>",
+      "cn_improved": "<?effectBleeding?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202124,
+      "status": "from_improved",
+      "cn": "<?effectPoison?>",
+      "en": "<?effectPoison?>",
+      "jp": "<?effectPoison?>",
+      "cn_improved": "<?effectPoison?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202125,
+      "status": "from_improved",
+      "cn": "<?effectPlague?>",
+      "en": "<?effectPlague?>",
+      "jp": "<?effectPlague?>",
+      "cn_improved": "<?effectPlague?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202126,
+      "status": "from_improved",
+      "cn": "<?effectCurse?>",
+      "en": "<?effectCurse?>",
+      "jp": "<?effectCurse?>",
+      "cn_improved": "<?effectCurse?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202127,
+      "status": "from_improved",
+      "cn": "<?wpMagicAtk?>",
+      "en": "<?wpMagicAtk?>",
+      "jp": "<?wpMagicAtk?>",
+      "cn_improved": "<?wpMagicAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202128,
+      "status": "from_improved",
+      "cn": "<?wpFireAtk?>",
+      "en": "<?wpFireAtk?>",
+      "jp": "<?wpFireAtk?>",
+      "cn_improved": "<?wpFireAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202129,
+      "status": "from_improved",
+      "cn": "<?wpThunderboltAtk?>",
+      "en": "<?wpThunderboltAtk?>",
+      "jp": "<?wpThunderboltAtk?>",
+      "cn_improved": "<?wpThunderboltAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202130,
+      "status": "from_improved",
+      "cn": "<?wpMagicAtkPlus?>",
+      "en": "<?wpMagicAtkPlus?>",
+      "jp": "<?wpMagicAtkPlus?>",
+      "cn_improved": "<?wpMagicAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202131,
+      "status": "from_improved",
+      "cn": "<?wpFireAtkPlus?>",
+      "en": "<?wpFireAtkPlus?>",
+      "jp": "<?wpFireAtkPlus?>",
+      "cn_improved": "<?wpFireAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202132,
+      "status": "from_improved",
+      "cn": "<?wpThunderboltAtkPlus?>",
+      "en": "<?wpThunderboltAtkPlus?>",
+      "jp": "<?wpThunderboltAtkPlus?>",
+      "cn_improved": "<?wpThunderboltAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202133,
+      "status": "from_improved",
+      "cn": "<?wpMagicAdjust?>",
+      "en": "<?wpMagicAdjust?>",
+      "jp": "<?wpMagicAdjust?>",
+      "cn_improved": "<?wpMagicAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202134,
+      "status": "from_improved",
+      "cn": "<?wpMiracleAdjust?>",
+      "en": "<?wpMiracleAdjust?>",
+      "jp": "<?wpMiracleAdjust?>",
+      "cn_improved": "<?wpMiracleAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202140,
+      "status": "from_improved",
+      "cn": "(<?wpAtkType?>)",
+      "en": "(<?wpAtkType?>)",
+      "jp": "(<?wpAtkType?>)",
+      "cn_improved": "(<?wpAtkType?>)",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202152,
+      "status": "from_improved",
+      "cn": "<?forgedWpPhysicalAtk?>",
+      "en": "<?forgedWpPhysicalAtk?>",
+      "jp": "<?forgedWpPhysicalAtk?>",
+      "cn_improved": "<?forgedWpPhysicalAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202153,
+      "status": "from_improved",
+      "cn": "<?forgedWpAttributeAtk?>",
+      "en": "<?forgedWpAttributeAtk?>",
+      "jp": "<?forgedWpAttributeAtk?>",
+      "cn_improved": "<?forgedWpAttributeAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202154,
+      "status": "from_improved",
+      "cn": "<?forgedWpCriticalAtk?>",
+      "en": "<?forgedWpCriticalAtk?>",
+      "jp": "<?forgedWpCriticalAtk?>",
+      "cn_improved": "<?forgedWpCriticalAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202155,
+      "status": "from_improved",
+      "cn": "<?forgedWpPhysicalAtkPlus?>",
+      "en": "<?forgedWpPhysicalAtkPlus?>",
+      "jp": "<?forgedWpPhysicalAtkPlus?>",
+      "cn_improved": "<?forgedWpPhysicalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202156,
+      "status": "from_improved",
+      "cn": "<?forgedWpAttributeAtkPlus?>",
+      "en": "<?forgedWpAttributeAtkPlus?>",
+      "jp": "<?forgedWpAttributeAtkPlus?>",
+      "cn_improved": "<?forgedWpAttributeAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202157,
+      "status": "from_improved",
+      "cn": "<?forgedWpCriticalAtkPlus?>",
+      "en": "<?forgedWpCriticalAtkPlus?>",
+      "jp": "<?forgedWpCriticalAtkPlus?>",
+      "cn_improved": "<?forgedWpCriticalAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202158,
+      "status": "from_improved",
+      "cn": "<?forgedWpShotRange?>",
+      "en": "<?forgedWpShotRange?>",
+      "jp": "<?forgedWpShotRange?>",
+      "cn_improved": "<?forgedWpShotRange?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202160,
+      "status": "from_improved",
+      "cn": "<?forgedWpCutPhysical?>",
+      "en": "<?forgedWpCutPhysical?>",
+      "jp": "<?forgedWpCutPhysical?>",
+      "cn_improved": "<?forgedWpCutPhysical?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202161,
+      "status": "from_improved",
+      "cn": "<?forgedWpCutMagic?>",
+      "en": "<?forgedWpCutMagic?>",
+      "jp": "<?forgedWpCutMagic?>",
+      "cn_improved": "<?forgedWpCutMagic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202162,
+      "status": "from_improved",
+      "cn": "<?forgedWpCutFire?>",
+      "en": "<?forgedWpCutFire?>",
+      "jp": "<?forgedWpCutFire?>",
+      "cn_improved": "<?forgedWpCutFire?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202163,
+      "status": "from_improved",
+      "cn": "<?forgedWpCutThunderbolt?>",
+      "en": "<?forgedWpCutThunderbolt?>",
+      "jp": "<?forgedWpCutThunderbolt?>",
+      "cn_improved": "<?forgedWpCutThunderbolt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202164,
+      "status": "from_improved",
+      "cn": "<?forgedWpHitRes?>",
+      "en": "<?forgedWpHitRes?>",
+      "jp": "<?forgedWpHitRes?>",
+      "cn_improved": "<?forgedWpHitRes?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202165,
+      "status": "from_improved",
+      "cn": "<?forgedAtkPlusPcStrength?>",
+      "en": "<?forgedAtkPlusPcStrength?>",
+      "jp": "<?forgedAtkPlusPcStrength?>",
+      "cn_improved": "<?forgedAtkPlusPcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202166,
+      "status": "from_improved",
+      "cn": "<?forgedAtkPlusPcDexter?>",
+      "en": "<?forgedAtkPlusPcDexter?>",
+      "jp": "<?forgedAtkPlusPcDexter?>",
+      "cn_improved": "<?forgedAtkPlusPcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202167,
+      "status": "from_improved",
+      "cn": "<?forgedAtkPlusPcIntellect?>",
+      "en": "<?forgedAtkPlusPcIntellect?>",
+      "jp": "<?forgedAtkPlusPcIntellect?>",
+      "cn_improved": "<?forgedAtkPlusPcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202168,
+      "status": "from_improved",
+      "cn": "<?forgedAtkPlusPcForce?>",
+      "en": "<?forgedAtkPlusPcForce?>",
+      "jp": "<?forgedAtkPlusPcForce?>",
+      "cn_improved": "<?forgedAtkPlusPcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202169,
+      "status": "from_improved",
+      "cn": "<?forgedReqPcStrength?>",
+      "en": "<?forgedReqPcStrength?>",
+      "jp": "<?forgedReqPcStrength?>",
+      "cn_improved": "<?forgedReqPcStrength?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202170,
+      "status": "from_improved",
+      "cn": "<?forgedReqPcDexter?>",
+      "en": "<?forgedReqPcDexter?>",
+      "jp": "<?forgedReqPcDexter?>",
+      "cn_improved": "<?forgedReqPcDexter?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202171,
+      "status": "from_improved",
+      "cn": "<?forgedReqPcIntellect?>",
+      "en": "<?forgedReqPcIntellect?>",
+      "jp": "<?forgedReqPcIntellect?>",
+      "cn_improved": "<?forgedReqPcIntellect?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202172,
+      "status": "from_improved",
+      "cn": "<?forgedReqPcForce?>",
+      "en": "<?forgedReqPcForce?>",
+      "jp": "<?forgedReqPcForce?>",
+      "cn_improved": "<?forgedReqPcForce?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202173,
+      "status": "from_improved",
+      "cn": "<?forgedEffectBleeding?>",
+      "en": "<?forgedEffectBleeding?>",
+      "jp": "<?forgedEffectBleeding?>",
+      "cn_improved": "<?forgedEffectBleeding?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202174,
+      "status": "from_improved",
+      "cn": "<?forgedEffectPoison?>",
+      "en": "<?forgedEffectPoison?>",
+      "jp": "<?forgedEffectPoison?>",
+      "cn_improved": "<?forgedEffectPoison?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202175,
+      "status": "from_improved",
+      "cn": "<?forgedEffectPlague?>",
+      "en": "<?forgedEffectPlague?>",
+      "jp": "<?forgedEffectPlague?>",
+      "cn_improved": "<?forgedEffectPlague?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202176,
+      "status": "from_improved",
+      "cn": "<?forgedEffectCurse?>",
+      "en": "<?forgedEffectCurse?>",
+      "jp": "<?forgedEffectCurse?>",
+      "cn_improved": "<?forgedEffectCurse?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202177,
+      "status": "from_improved",
+      "cn": "<?forgedWpMagicAtk?>",
+      "en": "<?forgedWpMagicAtk?>",
+      "jp": "<?forgedWpMagicAtk?>",
+      "cn_improved": "<?forgedWpMagicAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202178,
+      "status": "from_improved",
+      "cn": "<?forgedWpFireAtk?>",
+      "en": "<?forgedWpFireAtk?>",
+      "jp": "<?forgedWpFireAtk?>",
+      "cn_improved": "<?forgedWpFireAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202179,
+      "status": "from_improved",
+      "cn": "<?forgedWpThunderboltAtk?>",
+      "en": "<?forgedWpThunderboltAtk?>",
+      "jp": "<?forgedWpThunderboltAtk?>",
+      "cn_improved": "<?forgedWpThunderboltAtk?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202180,
+      "status": "from_improved",
+      "cn": "<?forgedWpMagicAtkPlus?>",
+      "en": "<?forgedWpMagicAtkPlus?>",
+      "jp": "<?forgedWpMagicAtkPlus?>",
+      "cn_improved": "<?forgedWpMagicAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202181,
+      "status": "from_improved",
+      "cn": "<?forgedWpFireAtkPlus?>",
+      "en": "<?forgedWpFireAtkPlus?>",
+      "jp": "<?forgedWpFireAtkPlus?>",
+      "cn_improved": "<?forgedWpFireAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202182,
+      "status": "from_improved",
+      "cn": "<?forgedWpThunderboltAtkPlus?>",
+      "en": "<?forgedWpThunderboltAtkPlus?>",
+      "jp": "<?forgedWpThunderboltAtkPlus?>",
+      "cn_improved": "<?forgedWpThunderboltAtkPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202183,
+      "status": "from_improved",
+      "cn": "<?forgedWpMagicAdjust?>",
+      "en": "<?forgedWpMagicAdjust?>",
+      "jp": "<?forgedWpMagicAdjust?>",
+      "cn_improved": "<?forgedWpMagicAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202184,
+      "status": "from_improved",
+      "cn": "<?forgedWpMiracleAdjust?>",
+      "en": "<?forgedWpMiracleAdjust?>",
+      "jp": "<?forgedWpMiracleAdjust?>",
+      "cn_improved": "<?forgedWpMiracleAdjust?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202200,
+      "status": "from_improved",
+      "cn": "<?reqGender?>",
+      "en": "<?reqGender?>",
+      "jp": "<?reqGender?>",
+      "cn_improved": "<?reqGender?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202201,
+      "status": "from_improved",
+      "cn": "<?defPhysical?>",
+      "en": "<?defPhysical?>",
+      "jp": "<?defPhysical?>",
+      "cn_improved": "<?defPhysical?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202202,
+      "status": "from_improved",
+      "cn": "<?defBlunt?>",
+      "en": "<?defBlunt?>",
+      "jp": "<?defBlunt?>",
+      "cn_improved": "<?defBlunt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202203,
+      "status": "from_improved",
+      "cn": "<?defCut?>",
+      "en": "<?defCut?>",
+      "jp": "<?defCut?>",
+      "cn_improved": "<?defCut?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202204,
+      "status": "from_improved",
+      "cn": "<?defStab?>",
+      "en": "<?defStab?>",
+      "jp": "<?defStab?>",
+      "cn_improved": "<?defStab?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202205,
+      "status": "from_improved",
+      "cn": "<?defMagic?>",
+      "en": "<?defMagic?>",
+      "jp": "<?defMagic?>",
+      "cn_improved": "<?defMagic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202206,
+      "status": "from_improved",
+      "cn": "<?defFire?>",
+      "en": "<?defFire?>",
+      "jp": "<?defFire?>",
+      "cn_improved": "<?defFire?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202207,
+      "status": "from_improved",
+      "cn": "<?defThunderbolt?>",
+      "en": "<?defThunderbolt?>",
+      "jp": "<?defThunderbolt?>",
+      "cn_improved": "<?defThunderbolt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202208,
+      "status": "from_improved",
+      "cn": "<?resistBleeding?>",
+      "en": "<?resistBleeding?>",
+      "jp": "<?resistBleeding?>",
+      "cn_improved": "<?resistBleeding?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202209,
+      "status": "from_improved",
+      "cn": "<?resistPoison?>",
+      "en": "<?resistPoison?>",
+      "jp": "<?resistPoison?>",
+      "cn_improved": "<?resistPoison?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202210,
+      "status": "from_improved",
+      "cn": "<?resistPlague?>",
+      "en": "<?resistPlague?>",
+      "jp": "<?resistPlague?>",
+      "cn_improved": "<?resistPlague?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202211,
+      "status": "from_improved",
+      "cn": "<?resistCurse?>",
+      "en": "<?resistCurse?>",
+      "jp": "<?resistCurse?>",
+      "cn_improved": "<?resistCurse?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202212,
+      "status": "from_improved",
+      "cn": "<?defSAToughness?>",
+      "en": "<?defSAToughness?>",
+      "jp": "<?defSAToughness?>",
+      "cn_improved": "<?defSAToughness?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202251,
+      "status": "from_improved",
+      "cn": "<?forgedDefPhysical?>",
+      "en": "<?forgedDefPhysical?>",
+      "jp": "<?forgedDefPhysical?>",
+      "cn_improved": "<?forgedDefPhysical?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202252,
+      "status": "from_improved",
+      "cn": "<?forgedDefBlunt?>",
+      "en": "<?forgedDefBlunt?>",
+      "jp": "<?forgedDefBlunt?>",
+      "cn_improved": "<?forgedDefBlunt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202253,
+      "status": "from_improved",
+      "cn": "<?forgedDefCut?>",
+      "en": "<?forgedDefCut?>",
+      "jp": "<?forgedDefCut?>",
+      "cn_improved": "<?forgedDefCut?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202254,
+      "status": "from_improved",
+      "cn": "<?forgedDefStab?>",
+      "en": "<?forgedDefStab?>",
+      "jp": "<?forgedDefStab?>",
+      "cn_improved": "<?forgedDefStab?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202255,
+      "status": "from_improved",
+      "cn": "<?forgedDefMagic?>",
+      "en": "<?forgedDefMagic?>",
+      "jp": "<?forgedDefMagic?>",
+      "cn_improved": "<?forgedDefMagic?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202256,
+      "status": "from_improved",
+      "cn": "<?forgedDefFire?>",
+      "en": "<?forgedDefFire?>",
+      "jp": "<?forgedDefFire?>",
+      "cn_improved": "<?forgedDefFire?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202257,
+      "status": "from_improved",
+      "cn": "<?forgedDefThunderbolt?>",
+      "en": "<?forgedDefThunderbolt?>",
+      "jp": "<?forgedDefThunderbolt?>",
+      "cn_improved": "<?forgedDefThunderbolt?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202258,
+      "status": "from_improved",
+      "cn": "<?forgedResistBleeding?>",
+      "en": "<?forgedResistBleeding?>",
+      "jp": "<?forgedResistBleeding?>",
+      "cn_improved": "<?forgedResistBleeding?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202259,
+      "status": "from_improved",
+      "cn": "<?forgedResistPoison?>",
+      "en": "<?forgedResistPoison?>",
+      "jp": "<?forgedResistPoison?>",
+      "cn_improved": "<?forgedResistPoison?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202260,
+      "status": "from_improved",
+      "cn": "<?forgedResistPlague?>",
+      "en": "<?forgedResistPlague?>",
+      "jp": "<?forgedResistPlague?>",
+      "cn_improved": "<?forgedResistPlague?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202261,
+      "status": "from_improved",
+      "cn": "<?forgedResistCurse?>",
+      "en": "<?forgedResistCurse?>",
+      "jp": "<?forgedResistCurse?>",
+      "cn_improved": "<?forgedResistCurse?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202262,
+      "status": "from_improved",
+      "cn": "<?forgedDefSAToughness?>",
+      "en": "<?forgedDefSAToughness?>",
+      "jp": "<?forgedDefSAToughness?>",
+      "cn_improved": "<?forgedDefSAToughness?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202300,
+      "status": "from_improved",
+      "cn": "<?forgedItemListName1?>",
+      "en": "<?forgedItemListName1?>",
+      "jp": "<?forgedItemListName1?>",
+      "cn_improved": "<?forgedItemListName1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202301,
+      "status": "from_improved",
+      "cn": "<?forgedItemListName2?>",
+      "en": "<?forgedItemListName2?>",
+      "jp": "<?forgedItemListName2?>",
+      "cn_improved": "<?forgedItemListName2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202302,
+      "status": "from_improved",
+      "cn": "<?forgedItemListName3?>",
+      "en": "<?forgedItemListName3?>",
+      "jp": "<?forgedItemListName3?>",
+      "cn_improved": "<?forgedItemListName3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202303,
+      "status": "from_improved",
+      "cn": "<?forgedItemListName4?>",
+      "en": "<?forgedItemListName4?>",
+      "jp": "<?forgedItemListName4?>",
+      "cn_improved": "<?forgedItemListName4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202304,
+      "status": "from_improved",
+      "cn": "<?forgedItemListName5?>",
+      "en": "<?forgedItemListName5?>",
+      "jp": "<?forgedItemListName5?>",
+      "cn_improved": "<?forgedItemListName5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202340,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpPhysicalAtk1?>",
+      "en": "<?forgedItemListWpPhysicalAtk1?>",
+      "jp": "<?forgedItemListWpPhysicalAtk1?>",
+      "cn_improved": "<?forgedItemListWpPhysicalAtk1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202341,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpPhysicalAtk2?>",
+      "en": "<?forgedItemListWpPhysicalAtk2?>",
+      "jp": "<?forgedItemListWpPhysicalAtk2?>",
+      "cn_improved": "<?forgedItemListWpPhysicalAtk2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202342,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpPhysicalAtk3?>",
+      "en": "<?forgedItemListWpPhysicalAtk3?>",
+      "jp": "<?forgedItemListWpPhysicalAtk3?>",
+      "cn_improved": "<?forgedItemListWpPhysicalAtk3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202343,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpPhysicalAtk4?>",
+      "en": "<?forgedItemListWpPhysicalAtk4?>",
+      "jp": "<?forgedItemListWpPhysicalAtk4?>",
+      "cn_improved": "<?forgedItemListWpPhysicalAtk4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202344,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpPhysicalAtk5?>",
+      "en": "<?forgedItemListWpPhysicalAtk5?>",
+      "jp": "<?forgedItemListWpPhysicalAtk5?>",
+      "cn_improved": "<?forgedItemListWpPhysicalAtk5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202345,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpAttributeAtk1?>",
+      "en": "<?forgedItemListWpAttributeAtk1?>",
+      "jp": "<?forgedItemListWpAttributeAtk1?>",
+      "cn_improved": "<?forgedItemListWpAttributeAtk1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202346,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpAttributeAtk2?>",
+      "en": "<?forgedItemListWpAttributeAtk2?>",
+      "jp": "<?forgedItemListWpAttributeAtk2?>",
+      "cn_improved": "<?forgedItemListWpAttributeAtk2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202347,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpAttributeAtk3?>",
+      "en": "<?forgedItemListWpAttributeAtk3?>",
+      "jp": "<?forgedItemListWpAttributeAtk3?>",
+      "cn_improved": "<?forgedItemListWpAttributeAtk3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202348,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpAttributeAtk4?>",
+      "en": "<?forgedItemListWpAttributeAtk4?>",
+      "jp": "<?forgedItemListWpAttributeAtk4?>",
+      "cn_improved": "<?forgedItemListWpAttributeAtk4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202349,
+      "status": "from_improved",
+      "cn": "<?forgedItemListWpAttributeAtk5?>",
+      "en": "<?forgedItemListWpAttributeAtk5?>",
+      "jp": "<?forgedItemListWpAttributeAtk5?>",
+      "cn_improved": "<?forgedItemListWpAttributeAtk5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202350,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefPhysical1?>",
+      "en": "<?forgedItemListDefPhysical1?>",
+      "jp": "<?forgedItemListDefPhysical1?>",
+      "cn_improved": "<?forgedItemListDefPhysical1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202351,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefPhysical2?>",
+      "en": "<?forgedItemListDefPhysical2?>",
+      "jp": "<?forgedItemListDefPhysical2?>",
+      "cn_improved": "<?forgedItemListDefPhysical2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202352,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefPhysical3?>",
+      "en": "<?forgedItemListDefPhysical3?>",
+      "jp": "<?forgedItemListDefPhysical3?>",
+      "cn_improved": "<?forgedItemListDefPhysical3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202353,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefPhysical4?>",
+      "en": "<?forgedItemListDefPhysical4?>",
+      "jp": "<?forgedItemListDefPhysical4?>",
+      "cn_improved": "<?forgedItemListDefPhysical4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202354,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefPhysical5?>",
+      "en": "<?forgedItemListDefPhysical5?>",
+      "jp": "<?forgedItemListDefPhysical5?>",
+      "cn_improved": "<?forgedItemListDefPhysical5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202355,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefMagic1?>",
+      "en": "<?forgedItemListDefMagic1?>",
+      "jp": "<?forgedItemListDefMagic1?>",
+      "cn_improved": "<?forgedItemListDefMagic1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202356,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefMagic2?>",
+      "en": "<?forgedItemListDefMagic2?>",
+      "jp": "<?forgedItemListDefMagic2?>",
+      "cn_improved": "<?forgedItemListDefMagic2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202357,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefMagic3?>",
+      "en": "<?forgedItemListDefMagic3?>",
+      "jp": "<?forgedItemListDefMagic3?>",
+      "cn_improved": "<?forgedItemListDefMagic3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202358,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefMagic4?>",
+      "en": "<?forgedItemListDefMagic4?>",
+      "jp": "<?forgedItemListDefMagic4?>",
+      "cn_improved": "<?forgedItemListDefMagic4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202359,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefMagic5?>",
+      "en": "<?forgedItemListDefMagic5?>",
+      "jp": "<?forgedItemListDefMagic5?>",
+      "cn_improved": "<?forgedItemListDefMagic5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202360,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefFire1?>",
+      "en": "<?forgedItemListDefFire1?>",
+      "jp": "<?forgedItemListDefFire1?>",
+      "cn_improved": "<?forgedItemListDefFire1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202361,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefFire2?>",
+      "en": "<?forgedItemListDefFire2?>",
+      "jp": "<?forgedItemListDefFire2?>",
+      "cn_improved": "<?forgedItemListDefFire2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202362,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefFire3?>",
+      "en": "<?forgedItemListDefFire3?>",
+      "jp": "<?forgedItemListDefFire3?>",
+      "cn_improved": "<?forgedItemListDefFire3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202363,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefFire4?>",
+      "en": "<?forgedItemListDefFire4?>",
+      "jp": "<?forgedItemListDefFire4?>",
+      "cn_improved": "<?forgedItemListDefFire4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202364,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefFire5?>",
+      "en": "<?forgedItemListDefFire5?>",
+      "jp": "<?forgedItemListDefFire5?>",
+      "cn_improved": "<?forgedItemListDefFire5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202365,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefThunderbolt1?>",
+      "en": "<?forgedItemListDefThunderbolt1?>",
+      "jp": "<?forgedItemListDefThunderbolt1?>",
+      "cn_improved": "<?forgedItemListDefThunderbolt1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202366,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefThunderbolt2?>",
+      "en": "<?forgedItemListDefThunderbolt2?>",
+      "jp": "<?forgedItemListDefThunderbolt2?>",
+      "cn_improved": "<?forgedItemListDefThunderbolt2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202367,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefThunderbolt3?>",
+      "en": "<?forgedItemListDefThunderbolt3?>",
+      "jp": "<?forgedItemListDefThunderbolt3?>",
+      "cn_improved": "<?forgedItemListDefThunderbolt3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202368,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefThunderbolt4?>",
+      "en": "<?forgedItemListDefThunderbolt4?>",
+      "jp": "<?forgedItemListDefThunderbolt4?>",
+      "cn_improved": "<?forgedItemListDefThunderbolt4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 202369,
+      "status": "from_improved",
+      "cn": "<?forgedItemListDefThunderbolt5?>",
+      "en": "<?forgedItemListDefThunderbolt5?>",
+      "jp": "<?forgedItemListDefThunderbolt5?>",
+      "cn_improved": "<?forgedItemListDefThunderbolt5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203000,
+      "status": "from_improved",
+      "cn": "<?reqSlot?>",
+      "en": "<?reqSlot?>",
+      "jp": "<?reqSlot?>",
+      "cn_improved": "<?reqSlot?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203001,
+      "status": "from_improved",
+      "cn": "<?costMP?>",
+      "en": "<?costMP?>",
+      "jp": "<?costMP?>",
+      "cn_improved": "<?costMP?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203002,
+      "status": "from_improved",
+      "cn": "<?curMagicSlotNum?>",
+      "en": "<?curMagicSlotNum?>",
+      "jp": "<?curMagicSlotNum?>",
+      "cn_improved": "<?curMagicSlotNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203003,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath?>",
+      "en": "<?magicListReqOath?>",
+      "jp": "<?magicListReqOath?>",
+      "cn_improved": "<?magicListReqOath?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203004,
+      "status": "from_improved",
+      "cn": "<?magicCount?>",
+      "en": "<?magicCount?>",
+      "jp": "<?magicCount?>",
+      "cn_improved": "<?magicCount?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203005,
+      "status": "from_improved",
+      "cn": "<?magicMaxCount?>",
+      "en": "<?magicMaxCount?>",
+      "jp": "<?magicMaxCount?>",
+      "cn_improved": "<?magicMaxCount?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203100,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo1?>",
+      "en": "<?equipMagicInfo1?>",
+      "jp": "<?equipMagicInfo1?>",
+      "cn_improved": "<?equipMagicInfo1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203101,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo2?>",
+      "en": "<?equipMagicInfo2?>",
+      "jp": "<?equipMagicInfo2?>",
+      "cn_improved": "<?equipMagicInfo2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203102,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo3?>",
+      "en": "<?equipMagicInfo3?>",
+      "jp": "<?equipMagicInfo3?>",
+      "cn_improved": "<?equipMagicInfo3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203103,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo4?>",
+      "en": "<?equipMagicInfo4?>",
+      "jp": "<?equipMagicInfo4?>",
+      "cn_improved": "<?equipMagicInfo4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203104,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo5?>",
+      "en": "<?equipMagicInfo5?>",
+      "jp": "<?equipMagicInfo5?>",
+      "cn_improved": "<?equipMagicInfo5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203105,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo6?>",
+      "en": "<?equipMagicInfo6?>",
+      "jp": "<?equipMagicInfo6?>",
+      "cn_improved": "<?equipMagicInfo6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203106,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo7?>",
+      "en": "<?equipMagicInfo7?>",
+      "jp": "<?equipMagicInfo7?>",
+      "cn_improved": "<?equipMagicInfo7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203107,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo8?>",
+      "en": "<?equipMagicInfo8?>",
+      "jp": "<?equipMagicInfo8?>",
+      "cn_improved": "<?equipMagicInfo8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203108,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo9?>",
+      "en": "<?equipMagicInfo9?>",
+      "jp": "<?equipMagicInfo9?>",
+      "cn_improved": "<?equipMagicInfo9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203109,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo10?>",
+      "en": "<?equipMagicInfo10?>",
+      "jp": "<?equipMagicInfo10?>",
+      "cn_improved": "<?equipMagicInfo10?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203110,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo11?>",
+      "en": "<?equipMagicInfo11?>",
+      "jp": "<?equipMagicInfo11?>",
+      "cn_improved": "<?equipMagicInfo11?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203111,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo12?>",
+      "en": "<?equipMagicInfo12?>",
+      "jp": "<?equipMagicInfo12?>",
+      "cn_improved": "<?equipMagicInfo12?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203112,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo13?>",
+      "en": "<?equipMagicInfo13?>",
+      "jp": "<?equipMagicInfo13?>",
+      "cn_improved": "<?equipMagicInfo13?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203113,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo14?>",
+      "en": "<?equipMagicInfo14?>",
+      "jp": "<?equipMagicInfo14?>",
+      "cn_improved": "<?equipMagicInfo14?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203114,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo15?>",
+      "en": "<?equipMagicInfo15?>",
+      "jp": "<?equipMagicInfo15?>",
+      "cn_improved": "<?equipMagicInfo15?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 203115,
+      "status": "from_improved",
+      "cn": "<?equipMagicInfo16?>",
+      "en": "<?equipMagicInfo16?>",
+      "jp": "<?equipMagicInfo16?>",
+      "cn_improved": "<?equipMagicInfo16?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210000,
+      "status": "from_improved",
+      "cn": "<?titleName?>",
+      "en": "<?titleName?>",
+      "jp": "<?titleName?>",
+      "cn_improved": "<?titleName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210001,
+      "status": "from_improved",
+      "cn": "<?playTime?>",
+      "en": "<?playTime?>",
+      "jp": "<?playTime?>",
+      "cn_improved": "<?playTime?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210002,
+      "status": "from_improved",
+      "cn": "<?saveDataSize?>",
+      "en": "<?saveDataSize?>",
+      "jp": "<?saveDataSize?>",
+      "cn_improved": "<?saveDataSize?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210003,
+      "status": "from_improved",
+      "cn": "<?ptTime?>",
+      "en": "<?ptTime?>",
+      "jp": "<?ptTime?>",
+      "cn_improved": "<?ptTime?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210004,
+      "status": "from_improved",
+      "cn": "<?ptMinute?>",
+      "en": "<?ptMinute?>",
+      "jp": "<?ptMinute?>",
+      "cn_improved": "<?ptMinute?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210005,
+      "status": "from_improved",
+      "cn": "<?ptSecond?>",
+      "en": "<?ptSecond?>",
+      "jp": "<?ptSecond?>",
+      "cn_improved": "<?ptSecond?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210010,
+      "status": "from_improved",
+      "cn": "<?ptTime?>:<?ptMinute?>",
+      "en": "<?ptTime?>:<?ptMinute?>",
+      "jp": "<?ptTime?>:<?ptMinute?>",
+      "cn_improved": "<?ptTime?>:<?ptMinute?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210100,
+      "status": "from_improved",
+      "cn": "<?optCameraLR?>",
+      "en": "<?optCameraLR?>",
+      "jp": "<?optCameraLR?>",
+      "cn_improved": "<?optCameraLR?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210101,
+      "status": "from_improved",
+      "cn": "<?optCameraUD?>",
+      "en": "<?optCameraUD?>",
+      "jp": "<?optCameraUD?>",
+      "cn_improved": "<?optCameraUD?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210102,
+      "status": "from_improved",
+      "cn": "<?optCameraSpeed?>",
+      "en": "<?optCameraSpeed?>",
+      "jp": "<?optCameraSpeed?>",
+      "cn_improved": "<?optCameraSpeed?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210103,
+      "status": "from_improved",
+      "cn": "<?optVibration?>",
+      "en": "<?optVibration?>",
+      "jp": "<?optVibration?>",
+      "cn_improved": "<?optVibration?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210104,
+      "status": "from_improved",
+      "cn": "<?optLockOnAuto?>",
+      "en": "<?optLockOnAuto?>",
+      "jp": "<?optLockOnAuto?>",
+      "cn_improved": "<?optLockOnAuto?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210105,
+      "status": "from_improved",
+      "cn": "<?optCamAvoidWall?>",
+      "en": "<?optCamAvoidWall?>",
+      "jp": "<?optCamAvoidWall?>",
+      "cn_improved": "<?optCamAvoidWall?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210110,
+      "status": "from_improved",
+      "cn": "<?optShowBlood?>",
+      "en": "<?optShowBlood?>",
+      "jp": "<?optShowBlood?>",
+      "cn_improved": "<?optShowBlood?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210111,
+      "status": "from_improved",
+      "cn": "<?optSubtitles?>",
+      "en": "<?optSubtitles?>",
+      "jp": "<?optSubtitles?>",
+      "cn_improved": "<?optSubtitles?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210112,
+      "status": "from_improved",
+      "cn": "<?optHUD?>",
+      "en": "<?optHUD?>",
+      "jp": "<?optHUD?>",
+      "cn_improved": "<?optHUD?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210120,
+      "status": "from_improved",
+      "cn": "<?optBGMVol?>",
+      "en": "<?optBGMVol?>",
+      "jp": "<?optBGMVol?>",
+      "cn_improved": "<?optBGMVol?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210121,
+      "status": "from_improved",
+      "cn": "<?optSEVol?>",
+      "en": "<?optSEVol?>",
+      "jp": "<?optSEVol?>",
+      "cn_improved": "<?optSEVol?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210122,
+      "status": "from_improved",
+      "cn": "<?optVoiceVol?>",
+      "en": "<?optVoiceVol?>",
+      "jp": "<?optVoiceVol?>",
+      "cn_improved": "<?optVoiceVol?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210130,
+      "status": "from_improved",
+      "cn": "<?optRegisterRanking?>",
+      "en": "<?optRegisterRanking?>",
+      "jp": "<?optRegisterRanking?>",
+      "cn_improved": "<?optRegisterRanking?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210200,
+      "status": "from_improved",
+      "cn": "<?optBrightness?>",
+      "en": "<?optBrightness?>",
+      "jp": "<?optBrightness?>",
+      "cn_improved": "<?optBrightness?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215000,
+      "status": "from_improved",
+      "cn": "<?messageList1?>",
+      "en": "<?messageList1?>",
+      "jp": "<?messageList1?>",
+      "cn_improved": "<?messageList1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215001,
+      "status": "from_improved",
+      "cn": "<?messageList2?>",
+      "en": "<?messageList2?>",
+      "jp": "<?messageList2?>",
+      "cn_improved": "<?messageList2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215002,
+      "status": "from_improved",
+      "cn": "<?messageList3?>",
+      "en": "<?messageList3?>",
+      "jp": "<?messageList3?>",
+      "cn_improved": "<?messageList3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215003,
+      "status": "from_improved",
+      "cn": "<?messageList4?>",
+      "en": "<?messageList4?>",
+      "jp": "<?messageList4?>",
+      "cn_improved": "<?messageList4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215004,
+      "status": "from_improved",
+      "cn": "<?messageList5?>",
+      "en": "<?messageList5?>",
+      "jp": "<?messageList5?>",
+      "cn_improved": "<?messageList5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215010,
+      "status": "from_improved",
+      "cn": "<?messageListMap1?>",
+      "en": "<?messageListMap1?>",
+      "jp": "<?messageListMap1?>",
+      "cn_improved": "<?messageListMap1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215011,
+      "status": "from_improved",
+      "cn": "<?messageListMap2?>",
+      "en": "<?messageListMap2?>",
+      "jp": "<?messageListMap2?>",
+      "cn_improved": "<?messageListMap2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215012,
+      "status": "from_improved",
+      "cn": "<?messageListMap3?>",
+      "en": "<?messageListMap3?>",
+      "jp": "<?messageListMap3?>",
+      "cn_improved": "<?messageListMap3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215013,
+      "status": "from_improved",
+      "cn": "<?messageListMap4?>",
+      "en": "<?messageListMap4?>",
+      "jp": "<?messageListMap4?>",
+      "cn_improved": "<?messageListMap4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 215014,
+      "status": "from_improved",
+      "cn": "<?messageListMap5?>",
+      "en": "<?messageListMap5?>",
+      "jp": "<?messageListMap5?>",
+      "cn_improved": "<?messageListMap5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 222050,
+      "status": "from_improved",
+      "cn": "<?sellSouls?>",
+      "en": "<?sellSouls?>",
+      "jp": "<?sellSouls?>",
+      "cn_improved": "<?sellSouls?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226000,
+      "status": "from_improved",
+      "cn": "<?magicListName1?>",
+      "en": "<?magicListName1?>",
+      "jp": "<?magicListName1?>",
+      "cn_improved": "<?magicListName1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226001,
+      "status": "from_improved",
+      "cn": "<?magicListName2?>",
+      "en": "<?magicListName2?>",
+      "jp": "<?magicListName2?>",
+      "cn_improved": "<?magicListName2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226002,
+      "status": "from_improved",
+      "cn": "<?magicListName3?>",
+      "en": "<?magicListName3?>",
+      "jp": "<?magicListName3?>",
+      "cn_improved": "<?magicListName3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226003,
+      "status": "from_improved",
+      "cn": "<?magicListName4?>",
+      "en": "<?magicListName4?>",
+      "jp": "<?magicListName4?>",
+      "cn_improved": "<?magicListName4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226004,
+      "status": "from_improved",
+      "cn": "<?magicListName5?>",
+      "en": "<?magicListName5?>",
+      "jp": "<?magicListName5?>",
+      "cn_improved": "<?magicListName5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226010,
+      "status": "from_improved",
+      "cn": "<?magicListReqIntellect1?>",
+      "en": "<?magicListReqIntellect1?>",
+      "jp": "<?magicListReqIntellect1?>",
+      "cn_improved": "<?magicListReqIntellect1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226011,
+      "status": "from_improved",
+      "cn": "<?magicListReqIntellect2?>",
+      "en": "<?magicListReqIntellect2?>",
+      "jp": "<?magicListReqIntellect2?>",
+      "cn_improved": "<?magicListReqIntellect2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226012,
+      "status": "from_improved",
+      "cn": "<?magicListReqIntellect3?>",
+      "en": "<?magicListReqIntellect3?>",
+      "jp": "<?magicListReqIntellect3?>",
+      "cn_improved": "<?magicListReqIntellect3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226013,
+      "status": "from_improved",
+      "cn": "<?magicListReqIntellect4?>",
+      "en": "<?magicListReqIntellect4?>",
+      "jp": "<?magicListReqIntellect4?>",
+      "cn_improved": "<?magicListReqIntellect4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226014,
+      "status": "from_improved",
+      "cn": "<?magicListReqIntellect5?>",
+      "en": "<?magicListReqIntellect5?>",
+      "jp": "<?magicListReqIntellect5?>",
+      "cn_improved": "<?magicListReqIntellect5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226020,
+      "status": "from_improved",
+      "cn": "<?magicListReqForce1?>",
+      "en": "<?magicListReqForce1?>",
+      "jp": "<?magicListReqForce1?>",
+      "cn_improved": "<?magicListReqForce1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226021,
+      "status": "from_improved",
+      "cn": "<?magicListReqForce2?>",
+      "en": "<?magicListReqForce2?>",
+      "jp": "<?magicListReqForce2?>",
+      "cn_improved": "<?magicListReqForce2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226022,
+      "status": "from_improved",
+      "cn": "<?magicListReqForce3?>",
+      "en": "<?magicListReqForce3?>",
+      "jp": "<?magicListReqForce3?>",
+      "cn_improved": "<?magicListReqForce3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226023,
+      "status": "from_improved",
+      "cn": "<?magicListReqForce4?>",
+      "en": "<?magicListReqForce4?>",
+      "jp": "<?magicListReqForce4?>",
+      "cn_improved": "<?magicListReqForce4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226024,
+      "status": "from_improved",
+      "cn": "<?magicListReqForce5?>",
+      "en": "<?magicListReqForce5?>",
+      "jp": "<?magicListReqForce5?>",
+      "cn_improved": "<?magicListReqForce5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226030,
+      "status": "from_improved",
+      "cn": "<?magicListCostMP1?>",
+      "en": "<?magicListCostMP1?>",
+      "jp": "<?magicListCostMP1?>",
+      "cn_improved": "<?magicListCostMP1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226031,
+      "status": "from_improved",
+      "cn": "<?magicListCostMP2?>",
+      "en": "<?magicListCostMP2?>",
+      "jp": "<?magicListCostMP2?>",
+      "cn_improved": "<?magicListCostMP2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226032,
+      "status": "from_improved",
+      "cn": "<?magicListCostMP3?>",
+      "en": "<?magicListCostMP3?>",
+      "jp": "<?magicListCostMP3?>",
+      "cn_improved": "<?magicListCostMP3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226033,
+      "status": "from_improved",
+      "cn": "<?magicListCostMP4?>",
+      "en": "<?magicListCostMP4?>",
+      "jp": "<?magicListCostMP4?>",
+      "cn_improved": "<?magicListCostMP4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226034,
+      "status": "from_improved",
+      "cn": "<?magicListCostMP5?>",
+      "en": "<?magicListCostMP5?>",
+      "jp": "<?magicListCostMP5?>",
+      "cn_improved": "<?magicListCostMP5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226050,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath1?>",
+      "en": "<?magicListReqOath1?>",
+      "jp": "<?magicListReqOath1?>",
+      "cn_improved": "<?magicListReqOath1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226051,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath2?>",
+      "en": "<?magicListReqOath2?>",
+      "jp": "<?magicListReqOath2?>",
+      "cn_improved": "<?magicListReqOath2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226052,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath3?>",
+      "en": "<?magicListReqOath3?>",
+      "jp": "<?magicListReqOath3?>",
+      "cn_improved": "<?magicListReqOath3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226053,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath4?>",
+      "en": "<?magicListReqOath4?>",
+      "jp": "<?magicListReqOath4?>",
+      "cn_improved": "<?magicListReqOath4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 226054,
+      "status": "from_improved",
+      "cn": "<?magicListReqOath5?>",
+      "en": "<?magicListReqOath5?>",
+      "jp": "<?magicListReqOath5?>",
+      "cn_improved": "<?magicListReqOath5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232000,
+      "status": "from_improved",
+      "cn": "<?menuTitle?>",
+      "en": "<?menuTitle?>",
+      "jp": "<?menuTitle?>",
+      "cn_improved": "<?menuTitle?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232001,
+      "status": "from_improved",
+      "cn": "<?pmOptionsText?>",
+      "en": "<?pmOptionsText?>",
+      "jp": "<?pmOptionsText?>",
+      "cn_improved": "<?pmOptionsText?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232010,
+      "status": "from_improved",
+      "cn": "<?pmOptions1?>",
+      "en": "<?pmOptions1?>",
+      "jp": "<?pmOptions1?>",
+      "cn_improved": "<?pmOptions1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232011,
+      "status": "from_improved",
+      "cn": "<?pmOptions2?>",
+      "en": "<?pmOptions2?>",
+      "jp": "<?pmOptions2?>",
+      "cn_improved": "<?pmOptions2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232012,
+      "status": "from_improved",
+      "cn": "<?pmOptions3?>",
+      "en": "<?pmOptions3?>",
+      "jp": "<?pmOptions3?>",
+      "cn_improved": "<?pmOptions3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232013,
+      "status": "from_improved",
+      "cn": "<?pmOptions4?>",
+      "en": "<?pmOptions4?>",
+      "jp": "<?pmOptions4?>",
+      "cn_improved": "<?pmOptions4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232014,
+      "status": "from_improved",
+      "cn": "<?pmOptions5?>",
+      "en": "<?pmOptions5?>",
+      "jp": "<?pmOptions5?>",
+      "cn_improved": "<?pmOptions5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232015,
+      "status": "from_improved",
+      "cn": "<?pmOptions6?>",
+      "en": "<?pmOptions6?>",
+      "jp": "<?pmOptions6?>",
+      "cn_improved": "<?pmOptions6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232016,
+      "status": "from_improved",
+      "cn": "<?pmOptions7?>",
+      "en": "<?pmOptions7?>",
+      "jp": "<?pmOptions7?>",
+      "cn_improved": "<?pmOptions7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232017,
+      "status": "from_improved",
+      "cn": "<?pmOptions8?>",
+      "en": "<?pmOptions8?>",
+      "jp": "<?pmOptions8?>",
+      "cn_improved": "<?pmOptions8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232018,
+      "status": "from_improved",
+      "cn": "<?pmOptions9?>",
+      "en": "<?pmOptions9?>",
+      "jp": "<?pmOptions9?>",
+      "cn_improved": "<?pmOptions9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232019,
+      "status": "from_improved",
+      "cn": "<?pmOptions10?>",
+      "en": "<?pmOptions10?>",
+      "jp": "<?pmOptions10?>",
+      "cn_improved": "<?pmOptions10?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232020,
+      "status": "from_improved",
+      "cn": "<?pmOptions11?>",
+      "en": "<?pmOptions11?>",
+      "jp": "<?pmOptions11?>",
+      "cn_improved": "<?pmOptions11?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232021,
+      "status": "from_improved",
+      "cn": "<?pmOptions12?>",
+      "en": "<?pmOptions12?>",
+      "jp": "<?pmOptions12?>",
+      "cn_improved": "<?pmOptions12?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232022,
+      "status": "from_improved",
+      "cn": "<?pmOptions13?>",
+      "en": "<?pmOptions13?>",
+      "jp": "<?pmOptions13?>",
+      "cn_improved": "<?pmOptions13?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232023,
+      "status": "from_improved",
+      "cn": "<?pmOptions14?>",
+      "en": "<?pmOptions14?>",
+      "jp": "<?pmOptions14?>",
+      "cn_improved": "<?pmOptions14?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232024,
+      "status": "from_improved",
+      "cn": "<?pmOptions15?>",
+      "en": "<?pmOptions15?>",
+      "jp": "<?pmOptions15?>",
+      "cn_improved": "<?pmOptions15?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232025,
+      "status": "from_improved",
+      "cn": "<?pmOptions16?>",
+      "en": "<?pmOptions16?>",
+      "jp": "<?pmOptions16?>",
+      "cn_improved": "<?pmOptions16?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232026,
+      "status": "from_improved",
+      "cn": "<?pmOptions17?>",
+      "en": "<?pmOptions17?>",
+      "jp": "<?pmOptions17?>",
+      "cn_improved": "<?pmOptions17?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232027,
+      "status": "from_improved",
+      "cn": "<?pmOptions18?>",
+      "en": "<?pmOptions18?>",
+      "jp": "<?pmOptions18?>",
+      "cn_improved": "<?pmOptions18?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232028,
+      "status": "from_improved",
+      "cn": "<?pmOptions19?>",
+      "en": "<?pmOptions19?>",
+      "jp": "<?pmOptions19?>",
+      "cn_improved": "<?pmOptions19?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232029,
+      "status": "from_improved",
+      "cn": "<?pmOptions20?>",
+      "en": "<?pmOptions20?>",
+      "jp": "<?pmOptions20?>",
+      "cn_improved": "<?pmOptions20?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240000,
+      "status": "from_improved",
+      "cn": "<?onLineID?>",
+      "en": "<?onLineID?>",
+      "jp": "<?onLineID?>",
+      "cn_improved": "<?onLineID?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240001,
+      "status": "from_improved",
+      "cn": "<?multiPlayNum?>",
+      "en": "<?multiPlayNum?>",
+      "jp": "<?multiPlayNum?>",
+      "cn_improved": "<?multiPlayNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243000,
+      "status": "from_improved",
+      "cn": "<?message?>",
+      "en": "<?message?>",
+      "jp": "<?message?>",
+      "cn_improved": "<?message?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243001,
+      "status": "from_improved",
+      "cn": "<?evalPlus?>",
+      "en": "<?evalPlus?>",
+      "jp": "<?evalPlus?>",
+      "cn_improved": "<?evalPlus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243002,
+      "status": "from_improved",
+      "cn": "<?evalMinus?>",
+      "en": "<?evalMinus?>",
+      "jp": "<?evalMinus?>",
+      "cn_improved": "<?evalMinus?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243003,
+      "status": "from_improved",
+      "cn": "<?eval?>",
+      "en": "<?eval?>",
+      "jp": "<?eval?>",
+      "cn_improved": "<?eval?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243050,
+      "status": "from_improved",
+      "cn": "<?selectGesture?>",
+      "en": "<?selectGesture?>",
+      "jp": "<?selectGesture?>",
+      "cn_improved": "<?selectGesture?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243100,
+      "status": "from_improved",
+      "cn": "<?enemyPC1?>",
+      "en": "<?enemyPC1?>",
+      "jp": "<?enemyPC1?>",
+      "cn_improved": "<?enemyPC1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243101,
+      "status": "from_improved",
+      "cn": "<?enemyPC2?>",
+      "en": "<?enemyPC2?>",
+      "jp": "<?enemyPC2?>",
+      "cn_improved": "<?enemyPC2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243102,
+      "status": "from_improved",
+      "cn": "<?enemyPC3?>",
+      "en": "<?enemyPC3?>",
+      "jp": "<?enemyPC3?>",
+      "cn_improved": "<?enemyPC3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243110,
+      "status": "from_improved",
+      "cn": "<?remainSec?>秒",
+      "en": "<?remainSec?>秒",
+      "jp": "<?remainSec?>秒",
+      "cn_improved": "<?remainSec?>秒",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243200,
+      "status": "from_improved",
+      "cn": "<?goodsNameId@110?>",
+      "en": "<?goodsNameId@110?>",
+      "jp": "<?goodsNameId@110?>",
+      "cn_improved": "<?goodsNameId@110?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 243201,
+      "status": "from_improved",
+      "cn": "<?registerItemNum?>",
+      "en": "<?registerItemNum?>",
+      "jp": "<?registerItemNum?>",
+      "cn_improved": "<?registerItemNum?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245000,
+      "status": "from_improved",
+      "cn": "<?rank1?>",
+      "en": "<?rank1?>",
+      "jp": "<?rank1?>",
+      "cn_improved": "<?rank1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245001,
+      "status": "from_improved",
+      "cn": "<?rank2?>",
+      "en": "<?rank2?>",
+      "jp": "<?rank2?>",
+      "cn_improved": "<?rank2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245002,
+      "status": "from_improved",
+      "cn": "<?rank3?>",
+      "en": "<?rank3?>",
+      "jp": "<?rank3?>",
+      "cn_improved": "<?rank3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245003,
+      "status": "from_improved",
+      "cn": "<?rank4?>",
+      "en": "<?rank4?>",
+      "jp": "<?rank4?>",
+      "cn_improved": "<?rank4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245004,
+      "status": "from_improved",
+      "cn": "<?rank5?>",
+      "en": "<?rank5?>",
+      "jp": "<?rank5?>",
+      "cn_improved": "<?rank5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245005,
+      "status": "from_improved",
+      "cn": "<?rank6?>",
+      "en": "<?rank6?>",
+      "jp": "<?rank6?>",
+      "cn_improved": "<?rank6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245006,
+      "status": "from_improved",
+      "cn": "<?rank7?>",
+      "en": "<?rank7?>",
+      "jp": "<?rank7?>",
+      "cn_improved": "<?rank7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245007,
+      "status": "from_improved",
+      "cn": "<?rank8?>",
+      "en": "<?rank8?>",
+      "jp": "<?rank8?>",
+      "cn_improved": "<?rank8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245008,
+      "status": "from_improved",
+      "cn": "<?rank9?>",
+      "en": "<?rank9?>",
+      "jp": "<?rank9?>",
+      "cn_improved": "<?rank9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245009,
+      "status": "from_improved",
+      "cn": "<?rank10?>",
+      "en": "<?rank10?>",
+      "jp": "<?rank10?>",
+      "cn_improved": "<?rank10?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245020,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName1?>",
+      "en": "<?rankPlayerName1?>",
+      "jp": "<?rankPlayerName1?>",
+      "cn_improved": "<?rankPlayerName1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245021,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName2?>",
+      "en": "<?rankPlayerName2?>",
+      "jp": "<?rankPlayerName2?>",
+      "cn_improved": "<?rankPlayerName2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245022,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName3?>",
+      "en": "<?rankPlayerName3?>",
+      "jp": "<?rankPlayerName3?>",
+      "cn_improved": "<?rankPlayerName3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245023,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName4?>",
+      "en": "<?rankPlayerName4?>",
+      "jp": "<?rankPlayerName4?>",
+      "cn_improved": "<?rankPlayerName4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245024,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName5?>",
+      "en": "<?rankPlayerName5?>",
+      "jp": "<?rankPlayerName5?>",
+      "cn_improved": "<?rankPlayerName5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245025,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName6?>",
+      "en": "<?rankPlayerName6?>",
+      "jp": "<?rankPlayerName6?>",
+      "cn_improved": "<?rankPlayerName6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245026,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName7?>",
+      "en": "<?rankPlayerName7?>",
+      "jp": "<?rankPlayerName7?>",
+      "cn_improved": "<?rankPlayerName7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245027,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName8?>",
+      "en": "<?rankPlayerName8?>",
+      "jp": "<?rankPlayerName8?>",
+      "cn_improved": "<?rankPlayerName8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245028,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName9?>",
+      "en": "<?rankPlayerName9?>",
+      "jp": "<?rankPlayerName9?>",
+      "cn_improved": "<?rankPlayerName9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245029,
+      "status": "from_improved",
+      "cn": "<?rankPlayerName10?>",
+      "en": "<?rankPlayerName10?>",
+      "jp": "<?rankPlayerName10?>",
+      "cn_improved": "<?rankPlayerName10?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245040,
+      "status": "from_improved",
+      "cn": "<?rankScore1?>",
+      "en": "<?rankScore1?>",
+      "jp": "<?rankScore1?>",
+      "cn_improved": "<?rankScore1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245041,
+      "status": "from_improved",
+      "cn": "<?rankScore2?>",
+      "en": "<?rankScore2?>",
+      "jp": "<?rankScore2?>",
+      "cn_improved": "<?rankScore2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245042,
+      "status": "from_improved",
+      "cn": "<?rankScore3?>",
+      "en": "<?rankScore3?>",
+      "jp": "<?rankScore3?>",
+      "cn_improved": "<?rankScore3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245043,
+      "status": "from_improved",
+      "cn": "<?rankScore4?>",
+      "en": "<?rankScore4?>",
+      "jp": "<?rankScore4?>",
+      "cn_improved": "<?rankScore4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245044,
+      "status": "from_improved",
+      "cn": "<?rankScore5?>",
+      "en": "<?rankScore5?>",
+      "jp": "<?rankScore5?>",
+      "cn_improved": "<?rankScore5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245045,
+      "status": "from_improved",
+      "cn": "<?rankScore6?>",
+      "en": "<?rankScore6?>",
+      "jp": "<?rankScore6?>",
+      "cn_improved": "<?rankScore6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245046,
+      "status": "from_improved",
+      "cn": "<?rankScore7?>",
+      "en": "<?rankScore7?>",
+      "jp": "<?rankScore7?>",
+      "cn_improved": "<?rankScore7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245047,
+      "status": "from_improved",
+      "cn": "<?rankScore8?>",
+      "en": "<?rankScore8?>",
+      "jp": "<?rankScore8?>",
+      "cn_improved": "<?rankScore8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245048,
+      "status": "from_improved",
+      "cn": "<?rankScore9?>",
+      "en": "<?rankScore9?>",
+      "jp": "<?rankScore9?>",
+      "cn_improved": "<?rankScore9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245049,
+      "status": "from_improved",
+      "cn": "<?rankScore10?>",
+      "en": "<?rankScore10?>",
+      "jp": "<?rankScore10?>",
+      "cn_improved": "<?rankScore10?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 245090,
+      "status": "from_improved",
+      "cn": "<?rankCategory?>",
+      "en": "<?rankCategory?>",
+      "jp": "<?rankCategory?>",
+      "cn_improved": "<?rankCategory?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250000,
+      "status": "from_improved",
+      "cn": "<?inventoryNum0?>",
+      "en": "<?inventoryNum0?>",
+      "jp": "<?inventoryNum0?>",
+      "cn_improved": "<?inventoryNum0?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250001,
+      "status": "from_improved",
+      "cn": "<?inventoryNum1?>",
+      "en": "<?inventoryNum1?>",
+      "jp": "<?inventoryNum1?>",
+      "cn_improved": "<?inventoryNum1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250002,
+      "status": "from_improved",
+      "cn": "<?inventoryNum2?>",
+      "en": "<?inventoryNum2?>",
+      "jp": "<?inventoryNum2?>",
+      "cn_improved": "<?inventoryNum2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250003,
+      "status": "from_improved",
+      "cn": "<?inventoryNum3?>",
+      "en": "<?inventoryNum3?>",
+      "jp": "<?inventoryNum3?>",
+      "cn_improved": "<?inventoryNum3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250010,
+      "status": "from_improved",
+      "cn": "<?repositoryNum0?>",
+      "en": "<?repositoryNum0?>",
+      "jp": "<?repositoryNum0?>",
+      "cn_improved": "<?repositoryNum0?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250011,
+      "status": "from_improved",
+      "cn": "<?repositoryNum1?>",
+      "en": "<?repositoryNum1?>",
+      "jp": "<?repositoryNum1?>",
+      "cn_improved": "<?repositoryNum1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250012,
+      "status": "from_improved",
+      "cn": "<?repositoryNum2?>",
+      "en": "<?repositoryNum2?>",
+      "jp": "<?repositoryNum2?>",
+      "cn_improved": "<?repositoryNum2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250013,
+      "status": "from_improved",
+      "cn": "<?repositoryNum3?>",
+      "en": "<?repositoryNum3?>",
+      "jp": "<?repositoryNum3?>",
+      "cn_improved": "<?repositoryNum3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250050,
+      "status": "from_improved",
+      "cn": "<?warpName1?>",
+      "en": "<?warpName1?>",
+      "jp": "<?warpName1?>",
+      "cn_improved": "<?warpName1?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250051,
+      "status": "from_improved",
+      "cn": "<?warpName2?>",
+      "en": "<?warpName2?>",
+      "jp": "<?warpName2?>",
+      "cn_improved": "<?warpName2?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250052,
+      "status": "from_improved",
+      "cn": "<?warpName3?>",
+      "en": "<?warpName3?>",
+      "jp": "<?warpName3?>",
+      "cn_improved": "<?warpName3?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250053,
+      "status": "from_improved",
+      "cn": "<?warpName4?>",
+      "en": "<?warpName4?>",
+      "jp": "<?warpName4?>",
+      "cn_improved": "<?warpName4?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250054,
+      "status": "from_improved",
+      "cn": "<?warpName5?>",
+      "en": "<?warpName5?>",
+      "jp": "<?warpName5?>",
+      "cn_improved": "<?warpName5?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250055,
+      "status": "from_improved",
+      "cn": "<?warpName6?>",
+      "en": "<?warpName6?>",
+      "jp": "<?warpName6?>",
+      "cn_improved": "<?warpName6?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250056,
+      "status": "from_improved",
+      "cn": "<?warpName7?>",
+      "en": "<?warpName7?>",
+      "jp": "<?warpName7?>",
+      "cn_improved": "<?warpName7?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250057,
+      "status": "from_improved",
+      "cn": "<?warpName8?>",
+      "en": "<?warpName8?>",
+      "jp": "<?warpName8?>",
+      "cn_improved": "<?warpName8?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250058,
+      "status": "from_improved",
+      "cn": "<?warpName9?>",
+      "en": "<?warpName9?>",
+      "jp": "<?warpName9?>",
+      "cn_improved": "<?warpName9?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 251000,
+      "status": "from_improved",
+      "cn": "<?loadHintName?>",
+      "en": "<?loadHintName?>",
+      "jp": "<?loadHintName?>",
+      "cn_improved": "<?loadHintName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 251001,
+      "status": "from_improved",
+      "cn": "<?loadHintCaption?>",
+      "en": "<?loadHintCaption?>",
+      "jp": "<?loadHintCaption?>",
+      "cn_improved": "<?loadHintCaption?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 290000,
+      "status": "from_improved",
+      "cn": "<?evntAcquittalPrice?>",
+      "en": "<?evntAcquittalPrice?>",
+      "jp": "<?evntAcquittalPrice?>",
+      "cn_improved": "<?evntAcquittalPrice?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301000,
+      "status": "from_improved",
+      "cn": "このキャラクターの名前",
+      "en": "このキャラクターの名前",
+      "jp": "このキャラクターの名前",
+      "cn_improved": "このキャラクターの名前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301001,
+      "status": "from_improved",
+      "cn": "このキャラクターの性別",
+      "en": "このキャラクターの性別",
+      "jp": "このキャラクターの性別",
+      "cn_improved": "このキャラクターの性別",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301002,
+      "status": "from_improved",
+      "cn": "交わしている誓約の名前",
+      "en": "交わしている誓約の名前",
+      "jp": "交わしている誓約の名前",
+      "cn_improved": "交わしている誓約の名前",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301003,
+      "status": "from_improved",
+      "cn": "HPを決める能力値",
+      "en": "HPを決める能力値",
+      "jp": "HPを決める能力値",
+      "cn_improved": "HPを決める能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301004,
+      "status": "from_improved",
+      "cn": "魔法の記憶スロット数を決める能力値",
+      "en": "魔法の記憶スロット数を決める能力値",
+      "jp": "魔法の記憶スロット数を決める能力値",
+      "cn_improved": "魔法の記憶スロット数を決める能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301005,
+      "status": "from_improved",
+      "cn": "スタミナ、装備重量、出血への耐性を決める能力値",
+      "en": "スタミナ、装備重量、出血への耐性を決める能力値",
+      "jp": "スタミナ、装備重量、出血への耐性を決める能力値",
+      "cn_improved": "スタミナ、装備重量、出血への耐性を決める能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301006,
+      "status": "from_improved",
+      "cn": "重く強い武器を使用するために必要な能力値\n武器の攻撃力も高める",
+      "en": "重く強い武器を使用するために必要な能力値\n武器の攻撃力も高める",
+      "jp": "重く強い武器を使用するために必要な能力値\n武器の攻撃力も高める",
+      "cn_improved": "重く強い武器を使用するために必要な能力値\n武器の攻撃力も高める",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301007,
+      "status": "from_improved",
+      "cn": "扱いの難しい武器を使用するために必要な能力\n武器の攻撃力も高める",
+      "en": "扱いの難しい武器を使用するために必要な能力\n武器の攻撃力も高める",
+      "jp": "扱いの難しい武器を使用するために必要な能力\n武器の攻撃力も高める",
+      "cn_improved": "扱いの難しい武器を使用するために必要な能力\n武器の攻撃力も高める",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301008,
+      "status": "from_improved",
+      "cn": "防御力と、毒への耐性を決める能力値",
+      "en": "防御力と、毒への耐性を決める能力値",
+      "jp": "防御力と、毒への耐性を決める能力値",
+      "cn_improved": "防御力と、毒への耐性を決める能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301009,
+      "status": "from_improved",
+      "cn": "魔術を使用するために必要な能力値\n魔術や魔術武器の威力も高める",
+      "en": "魔術を使用するために必要な能力値\n魔術や魔術武器の威力も高める",
+      "jp": "魔術を使用するために必要な能力値\n魔術や魔術武器の威力も高める",
+      "cn_improved": "魔術を使用するために必要な能力値\n魔術や魔術武器の威力も高める",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301010,
+      "status": "from_improved",
+      "cn": "奇跡を使用するために必要な能力値\n奇跡や神聖武器の威力も高める",
+      "en": "奇跡を使用するために必要な能力値\n奇跡や神聖武器の威力も高める",
+      "jp": "奇跡を使用するために必要な能力値\n奇跡や神聖武器の威力も高める",
+      "cn_improved": "奇跡を使用するために必要な能力値\n奇跡や神聖武器の威力も高める",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301011,
+      "status": "from_improved",
+      "cn": "アイテム発見力と、呪死への耐性を決める能力値",
+      "en": "アイテム発見力と、呪死への耐性を決める能力値",
+      "jp": "アイテム発見力と、呪死への耐性を決める能力値",
+      "cn_improved": "アイテム発見力と、呪死への耐性を決める能力値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301012,
+      "status": "from_improved",
+      "cn": "人中にある黒い精の数。人の本質、人らしさの象徴といわれ\nアイテム発見力と、呪死への耐性を決める",
+      "en": "人中にある黒い精の数。人の本質、人らしさの象徴といわれ\nアイテム発見力と、呪死への耐性を決める",
+      "jp": "人中にある黒い精の数。人の本質、人らしさの象徴といわれ\nアイテム発見力と、呪死への耐性を決める",
+      "cn_improved": "人中にある黒い精の数。人の本質、人らしさの象徴といわれ\nアイテム発見力と、呪死への耐性を決める",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301013,
+      "status": "from_improved",
+      "cn": "総合的な能力の高さを示す値\nソウルによってレベルアップができる",
+      "en": "総合的な能力の高さを示す値\nソウルによってレベルアップができる",
+      "jp": "総合的な能力の高さを示す値\nソウルによってレベルアップができる",
+      "cn_improved": "総合的な能力の高さを示す値\nソウルによってレベルアップができる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301014,
+      "status": "from_improved",
+      "cn": "このキャラクターが故郷から持ち出せた特別な何か",
+      "en": "このキャラクターが故郷から持ち出せた特別な何か",
+      "jp": "このキャラクターが故郷から持ち出せた特別な何か",
+      "cn_improved": "このキャラクターが故郷から持ち出せた特別な何か",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301016,
+      "status": "from_improved",
+      "cn": "このキャラクターのゲームプレイ時間総計",
+      "en": "このキャラクターのゲームプレイ時間総計",
+      "jp": "このキャラクターのゲームプレイ時間総計",
+      "cn_improved": "このキャラクターのゲームプレイ時間総計",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301017,
+      "status": "from_improved",
+      "cn": "このキャラクターの故郷での立場",
+      "en": "このキャラクターの故郷での立場",
+      "jp": "このキャラクターの故郷での立場",
+      "cn_improved": "このキャラクターの故郷での立場",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301018,
+      "status": "from_improved",
+      "cn": "このキャラクターが最後にいた場所",
+      "en": "このキャラクターが最後にいた場所",
+      "jp": "このキャラクターが最後にいた場所",
+      "cn_improved": "このキャラクターが最後にいた場所",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301030,
+      "status": "from_improved",
+      "cn": "生命力。これがゼロになると死ぬ",
+      "en": "生命力。これがゼロになると死ぬ",
+      "jp": "生命力。これがゼロになると死ぬ",
+      "cn_improved": "生命力。これがゼロになると死ぬ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301032,
+      "status": "from_improved",
+      "cn": "様々なアクションをするために必要なもの\nアクションすると減るが、自動回復する",
+      "en": "様々なアクションをするために必要なもの\nアクションすると減るが、自動回復する",
+      "jp": "様々なアクションをするために必要なもの\nアクションすると減るが、自動回復する",
+      "cn_improved": "様々なアクションをするために必要なもの\nアクションすると減るが、自動回復する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301033,
+      "status": "from_improved",
+      "cn": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "en": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "jp": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "cn_improved": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301034,
+      "status": "from_improved",
+      "cn": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "en": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "jp": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "cn_improved": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301035,
+      "status": "from_improved",
+      "cn": "猛毒耐性の説明",
+      "en": "猛毒耐性の説明",
+      "jp": "猛毒耐性の説明",
+      "cn_improved": "猛毒耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301036,
+      "status": "from_improved",
+      "cn": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "en": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "jp": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "cn_improved": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301037,
+      "status": "from_improved",
+      "cn": "敵を倒したときに、その死体にアイテムを発見できる力",
+      "en": "敵を倒したときに、その死体にアイテムを発見できる力",
+      "jp": "敵を倒したときに、その死体にアイテムを発見できる力",
+      "cn_improved": "敵を倒したときに、その死体にアイテムを発見できる力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301040,
+      "status": "from_improved",
+      "cn": "装備しているアイテム重量の総計。\n増えるほど動きが鈍くなり\n限界値を超えると極端に動きが鈍くなる",
+      "en": "装備しているアイテム重量の総計。\n増えるほど動きが鈍くなり\n限界値を超えると極端に動きが鈍くなる",
+      "jp": "装備しているアイテム重量の総計。\n増えるほど動きが鈍くなり\n限界値を超えると極端に動きが鈍くなる",
+      "cn_improved": "装備しているアイテム重量の総計。\n増えるほど動きが鈍くなり\n限界値を超えると極端に動きが鈍くなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301041,
+      "status": "from_improved",
+      "cn": "所持しているソウルの総計\n様々な用途があるが、死ぬとその場所に残ってしまう",
+      "en": "所持しているソウルの総計\n様々な用途があるが、死ぬとその場所に残ってしまう",
+      "jp": "所持しているソウルの総計\n様々な用途があるが、死ぬとその場所に残ってしまう",
+      "cn_improved": "所持しているソウルの総計\n様々な用途があるが、死ぬとその場所に残ってしまう",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301042,
+      "status": "from_improved",
+      "cn": "右手第一スロットに装備している武器の攻撃力",
+      "en": "右手第一スロットに装備している武器の攻撃力",
+      "jp": "右手第一スロットに装備している武器の攻撃力",
+      "cn_improved": "右手第一スロットに装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301043,
+      "status": "from_improved",
+      "cn": "右手第二スロットに装備している武器の攻撃力",
+      "en": "右手第二スロットに装備している武器の攻撃力",
+      "jp": "右手第二スロットに装備している武器の攻撃力",
+      "cn_improved": "右手第二スロットに装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301044,
+      "status": "from_improved",
+      "cn": "左手第一スロットに装備している武器の攻撃力",
+      "en": "左手第一スロットに装備している武器の攻撃力",
+      "jp": "左手第一スロットに装備している武器の攻撃力",
+      "cn_improved": "左手第一スロットに装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301045,
+      "status": "from_improved",
+      "cn": "左手第二スロットに装備している武器の攻撃力",
+      "en": "左手第二スロットに装備している武器の攻撃力",
+      "jp": "左手第二スロットに装備している武器の攻撃力",
+      "cn_improved": "左手第二スロットに装備している武器の攻撃力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301046,
+      "status": "from_improved",
+      "cn": "物理的な攻撃に対する防御力",
+      "en": "物理的な攻撃に対する防御力",
+      "jp": "物理的な攻撃に対する防御力",
+      "cn_improved": "物理的な攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301047,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に打撃属性に対する防御力",
+      "en": "物理的な攻撃、特に打撃属性に対する防御力",
+      "jp": "物理的な攻撃、特に打撃属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に打撃属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301048,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "en": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "jp": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301049,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に刺突属性に対する防御力",
+      "en": "物理的な攻撃、特に刺突属性に対する防御力",
+      "jp": "物理的な攻撃、特に刺突属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に刺突属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301050,
+      "status": "from_improved",
+      "cn": "魔法属性攻撃に対する防御力",
+      "en": "魔法属性攻撃に対する防御力",
+      "jp": "魔法属性攻撃に対する防御力",
+      "cn_improved": "魔法属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301051,
+      "status": "from_improved",
+      "cn": "炎属性攻撃に対する防御力",
+      "en": "炎属性攻撃に対する防御力",
+      "jp": "炎属性攻撃に対する防御力",
+      "cn_improved": "炎属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301052,
+      "status": "from_improved",
+      "cn": "雷属性攻撃に対する防御力",
+      "en": "雷属性攻撃に対する防御力",
+      "jp": "雷属性攻撃に対する防御力",
+      "cn_improved": "雷属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301053,
+      "status": "from_improved",
+      "cn": "攻撃を受けても崩されずに耐える度合い",
+      "en": "攻撃を受けても崩されずに耐える度合い",
+      "jp": "攻撃を受けても崩されずに耐える度合い",
+      "cn_improved": "攻撃を受けても崩されずに耐える度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 301060,
+      "status": "from_improved",
+      "cn": "魔術／呪術／奇跡を記憶できる領域の数",
+      "en": "魔術／呪術／奇跡を記憶できる領域の数",
+      "jp": "魔術／呪術／奇跡を記憶できる領域の数",
+      "cn_improved": "魔術／呪術／奇跡を記憶できる領域の数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302000,
+      "status": "from_improved",
+      "cn": "物理的な重さ",
+      "en": "物理的な重さ",
+      "jp": "物理的な重さ",
+      "cn_improved": "物理的な重さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302001,
+      "status": "from_improved",
+      "cn": "頑丈さ。使用などにより減っていき\n減りすぎるとアイテムの効果が下がる",
+      "en": "頑丈さ。使用などにより減っていき\n減りすぎるとアイテムの効果が下がる",
+      "jp": "頑丈さ。使用などにより減っていき\n減りすぎるとアイテムの効果が下がる",
+      "cn_improved": "頑丈さ。使用などにより減っていき\n減りすぎるとアイテムの効果が下がる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302100,
+      "status": "from_improved",
+      "cn": "攻撃に使用したとき、ダメージを与える力",
+      "en": "攻撃に使用したとき、ダメージを与える力",
+      "jp": "攻撃に使用したとき、ダメージを与える力",
+      "cn_improved": "攻撃に使用したとき、ダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302101,
+      "status": "from_improved",
+      "cn": "物理的なダメージを与える力",
+      "en": "物理的なダメージを与える力",
+      "jp": "物理的なダメージを与える力",
+      "cn_improved": "物理的なダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302102,
+      "status": "from_improved",
+      "cn": "魔法属性のダメージを与える力",
+      "en": "魔法属性のダメージを与える力",
+      "jp": "魔法属性のダメージを与える力",
+      "cn_improved": "魔法属性のダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302103,
+      "status": "from_improved",
+      "cn": "炎属性のダメージを与える力",
+      "en": "炎属性のダメージを与える力",
+      "jp": "炎属性のダメージを与える力",
+      "cn_improved": "炎属性のダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302104,
+      "status": "from_improved",
+      "cn": "雷属性のダメージを与える力",
+      "en": "雷属性のダメージを与える力",
+      "jp": "雷属性のダメージを与える力",
+      "cn_improved": "雷属性のダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302105,
+      "status": "from_improved",
+      "cn": "パリィ後の追い討ち、背後からの一撃などの\n致命攻撃でダメージを与える力",
+      "en": "パリィ後の追い討ち、背後からの一撃などの\n致命攻撃でダメージを与える力",
+      "jp": "パリィ後の追い討ち、背後からの一撃などの\n致命攻撃でダメージを与える力",
+      "cn_improved": "パリィ後の追い討ち、背後からの一撃などの\n致命攻撃でダメージを与える力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302106,
+      "status": "from_improved",
+      "cn": "魔法（魔術／呪術／奇跡）の威力を高める度合い",
+      "en": "魔法（魔術／呪術／奇跡）の威力を高める度合い",
+      "jp": "魔法（魔術／呪術／奇跡）の威力を高める度合い",
+      "cn_improved": "魔法（魔術／呪術／奇跡）の威力を高める度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302107,
+      "status": "from_improved",
+      "cn": "奇跡の威力を高める度合い",
+      "en": "奇跡の威力を高める度合い",
+      "jp": "奇跡の威力を高める度合い",
+      "cn_improved": "奇跡の威力を高める度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302108,
+      "status": "from_improved",
+      "cn": "射撃の届く距離",
+      "en": "射撃の届く距離",
+      "jp": "射撃の届く距離",
+      "cn_improved": "射撃の届く距離",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302109,
+      "status": "from_improved",
+      "cn": "呪術の威力を高める度合い",
+      "en": "呪術の威力を高める度合い",
+      "jp": "呪術の威力を高める度合い",
+      "cn_improved": "呪術の威力を高める度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302120,
+      "status": "from_improved",
+      "cn": "防御に使用したとき、与えられるダメージをカットする割合",
+      "en": "防御に使用したとき、与えられるダメージをカットする割合",
+      "jp": "防御に使用したとき、与えられるダメージをカットする割合",
+      "cn_improved": "防御に使用したとき、与えられるダメージをカットする割合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302121,
+      "status": "from_improved",
+      "cn": "物理的なダメージをカットする割合",
+      "en": "物理的なダメージをカットする割合",
+      "jp": "物理的なダメージをカットする割合",
+      "cn_improved": "物理的なダメージをカットする割合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302122,
+      "status": "from_improved",
+      "cn": "魔法属性のダメージをカットする割合",
+      "en": "魔法属性のダメージをカットする割合",
+      "jp": "魔法属性のダメージをカットする割合",
+      "cn_improved": "魔法属性のダメージをカットする割合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302123,
+      "status": "from_improved",
+      "cn": "炎属性のダメージをカットする割合",
+      "en": "炎属性のダメージをカットする割合",
+      "jp": "炎属性のダメージをカットする割合",
+      "cn_improved": "炎属性のダメージをカットする割合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302124,
+      "status": "from_improved",
+      "cn": "雷属性のダメージをカットする割合",
+      "en": "雷属性のダメージをカットする割合",
+      "jp": "雷属性のダメージをカットする割合",
+      "cn_improved": "雷属性のダメージをカットする割合",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302125,
+      "status": "from_improved",
+      "cn": "防御の安定度。高いほど\n攻撃を受けたときに減るスタミナ量が小さくなる",
+      "en": "防御の安定度。高いほど\n攻撃を受けたときに減るスタミナ量が小さくなる",
+      "jp": "防御の安定度。高いほど\n攻撃を受けたときに減るスタミナ量が小さくなる",
+      "cn_improved": "防御の安定度。高いほど\n攻撃を受けたときに減るスタミナ量が小さくなる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302130,
+      "status": "from_improved",
+      "cn": "筋力／技量／理力／信仰の値により\n攻撃力が高められる度合い",
+      "en": "筋力／技量／理力／信仰の値により\n攻撃力が高められる度合い",
+      "jp": "筋力／技量／理力／信仰の値により\n攻撃力が高められる度合い",
+      "cn_improved": "筋力／技量／理力／信仰の値により\n攻撃力が高められる度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302131,
+      "status": "from_improved",
+      "cn": "出血／毒状態にする効果の強さ\nおよび特定の敵に有効な神聖／邪教効果の強さ",
+      "en": "出血／毒状態にする効果の強さ\nおよび特定の敵に有効な神聖／邪教効果の強さ",
+      "jp": "出血／毒状態にする効果の強さ\nおよび特定の敵に有効な神聖／邪教効果の強さ",
+      "cn_improved": "出血／毒状態にする効果の強さ\nおよび特定の敵に有効な神聖／邪教効果の強さ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302132,
+      "status": "from_improved",
+      "cn": "まともに使用するために最低限必要となる\n筋力／技量／理力／信仰の値",
+      "en": "まともに使用するために最低限必要となる\n筋力／技量／理力／信仰の値",
+      "jp": "まともに使用するために最低限必要となる\n筋力／技量／理力／信仰の値",
+      "cn_improved": "まともに使用するために最低限必要となる\n筋力／技量／理力／信仰の値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302160,
+      "status": "from_improved",
+      "cn": "攻撃に使用したときの、物理的ダメージの属性",
+      "en": "攻撃に使用したときの、物理的ダメージの属性",
+      "jp": "攻撃に使用したときの、物理的ダメージの属性",
+      "cn_improved": "攻撃に使用したときの、物理的ダメージの属性",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302170,
+      "status": "from_improved",
+      "cn": "武器のカテゴリ。同カテゴリの武器は特性も似ている",
+      "en": "武器のカテゴリ。同カテゴリの武器は特性も似ている",
+      "jp": "武器のカテゴリ。同カテゴリの武器は特性も似ている",
+      "cn_improved": "武器のカテゴリ。同カテゴリの武器は特性も似ている",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302200,
+      "status": "from_improved",
+      "cn": "物理的な攻撃に対する防御力",
+      "en": "物理的な攻撃に対する防御力",
+      "jp": "物理的な攻撃に対する防御力",
+      "cn_improved": "物理的な攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302201,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に打撃属性に対する防御力",
+      "en": "物理的な攻撃、特に打撃属性に対する防御力",
+      "jp": "物理的な攻撃、特に打撃属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に打撃属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302202,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "en": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "jp": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に斬撃属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302203,
+      "status": "from_improved",
+      "cn": "物理的な攻撃、特に刺突属性に対する防御力",
+      "en": "物理的な攻撃、特に刺突属性に対する防御力",
+      "jp": "物理的な攻撃、特に刺突属性に対する防御力",
+      "cn_improved": "物理的な攻撃、特に刺突属性に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302204,
+      "status": "from_improved",
+      "cn": "魔法属性攻撃に対する防御力",
+      "en": "魔法属性攻撃に対する防御力",
+      "jp": "魔法属性攻撃に対する防御力",
+      "cn_improved": "魔法属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302205,
+      "status": "from_improved",
+      "cn": "炎属性攻撃に対する防御力",
+      "en": "炎属性攻撃に対する防御力",
+      "jp": "炎属性攻撃に対する防御力",
+      "cn_improved": "炎属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302206,
+      "status": "from_improved",
+      "cn": "雷属性攻撃に対する防御力",
+      "en": "雷属性攻撃に対する防御力",
+      "jp": "雷属性攻撃に対する防御力",
+      "cn_improved": "雷属性攻撃に対する防御力",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302207,
+      "status": "from_improved",
+      "cn": "攻撃を受けても崩されずに耐える度合い",
+      "en": "攻撃を受けても崩されずに耐える度合い",
+      "jp": "攻撃を受けても崩されずに耐える度合い",
+      "cn_improved": "攻撃を受けても崩されずに耐える度合い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302210,
+      "status": "from_improved",
+      "cn": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "en": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "jp": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "cn_improved": "鋭い刃や棘の武器などが引き起こす、出血に対する耐性\n高いほど出血し難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302211,
+      "status": "from_improved",
+      "cn": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "en": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "jp": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "cn_improved": "様々な毒に対する耐性。高いほど毒状態になり難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302212,
+      "status": "from_improved",
+      "cn": "猛毒耐性の説明",
+      "en": "猛毒耐性の説明",
+      "jp": "猛毒耐性の説明",
+      "cn_improved": "猛毒耐性の説明",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302213,
+      "status": "from_improved",
+      "cn": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "en": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "jp": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "cn_improved": "禍々しい呪死に対する耐性。高いほど呪死し難い",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302220,
+      "status": "from_improved",
+      "cn": "男性、女性ともに装備することのできる防具",
+      "en": "男性、女性ともに装備することのできる防具",
+      "jp": "男性、女性ともに装備することのできる防具",
+      "cn_improved": "男性、女性ともに装備することのできる防具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302221,
+      "status": "from_improved",
+      "cn": "男性だけが装備することのできる防具",
+      "en": "男性だけが装備することのできる防具",
+      "jp": "男性だけが装備することのできる防具",
+      "cn_improved": "男性だけが装備することのできる防具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 302222,
+      "status": "from_improved",
+      "cn": "女性だけが装備することのできる防具",
+      "en": "女性だけが装備することのできる防具",
+      "jp": "女性だけが装備することのできる防具",
+      "cn_improved": "女性だけが装備することのできる防具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303000,
+      "status": "from_improved",
+      "cn": "魔法の種別。魔術、呪術、奇跡の三種類がある",
+      "en": "魔法の種別。魔術、呪術、奇跡の三種類がある",
+      "jp": "魔法の種別。魔術、呪術、奇跡の三種類がある",
+      "cn_improved": "魔法の種別。魔術、呪術、奇跡の三種類がある",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303001,
+      "status": "from_improved",
+      "cn": "記憶するために必要な記憶スロットの数",
+      "en": "記憶するために必要な記憶スロットの数",
+      "jp": "記憶するために必要な記憶スロットの数",
+      "cn_improved": "記憶するために必要な記憶スロットの数",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303002,
+      "status": "from_improved",
+      "cn": "使用できる回数。篝火で休息することで回復する",
+      "en": "使用できる回数。篝火で休息することで回復する",
+      "jp": "使用できる回数。篝火で休息することで回復する",
+      "cn_improved": "使用できる回数。篝火で休息することで回復する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 303003,
+      "status": "from_improved",
+      "cn": "使用するために必要となる理力／信仰の値",
+      "en": "使用するために必要となる理力／信仰の値",
+      "jp": "使用するために必要となる理力／信仰の値",
+      "cn_improved": "使用するために必要となる理力／信仰の値",
+      "cn_resurrection": null
+    },
+    {
+      "id": 305001,
+      "status": "from_improved",
+      "cn": "レベルアップし、能力値を１上げるために必要なソウル",
+      "en": "レベルアップし、能力値を１上げるために必要なソウル",
+      "jp": "レベルアップし、能力値を１上げるために必要なソウル",
+      "cn_improved": "レベルアップし、能力値を１上げるために必要なソウル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800000,
+      "status": "from_improved",
+      "cn": "<?lineHelp?>",
+      "en": "<?lineHelp?>",
+      "jp": "<?lineHelp?>",
+      "cn_improved": "<?lineHelp?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800001,
+      "status": "from_improved",
+      "cn": "<?keyGuide?>",
+      "en": "<?keyGuide?>",
+      "jp": "<?keyGuide?>",
+      "cn_improved": "<?keyGuide?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800002,
+      "status": "from_improved",
+      "cn": "<?title?>",
+      "en": "<?title?>",
+      "jp": "<?title?>",
+      "cn_improved": "<?title?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800100,
+      "status": "from_improved",
+      "cn": "㌃",
+      "en": "㌃",
+      "jp": "㌃",
+      "cn_improved": "㌃",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800101,
+      "status": "from_improved",
+      "cn": "㌍",
+      "en": "㌍",
+      "jp": "㌍",
+      "cn_improved": "㌍",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800102,
+      "status": "from_improved",
+      "cn": "㌔",
+      "en": "㌔",
+      "jp": "㌔",
+      "cn_improved": "㌔",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800105,
+      "status": "from_improved",
+      "cn": "㌘",
+      "en": "㌘",
+      "jp": "㌘",
+      "cn_improved": "㌘",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800110,
+      "status": "from_improved",
+      "cn": "㌢",
+      "en": "㌢",
+      "jp": "㌢",
+      "cn_improved": "㌢",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800115,
+      "status": "from_improved",
+      "cn": "㌣",
+      "en": "㌣",
+      "jp": "㌣",
+      "cn_improved": "㌣",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800120,
+      "status": "from_improved",
+      "cn": "㌦",
+      "en": "㌦",
+      "jp": "㌦",
+      "cn_improved": "㌦",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800121,
+      "status": "from_improved",
+      "cn": "㌧",
+      "en": "㌧",
+      "jp": "㌧",
+      "cn_improved": "㌧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800122,
+      "status": "from_improved",
+      "cn": "㌫",
+      "en": "㌫",
+      "jp": "㌫",
+      "cn_improved": "㌫",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800125,
+      "status": "from_improved",
+      "cn": "㌶",
+      "en": "㌶",
+      "jp": "㌶",
+      "cn_improved": "㌶",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800126,
+      "status": "from_improved",
+      "cn": "㌻",
+      "en": "㌻",
+      "jp": "㌻",
+      "cn_improved": "㌻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800130,
+      "status": "from_improved",
+      "cn": "㍉",
+      "en": "㍉",
+      "jp": "㍉",
+      "cn_improved": "㍉",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800135,
+      "status": "from_improved",
+      "cn": "㍊",
+      "en": "㍊",
+      "jp": "㍊",
+      "cn_improved": "㍊",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800136,
+      "status": "from_improved",
+      "cn": "㍍",
+      "en": "㍍",
+      "jp": "㍍",
+      "cn_improved": "㍍",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800140,
+      "status": "from_improved",
+      "cn": "㍑",
+      "en": "㍑",
+      "jp": "㍑",
+      "cn_improved": "㍑",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800145,
+      "status": "from_improved",
+      "cn": "㍗",
+      "en": "㍗",
+      "jp": "㍗",
+      "cn_improved": "㍗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800150,
+      "status": "from_improved",
+      "cn": "㍻",
+      "en": "㍻",
+      "jp": "㍻",
+      "cn_improved": "㍻",
+      "cn_resurrection": null
+    },
+    {
+      "id": 800151,
+      "status": "from_improved",
+      "cn": "㍼",
+      "en": "㍼",
+      "jp": "㍼",
+      "cn_improved": "㍼",
+      "cn_resurrection": null
+    }
+  ]
+}

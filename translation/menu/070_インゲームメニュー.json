@@ -1,0 +1,674 @@
+{
+  "fmg_id": 70,
+  "fmg_name": "インゲームメニュー",
+  "domain": "menu",
+  "count": 74,
+  "entries": [
+    {
+      "id": 110000,
+      "status": "from_improved",
+      "cn": "Inventory",
+      "en": "Inventory \n",
+      "jp": "Inventory",
+      "cn_improved": "Inventory",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110001,
+      "status": "from_improved",
+      "cn": "Equipment",
+      "en": "Equipment",
+      "jp": "Equipment",
+      "cn_improved": "Equipment",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110003,
+      "status": "from_improved",
+      "cn": "Status",
+      "en": "Status",
+      "jp": "Status",
+      "cn_improved": "Status",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110005,
+      "status": "from_improved",
+      "cn": "Option",
+      "en": "Options",
+      "jp": "Option",
+      "cn_improved": "Option",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110006,
+      "status": "from_improved",
+      "cn": "System",
+      "en": "System",
+      "jp": "System",
+      "cn_improved": "System",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110007,
+      "status": "from_improved",
+      "cn": "Brightness",
+      "en": "Brightness",
+      "jp": "Brightness",
+      "cn_improved": "Brightness",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111010,
+      "status": "from_improved",
+      "cn": "捨てる",
+      "en": "Drop",
+      "jp": "捨てる",
+      "cn_improved": "捨てる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111011,
+      "status": "from_improved",
+      "cn": "並び順の変更",
+      "en": "Change Order",
+      "jp": "並び順の変更",
+      "cn_improved": "並び順の変更",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111012,
+      "status": "from_improved",
+      "cn": "並び順の初期化",
+      "en": "Reset Order",
+      "jp": "並び順の初期化",
+      "cn_improved": "並び順の初期化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111013,
+      "status": "from_improved",
+      "cn": "使用する",
+      "en": "Use Item",
+      "jp": "使用する",
+      "cn_improved": "使用する",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112000,
+      "status": "from_improved",
+      "cn": "防具",
+      "en": "Armor",
+      "jp": "防具",
+      "cn_improved": "防具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112001,
+      "status": "from_improved",
+      "cn": "兜",
+      "en": "Head",
+      "jp": "兜",
+      "cn_improved": "兜",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112002,
+      "status": "from_improved",
+      "cn": "鎧",
+      "en": "Chest",
+      "jp": "鎧",
+      "cn_improved": "鎧",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112003,
+      "status": "from_improved",
+      "cn": "手甲",
+      "en": "Hands",
+      "jp": "手甲",
+      "cn_improved": "手甲",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112004,
+      "status": "from_improved",
+      "cn": "足甲",
+      "en": "Legs",
+      "jp": "足甲",
+      "cn_improved": "足甲",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112010,
+      "status": "from_improved",
+      "cn": "武器",
+      "en": "Weapons",
+      "jp": "武器",
+      "cn_improved": "武器",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112011,
+      "status": "from_improved",
+      "cn": "右手武器",
+      "en": "Right Hand",
+      "jp": "右手武器",
+      "cn_improved": "右手武器",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112012,
+      "status": "from_improved",
+      "cn": "左手武器",
+      "en": "Left Hand",
+      "jp": "左手武器",
+      "cn_improved": "左手武器",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112013,
+      "status": "from_improved",
+      "cn": "矢",
+      "en": "Arrow",
+      "jp": "矢",
+      "cn_improved": "矢",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112014,
+      "status": "from_improved",
+      "cn": "ボルト",
+      "en": "Bolt",
+      "jp": "ボルト",
+      "cn_improved": "ボルト",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112020,
+      "status": "from_improved",
+      "cn": "指輪",
+      "en": "Ring",
+      "jp": "指輪",
+      "cn_improved": "指輪",
+      "cn_resurrection": null
+    },
+    {
+      "id": 112030,
+      "status": "from_improved",
+      "cn": "使用アイテム",
+      "en": "Usable Item",
+      "jp": "使用アイテム",
+      "cn_improved": "使用アイテム",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114000,
+      "status": "from_improved",
+      "cn": "操作",
+      "en": "Controls",
+      "jp": "操作",
+      "cn_improved": "操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114002,
+      "status": "from_improved",
+      "cn": "カメラ左右操作",
+      "en": "X Axis",
+      "jp": "カメラ左右操作",
+      "cn_improved": "カメラ左右操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114003,
+      "status": "from_improved",
+      "cn": "カメラ上下操作",
+      "en": "Y Axis",
+      "jp": "カメラ上下操作",
+      "cn_improved": "カメラ上下操作",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114004,
+      "status": "from_improved",
+      "cn": "カメラ回転速度",
+      "en": "Camera Speed",
+      "jp": "カメラ回転速度",
+      "cn_improved": "カメラ回転速度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114006,
+      "status": "from_improved",
+      "cn": "コントローラ振動",
+      "en": "Vibration",
+      "jp": "コントローラ振動",
+      "cn_improved": "コントローラ振動",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114007,
+      "status": "from_improved",
+      "cn": "ロックオン自動切替",
+      "en": "Toggle auto lock-on",
+      "jp": "ロックオン自動切替",
+      "cn_improved": "ロックオン自動切替",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114008,
+      "status": "from_improved",
+      "cn": "カメラの壁自動回避",
+      "en": "Camera auto wall recovery",
+      "jp": "カメラの壁自動回避",
+      "cn_improved": "カメラの壁自動回避",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114100,
+      "status": "from_improved",
+      "cn": "表示",
+      "en": "Display",
+      "jp": "表示",
+      "cn_improved": "表示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114101,
+      "status": "from_improved",
+      "cn": "流血表現",
+      "en": "Show Blood",
+      "jp": "流血表現",
+      "cn_improved": "流血表現",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114102,
+      "status": "from_improved",
+      "cn": "字幕表示",
+      "en": "Subtitles",
+      "jp": "字幕表示",
+      "cn_improved": "字幕表示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114103,
+      "status": "from_improved",
+      "cn": "輝度調整",
+      "en": "Brightness",
+      "jp": "輝度調整",
+      "cn_improved": "輝度調整",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114104,
+      "status": "from_improved",
+      "cn": "HUD表示",
+      "en": "HUD",
+      "jp": "HUD表示",
+      "cn_improved": "HUD表示",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114110,
+      "status": "from_improved",
+      "cn": "炎だけが見えて、竜は見えないように",
+      "en": "Adjust brightness until flame",
+      "jp": "炎だけが見えて、竜は見えないように",
+      "cn_improved": "炎だけが見えて、竜は見えないように",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114111,
+      "status": "from_improved",
+      "cn": "輝度を調整してください",
+      "en": "is visible and dragon invisible",
+      "jp": "輝度を調整してください",
+      "cn_improved": "輝度を調整してください",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114200,
+      "status": "from_improved",
+      "cn": "サウンド",
+      "en": "Sound",
+      "jp": "サウンド",
+      "cn_improved": "サウンド",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114202,
+      "status": "from_improved",
+      "cn": "BGM",
+      "en": "Music",
+      "jp": "BGM",
+      "cn_improved": "BGM",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114203,
+      "status": "from_improved",
+      "cn": "SE",
+      "en": "Sounds",
+      "jp": "SE",
+      "cn_improved": "SE",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114204,
+      "status": "from_improved",
+      "cn": "ボイス",
+      "en": "Voice",
+      "jp": "ボイス",
+      "cn_improved": "ボイス",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114250,
+      "status": "from_improved",
+      "cn": "<?platmsg@10005?>",
+      "en": "<?platmsg@10005?>",
+      "jp": "<?platmsg@10005?>",
+      "cn_improved": "<?platmsg@10005?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114251,
+      "status": "from_improved",
+      "cn": "ランキング登録",
+      "en": "Join leaderboard",
+      "jp": "ランキング登録",
+      "cn_improved": "ランキング登録",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114300,
+      "status": "from_improved",
+      "cn": "初期化",
+      "en": "Initialize",
+      "jp": "初期化",
+      "cn_improved": "初期化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114301,
+      "status": "from_improved",
+      "cn": "決定",
+      "en": "OK",
+      "jp": "決定",
+      "cn_improved": "決定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114400,
+      "status": "from_improved",
+      "cn": "ON",
+      "en": "ON",
+      "jp": "ON",
+      "cn_improved": "ON",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114401,
+      "status": "from_improved",
+      "cn": "OFF",
+      "en": "OFF",
+      "jp": "OFF",
+      "cn_improved": "OFF",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114404,
+      "status": "from_improved",
+      "cn": "ノーマル",
+      "en": "Normal",
+      "jp": "ノーマル",
+      "cn_improved": "ノーマル",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114405,
+      "status": "from_improved",
+      "cn": "リバース",
+      "en": "Reverse",
+      "jp": "リバース",
+      "cn_improved": "リバース",
+      "cn_resurrection": null
+    },
+    {
+      "id": 114407,
+      "status": "from_improved",
+      "cn": "Mild",
+      "en": "Mild",
+      "jp": "Mild",
+      "cn_improved": "Mild",
+      "cn_resurrection": null
+    },
+    {
+      "id": 115000,
+      "status": "from_improved",
+      "cn": "環境設定",
+      "en": "Options",
+      "jp": "環境設定",
+      "cn_improved": "環境設定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 115002,
+      "status": "from_improved",
+      "cn": "ゲームの終了",
+      "en": "Quit Game",
+      "jp": "ゲームの終了",
+      "cn_improved": "ゲームの終了",
+      "cn_resurrection": null
+    },
+    {
+      "id": 115004,
+      "status": "from_improved",
+      "cn": "輝度調整",
+      "en": "Brightness",
+      "jp": "輝度調整",
+      "cn_improved": "輝度調整",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127000,
+      "status": "from_improved",
+      "cn": "STOP",
+      "en": "Beckon",
+      "jp": "STOP",
+      "cn_improved": "STOP",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127001,
+      "status": "from_improved",
+      "cn": "GO",
+      "en": "Point forward",
+      "jp": "GO",
+      "cn_improved": "GO",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127002,
+      "status": "from_improved",
+      "cn": "エイエイオー",
+      "en": "Hurrah!",
+      "jp": "エイエイオー",
+      "cn_improved": "エイエイオー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127003,
+      "status": "from_improved",
+      "cn": "一礼",
+      "en": "Bow",
+      "jp": "一礼",
+      "cn_improved": "一礼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127004,
+      "status": "from_improved",
+      "cn": "歓喜",
+      "en": "Joy",
+      "jp": "歓喜",
+      "cn_improved": "歓喜",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127005,
+      "status": "from_improved",
+      "cn": "呆れる",
+      "en": "Shrug",
+      "jp": "呆れる",
+      "cn_improved": "呆れる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127006,
+      "status": "from_improved",
+      "cn": "手をふる",
+      "en": "Wave",
+      "jp": "手をふる",
+      "cn_improved": "手をふる",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127007,
+      "status": "from_improved",
+      "cn": "太陽賛美",
+      "en": "Praise the Sun",
+      "jp": "太陽賛美",
+      "cn_improved": "太陽賛美",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127008,
+      "status": "from_improved",
+      "cn": "上を指差す  ",
+      "en": "Point up",
+      "jp": "上を指差す  ",
+      "cn_improved": "上を指差す  ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127009,
+      "status": "from_improved",
+      "cn": "下を指差す  ",
+      "en": "Point down",
+      "jp": "下を指差す  ",
+      "cn_improved": "下を指差す  ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127010,
+      "status": "from_improved",
+      "cn": "天を仰ぐ",
+      "en": "Look skyward",
+      "jp": "天を仰ぐ",
+      "cn_improved": "天を仰ぐ",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127011,
+      "status": "from_improved",
+      "cn": "さあ！どうした！",
+      "en": "Well! What is it!",
+      "jp": "さあ！どうした！",
+      "cn_improved": "さあ！どうした！",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127012,
+      "status": "from_improved",
+      "cn": "土下座",
+      "en": "Prostration",
+      "jp": "土下座",
+      "cn_improved": "土下座",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127013,
+      "status": "from_improved",
+      "cn": "丁寧な一礼",
+      "en": "Proper bow",
+      "jp": "丁寧な一礼",
+      "cn_improved": "丁寧な一礼",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127014,
+      "status": "from_improved",
+      "cn": "祈り",
+      "en": "Prayer",
+      "jp": "祈り",
+      "cn_improved": "祈り",
+      "cn_resurrection": null
+    },
+    {
+      "id": 127200,
+      "status": "from_improved",
+      "cn": "ジェスチャー",
+      "en": "Gesture Menu",
+      "jp": "ジェスチャー",
+      "cn_improved": "ジェスチャー",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130000,
+      "status": "from_improved",
+      "cn": "地図",
+      "en": "Map Menu",
+      "jp": "地図",
+      "cn_improved": "地図",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130100,
+      "status": "from_improved",
+      "cn": "B1F",
+      "en": "B1F",
+      "jp": "B1F",
+      "cn_improved": "B1F",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130101,
+      "status": "from_improved",
+      "cn": "B2F",
+      "en": "B2F",
+      "jp": "B2F",
+      "cn_improved": "B2F",
+      "cn_resurrection": null
+    },
+    {
+      "id": 130102,
+      "status": "from_improved",
+      "cn": "B3F",
+      "en": "B3F",
+      "jp": "B3F",
+      "cn_improved": "B3F",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141000,
+      "status": "from_improved",
+      "cn": "霊体を元の世界に送還します",
+      "en": "Send Phantom home",
+      "jp": "霊体を元の世界に送還します",
+      "cn_improved": "霊体を元の世界に送還します",
+      "cn_resurrection": null
+    },
+    {
+      "id": 141001,
+      "status": "from_improved",
+      "cn": "<?conclusion?>：OK　<?cancel?>：CANCEL",
+      "en": "<?conclusion?>:OK　<?cancel?>:CANCEL",
+      "jp": "<?conclusion?>：OK　<?cancel?>：CANCEL",
+      "cn_improved": "<?conclusion?>：OK　<?cancel?>：CANCEL",
+      "cn_resurrection": null
+    }
+  ]
+}

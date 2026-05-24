@@ -1,0 +1,737 @@
+{
+  "fmg_id": 204,
+  "fmg_name": "NTC_ダイアログ",
+  "domain": "menu",
+  "count": 81,
+  "entries": [
+    {
+      "id": 1,
+      "status": "from_improved",
+      "cn": "确定",
+      "en": "OK",
+      "jp": "OK",
+      "cn_improved": "确定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 2,
+      "status": "from_improved",
+      "cn": "取消",
+      "en": "CANCEL",
+      "jp": "キャンセル",
+      "cn_improved": "取消",
+      "cn_resurrection": null
+    },
+    {
+      "id": 3,
+      "status": "from_improved",
+      "cn": "是",
+      "en": "YES",
+      "jp": "はい",
+      "cn_improved": "是",
+      "cn_resurrection": null
+    },
+    {
+      "id": 4,
+      "status": "from_improved",
+      "cn": "否",
+      "en": "NO",
+      "jp": "いいえ",
+      "cn_improved": "否",
+      "cn_resurrection": null
+    },
+    {
+      "id": 15,
+      "status": "from_improved",
+      "cn": "重新挑战",
+      "en": "Retry",
+      "jp": "リトライ",
+      "cn_improved": "重新挑战",
+      "cn_resurrection": null
+    },
+    {
+      "id": 16,
+      "status": "from_improved",
+      "cn": "继续",
+      "en": "Continue",
+      "jp": "続ける",
+      "cn_improved": "继续",
+      "cn_resurrection": null
+    },
+    {
+      "id": 17,
+      "status": "from_improved",
+      "cn": "返回标题画面",
+      "en": "Return to Title Menu",
+      "jp": "タイトル画面に戻る",
+      "cn_improved": "返回标题画面",
+      "cn_resurrection": null
+    },
+    {
+      "id": 11020,
+      "status": "from_improved",
+      "cn": "请选择使用数量",
+      "en": "Select amount to use",
+      "jp": "使用する数を選択してください",
+      "cn_improved": "请选择使用数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12300,
+      "status": "from_improved",
+      "cn": "请选择购买数量",
+      "en": "Select amount to purchase",
+      "jp": "購入する数を選択してください",
+      "cn_improved": "请选择购买数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12320,
+      "status": "from_improved",
+      "cn": "请选择交换数量",
+      "en": "Select amount to exchange",
+      "jp": "交換する数を選択してください",
+      "cn_improved": "请选择交换数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 12400,
+      "status": "from_improved",
+      "cn": "请选择变卖数量",
+      "en": "Select amount to sell",
+      "jp": "売却する数を選択してください",
+      "cn_improved": "请选择变卖数量",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40200,
+      "status": "from_improved",
+      "cn": "持有金钱不足",
+      "en": "Not enough sen ",
+      "jp": "所持金が足りません",
+      "cn_improved": "持有金钱不足",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40201,
+      "status": "from_improved",
+      "cn": "所需道具不足",
+      "en": "Not enough required items",
+      "jp": "必要なアイテムが足りません",
+      "cn_improved": "所需道具不足",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40202,
+      "status": "from_improved",
+      "cn": "持有金钱与所需道具不足",
+      "en": "Insufficient funds and required items in your possession.",
+      "jp": "所持金、必要なアイテムが足りません",
+      "cn_improved": "持有金钱与所需道具不足",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40300,
+      "status": "from_improved",
+      "cn": "将设定恢复至初始状态\n确定要继续吗？",
+      "en": "This will restore default settings.\nAre you sure?",
+      "jp": "設定を初期状態に戻します\nよろしいですか？",
+      "cn_improved": "将设定恢复至初始状态\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 40500,
+      "status": "from_improved",
+      "cn": "将所有设定恢复至初始状态\n确定要继续吗？",
+      "en": "This will restore all default settings.\nAre you sure?",
+      "jp": "すべての設定を初期状態に戻します\nよろしいですか？",
+      "cn_improved": "将所有设定恢复至初始状态\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102000,
+      "status": "from_improved",
+      "cn": "要使用<?itemName?>吗？",
+      "en": "Use <?itemName?>?",
+      "jp": "<?itemName?>を使用しますか？",
+      "cn_improved": "要使用<?itemName?>吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 102001,
+      "status": "from_improved",
+      "cn": "超过持有金钱上限\n将失去超过上限的金钱，确定还是要使用吗？",
+      "en": "Sen in possession will exceed the maximum limit.\nSen in excess of the maximum limit will be lost.  Continue anyway?",
+      "jp": "所持金の上限を超えてしまいます\n上限を超えた銭は失われますが、それでも使用しますか？",
+      "cn_improved": "超过持有金钱上限\n将失去超过上限的金钱，确定还是要使用吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110500,
+      "status": "from_improved",
+      "cn": "将保存游戏进度并返回标题画面\n确定要继续吗？",
+      "en": "This will save the game and return to the Title menu.\n\nAre you sure?",
+      "jp": "ゲームを保存して、タイトル画面に戻ります\nよろしいですか？",
+      "cn_improved": "将保存游戏进度并返回标题画面\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 110501,
+      "status": "from_improved",
+      "cn": "将结束游戏并返回标题画面\n确定要继续吗？",
+      "en": "Quit game and return to title menu?",
+      "jp": "ゲームを終了して、タイトル画面に戻ります\nよろしいですか？",
+      "cn_improved": "将结束游戏并返回标题画面\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111100,
+      "status": "from_improved",
+      "cn": "已变更设定\n<?remainingSec?>秒后将还原原本设定\n要反映现在的设定吗？",
+      "en": "Settings have been changed.\nSettings will be reverted in <?remainingSec?> seconds.\nApply current settings?",
+      "jp": "設定を変更しました\n<?remainingSec?>秒後に元の設定に戻します\n現在の設定を反映しますか？",
+      "cn_improved": "已变更设定\n<?remainingSec?>秒后将还原原本设定\n要反映现在的设定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111101,
+      "status": "from_improved",
+      "cn": "要反映现在的设定吗？",
+      "en": "Apply current settings?",
+      "jp": "現在の設定を反映しますか？",
+      "cn_improved": "要反映现在的设定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111102,
+      "status": "from_improved",
+      "cn": "部分设定在返回标题画面前不会被反映",
+      "en": "Some settings will not be applied until you return to the Title Menu",
+      "jp": "一部の設定はタイトル画面に戻るまで反映されません",
+      "cn_improved": "部分设定在返回标题画面前不会被反映",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111103,
+      "status": "from_improved",
+      "cn": "该项目将于游戏重启后反映",
+      "en": "This setting will be applied upon rebooting the game.",
+      "jp": "この項目はゲームの再起動後に反映されます",
+      "cn_improved": "该项目将于游戏重启后反映",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111104,
+      "status": "from_improved",
+      "cn": "已变更设定\n<?remainingSec?>秒后将还原原本设定\n要反映现在的设定吗？",
+      "en": "Settings have been changed.\nSettings will be reverted in <?remainingSec?> seconds\nApply current settings?",
+      "jp": "設定を変更しました\n<?remainingSec?>秒後に元の設定に戻します\n現在の設定を反映しますか？",
+      "cn_improved": "已变更设定\n<?remainingSec?>秒后将还原原本设定\n要反映现在的设定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111105,
+      "status": "from_improved",
+      "cn": "部分设定在返回标题画面前不会被反映",
+      "en": "Some settings will not be applied until you return to the Title Menu",
+      "jp": "一部の設定はタイトル画面に戻るまで反映されません",
+      "cn_improved": "部分设定在返回标题画面前不会被反映",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111106,
+      "status": "from_improved",
+      "cn": "已将HDR变更为OFF",
+      "en": "HDR has been turned OFF.",
+      "jp": "HDRをOFFに変更しました",
+      "cn_improved": "已将HDR变更为OFF",
+      "cn_resurrection": null
+    },
+    {
+      "id": 111107,
+      "status": "from_improved",
+      "cn": "已将HDR变更为ON",
+      "en": "HDR has been turned ON.",
+      "jp": "HDRをONに変更しました",
+      "cn_improved": "已将HDR变更为ON",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210000,
+      "status": "from_improved",
+      "cn": "无法佛渡至交谈中的鬼佛",
+      "en": "Cannot Travel to a Sculptor's Idol \nyou're currently communing with.",
+      "jp": "対座中の鬼仏への仏渡りはできません",
+      "cn_improved": "无法佛渡至交谈中的鬼佛",
+      "cn_resurrection": null
+    },
+    {
+      "id": 210001,
+      "status": "from_improved",
+      "cn": "所选鬼佛目前已丧失功能\n通过再次与鬼佛对坐可恢复功能",
+      "en": "This Sculptor's Idol is unavailable \nuntil it is communed with again.",
+      "jp": "この鬼仏は切り離されており、仏渡りはできません",
+      "cn_improved": "所选鬼佛目前已丧失功能\n通过再次与鬼佛对坐可恢复功能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 220000,
+      "status": "from_improved",
+      "cn": "开始与<?retryBossName?>的战斗吗？",
+      "en": "Are you sure?",
+      "jp": "よろしいですか？",
+      "cn_improved": "开始与<?retryBossName?>的战斗吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230000,
+      "status": "from_improved",
+      "cn": "用持有金钱<?demandSoul?>\n购买<?itemName?>",
+      "en": "Purchase <?itemName?>\nfor <?demandSoul?> sen?",
+      "jp": "<?itemName?>を\n所持金<?demandSoul?>で購入します",
+      "cn_improved": "用持有金钱<?demandSoul?>\n购买<?itemName?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230010,
+      "status": "from_improved",
+      "cn": "已存放超出持有上限的道具",
+      "en": "Items exceeding the maximum possession limit have been stored",
+      "jp": "所持上限を超えたアイテムは格納されました",
+      "cn_improved": "已存放超出持有上限的道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230020,
+      "status": "from_improved",
+      "cn": "已超出持有及存放上限，因此无法购买",
+      "en": "Cannot purchase as you are at maximum storage\nand inventory limits",
+      "jp": "所持および格納上限を超えてしまうため、購入できません",
+      "cn_improved": "已超出持有及存放上限，因此无法购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 230100,
+      "status": "from_improved",
+      "cn": "已售罄，因此无法购买",
+      "en": "Unable to purchase as item is sold out",
+      "jp": "売り切れのため、購入できません",
+      "cn_improved": "已售罄，因此无法购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232000,
+      "status": "from_improved",
+      "cn": "确定要用<?gdsparam@10000?><?demandScale?>枚\n交换<?itemName?>吗？",
+      "en": "Trade <?demandScale?> <?gdsparam@10000?>(s) \nfor <?itemName?>?",
+      "jp": "<?itemName?>を\n<?gdsparam@10000?><?demandScale?>枚と交換します",
+      "cn_improved": "确定要用<?gdsparam@10000?><?demandScale?>枚\n交换<?itemName?>吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232010,
+      "status": "from_improved",
+      "cn": "已存放超出持有上限的道具",
+      "en": "Items exceeding the maximum possession limit have been stored",
+      "jp": "所持上限を超えたアイテムは格納されました",
+      "cn_improved": "已存放超出持有上限的道具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232020,
+      "status": "from_improved",
+      "cn": "已超出持有及存放上限，因此无法购买",
+      "en": "Unable to exchange as doing so will exceed maximum \npossession and storage limits",
+      "jp": "所持および格納上限を超えてしまうため、交換できません",
+      "cn_improved": "已超出持有及存放上限，因此无法购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 232100,
+      "status": "from_improved",
+      "cn": "已售罄，因此无法购买",
+      "en": "Unable to exchange as item is sold out",
+      "jp": "売り切れのため、交換できません",
+      "cn_improved": "已售罄，因此无法购买",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240000,
+      "status": "from_improved",
+      "cn": "将<?itemName?>以<?sellSouls?>钱变卖",
+      "en": "Sell <?itemName?> for <?sellSouls?> sen?",
+      "jp": "<?itemName?>を<?sellSouls?>銭で売却します",
+      "cn_improved": "将<?itemName?>以<?sellSouls?>钱变卖",
+      "cn_resurrection": null
+    },
+    {
+      "id": 240001,
+      "status": "from_improved",
+      "cn": "装备中的道具不能变卖",
+      "en": "Equipped items cannot be sold",
+      "jp": "装備しているアイテムは売却できません",
+      "cn_improved": "装备中的道具不能变卖",
+      "cn_resurrection": null
+    },
+    {
+      "id": 250000,
+      "status": "from_improved",
+      "cn": "确定要制作<?itemName?>吗？",
+      "en": "Create <?itemName?>?",
+      "jp": "<?itemName?>を作成しますか？",
+      "cn_improved": "确定要制作<?itemName?>吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260000,
+      "status": "from_improved",
+      "cn": "确定要改造为<?itemName?>吗？",
+      "en": "Upgrade <?itemName?>?",
+      "jp": "<?itemName?>を作成しますか？",
+      "cn_improved": "确定要改造为<?itemName?>吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260010,
+      "status": "from_improved",
+      "cn": "已解锁第3等级的信息",
+      "en": "Tier 3 information is now unlocked.",
+      "jp": "3段階目の義手忍具の情報が、解禁されました",
+      "cn_improved": "已解锁第3等级的信息",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260011,
+      "status": "from_improved",
+      "cn": "已解锁第4等级的信息",
+      "en": "Tier 4 information is now unlocked.",
+      "jp": "4段階目の義手忍具の情報が、解禁されました",
+      "cn_improved": "已解锁第4等级的信息",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260012,
+      "status": "from_improved",
+      "cn": "已解锁第5等级的信息",
+      "en": "Tier 5 information is now unlocked.",
+      "jp": "5段階目の義手忍具の情報が、解禁されました",
+      "cn_improved": "已解锁第5等级的信息",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260013,
+      "status": "from_improved",
+      "cn": "已解锁最高等级的信息",
+      "en": "Final tier information is now unlocked.",
+      "jp": "最終段階の義手忍具の情報が、解禁されました",
+      "cn_improved": "已解锁最高等级的信息",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260110,
+      "status": "from_improved",
+      "cn": "尚未完成所需的义手忍具强化",
+      "en": "All prerequisites for this upgrade are not yet complete.",
+      "jp": "必要な義手忍具の強化が完了していません",
+      "cn_improved": "尚未完成所需的义手忍具强化",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260111,
+      "status": "from_improved",
+      "cn": "尚未达到解锁信息的强化等级",
+      "en": "You haven't reached the required upgrade tier \nto see this information.",
+      "jp": "情報が解禁される強化段階に達していません",
+      "cn_improved": "尚未达到解锁信息的强化等级",
+      "cn_resurrection": null
+    },
+    {
+      "id": 260112,
+      "status": "from_improved",
+      "cn": "尚未持有相对应的义手忍具",
+      "en": "No compatible Prosthetic Tool in your possession.",
+      "jp": "対応する義手忍具を所持していません",
+      "cn_improved": "尚未持有相对应的义手忍具",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270000,
+      "status": "from_improved",
+      "cn": "确定要解锁<?itemName?>吗？",
+      "en": "Acquire <?itemName?>?",
+      "jp": "<?itemName?>を習得しますか？",
+      "cn_improved": "确定要解锁<?itemName?>吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270100,
+      "status": "from_improved",
+      "cn": "所需技能点数不足",
+      "en": "Insufficient skill points.",
+      "jp": "必要なスキルポイントが足りません",
+      "cn_improved": "所需技能点数不足",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270101,
+      "status": "from_improved",
+      "cn": "尚未习得所需技能",
+      "en": "The required skill has not yet been learned.",
+      "jp": "必要なスキルを習得していません",
+      "cn_improved": "尚未习得所需技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270102,
+      "status": "from_improved",
+      "cn": "尚未达到可以确认技能的等级",
+      "en": "Prerequisites to view Skill information not yet met",
+      "jp": "スキル情報を確認できる段階に達していません",
+      "cn_improved": "尚未达到可以确认技能的等级",
+      "cn_resurrection": null
+    },
+    {
+      "id": 270103,
+      "status": "from_improved",
+      "cn": "由于尚未习得所需技能\n所以无法确认技能",
+      "en": "This Skill information cannot be viewed \nuntil the prerequisite Skill(s) are acquired",
+      "jp": "必要なスキルを習得していないため\nスキル情報を確認する事ができません",
+      "cn_improved": "由于尚未习得所需技能\n所以无法确认技能",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280000,
+      "status": "from_improved",
+      "cn": "该项目的配置无法解除",
+      "en": "The binding for this cannot be removed.",
+      "jp": "この項目の割り当てを解除することはできません",
+      "cn_improved": "该项目的配置无法解除",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280001,
+      "status": "from_improved",
+      "cn": "将所有设定恢复至初始状态\n确定要继续吗？",
+      "en": "This will restore all default settings.\nAre you sure?",
+      "jp": "すべての設定を初期状態に戻します\nよろしいですか？",
+      "cn_improved": "将所有设定恢复至初始状态\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280002,
+      "status": "from_improved",
+      "cn": "有重复的设定\n请确认设定",
+      "en": "There are overlapping settings.\nPlease confirm settings.",
+      "jp": "重複している設定があります\n設定を確認してください",
+      "cn_improved": "有重复的设定\n请确认设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280003,
+      "status": "from_improved",
+      "cn": "有重复的设定\n确定不保存设定就结束吗",
+      "en": "There are overlapping settings.\nFinish set up without saving settings?",
+      "jp": "重複している設定があります\n設定を保存せず終了してもよろしいですか？",
+      "cn_improved": "有重复的设定\n确定不保存设定就结束吗",
+      "cn_resurrection": null
+    },
+    {
+      "id": 280004,
+      "status": "from_improved",
+      "cn": "因主设备变更，已取消设定",
+      "en": "Settings discarded as the primary device has been changed.",
+      "jp": "プライマリーデバイスが変更されたため設定をキャンセルしました",
+      "cn_improved": "因主设备变更，已取消设定",
+      "cn_resurrection": null
+    },
+    {
+      "id": 311000,
+      "status": "from_improved",
+      "cn": "将删除此残影\n确定吗？",
+      "en": "Are you sure you want to delete this Remnant?",
+      "jp": "この残影を削除します\nよろしいですか？",
+      "cn_improved": "将删除此残影\n确定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 311001,
+      "status": "from_improved",
+      "cn": "要给此残影留下好评吗？",
+      "en": "Praise this Remnant?",
+      "jp": "この残影を評価しますか？",
+      "cn_improved": "要给此残影留下好评吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 311002,
+      "status": "from_improved",
+      "cn": "要给此残影留下差评吗？",
+      "en": "Scorn this Remnant?",
+      "jp": "この残影に悪評をつけますか？",
+      "cn_improved": "要给此残影留下差评吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 321000,
+      "status": "from_improved",
+      "cn": "将此内容作为附加留言，并开始记录残影吗？",
+      "en": "Create a Remnant with this message?",
+      "jp": "この内容の覚え書きを付与して、残影の記録を開始しますか？",
+      "cn_improved": "将此内容作为附加留言，并开始记录残影吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 321001,
+      "status": "from_improved",
+      "cn": "将放弃正在编辑的留言\n确定吗？",
+      "en": "Discard the currently attached message?",
+      "jp": "設定中の覚え書きを破棄します\nよろしいですか？",
+      "cn_improved": "将放弃正在编辑的留言\n确定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 321010,
+      "status": "from_improved",
+      "cn": "无法使用残影菜单",
+      "en": "Remnant Menu not available",
+      "jp": "残影メニューは使用できません",
+      "cn_improved": "无法使用残影菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 321011,
+      "status": "from_improved",
+      "cn": "无法使用残影菜单",
+      "en": "Remnant Menu not available",
+      "jp": "残影メニューは使用できません",
+      "cn_improved": "无法使用残影菜单",
+      "cn_resurrection": null
+    },
+    {
+      "id": 322000,
+      "status": "from_improved",
+      "cn": "将删除此残影\n确定吗？",
+      "en": "Are you sure you want to delete this Remnant?",
+      "jp": "この残影を削除します\nよろしいですか？",
+      "cn_improved": "将删除此残影\n确定吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 322001,
+      "status": "from_improved",
+      "cn": "要开始记录残影吗？",
+      "en": "Record Remnant?",
+      "jp": "残影の記録を開始しますか？",
+      "cn_improved": "要开始记录残影吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 322002,
+      "status": "from_improved",
+      "cn": "要删除现在的残影，开始记录新的残影吗？",
+      "en": "Delete current Remnant and start recording a new one?",
+      "jp": "現在の残影を削除して、新たに残影の記録を開始しますか？",
+      "cn_improved": "要删除现在的残影，开始记录新的残影吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 322003,
+      "status": "from_improved",
+      "cn": "要删除现在的残影，开始设定新的残影留言吗？",
+      "en": "Delete current Remnant and compose a new Remnant message?",
+      "jp": "現在の残影を削除して、新たに残影の覚え書きを設定しますか？",
+      "cn_improved": "要删除现在的残影，开始设定新的残影留言吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 322004,
+      "status": "from_improved",
+      "cn": "要使用现在的留言吗？",
+      "en": "Use message from previous Remnant?",
+      "jp": "現在の覚え書きを使用しますか？",
+      "cn_improved": "要使用现在的留言吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 323000,
+      "status": "from_improved",
+      "cn": "要完成记录残影吗？",
+      "en": "Finish recording Remnant?",
+      "jp": "残影記録を完了しますか？",
+      "cn_improved": "要完成记录残影吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 323001,
+      "status": "from_improved",
+      "cn": "要放弃记录残影吗？",
+      "en": "Discard recorded Remnant?",
+      "jp": "残影記録を破棄しますか？",
+      "cn_improved": "要放弃记录残影吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 401701,
+      "status": "from_improved",
+      "cn": "<?sysmsg@401701?>",
+      "en": "<?sysmsg@401701?>",
+      "jp": "<?sysmsg@401701?>",
+      "cn_improved": "<?sysmsg@401701?>",
+      "cn_resurrection": null
+    },
+    {
+      "id": 404020,
+      "status": "from_improved",
+      "cn": "HDR设为ON时\n仅可于系统菜单的设定画面\n调整亮度",
+      "en": "When HDR is ON, Brightness can only be adjusted  \nfrom the in-game Pause Menu.",
+      "jp": "HDR設定がONの場合\nゲーム内ポーズメニューの設定メニューでのみ\n画質を調整することができます ",
+      "cn_improved": "HDR设为ON时\n仅可于系统菜单的设定画面\n调整亮度",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406011,
+      "status": "from_improved",
+      "cn": "以所选的游玩记录开始游玩",
+      "en": "Start with selected profile?",
+      "jp": "選択したプロファイルで開始します",
+      "cn_improved": "以所选的游玩记录开始游玩",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406012,
+      "status": "from_improved",
+      "cn": "确定要删除所选游玩记录\n重新开始游玩吗？",
+      "en": "Delete the selected profile\nand start a new game?",
+      "jp": "選択したプロファイルを削除して\n新たにゲームを始めますか？",
+      "cn_improved": "确定要删除所选游玩记录\n重新开始游玩吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 406013,
+      "status": "from_improved",
+      "cn": "将删除所选游玩记录\n确定要继续吗？",
+      "en": "This will delete the selected profile.\nAre you sure?",
+      "jp": "選択したプロファイルを削除します\nよろしいですか？",
+      "cn_improved": "将删除所选游玩记录\n确定要继续吗？",
+      "cn_resurrection": null
+    },
+    {
+      "id": 450000,
+      "status": "from_improved",
+      "cn": "就这样开始第<?nextLoopCount?>轮的世界吗？\n若现在不开始，之后可以从荒寺的大鬼佛\n开始第<?nextLoopCount?>轮的世界",
+      "en": "Start playthrough #<?nextLoopCount?> now?\n\nIf you choose not to start playthrough #<?nextLoopCount?> now, \nyou may do so by accessing the large Sculptor's Idol in the \nDilapidated Temple at any time.",
+      "jp": "このまま<?nextLoopCount?>周目の戦いをはじめますか？\n今はじめない場合は、後で荒れ寺の大鬼仏から\n<?nextLoopCount?>周目の戦いをはじめることができます",
+      "cn_improved": "就这样开始第<?nextLoopCount?>轮的世界吗？\n若现在不开始，之后可以从荒寺的大鬼佛\n开始第<?nextLoopCount?>轮的世界",
+      "cn_resurrection": null
+    },
+    {
+      "id": 450001,
+      "status": "from_improved",
+      "cn": "若开始第<?nextLoopCount?>轮的世界\n将无法返回当前第<?nextLoopCount?>轮的世界\n确定要开始第<?nextLoopCount?>轮的世界吗？",
+      "en": "You will not be able to return to the current playthrough #<?loopCount?>\nupon starting playthrough #<?nextLoopCount?>.\nAre you sure you want to start playthrough #<?nextLoopCount?>?",
+      "jp": "<?nextLoopCount?>周目の戦いをはじめると\n現在の<?loopCount?>周目の戦いには戻れません\n<?nextLoopCount?>周目の戦いをはじめてよろしいですか？",
+      "cn_improved": "若开始第<?nextLoopCount?>轮的世界\n将无法返回当前第<?nextLoopCount?>轮的世界\n确定要开始第<?nextLoopCount?>轮的世界吗？",
+      "cn_resurrection": null
+    }
+  ]
+}
