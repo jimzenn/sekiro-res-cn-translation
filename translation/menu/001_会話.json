@@ -26215,7 +26215,7 @@
     {
       "id": 22000900,
       "status": "done",
-      "cn": "对话：击败人鱼龙后二次对话",
+      "cn": "【未实装】对话：击败人鱼龙后二次对话",
       "en": "Talk: After defeating Mermaid Dragon_2nd time",
       "jp": "話す：人魚竜を倒した後二回目会話",
       "cn_improved": null,
@@ -26224,7 +26224,7 @@
     {
       "id": 22001000,
       "status": "done",
-      "cn": "对话：察觉皇子与PC之关系",
+      "cn": "【未实装】对话：察觉皇子与PC之关系",
       "en": "Speak: Noticed the connection between the Prince and the Protagonist",
       "jp": "話す：皇子とPCの関係性に気付いた会話",
       "cn_improved": null,
@@ -26233,7 +26233,7 @@
     {
       "id": 22001100,
       "status": "done",
-      "cn": "对话：将不死斩之秘密告知PC",
+      "cn": "【未实装】对话：将不死斩之秘密告知PC",
       "en": "Speak: Convey the secrets of the Mortality Blade to the Protagonist",
       "jp": "話す：不死斬りの秘密をPCに伝える",
       "cn_improved": null,
@@ -31345,7 +31345,7 @@
     {
       "id": 22050000,
       "status": "done",
-      "cn": "对话：尚未开始稚儿任务。\n持有人鱼龙之泪时对话",
+      "cn": "【未实装】对话：尚未开始稚儿任务\n（持有人鱼龙之泪时）",
       "en": "Talk: Temple Page mission not started.\nDialogue if you have the Mermaid Dragon Tears",
       "jp": "話す：稚児ミッションが始まっていない。\n人魚竜の涙を所持している場合会話",
       "cn_improved": null,
@@ -31354,7 +31354,7 @@
     {
       "id": 22050100,
       "status": "done",
-      "cn": "对话：稚儿任务尚未完成\n持有人鱼龙之泪时对话",
+      "cn": "【未实装】对话：稚儿任务尚未完成\n（持有人鱼龙之泪时）",
       "en": "Talk: Temple Page mission not cleared\nand you have the Mermaid Dragon Tears",
       "jp": "話す：稚児ミッションをクリアしておらず\n人魚竜の涙を所持している場合会話",
       "cn_improved": null,
@@ -31363,7 +31363,7 @@
     {
       "id": 22050200,
       "status": "done",
-      "cn": "对话：稚儿任务已完成\n并持有人鱼龙之泪时对话",
+      "cn": "【未实装】对话：稚儿任务已完成\n（持有人鱼龙之泪时）",
       "en": "Talk: Temple Page mission cleared\nand you have the Mermaid Dragon Tears",
       "jp": "話す：稚児ミッションをクリアしており\n人魚竜の涙も所持している場合会話",
       "cn_improved": null,
@@ -35188,7 +35188,7 @@
     {
       "id": 23100000,
       "status": "done",
-      "cn": "决堤时发生之病的说明",
+      "cn": "【未实装】决堤时所发之病的说明",
       "en": null,
       "jp": "決壊したときに発生する病についての説明",
       "cn_improved": null,
@@ -35197,7 +35197,7 @@
     {
       "id": 23100100,
       "status": "done",
-      "cn": "病之医法说明",
+      "cn": "【未实装】病之医法说明",
       "en": null,
       "jp": "病の直し方についての説明",
       "cn_improved": null,
@@ -35206,7 +35206,7 @@
     {
       "id": 23100200,
       "status": "done",
-      "cn": "病之医法说明_提醒",
+      "cn": "【未实装】病之医法说明_提醒",
       "en": null,
       "jp": "病の直し方についての説明_リマインド",
       "cn_improved": null,
@@ -43144,7 +43144,7 @@
     {
       "id": 26010200,
       "status": "done",
-      "cn": "告知与卖货乱波走散一事之对话",
+      "cn": "【未实装】告知与卖货乱波走散",
       "en": "Say you became separated from the Bandit Peddler",
       "jp": "物売り野盗とはぐれてしまったことを伝える会話",
       "cn_improved": null,
@@ -43153,7 +43153,7 @@
     {
       "id": 26010300,
       "status": "done",
-      "cn": "告知卖货乱波所在之对话",
+      "cn": "【未实装】告知卖货乱波所在",
       "en": "Reveal location of Bandit Peddler",
       "jp": "物売り野盗の場所を教えたときの会話",
       "cn_improved": null,
@@ -45673,7 +45673,7 @@
     {
       "id": 28000000,
       "status": "done",
-      "cn": "PC向话者搭话_隔门呓语",
+      "cn": "【未实装】PC隔门搭话_呓语",
       "en": "Speak to_Incoherent muttering through the door",
       "jp": "PCから話者に話しかけた_扉越しうわ言",
       "cn_improved": null,
@@ -45682,7 +45682,7 @@
     {
       "id": 28000100,
       "status": "done",
-      "cn": "PC向话者搭话_直接呓语_\n胆……要胆……",
+      "cn": "【未实装】PC直接搭话_呓语_\n胆……要胆……",
       "en": "Speak to_Incoherent muttering_Liver... Give me liver... ",
       "jp": "PCから話者に話しかけた_直接うわ言_\n胆…胆を…",
       "cn_improved": null,
@@ -45691,7 +45691,7 @@
     {
       "id": 28000200,
       "status": "done",
-      "cn": "PC向话者搭话_直接呓语_\n啜得此胆，便可登上京都",
+      "cn": "【未实装】PC直接搭话_呓语_\n啜得此胆，便可登上京都",
       "en": "Speak to_Incoherent muttering_If I have the liver I can ascend to the capital",
       "jp": "PCから話者に話しかけた_直接うわ言_\n胆をすすらば、都に登れる",
       "cn_improved": null,
@@ -45700,7 +45700,7 @@
     {
       "id": 28000300,
       "status": "done",
-      "cn": "PC向话者搭话_直接呓语_\n如此，吾便亦是殿上人",
+      "cn": "【未实装】PC直接搭话_呓语_\n如此，吾便亦是殿上人",
       "en": "Speak to_Incoherent muttering_Then I could join their noble ranks",
       "jp": "PCから話者に話しかけた_直接うわ言_\nさすれば儂も、殿上人よ",
       "cn_improved": null,
@@ -45709,7 +45709,7 @@
     {
       "id": 28000400,
       "status": "done",
-      "cn": "PC向话者搭话_选择给予因斯茅斯之鲜肝之后",
+      "cn": "【未实装】PC搭话_选择给予因斯茅斯之鲜肝之后",
       "en": "Speak to_After opting to give the fresh Innsmouth liver",
       "jp": "PCから話者に話しかけた_インスマウスの生き肝を渡す選択肢後",
       "cn_improved": null,
@@ -45718,7 +45718,7 @@
     {
       "id": 28000500,
       "status": "done",
-      "cn": "PC向话者搭话_给予因斯茅斯之鲜肝之后",
+      "cn": "【未实装】PC搭话_给予因斯茅斯之鲜肝之后",
       "en": "Speak to_After giving the fresh Innsmouth liver",
       "jp": "PCから話者に話しかけた_インスマウスの生き肝を渡した後",
       "cn_improved": null,
@@ -50686,7 +50686,7 @@
     {
       "id": 31050000,
       "status": "done",
-      "cn": "与PC言谢，谢其引【屈强忍者】至此之对话",
+      "cn": "【未实装】言谢，谢其引【屈强忍者】至此",
       "en": "Expresses gratitude for leading the \"strong shinobi\" to him",
       "jp": "PCに対して、「屈強な忍」を誘導してくれた事に感謝を述べる会話",
       "cn_improved": null,
@@ -50695,7 +50695,7 @@
     {
       "id": 31050100,
       "status": "done",
-      "cn": "解放技能之对话",
+      "cn": "【未实装】解放技能",
       "en": "Unlocks skills for player",
       "jp": "スキル解放をしてくれる会話",
       "cn_improved": null,
@@ -50704,7 +50704,7 @@
     {
       "id": 31050200,
       "status": "done",
-      "cn": "期待实验之对话",
+      "cn": "【未实装】期待实验",
       "en": "Looking forward to experimenting",
       "jp": "実験を楽しみにしている会話",
       "cn_improved": null,
@@ -50713,7 +50713,7 @@
     {
       "id": 31050300,
       "status": "done",
-      "cn": "期待实验之对话提醒",
+      "cn": "【未实装】期待实验_提醒",
       "en": "Looking forward to experimenting_reminder",
       "jp": "実験を楽しみにしている会話リマインド",
       "cn_improved": null,
@@ -50722,7 +50722,7 @@
     {
       "id": 31050400,
       "status": "done",
-      "cn": "示意白乱波实验体，置于通往寺院途中之小岛上之对话",
+      "cn": "【未实装】暗示白乱波实验体置于通往寺院途中之小岛",
       "en": "Hints at Shinobi Test Subject\nlocated on the small island as you head towards Temple",
       "jp": "白らっぱ実験体を、寺に向かう途中の小島に置いた事を示唆する会話",
       "cn_improved": null,
@@ -50731,7 +50731,7 @@
     {
       "id": 31050500,
       "status": "done",
-      "cn": "欲请玩家与白乱波实验体交手之对话",
+      "cn": "【未实装】请玩家与白乱波实验体交手",
       "en": "Wants player to fight Shinobi Test Subject",
       "jp": "白らっぱ実験体と手合せをしてみてほしいという会話",
       "cn_improved": null,
@@ -50740,7 +50740,7 @@
     {
       "id": 31050600,
       "status": "done",
-      "cn": "请击败后，将白乱波实验体之肝带来之对话",
+      "cn": "【未实装】请击败后将白乱波实验体之肝带来",
       "en": "Kill the Shinobi Test Subject and bring me his liver",
       "jp": "倒したら、白らっぱ実験体の肝を持ってきてほしいという会話",
       "cn_improved": null,
@@ -50749,7 +50749,7 @@
     {
       "id": 31050700,
       "status": "done",
-      "cn": "欲请玩家与白乱波实验体交手之对话提醒",
+      "cn": "【未实装】请玩家与白乱波实验体交手_提醒",
       "en": "Wants player to fight Shinobi Test Subject_reminder",
       "jp": "白らっぱ実験体と手合せしてみてほしい会話リマインド",
       "cn_improved": null,
@@ -50758,7 +50758,7 @@
     {
       "id": 31050800,
       "status": "done",
-      "cn": "是否取得白乱波实验体之肝？之询问对话",
+      "cn": "【未实装】询问是否取得白乱波实验体之肝",
       "en": "Did you bring the Shinobi Test Subject's liver?",
       "jp": "白らっぱ実験体の肝を取ってきてくれたのか？と尋ねる会話",
       "cn_improved": null,
@@ -50767,7 +50767,7 @@
     {
       "id": 31050900,
       "status": "done",
-      "cn": "凭此可推进研究至最终阶段之对话",
+      "cn": "【未实装】凭此可推进研究至最终阶段",
       "en": "With this, I can continue the final phase of my research",
       "jp": "これで研究を最終段階に進める事が出来る会話",
       "cn_improved": null,
@@ -50776,7 +50776,7 @@
     {
       "id": 31051000,
       "status": "done",
-      "cn": "凭此可推进研究至最终阶段之对话提醒",
+      "cn": "【未实装】凭此可推进研究至最终阶段_提醒",
       "en": "With this, I can continue the final phase of my research_reminder",
       "jp": "これで研究を最終段階に進める事が出来る会話リマインド",
       "cn_improved": null,
@@ -50785,7 +50785,7 @@
     {
       "id": 31060000,
       "status": "done",
-      "cn": "与PC言谢，谢其引【屈强武士】至此之对话",
+      "cn": "【未实装】言谢，谢其引【屈强武士】至此",
       "en": "Expresses gratitude for leading the \"strong samurai\" to him",
       "jp": "PCに対して、「屈強な侍」を誘導してくれた事に感謝を述べる会話",
       "cn_improved": null,
@@ -50794,7 +50794,7 @@
     {
       "id": 31060100,
       "status": "done",
-      "cn": "解放技能之对话",
+      "cn": "【未实装】解放技能",
       "en": "Unlocks skills for player",
       "jp": "スキル解放をしてくれる会話",
       "cn_improved": null,
@@ -50803,7 +50803,7 @@
     {
       "id": 31060200,
       "status": "done",
-      "cn": "期待实验之对话",
+      "cn": "【未实装】期待实验",
       "en": "Looking forward to experimenting",
       "jp": "実験を楽しみにしている会話",
       "cn_improved": null,
@@ -50812,7 +50812,7 @@
     {
       "id": 31060300,
       "status": "done",
-      "cn": "期待实验之对话提醒",
+      "cn": "【未实装】期待实验_提醒",
       "en": "Looking forward to experimenting_reminder",
       "jp": "実験を楽しみにしている会話リマインド",
       "cn_improved": null,
@@ -50821,7 +50821,7 @@
     {
       "id": 31060400,
       "status": "done",
-      "cn": "示意武士实验体，置于通往寺院途中之小岛上之对话",
+      "cn": "【未实装】暗示武士实验体置于通往寺院途中之小岛",
       "en": "Hints at Samurai Test Subject\nlocated on the small island as you head towards Temple",
       "jp": "侍実験体を、寺に向かう途中の小島に置いた事を示唆する会話",
       "cn_improved": null,
@@ -50830,7 +50830,7 @@
     {
       "id": 31060500,
       "status": "done",
-      "cn": "欲请玩家与武士实验体交手之对话",
+      "cn": "【未实装】请玩家与武士实验体交手",
       "en": "Wants player to fight Samurai Test Subject",
       "jp": "侍実験体と手合せをしてみてほしいという会話",
       "cn_improved": null,
@@ -50839,7 +50839,7 @@
     {
       "id": 31060700,
       "status": "done",
-      "cn": "请击败后，将武士实验体之肝带来之对话",
+      "cn": "【未实装】请击败后将武士实验体之肝带来",
       "en": "Kill the Samurai Test Subject and bring me his liver",
       "jp": "倒したら、侍実験体の肝を持ってきてほしいという会話",
       "cn_improved": null,
@@ -50848,7 +50848,7 @@
     {
       "id": 31060800,
       "status": "done",
-      "cn": "欲请玩家与武士实验体交手之对话提醒",
+      "cn": "【未实装】请玩家与武士实验体交手_提醒",
       "en": "Wants player to fight Samurai Test Subject_reminder",
       "jp": "侍実験体と手合せしてみてほしい会話リマインド",
       "cn_improved": null,
@@ -50857,7 +50857,7 @@
     {
       "id": 31060900,
       "status": "done",
-      "cn": "是否取得武士实验体之肝？之询问对话",
+      "cn": "【未实装】询问是否取得武士实验体之肝",
       "en": "Did you bring the Samurai Test Subject's liver?",
       "jp": "侍実験体の肝を取ってきてくれたのか？と尋ねる会話",
       "cn_improved": null,
@@ -50866,7 +50866,7 @@
     {
       "id": 31061000,
       "status": "done",
-      "cn": "凭此可推进研究至最终阶段之对话",
+      "cn": "【未实装】凭此可推进研究至最终阶段",
       "en": "With this, I can continue the final phase of my research",
       "jp": "これで研究を最終段階に進める事が出来る会話",
       "cn_improved": null,
@@ -50875,7 +50875,7 @@
     {
       "id": 31061100,
       "status": "done",
-      "cn": "凭此可推进研究至最终阶段之对话提醒",
+      "cn": "【未实装】凭此可推进研究至最终阶段_提醒",
       "en": "With this, I can continue the final phase of my research_reminder",
       "jp": "これで研究を最終段階に進める事が出来る会話リマインド",
       "cn_improved": null,
@@ -51523,7 +51523,7 @@
     {
       "id": 32000100,
       "status": "done",
-      "cn": "【说明尚未能见稚儿】提醒",
+      "cn": "【未实装】说明尚未能见稚儿_提醒",
       "en": "Greeting_1st time: explaining why the Temple boss is not available_reminder",
       "jp": "「まだ稚児には会えない事を説明」リマインド",
       "cn_improved": null,
@@ -58561,7 +58561,7 @@
     {
       "id": 60000050,
       "status": "done",
-      "cn": "偷听 dummy（【皇子在月见橹】之提示对话）",
+      "cn": "【未实装】偷听（提示：【皇子在月见橹】）",
       "en": "Eavesdrop dummy text (the Imperial Prince is in the Moon-view tower)",
       "jp": "盗み聞きダミー（「皇子が月見櫓にいる」というヒント会話）",
       "cn_improved": null,
@@ -58921,7 +58921,7 @@
     {
       "id": 60001100,
       "status": "done",
-      "cn": "关于盐不够之对话",
+      "cn": "【未实装】关于盐不足之对话",
       "en": null,
       "jp": "塩が足りていない事に関する会話",
       "cn_improved": null,
@@ -58930,7 +58930,7 @@
     {
       "id": 60001200,
       "status": "done",
-      "cn": "暗示曾将刀刺入佛师鬼右手之对话",
+      "cn": "【未实装】暗示曾将刀刺入佛师鬼右手之对话",
       "en": null,
       "jp": "仏師鬼の右手に刀を刺した事を示唆する会話",
       "cn_improved": null,
@@ -60037,7 +60037,7 @@
     {
       "id": 65000000,
       "status": "done",
-      "cn": "对话文本：文本未定",
+      "cn": "【未实装】对话文本",
       "en": "Conversation text: TBC",
       "jp": "会話テキスト：テキスト未定",
       "cn_improved": null,
@@ -60046,7 +60046,7 @@
     {
       "id": 65000010,
       "status": "done",
-      "cn": "佛师对话dummy（讲述【主人公被拾来之经过，及佛师赠予义手忍具】）",
+      "cn": "【未实装】佛师对话（讲述【主人公被拾来之经过，及佛师赠予义手忍具】）",
       "en": "Onibotoke dialogue dummy text (the Sculptor saved the protagonist and gave him the Prosthetic Arm)",
       "jp": "仏師会話ダミー（「主人公を拾った経緯と、仏師が義手忍具を与えたこと」を話す）",
       "cn_improved": null,
@@ -60055,7 +60055,7 @@
     {
       "id": 65000020,
       "status": "done",
-      "cn": "通用_佛师对话dummy（通用对话）",
+      "cn": "【未实装】通用_佛师对话",
       "en": "All purpose_Sculptor dialogue dummy (All-purpose dialogue)",
       "jp": "汎用_仏師会話ダミー（汎用会話）",
       "cn_improved": null,
@@ -60064,7 +60064,7 @@
     {
       "id": 65000030,
       "status": "done",
-      "cn": "佛师对话dummy（递上素材道具，佛师便会做出义手忍具）",
+      "cn": "【未实装】佛师对话（递上素材道具，佛师便会做出义手忍具）",
       "en": "Sculptor dialogue dummy (bring blueprints to the Sculptor, who will then make Arm Tools)",
       "jp": "仏師会話ダミー（素材アイテムを渡し、仏師が義手忍具を作ってくれる）",
       "cn_improved": null,
@@ -60073,7 +60073,7 @@
     {
       "id": 65000040,
       "status": "done",
-      "cn": "皇子对话dummy（【主人公前去寻暗道，若寻得则以草笛为信】之内容）",
+      "cn": "【未实装】皇子对话（【主人公前去寻暗道，若寻得则以草笛为信】）",
       "en": "Imperial Prince dialogue dummy (protagonist will find a hidden path and signal with a reed pipe)",
       "jp": "皇子会話ダミー（「主人公が抜け道を探しに行き、見つけたら草笛で合図する」という内容）",
       "cn_improved": null,
@@ -60082,7 +60082,7 @@
     {
       "id": 65000050,
       "status": "done",
-      "cn": "对话dummy（搭话便会赠予皇子之铃）",
+      "cn": "【未实装】对话（搭话便会赠予皇子之铃）",
       "en": "Dialogue dummy text (talk to receive the Imperial Prince's bell)",
       "jp": "会話ダミー（話すと、皇子の鈴を渡してくれる）",
       "cn_improved": null,
@@ -60091,7 +60091,7 @@
     {
       "id": 65000060,
       "status": "done",
-      "cn": "佛师对话dummy（劝其与荒寺外之落武者进行战斗修习）",
+      "cn": "【未实装】佛师对话（劝其与荒寺外之落武者进行战斗修习）",
       "en": "Sculptor dialogue dummy (encourage combat training with the Fleeing Soldier outside the Dilapidated Temple)",
       "jp": "仏師会話ダミー（荒れ寺外の落ち武者で、戦闘の練習をするよう促す）",
       "cn_improved": null,
