@@ -1132,7 +1132,7 @@
     {
       "id": 682000,
       "status": "done",
-      "cn": "弹反",
+      "cn": "弹返",
       "en": "Recoil Counter",
       "jp": "弾きカウンター",
       "cn_improved": null,
@@ -1141,7 +1141,7 @@
     {
       "id": 682100,
       "status": "done",
-      "cn": "弹反·疾业",
+      "cn": "弹返·疾业",
       "en": "Recoil Counter: Quick-draw",
       "jp": "弾きカウンター・早業",
       "cn_improved": null,

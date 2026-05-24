@@ -25,7 +25,7 @@
     {
       "id": 11,
       "status": "done",
-      "cn": "空中弹反",
+      "cn": "空中弹返",
       "en": "Mid-air Counter",
       "jp": "空中弾きカウンター",
       "cn_improved": null,
@@ -52,7 +52,7 @@
     {
       "id": 15,
       "status": "done",
-      "cn": "弹反",
+      "cn": "弹返",
       "en": "Recoil Counter\n",
       "jp": "弾きカウンター",
       "cn_improved": null,
@@ -61,7 +61,7 @@
     {
       "id": 16,
       "status": "done",
-      "cn": "部分敌人所发之强烈一击\n若加以防御，体干将大幅削减\n\n然若弹开此击\n即可立刻衔接［弹反］\n\n<?kgiconKc@16?>：弹反\n\n<?kgiconKc@16?>长按：弹反·突刺",
+      "cn": "部分敌人所发之强烈一击\n若加以防御，体干将大幅削减\n\n然若弹开此击\n即可立刻衔接［弹返］\n\n<?kgiconKc@16?>：弹返\n\n<?kgiconKc@16?>长按：弹返·突刺",
       "en": "Some enemies may use an Immense Strike against Wolf, staggering him greatly.\n\nAfter deflecting this strike, Wolf is able to perform a Recoil Counter.\n\nPress <?kgiconKc@16?> : Recoil Counter Slash \n\nHold <?kgiconKc@16?> : Recoil Counter Thrust\n",
       "jp": "一部の敵が放つ強烈な一撃は、\nガードすると、体幹を大きく削られてしまう\n\nだが、その攻撃を弾くことで\n即座に「弾きカウンター」に繋げられる\n\n<?kgiconKc@16?>:弾きカウンター\n\n<?kgiconKc@16?>長押し:弾きカウンター突き",
       "cn_improved": null,
@@ -70,7 +70,7 @@
     {
       "id": 17,
       "status": "done",
-      "cn": "弹开强烈一击后按 <?kgiconKc@16?>：弹反",
+      "cn": "弹开强烈一击后按 <?kgiconKc@16?>：弹返",
       "en": "<?kgiconKc@16?> after deflecting: Recoil Counter ",
       "jp": "強烈な一撃を弾いた後に<?kgiconKc@16?>:弾きカウンター",
       "cn_improved": null,
