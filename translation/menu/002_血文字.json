@@ -3228,8 +3228,8 @@
     },
     {
       "id": 60000,
-      "status": "needs_translation",
-      "cn": "None",
+      "status": "done",
+      "cn": "无",
       "en": "None",
       "jp": "付与しない",
       "cn_improved": null,
@@ -3237,8 +3237,8 @@
     },
     {
       "id": 60001,
-      "status": "needs_translation",
-      "cn": "1 Line",
+      "status": "done",
+      "cn": "1行",
       "en": "1 Line",
       "jp": "10秒",
       "cn_improved": null,
@@ -3246,8 +3246,8 @@
     },
     {
       "id": 60002,
-      "status": "needs_translation",
-      "cn": "2 Lines",
+      "status": "done",
+      "cn": "2行",
       "en": "2 Lines",
       "jp": "30秒",
       "cn_improved": null,
@@ -3255,8 +3255,8 @@
     },
     {
       "id": 60003,
-      "status": "needs_translation",
-      "cn": "60 Seconds",
+      "status": "done",
+      "cn": "60秒",
       "en": "60 Seconds",
       "jp": "60秒",
       "cn_improved": null,
