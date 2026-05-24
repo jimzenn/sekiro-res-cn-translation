@@ -7450,7 +7450,7 @@
     {
       "id": 10060000,
       "status": "done",
-      "cn": "【仕込手里剑】之强化么，借予我",
+      "cn": "【机关手里剑】之强化么，借予我",
       "en": "That's a \"Loaded Shuriken\" Upgrade. Give it here.",
       "jp": "“仕込み手裏剣”の強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -7459,7 +7459,7 @@
     {
       "id": 10060100,
       "status": "done",
-      "cn": "【仕込手里剑】之更强化么，借予我",
+      "cn": "【机关手里剑】之更强化么，借予我",
       "en": "That's another \"Loaded Shuriken\" Upgrade. Give it here.",
       "jp": "“仕込み手裏剣”の更なる強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -7531,7 +7531,7 @@
     {
       "id": 10060900,
       "status": "done",
-      "cn": "【仕込毒刃】之强化么，借予我",
+      "cn": "【机关毒刃】之强化么，借予我",
       "en": "That's a \"Loaded Dagger\" Upgrade. Give it here.",
       "jp": "“仕込み毒刃”の強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -7540,7 +7540,7 @@
     {
       "id": 10061000,
       "status": "done",
-      "cn": "【仕込毒刃】之更强化么，借予我",
+      "cn": "【机关毒刃】之更强化么，借予我",
       "en": "That's another \"Loaded Dagger\" Upgrade. Give it here.",
       "jp": "“仕込み毒刃”の更なる強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -7567,7 +7567,7 @@
     {
       "id": 10061300,
       "status": "done",
-      "cn": "【仕込枪】之强化么，借予我",
+      "cn": "【机关长枪】之强化么，借予我",
       "en": "That's a \"Loaded Spear\" Upgrade. Give it here.",
       "jp": "“仕込み槍”の強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -7576,7 +7576,7 @@
     {
       "id": 10061400,
       "status": "done",
-      "cn": "【仕込枪】之更强化么，借予我",
+      "cn": "【机关长枪】之更强化么，借予我",
       "en": "That's another \"Loaded Spear\" Upgrade. Give it here.",
       "jp": "“仕込み槍”の更なる強化だな、どれ貸してみろ",
       "cn_improved": null,
@@ -9565,7 +9565,7 @@
     {
       "id": 11100502,
       "status": "done",
-      "cn": "八叶寺之尼御前，应已为我探查\n不妨再去拜访一次",
+      "cn": "八叶寺之尼师，应已为我探查\n不妨再去拜访一次",
       "en": "The Hachiyouji Temple Page was supposed to be searching for it.\nHow about you pay her a visit?",
       "jp": "八葉寺の尼御前が、探ってくれておるはずだったな\nもう一度、訪ねてみてはどうじゃ",
       "cn_improved": null,
@@ -9574,7 +9574,7 @@
     {
       "id": 11100600,
       "status": "done",
-      "cn": "余下神器之去向\n八叶寺之尼御前，或许已掌握线索",
+      "cn": "余下神器之去向\n八叶寺之尼师，或许已掌握线索",
       "en": "The Hachiyouji Temple Page may know something\nabout the last Sacred Treasure's whereabouts.",
       "jp": "残る神器のゆくえ\n八葉寺の尼御前ならば、手がかりをつかんでおるやもしれぬ",
       "cn_improved": null,
@@ -12850,7 +12850,7 @@
     {
       "id": 11110100,
       "status": "done",
-      "cn": "菩萨谷，位于此苇名城之背\n白蛇社之前方",
+      "cn": "菩萨谷，位于此苇名城之背\n白蛇神社之前方",
       "en": "Bodhissatva Valley runs along the back of\nAshina Castle, beyond the Great White's shrine.",
       "jp": "菩薩の谷は、この葦名の城の裏側の\n白蛇の社の先にある",
       "cn_improved": null,
@@ -48859,7 +48859,7 @@
     {
       "id": 30110403,
       "status": "done",
-      "cn": "若是为前往那女奏者之处\n便去舍弃牢一探吧",
+      "cn": "若是为前往那女乐师之处\n便去舍弃牢一探吧",
       "en": "If this person can help me reach the shamisen player,\nmaybe I should pay them a visit...",
       "jp": "あの女奏者の元へ行くためならば\n一度、捨て牢を訪ねてみるか",
       "cn_improved": null,
@@ -60127,7 +60127,7 @@
     {
       "id": 65000200,
       "status": "done",
-      "cn": "污浊野盗：瞧那位用心棒\n那些忍者，被他轻易了结",
+      "cn": "污浊野盗：瞧那位护卫\n那些忍者，被他轻易了结",
       "en": "Dingy Bandit: See that bodyguard?\nHe put one of those shinobi down like it was nothing.",
       "jp": "うす汚れた野盗：見ろよ、あの用心棒\n忍びどもを、簡単にやっちまいやがった",
       "cn_improved": null,
@@ -60208,7 +60208,7 @@
     {
       "id": 65000501,
       "status": "done",
-      "cn": "于此附近寻找\n白装束之乱波",
+      "cn": "于此附近寻找\n一袭白衣之乱波",
       "en": "He's around here somewhere.\nA little scoundrel dressed in white.",
       "jp": "この辺りを探せ\n白い装束の、らっぱ者だ",
       "cn_improved": null,
