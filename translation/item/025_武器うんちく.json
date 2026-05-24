@@ -439,7 +439,7 @@
     {
       "id": 75000,
       "status": "from_improved",
-      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击\n使用锈丸与楔丸之快速连击\n锈丸若击中可陷敌于【中毒】状态",
+      "cn": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击\n使用锈丸与楔丸之快速连击\n锈丸若击中可陷敌于［中毒］状态",
       "en": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>: Combo\nPerform a flurry of attacks with both the\nsword and Sabimaru. Sabimaru's attacks\ninflict the \"Poison\" status abnormality.",
       "jp": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>:連撃\n錆び丸と刀を使った、素早い連撃\n錆び丸の攻撃は、敵を「中毒」状態にする",
       "cn_improved": "<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>→<?kgiconKc@17?>：连击\n使用锈丸与楔丸之快速连击\n锈丸若击中可陷敌于【中毒】状态",
@@ -574,7 +574,7 @@
     {
       "id": 78400,
       "status": "from_improved",
-      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入［炎上］异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
       "en": "<?kgiconKc@17?>: Blazing Thrust\nA frontward thrust with the spear wreathed in flames.  Applies Burn status abnormality to enemies.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Leaping Flame\nCharge up your strength, then cleave through surrounding enemies and set them on fire.",
       "jp": "<?kgiconKc@17?>:火炎突き\n正面に火炎を纏った突きを放つ\n敵を状態異常「炎上」にする\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:火走り\n力を溜め、その勢いで火炎とともに薙ぎ払う",
       "cn_improved": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
@@ -1456,7 +1456,7 @@
     {
       "id": 784000,
       "status": "from_improved",
-      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
+      "cn": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入［炎上］异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
       "en": "<?kgiconKc@17?>: Blazing Thrust\nA frontward thrust with the spear wreathed in flames.  Applies Burn status abnormality to enemies.\n\n<?kgiconKc@17?>→<?kgiconKc@17?>: Drag\nPull an enemy struck by the spear back towards you.  Can also tear poorly-fitting armor from heavier foes.\n\nHold <?kgiconKc@17?>: Leaping Flame\nCharge up your strength, then cleave through surrounding enemies and set them on fire.",
       "jp": "<?kgiconKc@17?>:火炎突き\n正面に火炎を纏った突きを放つ\n敵を状態異常「炎上」にする\n\n<?kgiconKc@17?>→<?kgiconKc@17?>:引き込み\n槍を当てた敵を、引き寄せる\n大柄な者の身に合わぬ鎧ならば、\n引き剥がすことができる\n\n<?kgiconKc@17?>長押し:火走り\n力を溜め、その勢いで火炎とともに薙ぎ払う",
       "cn_improved": "<?kgiconKc@17?>：火焰突刺\n自正面施展缠火之突刺\n可使敌人陷入【炎上】异常状态\n\n<?kgiconKc@17?>→<?kgiconKc@17?>：拉近\n拉近被长枪击中之敌人\n魁梧者所穿戴，不合身之铠甲\n亦可剥落\n\n<?kgiconKc@17?>长按:火舌\n蓄力并顺势以缠火枪刃横扫敌人",
