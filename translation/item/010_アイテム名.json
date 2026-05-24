@@ -916,7 +916,7 @@
     {
       "id": 3600,
       "status": "from_improved",
-      "cn": "招财之水生气球",
+      "cn": "招财之水生纸气球",
       "en": "Mibu Balloon of Wealth",
       "jp": "銭寄せのミブ風船",
       "cn_improved": "招财之水生气球",
@@ -925,7 +925,7 @@
     {
       "id": 3610,
       "status": "from_improved",
-      "cn": "招魂之水生气球",
+      "cn": "招魂之水生纸气球",
       "en": "Mibu Balloon of Soul",
       "jp": "魂寄せのミブ風船",
       "cn_improved": "招魂之水生气球",
@@ -934,7 +934,7 @@
     {
       "id": 3615,
       "status": "done",
-      "cn": "修业之水生气球",
+      "cn": "修业之水生纸气球",
       "en": "Mibu Balloon of Skill",
       "jp": "経験寄せのミブ風船",
       "cn_improved": null,
@@ -943,7 +943,7 @@
     {
       "id": 3620,
       "status": "from_improved",
-      "cn": "招物之水生气球",
+      "cn": "招物之水生纸气球",
       "en": "Mibu Possession Balloon",
       "jp": "品寄せのミブ風船",
       "cn_improved": "招物之水生气球",
@@ -952,7 +952,7 @@
     {
       "id": 3630,
       "status": "from_improved",
-      "cn": "招形代之水生气球",
+      "cn": "招形代之水生纸气球",
       "en": "Mibu Balloon of Spirit",
       "jp": "形代寄せのミブ風船",
       "cn_improved": "招形代之水生气球",
@@ -970,7 +970,7 @@
     {
       "id": 3640,
       "status": "from_improved",
-      "cn": "龙泉参拜之水生气球",
+      "cn": "龙泉参拜之水生纸气球",
       "en": "Mibu Pilgrimage Balloon",
       "jp": "竜泉詣でのミブ風船",
       "cn_improved": "龙泉参拜之水生气球",

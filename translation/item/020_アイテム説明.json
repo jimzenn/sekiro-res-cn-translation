@@ -808,7 +808,7 @@
     {
       "id": 3600,
       "status": "from_improved",
-      "cn": "内藏源之水，招财祈愿之水生纸气球\n\n割破并叩拜此黄色水生气球\n沐浴其中清水之人\n可以短时间提升金钱的获取量\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
+      "cn": "内藏源之水，招财祈愿之水生纸气球\n\n割破并叩拜此黄色水生纸气球\n沐浴其中清水之人\n可以短时间提升金钱的获取量\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
       "en": "A Mibu balloon filled with fountainhead water, imbued with a blessing of wealth.\n\nIf one pops the golden Mibu balloon and prays, those its water splashes upon will acquire more coin for a period of time.  \n\"Mibu\" means \"aquatic life\", or \"life born of the water\".  The Ashina consider the fountainhead water itself to be worthy of worship.",
       "jp": "源の水を内に秘めた、招財祈願のミブ風船\n\n黄色いミブ風船を割り拝み、\nその水を浴びたものは、\n一時的に銭の入手量が上昇する\n\nミブは水生。水が生れることを指す\n葦名衆にとって、源の水は、\nそれ自体が詣での対象なのだ",
       "cn_improved": "内藏源之水，招财祈愿之水生纸气球\n\n割破并叩拜此黄色水生气球\n沐浴其中清水之人\n可以短时间提升金钱的获取量\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
@@ -817,7 +817,7 @@
     {
       "id": 3610,
       "status": "from_improved",
-      "cn": "内藏源之水，镇魂之水生纸气球\n\n割破并叩拜此樱色水生气球\n沐浴其中清水之人\n可以短时间提升回生之力的获取量\n\n此为最古老之水生气球\n水生之神主，将此气球割破叩拜\n以行镇魂之功效",
+      "cn": "内藏源之水，镇魂之水生纸气球\n\n割破并叩拜此樱色水生纸气球\n沐浴其中清水之人\n可以短时间提升回生之力的获取量\n\n此为最古老之水生纸气球\n水生之神主，将此纸气球割破叩拜\n以行镇魂之功效",
       "en": "A Mibu balloon filled with fountainhead water, imbued with a blessing for departed souls.\n\nIf one pops this sakura-pink balloon and prays, those its water splashes upon will acquire more Resurrective Power for a time.\nThe oldest of the Mibu balloons,\nMibu priests are known to pop them \nas an offering of peace of the departed.",
       "jp": "源の水を内に秘めた、鎮魂のミブ風船\n\n桜色のミブ風船を割り拝み、\nその水を浴びたものは、\n一時的に回生の力の入手量が上昇する\n\n一番初めの古いミブ風船\n水生の神主は、これを割り拝み\n魂鎮めを役目としていた",
       "cn_improved": "内藏源之水，镇魂之水生纸气球\n\n割破并叩拜此樱色水生气球\n沐浴其中清水之人\n可以短时间提升回生之力的获取量\n\n此为最古老之水生气球\n水生之神主，将此气球割破叩拜\n以行镇魂之功效",
@@ -826,7 +826,7 @@
     {
       "id": 3615,
       "status": "done",
-      "cn": "内藏源之水，战胜祈愿之水生气球\n\n割破并叩拜此绀碧色水生气球\n沐浴其水之人\n可获得一点技能点数\n\n参与龙泉参拜，自战场归来之男众\n为祓长年征战所积之业\n皆有割破并叩拜此物之习俗",
+      "cn": "内藏源之水，战胜祈愿之水生纸气球\n\n割破并叩拜此绀碧色水生纸气球\n沐浴其水之人\n可获得一点技能点数\n\n参与龙泉参拜，自战场归来之男众\n为祓长年征战所积之业\n皆有割破并叩拜此物之习俗",
       "en": "A Mibu balloon filled with fountainhead water, imbued with the experiences of a warrior.\nIf one pops this azure balloon and prays, those its water splashes upon will acquire a single skill point.\nWarriors who partake in the Dragonspring Pilgrimage often use this balloon as a surrogate for the mental burdens accumulated from long years at war.",
       "jp": "源の水を内に秘めた、戦勝祈願のミブ風船\n\n紺碧色のミブ風船を割り拝み、\nその水を浴びたものは、\nスキルポイントを一つ獲得する\n\n竜泉詣でに参加する戦場帰りの男衆は\n長きに渡る戦で負った業を祓うため、\nこれを割り拝むのが習わしである",
       "cn_improved": null,
@@ -835,7 +835,7 @@
     {
       "id": 3620,
       "status": "from_improved",
-      "cn": "内藏源之水，招福祈愿之水生纸气球\n\n割破并叩拜此青草色水生气球\n沐浴其中清水之人\n可以短时间提升道具的获取概率\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
+      "cn": "内藏源之水，招福祈愿之水生纸气球\n\n割破并叩拜此青草色水生纸气球\n沐浴其中清水之人\n可以短时间提升道具的获取概率\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
       "en": "A Mibu balloon filled with fountainhead water, imbued with a blessing of fortune.\n\nIf one pops this vibrant green Mibu balloon and prays, those its water splashes upon will have a higher chance of obtaining items.\n\"Mibu\" means \"aquatic life\", or \"life born of the water\".  The Ashina consider the fountainhead water itself to be worthy of worship.",
       "jp": "源の水を内に秘めた、招福祈願のミブ風船\n\n若草色のミブ風船を割り拝み、\nその水を浴びたものは、\n一時的にアイテムの入手確率が上昇する\n\nミブは水生。水が生れることを指す\n葦名衆にとって、源の水は、\nそれ自体が詣での対象なのだ",
       "cn_improved": "内藏源之水，招福祈愿之水生纸气球\n\n割破并叩拜此青草色水生气球\n沐浴其中清水之人\n可以短时间提升道具的获取概率\n\n水生，指水自源而生\n于苇名众而言，源之水\n本身即是参拜对象",
@@ -844,7 +844,7 @@
     {
       "id": 3630,
       "status": "from_improved",
-      "cn": "内藏源之水，哀悼之水生纸气球\n\n割破并叩拜此黑白水生气球\n沐浴其中清水之人\n可以短时间提升形代的获取概率\n\n对欲悼念之人，则割拜此水生气球\n对欲思念之人，则供奉以红白风车",
+      "cn": "内藏源之水，哀悼之水生纸气球\n\n割破并叩拜此黑白水生纸气球\n沐浴其中清水之人\n可以短时间提升形代的获取概率\n\n对欲悼念之人，则割拜此水生纸气球\n对欲思念之人，则供奉以红白风车",
       "en": "A Mibu balloon filled with fountainhead water, imbued with a blessing of sympathy.\n\nIf one pops this black and white balloon and prays, those its water splashes upon will have a higher chance of obtaining Spirit Emblems for a period of time.\nThis balloon expresses mourning for the dearly departed.  Red and white pinwheels are offered in fond remembrance.",
       "jp": "源の水を内に秘めた、哀悼のミブ風船\n\n黒白のミブ風船を割り拝み、\nその水を浴びたものは、\n一時的に形代の入手確率が上昇する\n\n誰かを悼むとき、これを割り拝む\nそして、誰かを偲ぶときは、\n赤白の風車を供える",
       "cn_improved": "内藏源之水，哀悼之水生纸气球\n\n割破并叩拜此黑白水生气球\n沐浴其中清水之人\n可以短时间提升形代的获取概率\n\n对欲悼念之人，则割拜此水生气球\n对欲思念之人，则供奉以红白风车",
@@ -862,7 +862,7 @@
     {
       "id": 3640,
       "status": "from_improved",
-      "cn": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生气球\n\n割破并叩拜此白色水生气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n［貉，给天吉］",
+      "cn": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生纸气球\n\n割破并叩拜此白色水生纸气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n［貉，给天吉］",
       "en": "Mibu balloon made in the year of the\nDragonspring pilgrimage, sealed with\na prayer for healthy upbringing.\n\nBurst the white Mibu balloon\nwhile clasping one's hands in prayer.\nThose splashed with the water will enjoy\nincreased gains of all sorts for a time.\nOn it is crudely scrawled:\n\"To Tenkichi, from Badger\".",
       "jp": "竜泉詣での年に、\n子の健やかな成長を願って作るミブ風船\n\nこの白いミブ風船を割り拝み、\nその水を浴びたものは、\n一時的にすべての入手量と入手確率が上昇する\n\n下手な字で、何か書かれている\n「ムジナから、テン吉へ」と読める",
       "cn_improved": "龙泉参拜之年\n祈愿吾子健康成长，所制之水生气球\n\n割破并叩拜此白色水生气球\n沐浴其中清水之人\n可以短时间提升所有事物的获取量及获取概率\n\n笨拙笔迹，如是写道\n【貉，给天吉】",
