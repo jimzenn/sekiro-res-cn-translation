@@ -10,7 +10,11 @@ Nexus mod 之上：
      及完整 S:R 团队
      https://www.nexusmods.com/sekiro/mods/723
 
-  2. Chinese Translation Redone — Simplified and Traditional (Nexus #170)
+  2. Simplified Chinese Translation Patch for Sekiro Resurrection (Nexus #902)
+     Resurrection 早期/官方简中译者 SCHDSRLIN
+     https://www.nexusmods.com/sekiro/mods/902
+
+  3. Chinese Translation Redone — Simplified and Traditional (Nexus #170)
      作者 CatFood Can（罐装猫粮）、Nexus 上传者 ranaragua
      https://www.nexusmods.com/sekiro/mods/170
 
@@ -28,9 +32,11 @@ Nexus mod 之上：
 
   (b) `translation/*.json` 中 `status == "from_improved"` 条目的 `cn`
       字段源自 Chinese Translation Redone，版权归 CatFood Can 所有；
-      `cn_resurrection`、`jp`、`en` 等参考字段则源自 Sekiro: Resurrection
-      的 zhocn/jp/en 文本，版权归 S:R 团队所有（其中 jp/en 进一步源自
-      FromSoftware 原版游戏，仅作为翻译参考与对齐依据）。
+      `cn_resurrection` 参考字段源自 Sekiro: Resurrection 自带的简中
+      译文（早期/官方简中译者 SCHDSRLIN），版权归原译者所有；`jp`、
+      `en` 参考字段源自 Sekiro: Resurrection 的 jp/en 文本，版权归
+      S:R 团队所有（其中 jp/en 进一步源自 FromSoftware 原版游戏，
+      仅作为翻译参考与对齐依据）。
 
   (c) `sources/` 下未经修改的二进制 .dcx，以及 `build/font/` 下的字体
       文件，仅作为构建依赖被纳入，版权归各自原作者
@@ -47,9 +53,10 @@ Nexus mod 之上：
     注明作者。
   - Ionian / S:R 团队（Sekiro: Resurrection）：使用 asset 须注明原
     作者；不得在小幅修改后将作品声称为自己原创。
+  - SCHDSRLIN（Resurrection 简中翻译）：转载/再分发须注明原译者。
 
 本项目为非营利同人作品，与 FromSoftware、Activision、Ionian、
-CatFood Can 等任何主体均无官方关联。
+CatFood Can、SCHDSRLIN 等任何主体均无官方关联。
 
 
 ================================================================================

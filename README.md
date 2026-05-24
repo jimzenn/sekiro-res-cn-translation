@@ -34,6 +34,13 @@
   - VFX：[Leo Ashina](https://www.nexusmods.com/sekiro/users/177475032)
   - Misc Contributions：Abacabb（Texture）、Katalash（DsMapStudio）、Meowmaritus（Dsanimstudio）、Foxyhooligans、Kirfnir
 
+### Resurrection 早期简中译者 — [Simplified Chinese Translation Patch for Sekiro Resurrection](https://www.nexusmods.com/sekiro/mods/902)（Nexus #902）
+
+Resurrection 自带 `msg/zhocn/` 文本的简中译者，也是本项目 `cn_resurrection` 参考字段的来源。
+首轮翻译时大量对照其译法作为参考；许多 mod 新增条目能直接命名上手，靠的就是这份早期翻译铺路。
+
+- **Translator**：SCHDSRLIN
+
 ### 翻译风格基准与原版译文来源 — [Chinese Translation Redone (Simplified & Traditional)](https://www.nexusmods.com/sekiro/mods/170)（Nexus #170）
 
 社区俗称"猫粮汉化"。本项目复用其全部原版简中文本（20129 条 `from_improved`）作为术语与风格权威，
@@ -53,6 +60,7 @@
 - 上游素材保留各自授权，再分发须同时遵守：
   - **CatFood Can**：非商用；转载注明作者；**修改前须事先获得作者许可**。
   - **Ionian / S:R Team**：使用 asset 须注明原作者；不得在小幅修改后将作品声称为自己原创。
+  - **SCHDSRLIN**：转载/再分发须注明原译者。
 - 字体均为免费可用（源流明朝、青柳隷書しも 为免费可商用；汉仪雪君为个人免费）。
 
 本项目为**非营利同人作品**，与 FromSoftware、Activision、Ionian、CatFood Can 均无任何官方关联。
