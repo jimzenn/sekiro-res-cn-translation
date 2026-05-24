@@ -375,7 +375,7 @@
     },
     {
       "id": 72400,
-      "status": "needs_polish",
+      "status": "done",
       "cn": "狂战士的义手",
       "en": "Struggler's Prosthetic",
       "jp": "狂戦士の義手",
@@ -1122,7 +1122,7 @@
     },
     {
       "id": 681999,
-      "status": "needs_translation",
+      "status": "done",
       "cn": "--",
       "en": "--",
       "jp": "--",
@@ -1131,8 +1131,8 @@
     },
     {
       "id": 682000,
-      "status": "needs_translation",
-      "cn": "Recoil Counter",
+      "status": "done",
+      "cn": "弹反",
       "en": "Recoil Counter",
       "jp": "弾きカウンター",
       "cn_improved": null,
@@ -1140,8 +1140,8 @@
     },
     {
       "id": 682100,
-      "status": "needs_translation",
-      "cn": "Recoil Counter: Quick-draw",
+      "status": "done",
+      "cn": "弹反·疾业",
       "en": "Recoil Counter: Quick-draw",
       "jp": "弾きカウンター・早業",
       "cn_improved": null,
@@ -1149,8 +1149,8 @@
     },
     {
       "id": 682200,
-      "status": "needs_translation",
-      "cn": "Projectile Reflection",
+      "status": "done",
+      "cn": "飞道具返",
       "en": "Projectile Reflection",
       "jp": "飛び道具返し",
       "cn_improved": null,
@@ -1158,8 +1158,8 @@
     },
     {
       "id": 682300,
-      "status": "needs_translation",
-      "cn": "Aerial Projectile Reflection",
+      "status": "done",
+      "cn": "空中飞道具返",
       "en": "Aerial Projectile Reflection",
       "jp": "空中飛び道具返し",
       "cn_improved": null,
@@ -1167,8 +1167,8 @@
     },
     {
       "id": 683000,
-      "status": "needs_translation",
-      "cn": "Hidden Medicine",
+      "status": "done",
+      "cn": "秘藏练药",
       "en": "Hidden Medicine",
       "jp": "隠し練薬",
       "cn_improved": null,

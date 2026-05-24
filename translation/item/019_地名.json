@@ -105,8 +105,8 @@
     },
     {
       "id": 7000,
-      "status": "needs_translation",
-      "cn": "Inner Dojo",
+      "status": "done",
+      "cn": "内道场",
       "en": "Inner Dojo",
       "jp": null,
       "cn_improved": null,

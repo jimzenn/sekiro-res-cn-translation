@@ -492,8 +492,8 @@
     },
     {
       "id": 682000,
-      "status": "needs_translation",
-      "cn": "Acquires Shinobi Martial Art\n\"Recoil Counter\".\nA Shinobi Martial Art that ripostes heavy assaults, providing an opportunity for a counter-strike. \n\nUse Recoil Counter to deflect strong attacks, leaving the enemy momentarily off balance.\n\nIn pivotal moments of battle, a shinobi's senses sharpen.",
+      "status": "done",
+      "cn": "习得忍者体术【弹反】\n反击敌人攻势之忍者体术\n\n    敌人重击之反作用力\n    可化为突刺或横扫之反击\n    令敌人怯陷，并予以ＨＰ与体干之巨创\n\n    身处九死之中，忍技方得磨砺",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter\".\nA Shinobi Martial Art that ripostes heavy assaults, providing an opportunity for a counter-strike. \n\nUse Recoil Counter to deflect strong attacks, leaving the enemy momentarily off balance.\n\nIn pivotal moments of battle, a shinobi's senses sharpen.",
       "jp": "忍びの体術「弾きカウンター」を習得する\n敵の攻撃からカウンター攻撃を行う忍びの体術\n\n敵の重い一撃から繰り出されるカウンターは、\n突き、または薙ぎ払いにより\n敵を怯ませ、ＨＰと体幹に大ダメージを与える\n\n九死の中でこそ、忍びの技は磨かれる",
       "cn_improved": null,
@@ -501,8 +501,8 @@
     },
     {
       "id": 682100,
-      "status": "needs_translation",
-      "cn": "Acquires Shinobi Martial Art\n\"Recoil Counter: Quick-draw\".\nMastery of Recoil Counter allows the integration of certain Prosthetic Tools and Combat Arts.\n\nCausing an enemy to temporarily lose footing is something an experienced shinobi uses to their advantage, following up with a Prosthetic Tool or Combat Art more swiftly.",
+      "status": "done",
+      "cn": "习得忍者体术【弹反·疾业】\n强化弹反之忍者体术\n\n    借敌人攻击之反作用力\n    可迅疾衔接流派技或义手忍具攻击\n\n    此等疾业，非熟练之忍者难以施展",
       "en": "Acquires Shinobi Martial Art\n\"Recoil Counter: Quick-draw\".\nMastery of Recoil Counter allows the integration of certain Prosthetic Tools and Combat Arts.\n\nCausing an enemy to temporarily lose footing is something an experienced shinobi uses to their advantage, following up with a Prosthetic Tool or Combat Art more swiftly.",
       "jp": "忍びの体術「弾きカウンター・早業」を習得する\nカウンター攻撃を強化する忍びの体術\n\n敵の攻撃の反動を利用すれば、\n流派技や義手忍具攻撃に素早く繋げられる\n\n熟練の忍びにしか出来ぬ、類稀なる早業だ ",
       "cn_improved": null,
@@ -510,8 +510,8 @@
     },
     {
       "id": 682200,
-      "status": "needs_translation",
-      "cn": "Acquires Shinobi Martial Art\n\"Projectile Counter\".\nThe sheer force behind a skilled deflect means a shinobi can only reflect high speed projectiles like arrows and bullets.\n\nUsing the correct stance to remain steadfast, a skilled shinobi cannot be moved.",
+      "status": "done",
+      "cn": "习得忍者体术【飞道具返】\n反弹敌人飞行道具之忍者体术\n\n    可将弹丸、箭矢等\n    疾速之飞行道具弹回\n\n    踏地若山岳般稳健\n    则箭矢弹丸不足为惧",
       "en": "Acquires Shinobi Martial Art\n\"Projectile Counter\".\nThe sheer force behind a skilled deflect means a shinobi can only reflect high speed projectiles like arrows and bullets.\n\nUsing the correct stance to remain steadfast, a skilled shinobi cannot be moved.",
       "jp": "忍びの体術「飛び道具返し」を習得する\n敵の飛び道具を撃ち返す、忍びの体術\n\n弾丸や矢など、疾い飛び道具を\n弾き返すことができる\n\n山脈の如く大地を踏み締めれば、\n矢弾如きは、恐るるに足らず",
       "cn_improved": null,
@@ -519,8 +519,8 @@
     },
     {
       "id": 682300,
-      "status": "needs_translation",
-      "cn": "Acquires Shinobi Martial Art\n\"Aerial Projectile Counter\".\nCapitalizes upon an airborne advantage, using trajectory to reflect projectiles back towards the enemy. \n\nGaining height allows for superior trajectories, giving a shinobi the advantage of the unexpected. For a skilled shinobi, the fangs of the enemy can used against them.",
+      "status": "done",
+      "cn": "习得忍者体术【空中飞道具返】\n于空中反弹飞行道具之忍者体术\n\n    占空中之利\n    则不意飞来之物，亦可于离地之时弹回\n\n    将敌人之利牙，化作己物\n    此方为忍者应有之姿",
       "en": "Acquires Shinobi Martial Art\n\"Aerial Projectile Counter\".\nCapitalizes upon an airborne advantage, using trajectory to reflect projectiles back towards the enemy. \n\nGaining height allows for superior trajectories, giving a shinobi the advantage of the unexpected. For a skilled shinobi, the fangs of the enemy can used against them.",
       "jp": "忍びの体術「空中飛び道具返し」を習得する\n空中で飛び道具を撃ち返す、忍びの体術\n\n空中の利を活かせば、不意の飛来物さえ\n地に足つけることなく、弾き返せる\n\n敵の牙をも、己のものとする\nまさに忍びのあるべき姿であろう",
       "cn_improved": null,

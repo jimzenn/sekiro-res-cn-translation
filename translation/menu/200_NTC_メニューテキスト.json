@@ -1500,8 +1500,8 @@
     },
     {
       "id": 201006,
-      "status": "needs_translation",
-      "cn": "平田屋敷　渡り廊下",
+      "status": "done",
+      "cn": "平田庄  回廊",
       "en": null,
       "jp": "平田屋敷　渡り廊下",
       "cn_improved": null,
@@ -1509,8 +1509,8 @@
     },
     {
       "id": 201007,
-      "status": "needs_translation",
-      "cn": "Bamboo Cliffside",
+      "status": "done",
+      "cn": "陵园  崖上",
       "en": "Bamboo Cliffside",
       "jp": "霊園　崖上",
       "cn_improved": null,
