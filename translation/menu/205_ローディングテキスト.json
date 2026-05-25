@@ -367,7 +367,7 @@
     {
       "id": 127,
       "status": "from_improved",
-      "cn": "可在鬼佛处治愈龙咳\n消耗【<?gdsparam@5600?>】\n便可使所有罹患龙咳者快复痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
+      "cn": "可在鬼佛处治愈龙咳\n消耗【<?gdsparam@5600?>】\n便可使所有罹患龙咳者痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
       "en": "A Dragon's Blood Droplet can be offered to a Sculptor's Idol to restore to health those afflicted with Dragonrot.\n\nOne restoration will remove Dragonrot from all those afflicted, and all Rot Essence will also disappear, returning the chances of Unseen Aid to default levels.",
       "jp": "鬼仏で行える竜咳の快復には、\n「<?gdsparam@5600?>」を消費する\nそうすれば、一度に全ての竜咳患者が快復する\n\n所持していた「咳の音」が無くなり、\n下がっていた冥助確率が元に戻る",
       "cn_improved": "可在鬼佛处治愈龙咳\n消耗【<?gdsparam@5600?>】\n便可使所有罹患龙咳者快复痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",

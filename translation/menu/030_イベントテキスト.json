@@ -3931,7 +3931,7 @@
     {
       "id": 10024830,
       "status": "from_improved",
-      "cn": "龙咳快复",
+      "cn": "龙咳治愈",
       "en": "Dragonrot Restoration",
       "jp": "竜咳の快復",
       "cn_improved": "龙咳快复",
@@ -3940,7 +3940,7 @@
     {
       "id": 10024831,
       "status": "from_improved",
-      "cn": "若持有【<?gdsparam@2930?>】\n便可以在鬼佛处使龙咳快复痊愈\n\n龙咳快复将消耗【<?gdsparam@5600?>】\n如此，可使罹患龙咳者尽数痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
+      "cn": "若持有【<?gdsparam@2930?>】\n便可在鬼佛处治愈龙咳\n\n龙咳治愈将消耗【<?gdsparam@5600?>】\n如此，可使罹患龙咳者尽数痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
       "en": "The Recovery Charm allows Dragonrot sufferers to be healed from a Sculptor's Idol.\n\nA Dragon's Blood Droplet can be consumed to heal Dragonrot from all those afflicted.  Doing so will cause all Rot Essence to disappear, returning the chances of receiving Unseen Aid to the default value.",
       "jp": "「<?gdsparam@2930?>」があれば、\n鬼仏で竜咳の快復ができるようになる\n\n竜咳の快復には、「<?gdsparam@5600?>」を消費する\nそうすれば、一度に全ての竜咳患者が快復する\n\n所持していた「咳の音」が無くなり、\n下がっていた冥助確率が元に戻る",
       "cn_improved": "若持有【<?gdsparam@2930?>】\n便可以在鬼佛处使龙咳快复痊愈\n\n龙咳快复将消耗【<?gdsparam@5600?>】\n如此，可使罹患龙咳者尽数痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
@@ -4345,7 +4345,7 @@
     {
       "id": 10025240,
       "status": "from_improved",
-      "cn": "龙咳快复",
+      "cn": "龙咳治愈",
       "en": "Dragonrot Restoration",
       "jp": "竜咳の快復",
       "cn_improved": "龙咳快复",
@@ -4354,7 +4354,7 @@
     {
       "id": 10025241,
       "status": "from_improved",
-      "cn": "已解锁龙咳快复菜单\n\n消耗【<?gdsparam@5600?>】\n可使罹患龙咳者快复痊愈",
+      "cn": "已解锁龙咳治愈菜单\n\n消耗【<?gdsparam@5600?>】\n可使罹患龙咳者痊愈",
       "en": "The Dragonrot Restoration menu is now unlocked in the Sculptor's Idol menu.\n\nConsuming a \"Dragon's Blood Droplet\" will\nrestore to health all those afflicted with Dragonrot.",
       "jp": "竜咳の快復メニューが解禁されました\n\n「<?gdsparam@5600?>」を消費して、\n竜咳に罹った患者を快復させることができます",
       "cn_improved": "已解锁龙咳快复菜单\n\n消耗【<?gdsparam@5600?>】\n可使罹患龙咳者快复痊愈",
@@ -5668,7 +5668,7 @@
     {
       "id": 12001010,
       "status": "from_improved",
-      "cn": "确定要进行龙咳快复吗？",
+      "cn": "确定要治愈龙咳吗？",
       "en": "Restore those afflicted with Dragonrot?",
       "jp": "竜咳を快復させますか？",
       "cn_improved": "确定要进行龙咳快复吗？",
@@ -6073,7 +6073,7 @@
     {
       "id": 13000060,
       "status": "from_improved",
-      "cn": "所有龙咳患者已快复痊愈",
+      "cn": "所有龙咳患者已痊愈",
       "en": "All afflicted with Dragonrot have been restored to health.",
       "jp": "全ての竜咳患者が快復しました",
       "cn_improved": "所有龙咳患者已快复痊愈",
