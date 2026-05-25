@@ -349,7 +349,7 @@
     {
       "id": 2930,
       "status": "from_improved",
-      "cn": "爱麻制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉【龙胤露滴】\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n爱麻以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
+      "cn": "永真制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉【龙胤露滴】\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n永真以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
       "en": "A Dragonrot Recovery Charm created by Emma.\n\nWith this charm, one can offer a \"Dragon's Blood Droplet\" at a Sculptor's Idol to restore all afflicted with Dragonrot back to health.\nThe charm contains a Dragonrot victim's blood, which Emma managed to purify and solidify into a bloodstone.",
       "jp": "エマが作った竜咳快復の御守り\n\nこれを持って、\n鬼仏に「竜胤の雫」を供え祈れば、\n生の力を、それを奪った者たちに返せる\nそして、竜咳に罹った者たちを快復させるのだ\n\n御守りの中には、竜咳患者の血から\nエマが精製した血石が納められている\nこの血石は、治すべき者たちを定める道標だ",
       "cn_improved": "爱麻制作的龙咳快复之护符\n\n持此物\n于鬼佛处供奉【龙胤露滴】\n可将生之力归还被夺取之人\n如此，罹患龙咳者得以快复痊愈\n\n爱麻以龙咳患者之血精炼之血石\n纳于护符中\n此血石，乃指引应治愈者之道标",
@@ -1105,7 +1105,7 @@
     {
       "id": 4400,
       "status": "from_improved",
-      "cn": "此种乃药水涌出之源头\n将其交与爱麻\n可增加<?gdsparam@3000?>的使用次数上限\n\n葫芦中涌出的药水，便是源自此物\n\n绝世药师·道玄\n其弟子爱麻，遍历苇名古今\n药水歪嘴葫芦之详实\n终解明其玄机",
+      "cn": "此种乃药水涌出之源头\n将其交与永真\n可增加<?gdsparam@3000?>的使用次数上限\n\n葫芦中涌出的药水，便是源自此物\n\n绝世药师·道玄\n其弟子永真，遍历苇名古今\n药水歪嘴葫芦之详实\n终解明其玄机",
       "en": "Seed from which healing waters\ncontinuously spring forth.\nGive to Emma to increase the\nmaximum uses of the Healing Gourd.\n\nThe twisted gourd of medicinal waters\nwas known throughout Ashina since long\nago, but it was the extraordinary healer\nDogen and his pupil Emma who discovered\nthe self-replenishing nature of this seed.",
       "jp": "薬水が湧き出す源となる種\nエマに渡すことで\n<?gdsparam@3000?>の使用回数上限を増やせる\n\n瓢箪の薬水が、自ずと湧き出す種はこれである\n\n稀代の薬師・道玄\nその弟子エマは、葦名に古くから伝わる\n薬水の曲がり瓢箪を詳しく調べ、\nこの種を解き明かした",
       "cn_improved": "此种乃药水涌出之源头\n将其交与爱麻\n可增加<?gdsparam@3000?>的使用次数上限\n\n葫芦中涌出的药水，便是源自此物\n\n绝世药师·道玄\n其弟子爱麻，遍历苇名古今\n药水歪嘴葫芦之详实\n终解明其玄机",
@@ -1771,7 +1771,7 @@
     {
       "id": 9104,
       "status": "from_improved",
-      "cn": "爱麻所赠，装有苇名酒的德利壶\n酒，乃款待之物\n\n自源而出之清水\n所酿之酒\n苇名民众多爱此酒",
+      "cn": "永真所赠，装有苇名酒的德利壶\n酒，乃款待之物\n\n自源而出之清水\n所酿之酒\n苇名民众多爱此酒",
       "en": "A bottle of Ashina sake given by Emma.\nSake is a drink meant for sharing.\n\nWhile it does not contain water from the fountainhead, it is made from the purest of waters, and is a drink beloved by the people of Ashina.",
       "jp": "エマがくれた、葦名の酒が入った徳利\n酒とは、振る舞うものである\n\n源から流れ出ずる\n清らかな水で作られた酒は、\n葦名の民に広く愛されている",
       "cn_improved": "爱麻所赠，装有苇名酒的德利壶\n酒，乃款待之物\n\n自源而出之清水\n所酿之酒\n苇名民众多爱此酒",
@@ -2014,7 +2014,7 @@
     {
       "id": 9219,
       "status": "from_improved",
-      "cn": "一心置于别橹的字条\n爱麻当知其所在\n\n    致 爱麻\n\n        大手门之左近，似有骚动\n        天狗观鼠去也\n\n        勿虑\n　　　　　　　　　　　　　一心",
+      "cn": "一心置于别橹的字条\n永真当知其所在\n\n    致 永真\n\n        大手门之左近，似有骚动\n        天狗观鼠去也\n\n        勿虑\n　　　　　　　　　　　　　一心",
       "en": "A note left by Isshin in the watchtower.\nPerhaps Emma knows his current whereabouts.\n\n    Dear Emma,\n\n    The Ashina Castle Gate has grown loud \n    with the sound of scurrying.\n    The Tengu will see to the rats.\n    Worry not.\n　　　　　　　　　　　　　Isshin",
       "jp": "一心が、離れの櫓に残した置手紙\nエマなら、居場所に心当たりがあるだろうか\n\n　エマへ\n\n　　大手門のあたりが、騒がしい\n　　天狗が鼠を見てくるぞ\n\n　　心配無用\n　　　　　　　　　　　　　一心",
       "cn_improved": "一心置于别橹的字条\n爱麻当知其所在\n\n    致 爱麻\n\n        大手门之左近，似有骚动\n        天狗观鼠去也\n\n        勿虑\n　　　　　　　　　　　　　一心",
@@ -2293,7 +2293,7 @@
     {
       "id": 9560,
       "status": "from_improved",
-      "cn": "罹患龙咳者\n所咳出之物\n混有颜色污浊之血丝\n\n此乃爱麻探寻治愈龙咳之法\n所求之物",
+      "cn": "罹患龙咳者\n所咳出之物\n混有颜色污浊之血丝\n\n此乃永真探寻治愈龙咳之法\n所求之物",
       "en": "Blood sample of a Dragonrot victim.\nContains stagnated blood.\n\nEmma can use this to find a cure for Dragonrot.",
       "jp": "竜咳に罹った者が、\n咳とともに吐き出したもの\n淀んだ色の血が混じっている\n\nこれは、竜咳を治す術を探るため、\nエマが求めているものだ",
       "cn_improved": "罹患龙咳者\n所咳出之物\n混有颜色污浊之血丝\n\n此乃爱麻探寻治愈龙咳之法\n所求之物",
