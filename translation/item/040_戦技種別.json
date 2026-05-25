@@ -141,8 +141,8 @@
     },
     {
       "id": 410000,
-      "status": "from_improved",
-      "cn": "习得流派技【一文字】\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
+      "status": "done",
+      "cn": "习得流派技【一文字】\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可借强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
       "en": "Acquires the Combat Art \"Ichimonji\".\nIchimonji delivers a heavy, one-hit overhead sword strike.  Deals high posture damage and also recovers one's own posture with a strong forward step.\n\nSingle-minded mastery of this technique is the heart of the Ashina style's strength.\nOnce mastered, it can likely be improved.",
       "jp": "流派技「一文字」を習得する\n上段から重い一撃で叩き斬る流派技\n体幹へのダメージに優れる\nまた、その強い踏み込みで己の体幹を回復する\n\n無骨に、正面から叩き斬る\nただ、それだけを一意に専心した技\nその専心ゆえに、葦名流は強い\n\nこの一文字、極めればさらに先があろう",
       "cn_improved": "习得流派技【一文字】\n由上段劈下沉重一击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n只专心此一意之战技\n苇名流，以其专心，是以强悍\n\n据称此一文字熟练后，尚有后招",
@@ -150,8 +150,8 @@
     },
     {
       "id": 410100,
-      "status": "from_improved",
-      "cn": "习得流派技【一文字·二连】\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
+      "status": "done",
+      "cn": "习得流派技【一文字·二连】\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可借强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
       "en": "Acquires Combat Art \"Ichimonji: Double\" \nAdds a follow-up overhead sword strike to Ichimonji.  Deals high posture damage and also recovers one's own posture with a strong forward step.\n\nThe follow-up attack is especially useful for preventing enemy counterattacks.\nAshina's Ichimonji is perfected with this\nfollow-up strike.",
       "jp": "流派技「一文字・二連」を習得する\n一文字に加えて、追い面を放つ流派技\n体幹へのダメージに優れる\nまた、その強い踏み込みで己の体幹を回復する\n\n無骨に、正面から叩き斬る\n反撃が来るならば、もう一度叩き斬る\n\n葦名の一文字は、二連で完全となる",
       "cn_improved": "习得流派技【一文字·二连】\n一文字上，再出追击之流派技\n可给予体干极大伤害\n亦可藉由强力踏进回复自身体干\n\n自正面挥出强横劈砍\n若遇反击，则再度劈砍\n\n苇名一文字，二连方为全式",
@@ -456,8 +456,8 @@
     },
     {
       "id": 672000,
-      "status": "from_improved",
-      "cn": "习得流派技【奥义·浮舟渡】\n此流派技，连而击之如舞\n数招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
+      "status": "done",
+      "cn": "习得流派技【奥义·浮舟渡】\n此流派技，连而击之如舞\n繁招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
       "en": "Acquires Combat Art \"Floating Passage\".\nUnleashes repeated attacks, overwhelming enemies with flowing, dance-like movements.\nWhile an Ashina Combat Art, it was\ntaught by an outsider, and as such\nis considered heretical.\nThe master of this technique crossed the\nFloating Passage and descended to Ashina.\nHer name was Tomoe.",
       "jp": "流派技「奥義・浮き舟渡り」を習得する\n舞うように連撃を繰り出す流派技\n流れるような動きと手数により敵を圧倒する\n\n葦名流の剣技ではあるが、異端にあたる\n外から来た者が、伝えた技ゆえに\n\nその遣い手は、\n浮き舟を渡り、葦名に舞い降りた\n名を、巴と言う",
       "cn_improved": "习得流派技【奥义·浮舟渡】\n此流派技，连而击之如舞\n数招压敌，其势如川流\n\n虽属苇名流剑技，却是异端\n以其为外来者所传之故\n\n擅此技者\n浮舟渡川，英姿如舞，飞临苇名\n其名曰“巴”",
