@@ -61,7 +61,7 @@
     {
       "id": 16,
       "status": "done",
-      "cn": "部分敌人所发之强烈一击\n若加以防御，体干将大幅削减\n\n然若弹开此击\n即可立刻衔接［弹返］\n\n<?kgiconKc@16?>：弹返\n\n<?kgiconKc@16?>长按：弹返·突刺",
+      "cn": "部分敌人所发之强烈一击\n若加以防御，体干将大幅削减\n\n然若弹开此击\n即可立刻衔接【弹返】\n\n<?kgiconKc@16?>：弹返\n\n<?kgiconKc@16?>长按：弹返·突刺",
       "en": "Some enemies may use an Immense Strike against Wolf, staggering him greatly.\n\nAfter deflecting this strike, Wolf is able to perform a Recoil Counter.\n\nPress <?kgiconKc@16?> : Recoil Counter Slash \n\nHold <?kgiconKc@16?> : Recoil Counter Thrust\n",
       "jp": "一部の敵が放つ強烈な一撃は、\nガードすると、体幹を大きく削られてしまう\n\nだが、その攻撃を弾くことで\n即座に「弾きカウンター」に繋げられる\n\n<?kgiconKc@16?>:弾きカウンター\n\n<?kgiconKc@16?>長押し:弾きカウンター突き",
       "cn_improved": null,
@@ -2581,7 +2581,7 @@
     {
       "id": 10020301,
       "status": "from_improved",
-      "cn": "若罹患龙咳者增加\n致持有的［咳声］越多\n则冥助概率会越低",
+      "cn": "若罹患龙咳者增加\n致持有的【咳声】越多\n则冥助概率会越低",
       "en": "More victims of Dragonrot means\nyou will accumulate \"Rot Essence,\"\nlowering chances of Unseen Aid.",
       "jp": "竜咳に罹った者が増えて\n「咳の音」を多く所持すればするほど、\n冥助確率が低くなる",
       "cn_improved": "若罹患龙咳者增加\n致持有的【咳声】越多\n则冥助概率会越低",
@@ -3004,7 +3004,7 @@
     {
       "id": 10022011,
       "status": "done",
-      "cn": "可确认施展回生之术所需之\n［回生力］状态\n\n每于鬼佛处休息一次\n必积满一次回生力",
+      "cn": "可确认施展回生之术所需之\n【回生力】状态\n\n每于鬼佛处休息一次\n必积满一次回生力",
       "en": "Check your current Resurrection Potential, required to use the Resurrection Technique.\nResting at a Sculptor's Idol will always fill the gauge enough for one Resurrection.",
       "jp": "回生の術を使うのに必要な\n「回生力」の状態を確認できる\n\n鬼仏で休息する度に\n必ず一回分の回生力が溜まる",
       "cn_improved": null,
@@ -3130,7 +3130,7 @@
     {
       "id": 10023011,
       "status": "done",
-      "cn": "配合敌人攻击按 <?kgiconKc@18?>：弹开\n<?kgiconKc@16?>：自弹开衔接［弹忍杀］",
+      "cn": "配合敌人攻击按 <?kgiconKc@18?>：弹开\n<?kgiconKc@16?>：自弹开衔接【弹忍杀】",
       "en": "Press <?kgiconKc@18?> in time with an enemy's attack to deflect it.\n<?kgiconKc@16?>:Repel to trigger \"Deflect Ninsatsu\"",
       "jp": "敵の攻撃に合わせて<?kgiconKc@18?>:弾く\n<?kgiconKc@16?>:弾きから、「弾き忍殺」",
       "cn_improved": null,
@@ -3238,7 +3238,7 @@
     {
       "id": 10023091,
       "status": "from_improved",
-      "cn": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有［危］字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
+      "cn": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有【危】字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
       "en": "Some enemies use unguardable \n\"Perilous Attacks\", signified with a danger symbol.  \nWhen these occur, watch carefully and look to perform a specific response.\n\n<?kgiconKc@18?> as thrust lands: Deflect\n<?kgiconKc@6?> before sweep lands: Jump\nFor grabs, Jump or Sprint out of their range or <?kgiconKc@5?>: Step Dodge",
       "jp": "ガードができない攻撃もある\n\nそうした危うい攻撃は、強い殺気を放つ\n「危」の一文字が現れたならば、\n攻撃を見極め、応じた対処をすれば良い\n\n突き攻撃に合わせて<?kgiconKc@18?>:弾き\n下段攻撃に合わせて<?kgiconKc@6?>:ジャンプ\n掴み攻撃は、掴まれないように距離を取るか、\n<?kgiconKc@5?>:ステップで回避する",
       "cn_improved": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有【危】字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
@@ -3283,7 +3283,7 @@
     {
       "id": 10023121,
       "status": "from_improved",
-      "cn": "剑戟是［针对体干之攻击］\n\n通过攻击或弹开\n对敌人的体干造成伤害\n可崩解敌人体势，并进行忍杀\n\n<?kgiconKc@16?>：攻击\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "cn": "剑戟是【针对体干之攻击】\n\n通过攻击或弹开\n对敌人的体干造成伤害\n可崩解敌人体势，并进行忍杀\n\n<?kgiconKc@16?>：攻击\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
       "en": "\nCombine attacks and deflects to break enemy posture.\n\nA posture-broken enemy is vulnerable to a Deathblow.\n\n<?kgiconKc@16?>: Attack\n<?kgiconKc@18?> as attack lands: Deflect \n<?kgiconKc@16?> on posture-broken enemy: Deathblow",
       "jp": "剣戟とは、「体幹への攻撃」\n\n攻撃や弾きで敵の体幹に\nダメージを与えると、\n敵の体勢を崩し、忍殺できる\n\n<?kgiconKc@16?>:攻撃\n敵の攻撃に合わせて<?kgiconKc@18?>:弾き\n体勢が崩れた敵に<?kgiconKc@16?>:忍殺",
       "cn_improved": "剑戟是【针对体干之攻击】\n\n通过攻击或弹开\n对敌人的体干造成伤害\n可崩解敌人体势，并进行忍杀\n\n<?kgiconKc@16?>：攻击\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
@@ -3319,7 +3319,7 @@
     {
       "id": 10023151,
       "status": "from_improved",
-      "cn": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用［<?gdsparam@3000?>］恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
+      "cn": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用【<?gdsparam@3000?>】恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
       "en": "You can cycle through various\nQuick Items and use each \naccording to the situation.\n\nFor instance, if you have taken \ndamage, you can recover Vitality \nwith the Healing Gourd.\n\n<?kgiconKc@21?>: Use Quick Item\n<?kgToggleItems?>: Cycle Quick Items",
       "jp": "アイテムには様々な種類があり、\n状況に合わせ切り替えて使用できる\n\n例えば、敵から攻撃を受けた時は、\n「<?gdsparam@3000?>」でＨＰを回復できる\n\n<?kgiconKc@21?>:アイテム使用\n<?kgToggleItems?>:アイテム切り替え",
       "cn_improved": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用【<?gdsparam@3000?>】恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
@@ -3382,7 +3382,7 @@
     {
       "id": 10024511,
       "status": "from_improved",
-      "cn": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用［<?gdsparam@3000?>］恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
+      "cn": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用【<?gdsparam@3000?>】恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
       "en": "You can cycle through various\nQuick Items and use each \naccording to the situation.\n\nFor instance, if you have taken \ndamage, you can recover Vitality \nwith the Healing Gourd.\n\n<?kgiconKc@21?>: Use Quick Item\n<?kgToggleItems?>: Cycle Quick Items",
       "jp": "アイテムには様々な種類があり、\n状況に合わせ切り替えて使用できる\n\n例えば、敵から攻撃を受けた時は、\n「<?gdsparam@3000?>」でＨＰを回復できる\n\n<?kgiconKc@21?>:アイテム使用\n<?kgToggleItems?>:アイテム切り替え",
       "cn_improved": "道具，种类繁杂\n可根据情况切换使用\n\n例如受到敌人攻击时\n可以用【<?gdsparam@3000?>】恢复ＨＰ\n\n<?kgiconKc@21?>：使用道具\n<?kgToggleItems?>：切换道具",
@@ -3400,7 +3400,7 @@
     {
       "id": 10024521,
       "status": "from_improved",
-      "cn": "弹开敌人攻击后立即进行［反斩］\n\n如此，不与敌人喘息之机\n并伤其体干\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
+      "cn": "弹开敌人攻击后立即进行【反斩】\n\n如此，不与敌人喘息之机\n并伤其体干\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
       "en": "A Counter-slash can be performed immediately after deflecting an attack.\n\nThis allows you to deal Posture damage without giving the enemy time to recover.\n\n<?kgiconKc@18?> the moment attack lands: Deflect\n<?kgiconKc@16?> after Deflecting: Counter-slash",
       "jp": "攻撃を弾き、すかさず「斬り返し」をする\n\nそうすれば、敵に休む間を与えず、\n体幹ダメージを与えられる\n\n敵の攻撃に合わせて<?kgiconKc@18?>:弾き\n弾き後に<?kgiconKc@16?>:斬り返し",
       "cn_improved": "弹开敌人攻击后立即进行【反斩】\n\n如此，不与敌人喘息之机\n并伤其体干\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
@@ -3454,7 +3454,7 @@
     {
       "id": 10024551,
       "status": "from_improved",
-      "cn": "敌人尚未发现我方时\n可对其突袭，施展［隐密忍杀］\n\n隐密忍杀之一\n跃至敌人头顶进行忍杀，谓之落下忍杀\n\n<?kgiconKc@12?>：锁定目标\n<?kgiconKc@6?>：跳跃\n敌人头上\n出现红色印记时按<?kgiconKc@16?>：落下忍杀",
+      "cn": "敌人尚未发现我方时\n可对其突袭，施展【隐密忍杀】\n\n隐密忍杀之一\n跃至敌人头顶进行忍杀，谓之落下忍杀\n\n<?kgiconKc@12?>：锁定目标\n<?kgiconKc@6?>：跳跃\n敌人头上\n出现红色印记时按<?kgiconKc@16?>：落下忍杀",
       "en": "You can perform \"Stealth Deathblows\"\non opponents unaware of your presence.\n\nThe \"Plunging Deathblow\" is one of these, performed when leaping at an unaware enemy from high ground.\n<?kgiconKc@12?>: Lock on to enemy\n<?kgiconKc@6?>: Jump \n<?kgiconKc@16?>: Plunging Deathblow",
       "jp": "こちらに気づいていない敵には、\n「隠密忍殺」することができる\n\n隠密忍殺の一つ、\n頭上から跳びかかるものを、落下忍殺という\n\n<?kgiconKc@12?>:ターゲット固定\n<?kgiconKc@6?>:ジャンプ\n敵の頭上で\n赤い印が出た時に<?kgiconKc@16?>:落下忍殺",
       "cn_improved": "敌人尚未发现我方时\n可对其突袭，施展【隐密忍杀】\n\n隐密忍杀之一\n跃至敌人头顶进行忍杀，谓之落下忍杀\n\n<?kgiconKc@12?>：锁定目标\n<?kgiconKc@6?>：跳跃\n敌人头上\n出现红色印记时按<?kgiconKc@16?>：落下忍杀",
@@ -3508,7 +3508,7 @@
     {
       "id": 10024581,
       "status": "from_improved",
-      "cn": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有［危］字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
+      "cn": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有【危】字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
       "en": "Some enemies use unguardable \n\"Perilous Attacks\", signified with a danger symbol.  \nWhen these occur, watch carefully and look to perform a specific response.\n\n<?kgiconKc@18?> as thrust lands: Deflect\n<?kgiconKc@6?> before sweep lands: Jump\nFor grabs, Jump or Sprint out of their range or <?kgiconKc@5?>: Step Dodge",
       "jp": "ガードができない攻撃もある\n\nそうした危うい攻撃は、強い殺気を放つ\n「危」の一文字が現れたならば、\n攻撃を見極め、応じた対処をすれば良い\n\n突き攻撃に合わせて<?kgiconKc@18?>:弾き\n下段攻撃に合わせて<?kgiconKc@6?>:ジャンプ\n掴み攻撃は、掴まれないように距離を取るか、\n<?kgiconKc@5?>:ステップで回避する",
       "cn_improved": "亦有无法防御之攻击\n\n如此凶险攻击，其杀气愈强\n若是有【危】字显现\n看清此攻击，以相应之法破之\n\n配合突刺攻击按<?kgiconKc@18?>：弹开\n配合下段攻击按<?kgiconKc@6?>：跳跃\n遇到擒拿攻击时，需要拉开距离避免被抓到\n或按<?kgiconKc@5?>：以垫步回避",
@@ -3544,7 +3544,7 @@
     {
       "id": 10024601,
       "status": "from_improved",
-      "cn": "在没有回生之力时死亡\n会积蓄［龙胤之淤淀］\n\n在淤淀积满的状态下死亡\n淤淀有可能会满溢\n每次死亡其概率便会上升\n\n若淤淀满溢\n与狼相识之某人便会患上名为龙咳之疾病\n而所持回生印记之一亦将无法使用",
+      "cn": "在没有回生之力时死亡\n会积蓄【龙胤之淤淀】\n\n在淤淀积满的状态下死亡\n淤淀有可能会满溢\n每次死亡其概率便会上升\n\n若淤淀满溢\n与狼相识之某人便会患上名为龙咳之疾病\n而所持回生印记之一亦将无法使用",
       "en": "Dying without resurrecting results in \n\"Stagnation of the Dragon's Blood\".\nWhen stagnation reaches its limits,\nit has a chance of \"overflowing\".\nEach successive death increases the chance of overflow.\nWhen this happens, some known to Wolf will becomes sick with \"Dragonrot\", and his Resurrective Power is reduced by 1.",
       "jp": "回生の力が無い時に死亡すると、\n「竜胤の淀み」が溜まる\n\n淀みが溜まり切った状態で死亡すると、\n淀みが溢れる可能性がある\n死ぬたび、その確率は上がっていく\n\n淀みが溢れると、\n狼が知りあった誰かが「竜咳」と言う病になる\nまた、回生の力が一つ使えなくなるだろう",
       "cn_improved": "在没有回生之力时死亡\n会积蓄【龙胤之淤淀】\n\n在淤淀积满的状态下死亡\n淤淀有可能会满溢\n每次死亡其概率便会上升\n\n若淤淀满溢\n与狼相识之某人便会患上名为龙咳之疾病\n而所持回生印记之一亦将无法使用",
@@ -3598,7 +3598,7 @@
     {
       "id": 10024631,
       "status": "from_improved",
-      "cn": "若持有［传书］\n便可于鬼佛处\n习得与传书流派相关的技能\n\n习得所需之技能点数\n可通过积累每次杀敌所得经验值来获得\n\n此外，亦有通过持有［技书］或击败敌人\n方可习得之技能",
+      "cn": "若持有【传书】\n便可于鬼佛处\n习得与传书流派相关的技能\n\n习得所需之技能点数\n可通过积累每次杀敌所得经验值来获得\n\n此外，亦有通过持有【技书】或击败敌人\n方可习得之技能",
       "en": "Owning an \"Esoteric Text\" of a combat style will allow its skills to be acquired in the Sculptor's Idol Skill Menu.\nEach enemy defeated provides Skill Experience.  Skill Points are acquired once enough experience is gained, which can be spent to unlock Skills.  Some Skills can also be learned by obtaining items or defeating enemies.",
       "jp": "「伝書」を所有していると、\nその伝書の流派にまつわるスキルを\n鬼仏で習得できる\n\n習得に必要なスキルポイントは、\n敵を倒す度に得られるスキル経験値を\n溜める事で得られる\n\nまた、「技書」や敵を倒すことによって\nスキルを習得する事もある",
       "cn_improved": "若持有【传书】\n便可于鬼佛处\n习得与传书流派相关的技能\n\n习得所需之技能点数\n可通过积累每次杀敌所得经验值来获得\n\n此外，亦有通过持有【技书】或击败敌人\n方可习得之技能",
@@ -3616,7 +3616,7 @@
     {
       "id": 10024641,
       "status": "from_improved",
-      "cn": "拥有流派显著特征之\n特殊攻击招式，称作［流派技］\n\n在技能菜单或秘籍中习得之流派技\n可从装备菜单中选择，并装备以使用\n\n按住<?kgiconKc@18?>并按<?kgiconKc@16?>：流派技",
+      "cn": "拥有流派显著特征之\n特殊攻击招式，称作【流派技】\n\n在技能菜单或秘籍中习得之流派技\n可从装备菜单中选择，并装备以使用\n\n按住<?kgiconKc@18?>并按<?kgiconKc@16?>：流派技",
       "en": "\"Combat Arts\" are special attack skills based on the strengths of the fighting style they belong to.\nThey must be equipped in the \nEquipment Menu to be used, and can be learned through the Skill Menu or found in special Esoteric Texts.\n\n<?kgiconKc@16?> while holding <?kgiconKc@18?>: \nPerform equipped Combat Art",
       "jp": "流派の特徴に応じた、\n特殊な攻撃のことを「流派技」と呼ぶ\n\nスキルメニューや伝書で習得した流派技は、\n装備メニューから選び、装備すれば使用できる\n\n<?kgiconKc@18?>を押しながら<?kgiconKc@16?>:流派技",
       "cn_improved": "拥有流派显著特征之\n特殊攻击招式，称作【流派技】\n\n在技能菜单或秘籍中习得之流派技\n可从装备菜单中选择，并装备以使用\n\n按住<?kgiconKc@18?>并按<?kgiconKc@16?>：流派技",
@@ -3652,7 +3652,7 @@
     {
       "id": 10024661,
       "status": "from_improved",
-      "cn": "从背后忍杀敌人时\n可使用被称为［忍杀忍术］之特殊忍术\n\n可于装备菜单中，选择任意一项装备\n消耗<?gdsparam@1000?>以发动\n\n从背后忍杀敌人时按<?kgiconKc@16?>：忍杀忍术",
+      "cn": "从背后忍杀敌人时\n可使用被称为【忍杀忍术】之特殊忍术\n\n可于装备菜单中，选择任意一项装备\n消耗<?gdsparam@1000?>以发动\n\n从背后忍杀敌人时按<?kgiconKc@16?>：忍杀忍术",
       "en": "Ninjutsu Techniques are powerful abilities that can only be used after performing a Backstab Deathblow.\n\nThey must be equipped in the Equipment Menu, and cost Spirit Emblems to perform.\n\n<?kgiconKc@16?> after Backstab Deathblow: \nNinjutsu Technique",
       "jp": "背後から敵を忍殺したときに、\n「忍殺忍術」と呼ばれる\n特殊な術を使うことができる\n\n装備メニューから、任意の一つを装備し、\n<?gdsparam@1000?>を消費して発動する\n\n敵を背後忍殺した時に<?kgiconKc@16?>：忍殺忍術",
       "cn_improved": "从背后忍杀敌人时\n可使用被称为【忍杀忍术】之特殊忍术\n\n可于装备菜单中，选择任意一项装备\n消耗<?gdsparam@1000?>以发动\n\n从背后忍杀敌人时按<?kgiconKc@16?>：忍杀忍术",
@@ -3796,7 +3796,7 @@
     {
       "id": 10024751,
       "status": "from_improved",
-      "cn": "忍者之攻法，在于削减敌人［体干］\n持续攻击，终能崩敌体势\n\n崩势，便可以［忍杀］一击毙命\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "cn": "忍者之攻法，在于削减敌人【体干】\n持续攻击，终能崩敌体势\n\n崩势，便可以【忍杀】一击毙命\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
       "en": "A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.\n\nWhen an enemy's posture breaks, \nhe is vulnerable to a \n\"Shinobi Deathblow\".\n<?kgiconKc@16?>: Attack\n<?kgiconKc@16?> after breaking posture: Deathblow",
       "jp": "忍びの攻撃は、「体幹」を削り取るためにある\n攻撃を重ねると、やがて敵は体勢を崩す\n\n体勢を崩せば、「忍殺」で一撃で殺せるだろう\n\n<?kgiconKc@16?>:攻撃\n体勢が崩れた敵に<?kgiconKc@16?>:忍殺",
       "cn_improved": "忍者之攻法，在于削减敌人【体干】\n持续攻击，终能崩敌体势\n\n崩势，便可以【忍杀】一击毙命\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
@@ -3904,7 +3904,7 @@
     {
       "id": 10024811,
       "status": "from_improved",
-      "cn": "因死亡所致损失\n会失去一半的金钱与技能经验\n但偶有得以避免损失之事发生\n\n此乃［冥助］，神佛之助力是也\n\n冥助触发之概率\n可于暂停菜单中确认\n\n<?kgiconKc@27?>：打开暂停菜单",
+      "cn": "因死亡所致损失\n会失去一半的金钱与技能经验\n但偶有得以避免损失之事发生\n\n此乃【冥助】，神佛之助力是也\n\n冥助触发之概率\n可于暂停菜单中确认\n\n<?kgiconKc@27?>：打开暂停菜单",
       "en": "Half of Skill Experience and sen are lost upon death, but there is a way to avoid this on rare occasions.\n\nThrough the Unseen Aid of gods and Buddha, one may be spared this loss.\n\nThe chances of receiving Unseen Aid \ncan be seen in the Pause Menu.\n<?kgiconKc@27?>: Open Pause Menu",
       "jp": "死亡喪失により、\n銭とスキル経験値を半分失うが\n稀に、それを回避する事ができる\n\n「冥助」と呼ばれる、神仏の助けである\n\n冥助が起こる確率は、\nポーズメニューで確認することができる\n\n<?kgiconKc@27?>:ポーズメニューを開く",
       "cn_improved": "因死亡所致损失\n会失去一半的金钱与技能经验\n但偶有得以避免损失之事发生\n\n此乃【冥助】，神佛之助力是也\n\n冥助触发之概率\n可于暂停菜单中确认\n\n<?kgiconKc@27?>：打开暂停菜单",
@@ -3922,7 +3922,7 @@
     {
       "id": 10024821,
       "status": "from_improved",
-      "cn": "持有龙胤之力者若多次死亡\n便会向世间散播名为［龙咳］之疾病\n不论是否使用回生\n狼若不断死去，便会产生龙咳\n\n不知何处传来之咳声\n代表和狼相关之某人，已罹患龙咳\n\n持有之［咳声］愈多\n则冥助之概率愈低",
+      "cn": "持有龙胤之力者若多次死亡\n便会向世间散播名为【龙咳】之疾病\n不论是否使用回生\n狼若不断死去，便会产生龙咳\n\n不知何处传来之咳声\n代表和狼相关之某人，已罹患龙咳\n\n持有之【咳声】愈多\n则冥助之概率愈低",
       "en": "The more one with the power of the Dragon's Heritage dies, the more a sickness known as Dragonrot spreads through the world.  \nDragonrot is not caused by Resurrection,\nit has a chance to occur only when the Wolf truly dies, repeatedly.\n\nThe more Rot Essence Wolf has, the lower the chances of receiving Unseen Aid.",
       "jp": "竜胤の力を持つ者が死を重ねると、\n「竜咳」と呼ばれる病が、世に振りまかれる\n竜咳は回生の使用・不使用に関わらず、\n狼が死亡を繰り返すことで発生する\n\nどこからか聴こえる咳の音は、\n狼が関わった誰かが、竜咳に罹ったことを示す\n\n「咳の音」を多く所持すればするほど、\n冥助確率が低くなる",
       "cn_improved": "持有龙胤之力者若多次死亡\n便会向世间散播名为【龙咳】之疾病\n不论是否使用回生\n狼若不断死去，便会产生龙咳\n\n不知何处传来之咳声\n代表和狼相关之某人，已罹患龙咳\n\n持有之【咳声】愈多\n则冥助之概率愈低",
@@ -3940,7 +3940,7 @@
     {
       "id": 10024831,
       "status": "from_improved",
-      "cn": "若持有［<?gdsparam@2930?>］\n便可以在鬼佛处使龙咳快复痊愈\n\n龙咳快复将消耗［<?gdsparam@5600?>］\n如此，可使罹患龙咳者尽数痊愈\n\n所持之［咳声］将消失\n下降之冥助概率亦会复原",
+      "cn": "若持有【<?gdsparam@2930?>】\n便可以在鬼佛处使龙咳快复痊愈\n\n龙咳快复将消耗【<?gdsparam@5600?>】\n如此，可使罹患龙咳者尽数痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
       "en": "The Recovery Charm allows Dragonrot sufferers to be healed from a Sculptor's Idol.\n\nA Dragon's Blood Droplet can be consumed to heal Dragonrot from all those afflicted.  Doing so will cause all Rot Essence to disappear, returning the chances of receiving Unseen Aid to the default value.",
       "jp": "「<?gdsparam@2930?>」があれば、\n鬼仏で竜咳の快復ができるようになる\n\n竜咳の快復には、「<?gdsparam@5600?>」を消費する\nそうすれば、一度に全ての竜咳患者が快復する\n\n所持していた「咳の音」が無くなり、\n下がっていた冥助確率が元に戻る",
       "cn_improved": "若持有【<?gdsparam@2930?>】\n便可以在鬼佛处使龙咳快复痊愈\n\n龙咳快复将消耗【<?gdsparam@5600?>】\n如此，可使罹患龙咳者尽数痊愈\n\n所持之【咳声】将消失\n下降之冥助概率亦会复原",
@@ -3976,7 +3976,7 @@
     {
       "id": 10024851,
       "status": "from_improved",
-      "cn": "突刺攻击\n虽可以弹开，但不能防御\n\n若已习得忍技之［看破］\n可看破突刺，免于受伤\n并给予敌人比弹开更大之体干伤害",
+      "cn": "突刺攻击\n虽可以弹开，但不能防御\n\n若已习得忍技之【看破】\n可看破突刺，免于受伤\n并给予敌人比弹开更大之体干伤害",
       "en": "Thrust attacks cannot be blocked, \nbut they can be deflected.\n\nThe Mikiri Counter skill also counters Thrust attacks, and performing it successfully will deal greater Posture damage than a normal deflect.",
       "jp": "突き攻撃は、\n弾くことはできるが、ガードはできない\n\n忍び技のスキル「見切り」を習得していれば、\n突き攻撃を見切って無効化し、\n弾くよりも大きな体幹ダメージを与えられる",
       "cn_improved": "突刺攻击\n虽可以弹开，但不能防御\n\n若已习得忍技之【看破】\n可看破突刺，免于受伤\n并给予敌人比弹开更大之体干伤害",
@@ -3994,7 +3994,7 @@
     {
       "id": 10024881,
       "status": "from_improved",
-      "cn": "忍者，可遗留其行动之幻影\n是为［残影］\n\n残影，乃众忍者为互励互勉而遗留之物\n时而为指路之良师\n时而为相竟之劲敌\n\n打开残影菜单：<?kgiconKc@44?>\n\n※必须连接网络才能遗留残影",
+      "cn": "忍者，可遗留其行动之幻影\n是为【残影】\n\n残影，乃众忍者为互励互勉而遗留之物\n时而为指路之良师\n时而为相竟之劲敌\n\n打开残影菜单：<?kgiconKc@44?>\n\n※必须连接网络才能遗留残影",
       "en": "Shinobi can leave behind shadows of their past actions, known as \"Remnants\".\n\nRemnants are left to discipline one's peers. Some are masters of the way ahead, others provoke sporting rivalries.\n\n<?kgiconKc@44?>: Open Remnant Menu\n\nNote: A network connection is required to leave Remnants.",
       "jp": "忍びは、その行動を幻影として残せる\nそれを「残影」と呼ぶ\n\n残影は忍びが、互いの修練のため残すものだ\nときに道を示す師であり、\nときに後を追うべき競争相手にもなる\n\n<?kgiconKc@44?>:残影メニューを開く\n\n※残影を残すにはネットワーク接続が必要です",
       "cn_improved": "忍者，可遗留其行动之幻影\n是为【残影】\n\n残影，乃众忍者为互励互勉而遗留之物\n时而为指路之良师\n时而为相竟之劲敌\n\n打开残影菜单：<?kgiconKc@44?>\n\n※必须连接网络才能遗留残影",
@@ -4246,7 +4246,7 @@
     {
       "id": 10025111,
       "status": "from_improved",
-      "cn": "可在习得技能菜单\n消耗技能点数，以习得新的技能\n若欲解锁新的流派，则需专用之传书\n\n技能，有［流派技］［忍者体术］及［常在效果］\n［流派技］在装备菜单进行装备方可使用\n［忍者体术］与［常在效果］只需习得便可发挥效果",
+      "cn": "可在习得技能菜单\n消耗技能点数，以习得新的技能\n若欲解锁新的流派，则需专用之传书\n\n技能，有【流派技】【忍者体术】及【常在效果】\n【流派技】在装备菜单进行装备方可使用\n【忍者体术】与【常在效果】只需习得便可发挥效果",
       "en": "New skills can be acquired by spending Skill Points in the Skill Menu.  New Combat Styles can be learned through obtaining Esoteric Texts for each style.\nThere are 3 types of skills: \"Combat Arts\", \"Shinobi Martial Arts\", and \"Latent Skills\".\n\"Combat Arts\" must be equipped to be used, but \"Shinobi Martial Arts\" and \"Latent Skills\" are always in effect upon being acquired.",
       "jp": "スキル習得メニューでは、\nスキルポイントを消費して、新たなスキルを習得できます\n新たな流派を解禁するには、専用の伝書が必要になります\n\nスキルには、「流派技」「忍びの体術」「常在効果」があります\n「流派技」は装備メニューで装備することで使用可能になり、\n「忍びの体術」「常在効果」は習得するだけで効果が発動します",
       "cn_improved": "可在习得技能菜单\n消耗技能点数，以习得新的技能\n若欲解锁新的流派，则需专用之传书\n\n技能，有【流派技】【忍者体术】及【常在效果】\n【流派技】在装备菜单进行装备方可使用\n【忍者体术】与【常在效果】只需习得便可发挥效果",
@@ -4354,7 +4354,7 @@
     {
       "id": 10025241,
       "status": "from_improved",
-      "cn": "已解锁龙咳快复菜单\n\n消耗［<?gdsparam@5600?>］\n可使罹患龙咳者快复痊愈",
+      "cn": "已解锁龙咳快复菜单\n\n消耗【<?gdsparam@5600?>】\n可使罹患龙咳者快复痊愈",
       "en": "The Dragonrot Restoration menu is now unlocked in the Sculptor's Idol menu.\n\nConsuming a \"Dragon's Blood Droplet\" will\nrestore to health all those afflicted with Dragonrot.",
       "jp": "竜咳の快復メニューが解禁されました\n\n「<?gdsparam@5600?>」を消費して、\n竜咳に罹った患者を快復させることができます",
       "cn_improved": "已解锁龙咳快复菜单\n\n消耗【<?gdsparam@5600?>】\n可使罹患龙咳者快复痊愈",
@@ -4372,7 +4372,7 @@
     {
       "id": 10025261,
       "status": "from_improved",
-      "cn": "可于变更样貌菜单\n变更狼的外观\n\n不论选择何种样貌，都不会影响狼的能力\n\n通过获得［彼之记忆］\n可增加能够变更之样貌",
+      "cn": "可于变更样貌菜单\n变更狼的外观\n\n不论选择何种样貌，都不会影响狼的能力\n\n通过获得【彼之记忆】\n可增加能够变更之样貌",
       "en": "Change Wolf's appearance from the Change Form Menu.\n\nRegardless of his appearance, Wolf's abilities will be unaffected.\n\nAdditional forms will become available by obtaining \"Memories of Another\".",
       "jp": "姿変えメニューでは\n狼の外見を変更することができます\n\nどの姿を選択しても、狼の能力は変わりません\n\n「別の記憶」を入手することで、\n変更できる姿が増えます",
       "cn_improved": "可于变更样貌菜单\n变更狼的外观\n\n不论选择何种样貌，都不会影响狼的能力\n\n通过获得【彼之记忆】\n可增加能够变更之样貌",
@@ -4426,7 +4426,7 @@
     {
       "id": 10025301,
       "status": "from_improved",
-      "cn": "已解锁变更样貌菜单\n\n于变更样貌菜单中，可根据所持［彼之记忆］\n变更狼的外观",
+      "cn": "已解锁变更样貌菜单\n\n于变更样貌菜单中，可根据所持【彼之记忆】\n变更狼的外观",
       "en": "The Change Form menu has been unlocked.\n\nThe Change Form menu allows you to alter your appearance based on the \"Memories of Another\" in your possession.",
       "jp": "姿変えメニューが解禁されました\n\n姿変えメニューでは、所持している「別の記憶」に応じて、\n外見を変更することができます",
       "cn_improved": "已解锁变更样貌菜单\n\n于变更样貌菜单中，可根据所持【彼之记忆】\n变更狼的外观",
@@ -4498,7 +4498,7 @@
     {
       "id": 10025341,
       "status": "from_improved",
-      "cn": "忍者，可遗留一息之行止，以为［残影］\n残影被好评时，可恢复HP\n\n于［已记录残影一览］页面任选一格，便可记录残影\n亦可为残影附加留言\n\n选取一格，按<?kgiconKc@33?>：开始记录残影",
+      "cn": "忍者，可遗留一息之行止，以为【残影】\n残影被好评时，可恢复HP\n\n于【已记录残影一览】页面任选一格，便可记录残影\n亦可为残影附加留言\n\n选取一格，按<?kgiconKc@33?>：开始记录残影",
       "en": "Shinobi can leave behind shadows of their past actions, known as \"Remnants\". \nVitality is replenished when one's Remnant is praised by another Shinobi.\n\nRemnants can be recorded via the \"Recorded Remnants\" tab.  \nMessages can be written to accompany Remnants.\n\nSelect a slot and <?kgiconKc@33?>: Record Remnant",
       "jp": "忍びは、一定時間の行動を「残影」として残すことができます\n残影が評価されると、ＨＰが回復します\n\n「記録した残影一覧」タブから任意のスロットを選び、残影を記録できます\nまた、残影には覚え書きの付与も行えます\n\nスロットを選んで<?kgiconKc@33?>:残影記録の開始",
       "cn_improved": "忍者，可遗留一息之行止，以为【残影】\n残影被好评时，可恢复HP\n\n于【已记录残影一览】页面任选一格，便可记录残影\n亦可为残影附加留言\n\n选取一格，按<?kgiconKc@33?>：开始记录残影",
@@ -4516,7 +4516,7 @@
     {
       "id": 10025351,
       "status": "from_improved",
-      "cn": "［已查看残影一览］页面\n会显示以往所见旁人之残影\n\n亦可在此处评价已查看残影",
+      "cn": "【已查看残影一览】页面\n会显示以往所见旁人之残影\n\n亦可在此处评价已查看残影",
       "en": "A list of Remnants that you have viewed is displayed in the \"Viewed Remnants\" tab.\n\nViewed remnants can also be praised or scorned here.",
       "jp": "「確認した残影一覧」タブでは\n過去に見たことのある他者の残影が一覧で表示されます\n\nまた、ここから確認した残影を評価することもできます",
       "cn_improved": "【已查看残影一览】页面\n会显示以往所见旁人之残影\n\n亦可在此处评价已查看残影",
@@ -4534,7 +4534,7 @@
     {
       "id": 10025361,
       "status": "from_improved",
-      "cn": "残影，可附加留言\n\n留言，通过选取基础语句与单词来编辑\n选取留言结构后，亦可追加第二段语句\n\n选取［开始记录残影］后，将会开始记录",
+      "cn": "残影，可附加留言\n\n留言，通过选取基础语句与单词来编辑\n选取留言结构后，亦可追加第二段语句\n\n选取【开始记录残影】后，将会开始记录",
       "en": "Messages can be written to accompany Remnants.\n\nMessages are written by selecting from predetermined templates and words.\nA second line can also be added by selecting \"Message Length\".\n\nSelect \"Record Remnant\" to begin recording.",
       "jp": "残影には、覚え書きを付与することができます\n\n覚え書きは、ベース文と単語を選択して編集します\n覚え書きの構成を選択すると、2文目を追加することもできます\n\n「残影記録を開始」を選択すると、記録が開始されます",
       "cn_improved": "残影，可附加留言\n\n留言，通过选取基础语句与单词来编辑\n选取留言结构后，亦可追加第二段语句\n\n选取【开始记录残影】后，将会开始记录",
@@ -4552,7 +4552,7 @@
     {
       "id": 10025371,
       "status": "from_improved",
-      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与［心中的弦一郎］再战",
+      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的弦一郎】再战",
       "en": "A new state of mind has been uncovered amidst memories of battle.\n\nThe extraordinary foe \"Inner Genichiro\" can now be faced via Reflection of Strength.",
       "jp": "戦いの記憶の中で、類稀な強者の新たな境地を見出しました\n\n「心中の弦一郎」とは\n類稀な強者との再戦でも戦うことができます",
       "cn_improved": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的弦一郎】再战",
@@ -4570,7 +4570,7 @@
     {
       "id": 10025381,
       "status": "from_improved",
-      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与［心中的义父］再战",
+      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的义父】再战",
       "en": "A new state of mind has been uncovered amidst memories of battle.\n\nThe extraordinary foe \"Inner Father\" can now be faced via Reflection of Strength.",
       "jp": "戦いの記憶の中で、類稀な強者の新たな境地を見出しました\n\n「心中の義父」とは\n類稀な強者との再戦でも戦うことができます",
       "cn_improved": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的义父】再战",
@@ -4588,7 +4588,7 @@
     {
       "id": 10025391,
       "status": "from_improved",
-      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与［心中的一心］再战",
+      "cn": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的一心】再战",
       "en": "A new state of mind has been uncovered amidst memories of battle.\n\nThe extraordinary foe \"Inner Isshin\" can now be faced via Reflection of Strength.",
       "jp": "戦いの記憶の中で、類稀な強者の新たな境地を見出しました\n\n「心中の一心」とは\n類稀な強者との再戦でも戦うことができます",
       "cn_improved": "自交战记忆中，发现了稀世强者之新境界\n\n与稀世强者再战时\n可与【心中的一心】再战",
@@ -4660,7 +4660,7 @@
     {
       "id": 10090031,
       "status": "done",
-      "cn": "确认与变更各项设定之菜单\n\n选择［退出游戏］\n即可保存进度并退出游戏\n",
+      "cn": "确认与变更各项设定之菜单\n\n选择【退出游戏】\n即可保存进度并退出游戏\n",
       "en": "View and change various settings.\n\nSelect \"Quit Game\" to save your progress and quit the game.",
       "jp": "各種設定の確認と変更を行うメニュー\n\n「ゲーム終了」を選択すると\nゲームを保存して終了することができる\n",
       "cn_improved": null,
@@ -4831,7 +4831,7 @@
     {
       "id": 11100001,
       "status": "from_improved",
-      "cn": "忍者之攻法，在于削减敌人［体干］\n持续攻击，终能崩敌体势\n\n崩势，便可以［忍杀］一击毙命\n\n“攻击敌人使其崩势，进行3次忍杀”\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "cn": "忍者之攻法，在于削减敌人【体干】\n持续攻击，终能崩敌体势\n\n崩势，便可以【忍杀】一击毙命\n\n“攻击敌人使其崩势，进行3次忍杀”\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
       "en": "A Shinobi aims to break an opponent's posture.  Attacking an enemy is one way to achieve this.\n\nAn enemy with broken posture is vulnerable to a \"Shinobi Deathblow\".\n\"Perform 3 Deathblows after breaking enemy posture\"\n<?kgiconKc@16?>: Attack\n<?kgiconKc@16?> after breaking posture: Deathblow",
       "jp": "忍びの攻撃は、「体幹」を削り取るためにある\n攻撃を重ねると、やがて敵は体勢を崩す\n\n体勢を崩せば、「忍殺」で一撃で殺せるだろう\n\n”敵を攻撃して崩し、3回忍殺せよ”\n\n<?kgiconKc@16?>:攻撃\n体勢が崩れた敵に<?kgiconKc@16?>:忍殺",
       "cn_improved": "忍者之攻法，在于削减敌人【体干】\n持续攻击，终能崩敌体势\n\n崩势，便可以【忍杀】一击毙命\n\n“攻击敌人使其崩势，进行3次忍杀”\n\n<?kgiconKc@16?>：攻击\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
@@ -4867,7 +4867,7 @@
     {
       "id": 11100021,
       "status": "from_improved",
-      "cn": "弹开敌人攻击后立即进行［反斩］\n\n如此，不与敌人喘息之机\n并伤其体干\n\n“交替进行弹开与攻击，进行3次忍杀”\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
+      "cn": "弹开敌人攻击后立即进行【反斩】\n\n如此，不与敌人喘息之机\n并伤其体干\n\n“交替进行弹开与攻击，进行3次忍杀”\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
       "en": "Attack immediately after Deflecting to perform a \"Counter-slash\".\n\nDoing so will damage enemy Posture without giving them a chance to recover.\n\"Alternate between Deflecting and Attacking to perform 3 Deathblows.\"\n<?kgiconKc@18?> as enemy attack lands: Deflect.\n<?kgiconKc@16?> after Deflecting: Counter-slash",
       "jp": "攻撃を弾き、すかさず「斬り返し」をする\n\nそうすれば、敵に休む間を与えず、\n体幹ダメージを与えられる\n\n”弾きと攻撃を交互に行い、3回忍殺せよ”\n\n敵の攻撃に合わせて<?kgiconKc@18?>:弾き\n弾き後に<?kgiconKc@16?>:斬り返し",
       "cn_improved": "弹开敌人攻击后立即进行【反斩】\n\n如此，不与敌人喘息之机\n并伤其体干\n\n“交替进行弹开与攻击，进行3次忍杀”\n\n配合敌人的攻击按<?kgiconKc@18?>：弹开\n弹开后按<?kgiconKc@16?>：反斩",
@@ -4993,7 +4993,7 @@
     {
       "id": 11100091,
       "status": "from_improved",
-      "cn": "有时用一次弹开不能阻止敌人的攻击\n\n应对敌人的连续攻击，可以用［连续弹开］\n若能弹开所有攻击\n将可以大幅削减敌方体干\n\n\n“弹开敌人所有连续攻击，进行3次忍杀”\n\n配合敌人的连击连续按<?kgiconKc@18?>：连续弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
+      "cn": "有时用一次弹开不能阻止敌人的攻击\n\n应对敌人的连续攻击，可以用【连续弹开】\n若能弹开所有攻击\n将可以大幅削减敌方体干\n\n\n“弹开敌人所有连续攻击，进行3次忍杀”\n\n配合敌人的连击连续按<?kgiconKc@18?>：连续弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
       "en": "Deflecting once doesn't always mean \nan enemy will stop attacking.\nConsecutive attacks can be countered with \"Consecutive Deflections\", which can greatly damage enemy Posture.\n\n\"Deflect all enemy attacks and \nperform 3 Deathblows.\"\n<?kgiconKc@18?> as attacks land:\nConsecutive Deflections",
       "jp": "一度の弾きで敵の攻撃が止まらないこともある\n\n敵の連続攻撃には、「連続弾き」で対応できる\n全てを弾ききれば、\n敵の体幹を大きく削ることができるだろう\n\n”敵の連続攻撃を全て弾き、3回忍殺せよ”\n\n敵の連撃に合わせ連続で<?kgiconKc@18?>:連続弾き\n体勢が崩れた敵に<?kgiconKc@16?>:忍殺",
       "cn_improved": "有时用一次弹开不能阻止敌人的攻击\n\n应对敌人的连续攻击，可以用【连续弹开】\n若能弹开所有攻击\n将可以大幅削减敌方体干\n\n\n“弹开敌人所有连续攻击，进行3次忍杀”\n\n配合敌人的连击连续按<?kgiconKc@18?>：连续弹开\n对崩势的敌人按<?kgiconKc@16?>：忍杀",
@@ -6172,7 +6172,7 @@
     {
       "id": 13010070,
       "status": "done",
-      "cn": "敌人施展不可防御之攻击时\n会显示［DANGER!］\n\n突刺攻击，以弹开应对\n\n配合敌人攻击按 <?kgiconKc@18?>：弹开",
+      "cn": "敌人施展不可防御之攻击时\n会显示【DANGER!】\n\n突刺攻击，以弹开应对\n\n配合敌人攻击按 <?kgiconKc@18?>：弹开",
       "en": "\"DANGER!\" indicates an attack that cannot be guarded against.\n\nDeal with thrust attacks by deflecting them.\n\n<?kgiconKc@18?> in time with enemy attack:Deflect",
       "jp": "敵がガード不可の攻撃をする時は、\n「DANGER!」と表示されます\n\n突き攻撃は弾きで対処しましょう\n\n敵の攻撃に合わせて<?kgiconKc@18?>:弾く",
       "cn_improved": null,
@@ -6181,7 +6181,7 @@
     {
       "id": 13010080,
       "status": "done",
-      "cn": "敌人施展不可防御之攻击时\n会显示［DANGER!］\n\n下段攻击，可以跳跃回避，自空中蹴击\n可对体干造成巨大伤害\n若空中蹴击令敌人崩势\n即可顺势衔接落下忍杀\n\n<?kgiconKc@6?>：跳跃\n跳跃中按 <?kgiconKc@6?>：空中蹴击\n对崩势之敌，空中按 <?kgiconKc@16?>：落下忍杀",
+      "cn": "敌人施展不可防御之攻击时\n会显示【DANGER!】\n\n下段攻击，可以跳跃回避，自空中蹴击\n可对体干造成巨大伤害\n若空中蹴击令敌人崩势\n即可顺势衔接落下忍杀\n\n<?kgiconKc@6?>：跳跃\n跳跃中按 <?kgiconKc@6?>：空中蹴击\n对崩势之敌，空中按 <?kgiconKc@16?>：落下忍杀",
       "en": "\"DANGER!\" indicates an attack that cannot be guarded against.\nSweep attacks can be evaded by jumping.\nKick off the enemy in mid-air to inflict heavy Posture damage.\nIf this causes the enemy to stagger,\nyou can follow immediately with a Plunging Deathblow.\n\n<?kgiconKc@6?>:Jump\n<?kgiconKc@6?> in mid-air:Kick\n<?kgiconKc@16?> in mid-air on staggered enemy:Plunging Deathblow",
       "jp": "敵がガード不可の攻撃をする時は、\n「DANGER!」と表示されます。\n\n下段攻撃はジャンプで回避し、空中から蹴り込む事で\n体幹に大きなダメージを与えられます\n空中蹴りによって敵が体勢を崩した場合は、\nそのまま落下忍殺につなげられます\n\n<?kgiconKc@6?>:ジャンプ\nジャンプ中に<?kgiconKc@6?>:空中蹴り\n体勢が崩れた敵に、空中で<?kgiconKc@16?>:落下忍殺",
       "cn_improved": null,
@@ -6334,7 +6334,7 @@
     {
       "id": 13013003,
       "status": "from_improved",
-      "cn": "可以同荒寺的不死武士\n进行［看破］的修练了",
+      "cn": "可以同荒寺的不死武士\n进行【看破】的修练了",
       "en": "Undying Samurai Training \"Mikiri Counter\" unlocked",
       "jp": "荒れ寺にいる死なずの侍と、\n「見切り」の修練が行えるようになりました",
       "cn_improved": "可以同荒寺的不死武士\n进行【看破】的修练了",
@@ -6343,7 +6343,7 @@
     {
       "id": 13013004,
       "status": "from_improved",
-      "cn": "可以同荒寺的不死武士\n进行［崩势绕袭］的修练了",
+      "cn": "可以同荒寺的不死武士\n进行【崩势绕袭】的修练了",
       "en": "Undying Samurai Training \"Vault Over\" unlocked",
       "jp": "荒れ寺にいる死なずの侍と、\n「崩し裏回り」の修練が行えるようになりました",
       "cn_improved": "可以同荒寺的不死武士\n进行【崩势绕袭】的修练了",
@@ -6379,7 +6379,7 @@
     {
       "id": 13013008,
       "status": "from_improved",
-      "cn": "可以选择［看破］了",
+      "cn": "可以选择【看破】了",
       "en": "Undying Samurai Training \"Mikiri Counter\" unlocked",
       "jp": "「見切り」の修練が行えるようになりました",
       "cn_improved": "可以选择【看破】了",
@@ -6388,7 +6388,7 @@
     {
       "id": 13013009,
       "status": "from_improved",
-      "cn": "可以选择［崩势绕袭］了",
+      "cn": "可以选择【崩势绕袭】了",
       "en": "Undying Samurai Training \"Vault Over\" unlocked",
       "jp": "「崩し裏回り」の修練が行えるようになりました",
       "cn_improved": "可以选择【崩势绕袭】了",
@@ -6397,7 +6397,7 @@
     {
       "id": 13013010,
       "status": "from_improved",
-      "cn": "可以选择［模拟战（运用）］了",
+      "cn": "可以选择【模拟战（运用）】了",
       "en": "Free Combat is now available.",
       "jp": "「模擬戦（応用）」が行えるようになりました",
       "cn_improved": "可以选择【模拟战（运用）】了",
@@ -6469,7 +6469,7 @@
     {
       "id": 13024000,
       "status": "from_improved",
-      "cn": "与稀世强者连战中、已解锁［记忆连战·御子夺还］",
+      "cn": "与稀世强者连战中、已解锁【记忆连战·御子夺还】",
       "en": "Gauntlet of Strength: \"Divine Heir\" path has been unlocked",
       "jp": "類稀な強者との連戦に、「記憶の連戦・御子奪還」が解禁されました",
       "cn_improved": "与稀世强者连战中、已解锁【记忆连战·御子夺还】",
@@ -6478,7 +6478,7 @@
     {
       "id": 13024010,
       "status": "from_improved",
-      "cn": "与稀世强者连战中、已解锁［记忆连战·修罗］",
+      "cn": "与稀世强者连战中、已解锁【记忆连战·修罗】",
       "en": "Gauntlet of Strength: \"Shura\" path has been unlocked",
       "jp": "類稀な強者との連戦に、「記憶の連戦・修羅」が解禁されました",
       "cn_improved": "与稀世强者连战中、已解锁【记忆连战·修罗】",
@@ -6487,7 +6487,7 @@
     {
       "id": 13024020,
       "status": "from_improved",
-      "cn": "与稀世强者连战中、已解锁［记忆连战·断绝不死］",
+      "cn": "与稀世强者连战中、已解锁【记忆连战·断绝不死】",
       "en": "Gauntlet of Strength: \"Severance\" path has been unlocked",
       "jp": "類稀な強者との連戦に、「記憶の連戦・不死断ち」が解禁されました",
       "cn_improved": "与稀世强者连战中、已解锁【记忆连战·断绝不死】",
@@ -6496,7 +6496,7 @@
     {
       "id": 13024030,
       "status": "from_improved",
-      "cn": "与稀世强者连战中、已解锁［记忆连战·死斗踏破］",
+      "cn": "与稀世强者连战中、已解锁【记忆连战·死斗踏破】",
       "en": "Gauntlet of Strength: \"Mortal Journey\" path has been unlocked",
       "jp": "類稀な強者との連戦に、「記憶の連戦・死闘踏破」が解禁されました",
       "cn_improved": "与稀世强者连战中、已解锁【记忆连战·死斗踏破】",
@@ -9646,7 +9646,7 @@
     {
       "id": 15113020,
       "status": "from_improved",
-      "cn": "修练［攻击］的基本技巧",
+      "cn": "修练【攻击】的基本技巧",
       "en": "Practice the basics of \"Attacking\"",
       "jp": "「攻撃」の基本的な修練をします",
       "cn_improved": "修练【攻击】的基本技巧",
@@ -9655,7 +9655,7 @@
     {
       "id": 15113021,
       "status": "from_improved",
-      "cn": "修练［弹开］的基本技巧",
+      "cn": "修练【弹开】的基本技巧",
       "en": "Practice the basics of \"Deflection\"",
       "jp": "「弾き」の基本的な修練をします",
       "cn_improved": "修练【弹开】的基本技巧",
@@ -9664,7 +9664,7 @@
     {
       "id": 15113022,
       "status": "from_improved",
-      "cn": "修练［闪避］的基本技巧",
+      "cn": "修练【闪避】的基本技巧",
       "en": "Practice the basics of \"Evasion\"",
       "jp": "「回避」の基本的な修練をします",
       "cn_improved": "修练【闪避】的基本技巧",
@@ -9673,7 +9673,7 @@
     {
       "id": 15113023,
       "status": "from_improved",
-      "cn": "修练［连续弹开］",
+      "cn": "修练【连续弹开】",
       "en": "Practice \"Consecutive Deflections\"",
       "jp": "「連続弾き」の修練をします",
       "cn_improved": "修练【连续弹开】",
@@ -9682,7 +9682,7 @@
     {
       "id": 15113024,
       "status": "from_improved",
-      "cn": "修练［ＨＰ与体干］",
+      "cn": "修练【ＨＰ与体干】",
       "en": "\"Vitality and Posture\" training",
       "jp": "「ＨＰと体幹」についての修練をします",
       "cn_improved": "修练【ＨＰ与体干】",
@@ -9691,7 +9691,7 @@
     {
       "id": 15113025,
       "status": "from_improved",
-      "cn": "修练［突刺攻击之对策］",
+      "cn": "修练【突刺攻击之对策】",
       "en": "Practice \"Countering Thrust Attacks\"",
       "jp": "「突き攻撃への対処」の修練をします",
       "cn_improved": "修练【突刺攻击之对策】",
@@ -9700,7 +9700,7 @@
     {
       "id": 15113026,
       "status": "from_improved",
-      "cn": "修练［下段攻击之对策］",
+      "cn": "修练【下段攻击之对策】",
       "en": "Practice \"Countering Sweep Attacks\"",
       "jp": "「下段攻撃への対処」の修練をします",
       "cn_improved": "修练【下段攻击之对策】",
@@ -9709,7 +9709,7 @@
     {
       "id": 15113027,
       "status": "from_improved",
-      "cn": "修练［看破］",
+      "cn": "修练【看破】",
       "en": "Practice \"Mikiri Counter\"",
       "jp": "「見切り」の修練をします",
       "cn_improved": "修练【看破】",
@@ -9718,7 +9718,7 @@
     {
       "id": 15113028,
       "status": "from_improved",
-      "cn": "修练［崩势绕袭］",
+      "cn": "修练【崩势绕袭】",
       "en": "Practice \"Vault Over\"",
       "jp": "「崩し裏回り」の修練をします",
       "cn_improved": "修练【崩势绕袭】",
