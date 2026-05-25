@@ -3562,7 +3562,7 @@
     {
       "id": 10024611,
       "status": "from_improved",
-      "cn": "罹患龙咳者\n若放任不管便会死去\n\n不过，交付爱麻所制之龙咳药便可治愈\n\n消耗一个回生之力\n便可制作龙咳药",
+      "cn": "罹患龙咳者\n若放任不管便会死去\n\n不过，交付永真所制之龙咳药便可治愈\n\n消耗一个回生之力\n便可制作龙咳药",
       "en": "If someone afflicted with Dragonrot is not treated, they will die.\n\nHowever, Emma can create a medicine \ncalled Dragonrot Pellet to cure them.\n\nDragonrot Pellets require\nResurrective Power to be created.",
       "jp": "竜咳に罹った者は、\n放っておけば死んでしまう\n\nだが、エマの作った竜咳の薬を与えれば治る\n\n回生の力を一つ消費することで\n竜咳の薬を作ることができる",
       "cn_improved": "罹患龙咳者\n若放任不管便会死去\n\n不过，交付爱麻所制之龙咳药便可治愈\n\n消耗一个回生之力\n便可制作龙咳药",
@@ -5335,7 +5335,7 @@
     {
       "id": 12000230,
       "status": "from_improved",
-      "cn": "致 爱麻",
+      "cn": "致 永真",
       "en": "Emma,",
       "jp": "エマへ",
       "cn_improved": "致 爱麻",
